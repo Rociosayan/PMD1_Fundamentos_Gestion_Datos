@@ -1,0 +1,501 @@
+id_entrega,id_cliente,id_restaurante,id_zona,fecha_operacion,cantidad_items,distancia_km,costo_pedido,descuento_pct,canal,metodo_pago,calificacion,tiempo_entrega_min,observacion
+1,79,4,5,2026-05-07,2,0.75,23.79,8,WHATSAPP,Yape,4,21.08,Cliente frecuente
+2,74,9,1,2026-05-10,1,,27.67,10,Presencial,Efectivo,2,22.67,Promocion
+3,76,9,1,2026-06-13,5,5.89,27.67,15,Presencial,Yape, 2 ,19.49,Revisar
+4,84,9,6,2026-05-21, 5 ,13.31,27.67,0,Presencial,Yape,2,53.73,OK
+5,31,4,6,2026-01-28,6,12.97,23.79,0,Web,Tarjeta,1,46.21,
+6,9,1,4,2026-06-18,6 aprox, 7.27 ,40.61,5,  Web ,Plin,4,33.39,
+7,17,3,4, 2026-02-25 ,1 aprox,5.73,46.58,0,WhatsApp,Plin,5,33.65,OK
+8,21,7,4,2026-04-17,1, 7.64 ,38.69,,,Plin,2,30.23,
+9,39,7,7,2026-01-18,1,9.1,38.69,0,Telefono,Transferencia,4,,Cliente frecuente
+10,51,4,7,2026-05-21,2,7.94,23.79,,App,Efectivo,2,35.6,
+11,49,9,6,2026-04-15,,"11,1",27.67 aprox,8,ApP,  Transferencia ,5, 31.18 ,ReViSaR
+12,76,8,5,02/06/2026,3,10.27,21.16,15,Telefono,Efectivo,2,,Revisar
+13,29,4,7,2026-01-04,6,,23.79,15,ApP,,1,45.37,
+14,12,5,3,2026-05-11,8,7.72,S/ 31.56,8,Presencial,EfEcTiVo,3,40.43,Cliente frecuente
+15,29,3,7,2026-04-27,6,12.72,46.58,0,  Web ,Yape,2,44.09,
+16,14,6,7,2026-04-02, 3 ,13.59,53.09,10,Web,Efectivo,1,53.57,Revisar
+17,27,2,4,2026-05-24,2,3.92,63.63,15,TELEFONO,Yape,1,23.64,Promocion
+18,52,3,4,2026-06-07,4,11.06,46.58,10,Telefono,,4,38.63,Revisar
+19,76,2,2,2026-05-08,2,6.85,63.63,10,App,Yape,1,30.61,
+20,79,3,3,,7,"10,33",46.58,0,telefono,Yape,2,46.25,Promocion
+21,1,3,6,2026-02-28,2, 6.81 ,46.58,15,Telefono,Efectivo,4,33.9,Revisar
+22,34,8,3,2026-04-15,2,11.15,,0,Telefono,Plin,1,33.62,Revisar
+23,34,4,5,2026-05-16,1,10.55,23.79,8,App,Transferencia,2,33.78,Cliente frecuente
+24,47,5,3,2026-06-14,6,8.29,31.56,0,App,Yape,5,38.69,Promocion
+25,28,1,4,2026-02-03,3,2.29,40.61,8,ApP,Tarjeta,1, 18.42 ,Cliente frecuente
+26,31,2,7,2026-05-26,3,9.5,63.63,20,TELEFONO,Transferencia,5,34.64,Promocion
+27,49,9,4,2026-01-10,5 aprox,11.1,27.67,0,Presencial,Plin,5,34.9,REVISAR
+28,47,2,6,2026-03-17,,1.06,"63,63",10,Telefono,,4,20.54,Revisar
+29,11,8,5,2026-03-20,4,34.75 aprox,21.16,0,Telefono,Plin,3,95.83,Cliente frecuente
+30,59,6,3,2026-03-11,7,10.97,53.09,20,Presencial,transferencia,,40.53 aprox,Promocion
+31,71,3,4,2026-03-26,5,7.29,46.58,20,presencial,Transferencia,3,28.52,Cliente frecuente
+32,77,2,6,2026-01-17,4,13.19,63.63,15,WhatsApp,Transferencia,3,S/ 32.13,
+33,70,1,1,2026-01-11,3,13.44,40.61,5,App,Plin,1, 46.97 ,Promocion
+34,8,7,1,2026-06-11,7,0.92,38.69,20,Presencial,Tarjeta,5,S/ 17.33,
+35,50,6,7,2026-01-04,1,,53.09,0,App,Tarjeta,1,24.54,Promocion
+36,38,7,1,2026-06-21,7,"5,95",38.69,10,presencial,Yape, 5 ,37.58,
+37,75,2,4,2026-04-09,5,4.08,63.63,8,WhatsApp,Yape,5,21.22,ClIeNtE FrEcUeNtE
+38,4,1,5,2026-06-23,2,11.6 aprox,40.61,10,Web,TaRjEtA,3,41.61,
+39,68,8,6,2026-01-25,5,7.42,21.16,15,App,Plin,5,20.86,OK
+40,39,1,3,2026-02-07,2,8.38,40.61,15,,Tarjeta,5,36.66,Revisar
+41,30,1,6,2026-06-28,5,3.38,40.61,20,  App ,YAPE,4,10.88,Promocion
+42,71,8,5,2026-02-26,3,6.7,S/ 21.16,12,Telefono,Yape,4,"31,81",Promocion
+43,45,5,1,2026-05-09,8,2.23,31.56,0,Telefono,Transferencia,2,39.4,PrOmOcIoN
+44,67,5,7,2026-05-06,5,13.33,S/ 31.56,0,Telefono,Plin,2,39.8,Cliente frecuente
+45,60,7,6,2026-02-25,2,2.32,38.69 aprox,0,WhatsApp,Transferencia,2,20.42,
+46,26,5,6,2026-01-09,8,6.27,31.56,12,WhatsApp,Yape,1,26.59,Revisar
+47,76,3,2,2026-02-03,1,4.54,46.58,10,Presencial,Transferencia,3,24.25,
+48,55,6,5,2026-01-13,8,"10,1",53.09,10,Telefono,Plin,3,34.21,
+49,27,1,3,05/02/2026,8,8.49,40.61,5,WhatsApp,Transferencia,3,39.38,Cliente frecuente
+50,10,1,6,2026-05-04,3,10.78,40.61,0,,Yape,5,36.5,Revisar
+51,77,8,7,2026-02-11,7,6.92,21.16, 0 ,  App ,Yape,2,28.25,Promocion
+52,84,7,6,2026-01-10,7,1.17,38.69,20,WhAtSaPp,  Yape ,5,21.88,Revisar
+53,74,9,2,2026-04-11,3,6.32,27.67,0,TeLeFoNo,Efectivo,2,43.15,Revisar
+54,16,2,7,2026-04-12,5,8.04,63.63,10,Presencial,Plin,5,36.26,Cliente frecuente
+55,77,2,4,2026-01-07,2,8.38,63.63,12,App,Transferencia,2,31.43,Cliente frecuente
+56,24,9,1,2026-04-16,5,14.34,,10,Telefono,Efectivo,1,S/ 50.97,Cliente frecuente
+57,50,2,4,2026/05/14,6,5.1,63.63,0,Telefono,Transferencia,2,,Cliente frecuente
+58,40,1,3,2026-05-10,8,1.24,40.61,0,Telefono,Transferencia,1,27.68,
+59,75,6,2,2026-01-01,8,2.11,53.09,8,Presencial,Efectivo,5,17.26,
+60,30,6,3,11-02-2026,6,4.41,53.09,10,,Transferencia,2,23.37,
+61,27,2,4,2026-02-11, 5 ,8.34,63.63,0 aprox,App,Yape,1,40.49,
+62,17,5,6,2026-06-23,3,13.85,31.56,0,App,Yape,4,54.27,Revisar
+63,19,9,7,2026-06-16,6,11.51,27.67,0 aprox,Presencial,Yape,2,44.31,Promocion
+64,73,4,5,2026-03-23,7,2.05 aprox,23.79,20,Web,Plin,3,14.69,OK
+65,12,5,1,2026-06-22,1,4.38,31.56,20,WhatsApp,Transferencia,2,18.38,Revisar
+66,21,7,4,2026-04-17,1, 7.64 ,38.69,,,Plin,2,30.23,
+67,40,2,2,17/04/2026,4,8.14,63.63,8,Telefono,Yape,1,22.21,OK
+68,33,8,2,2026-01-04,3 aprox, 1.28 ,21.16,20,Web,Transferencia,3,9.47,Revisar
+69,84,3,7,2026-06-10,5,9.9,46.58,0,Presencial,Tarjeta,4,46.78,OK
+70,82,8,4,2026-02-19,7,4.66,21.16,0,Presencial,Plin,,30.94,Revisar
+71,9,6,2, 2026-01-20 ,3,10.15,53.09,0,WhatsApp,Tarjeta,3,43.47,
+72,10,7,4,2026-05-27,4,6.16,38.69,8,App,Yape, 1 ,18.31,
+73,24,7,5,2026-05-20,3,,38.69,8,Web,Yape,2,49.25,Revisar
+74,17,3,2,2026-05-09,5,10.15,46.58,0,Web,Yape,2,43.97,OK
+75,4,4,3,2026-05-05,1, 5.77 ,23.79,0,Telefono,Efectivo,1,24.58,
+76,42,9,6,2026-05-27,7,1.36,27.67,12,Telefono,,5,30.74,
+77,52,5,1,2026-02-20,3,"1,25",31.56,10,  Presencial ,Tarjeta,2,19.13,
+78,76,4,2,2026-03-13,6,11.53 aprox,23.79,8,Telefono,Efectivo,1,47.47,OK
+79,56,4,3,2026-04-19,8,"13,55",23.79,20,WEB,Plin,1,44.94 aprox,OK
+80,18,8,1,2026-04-01,5,5.67, 21.16 ,15,,Tarjeta,1,33.34,
+81,50,6,7,2026-01-04,1,,53.09,0,App,Tarjeta,1,24.54,Promocion
+82,51,3,6,2026-02-06,2,1.94,46.58,15,WhatsApp,Tarjeta,5,16.33,Cliente frecuente
+83,52,2,4,2026-04-05,6,14.58,63.63,12,Web,Transferencia,5,44.7,
+84,81,6,7,2026-01-11,1 aprox,11.95,53.09,15,Telefono,Yape,5,38.45,Revisar
+85,15,9,1,2026-05-07,3,14.9,27.67,0,Telefono,Yape,2,49.28,Revisar
+86,1,2,7,2026/02/24,3,"14,49",63.63,15,WhatsApp,Efectivo,2,47.24,OK
+87,2,5,2,20/06/2026,8,13.61,31.56,0,Telefono,Transferencia,1,53.25,OK
+88,55,9,1,2026-03-16,5,2.44,27.67,12,Presencial,TrAnSfErEnCiA,1,24.84,revisar
+89,33,6,5,2026-06-11,8 aprox,9.73,53.09,12 aprox,WhAtSaPp,Efectivo,2,38.39,
+90,60,1,5,2026-03-15,3,7.66,40.61,0,WEB,Plin,5,27.81,Cliente frecuente
+91,42,3,4,2026-01-05,3,9.36,46.58,8,Presencial,PLIN,3,37.84,Cliente frecuente
+92,69,7,1,2026-04-21,6,9.64,38.69,15,Telefono,Tarjeta,5,36.58,Revisar
+93,82,5,6,2026/01/14,8,7.5,31.56,12,App,  Efectivo ,3,45.71,Cliente frecuente
+94,2,9,3,2026-06-06,2,4.35,27.67,12,Presencial,Yape,4,34.75,Revisar
+95,33,4,3,2026-02-10,2,1.74,23.79,15,Telefono,Plin,5,10.62,Cliente frecuente
+96,78,6,5,2026-02-09,2,1.19,53.09,8,Presencial,,3,S/ 18.48,OK
+97,61,2,6,2026-05-14,5,14.75,63.63,5,Telefono,Plin,3,49.22,
+98,21,9,4,2026-01-25,6,13.87,27.67,20,,PlIn,5,41.73,Cliente frecuente
+99,81,4,4,2026-02-25,6,3.2,23.79,5,Telefono,Transferencia,4,24.45,
+100,16,5,7,2026-06-17,3,13.14,31.56,15,Web,,1,49.89,Cliente frecuente
+101,64,7,1,2026-02-03,8,14.29,38.69,15,WEB,Yape,5,62.67,Cliente frecuente
+102,21,8,7,2026-03-18,3,6.57 aprox,21.16,8,Presencial,Yape,4,34.52,Promocion
+103,1,6,3,2026-05-19,8 aprox,10.73,53.09,20,Telefono,Transferencia,3,46.84,Revisar
+104,50,7,4,2026-03-24,2,11.46,38.69, 20 ,Web,YAPE,2,33.85,Cliente frecuente
+105,82,4,6,12/01/2026,2,11.16,23.79,5,presencial,Efectivo,5,36.44 aprox,Cliente frecuente
+106,51,4,5,2026-02-06,6,8.08,23.79,5,App,Plin,4,41.01,Revisar
+107,4,7,6,2026-01-08,5,7.34,"38,69",0,Presencial,Transferencia,2,34.89,
+108,49,1,3, 2026-03-11 ,8 aprox,14.59,40.61,12,  App ,Efectivo,5,45.26,cliente frecuente
+109,43,4,7,2026-03-12,1,13.23, 23.79 ,8,Web,Efectivo,2 aprox,38.37,Promocion
+110,38,4,7,,4,3.04,23.79, 0 ,Web,Tarjeta,5,28.78,
+111,28,6,6,2026-02-07,6,2.45,53.09,10,Web,Efectivo,1,33.56,
+112,54,1,5,2026-01-01,1,5.91,40.61,0,App,Yape,3,31.43,OK
+113,31,3,7,08/01/2026,3,13.8,46.58,0,Telefono,  Yape ,3,S/ 51.59,Revisar
+114,47,6,2,2026-06-14,7,6.27,53.09, 10 ,Telefono,Plin,1,31.76,Cliente frecuente
+115,55,4,6,2026-01-01,7,12.04,23.79,0,Telefono,PlIn,3,,
+116,77,8,6,2026-06-21,,4.84,"21,16",15,WhatsApp,TARJETA,3,28.21,
+117,3,5,7,2026-05-11,1, 10.22 ,31.56,0,Telefono,Tarjeta,1,37.34,OK
+118,27,7,6,10-06-2026,4,3.38,38.69,20,Web,Yape,3,19.94,
+119,2,6,4,2026-03-20,6,6.44,53.09,0,Presencial,Efectivo,1,31.69,
+120,75,8,3,2026-01-17,8,5.53 aprox,21.16,10,Telefono,Plin,3,34.04,Promocion
+121,42,1,7,2026-05-03,6,10.28,S/ 40.61, 0 ,Web,Tarjeta,4,38.02,Cliente frecuente
+122,28,6,7,2026-03-16,6,0.81, 53.09 ,20,WhatsApp,Transferencia,1,19.53,Revisar
+123,34,7,6,2026-06-27,4,14.56,38.69,20,Web,Transferencia,,50.06,Cliente frecuente
+124,65,9,2,2026-05-27,3,4.69,,5,Telefono,plin,5, 22.91 ,
+125,76,9,4,2026-02-28,6,1.76,27.67,0,Web,Plin,5,30.98,
+126,55,3,5,2026-05-19,6,10.74,46.58,12,App,  Transferencia ,1,39.39,
+127,69,3,5, 2026-05-06 ,5,12.94,46.58,12,WhatsApp,Transferencia,5,49.02,Cliente frecuente
+128,16,8,3,2026-06-21,1,3.49,21.16,10,Web,Efectivo,5, 22.72 ,Revisar
+129,1,3,7,2026-01-24,4,9.77,46.58,8,App,Yape,5,33.91,OK
+130,85,6,6,2026-05-13,4,5.85,53.09,0,Web,Efectivo,2,34.54,OK
+131,11,8,4,2026-05-20,5,8.24,21.16,10,Web,Transferencia,1,38.44,Promocion
+132,22,7,6,2026-01-06,4,10.37,38.69,20,  App ,Plin,2,35.53,Cliente frecuente
+133,60,4,2,2026-06-26,8,,23.79,10,WhatsApp,,2,24.32,Revisar
+134,1,1,6,2026-03-02,,8.21,40.61,5,  WhatsApp ,Transferencia,4,37.85,
+135,51,2,3,2026-02-16,8,5.21,63.63,20,Web,Plin,2,37.1,Revisar
+136,17,9,6,2026-04-03,1,5.25,27.67,0,WhatsApp,Efectivo,3,34.87,Revisar
+137,44,9,3,2026-02-05,1,9.08,27.67,0,Presencial,Yape,4,31.61,
+138,73,8,1,2026-06-21,5,7.57,21.16,0,Presencial,Yape,5,38.05,OK
+139,39,4,5,2026-01-25, 7 ,5.44,23.79,15,App,Tarjeta,1,35.01,OK
+140,28,4,5,2026-01-03,6,9.52,23.79,15,,Yape,3,S/ 45.75,Cliente frecuente
+141,40,7,4,2026-01-02,6,12.34,38.69,0,App,Tarjeta,,47.84,OK
+142,2,7,6,14-05-2026,1,13.95,38.69,0 aprox,Telefono,Efectivo,3,45.93,Promocion
+143,67,4,3,2026-06-09, 1 ,13.39,23.79,15,Presencial,efectivo,5,46.83,
+144,16,9,2,2026-04-08,5,14.72,,10,web,Yape,1,52.33,OK
+145,83,3,1,2026-06-21,5,2.88, 46.58 ,15,WhatsApp,Plin,,27.02,Cliente frecuente
+146,45,9,2,2026-06-22,6,2.45,27.67,0,App,Transferencia,4,31.64,cliente frecuente
+147,14,7,3,2026-01-05,7,6.97,38.69,5,Presencial,Plin,1,31.4,OK
+148,5,7,1,04/02/2026,6 aprox,6.69,38.69,0,Web,Transferencia,2,39.4,OK
+149,67,7,6,2026-05-28,2,6.06,38.69,10,WhatsApp,,2,30.35,
+150,61,5,4,2026-06-09,4,11.05 aprox,31.56,15,Telefono,Efectivo,2,45.95,Cliente frecuente
+151,82,1,2,2026-01-07,6,10.29,40.61,8,WhatsApp,Tarjeta,3,41.35,OK
+152,55,4,5,2026-02-03,5,6.09,23.79,8,  App ,Yape,5,29.45 aprox,
+153,21,2,4,2026-06-09,4,2.03,"63,63",5 aprox,App,Tarjeta,1,23.23,Revisar
+154,35,2,2,2026-06-23,2,"14,73",63.63,10,App,Efectivo,2,,revisar
+155,39,4,7,2026-05-16,3,10.68,23.79,15,Presencial,Efectivo,4,S/ 28.47,Cliente frecuente
+156,51,1,6,2026-06-20,2,9.23,40.61,10,Presencial,Yape,3,33.79,Revisar
+157,53,2,5,2026-05-10,7,12.89,63.63,8,WhatsApp,Tarjeta,4,46.78,OK
+158,8,7,4,2026-04-07,4,,38.69,12 aprox,whatsapp,Plin,4,32.24,Promocion
+159,26,6,5,2026-01-15,7, 10.06 ,53.09,12,WhatsApp,Plin,3,"41,14",
+160,19,1,3,2026/01/03,6,5.96,,12,App,Yape,2,23.79,Promocion
+161,80,9,1,2026-02-14,4,10.12,"27,67",15,Telefono,Efectivo,2,39.54,OK
+162,38,4,3,2026-05-08,3,10.62,23.79,12,Web,Tarjeta,5, 36.85 ,
+163,51,4,5,2026-06-14,5, 1.61 ,23.79,0,WhatsApp,Tarjeta,5,66.44,Cliente frecuente
+164,44,7,5,,2,10.1,38.69,0,Telefono,Yape,5,,Cliente frecuente
+165,54,2,2,2026-06-20,4,12.14,S/ 63.63,10,Telefono,EFECTIVO,,41.19,Revisar
+166,66,6,2,,3,11.6 aprox,53.09,8,Presencial,yape,4,52.41,
+167,3,3,5,2026-03-02,4,8.7,46.58,20,App,Efectivo,5,S/ 35.41,
+168,21,1,6,17/06/2026,5,"4,82",40.61,0,,Efectivo,2,34.98,Revisar
+169,37,1,5,2026-03-21,5,7.3,40.61,20,Telefono,Tarjeta,2,42.28,Revisar
+170,22,8,6,2026-05-09,3,8.67,21.16, 0 ,Web,Transferencia,2,35.71,
+171,43,5,3,2026-01-24,5,2.55,31.56,15,Presencial,Yape,4,30.93,
+172,21,6,6,2026/01/22,5,3.24,53.09,10,App,Transferencia,2,26.08,Cliente frecuente
+173,12,7,5,2026-05-28,1,10.72 aprox,38.69,5,App,TrAnSfErEnCiA,5,40.26,  OK 
+174,55,3,7,2026-01-02,6,8.05,46.58,8,App,Yape,2,30.12,Promocion
+175,53,4,2,11-02-2026,1,7.48,"23,79",0,WhatsApp,Yape,4,25.69,OK
+176,34,5,4,2026-01-20,8,12.06,31.56,10,App,Yape,1,52.68,Promocion
+177,85,7,4,2026-04-03,7,11.69,38.69,12,WhatsApp,Yape,5,125.45,
+178,37,1,2,2026-03-14,6,6.79,40.61,8,App,Plin,5,31.2,Cliente frecuente
+179,14,8,6,2026-04-10,5,6.36,21.16,,Telefono,Plin,3,43.48,
+180,40,2,3,2026-04-18,,5.76,63.63,0,Web,Efectivo,3,43.92,Revisar
+181,24,2,2,2026-06-21,8,13.67,63.63,8,Telefono,Plin,3,53.21,Promocion
+182,76,2,5,2026-05-14,3,13.23,63.63,10,WhatsApp,Plin,3,46.45,Cliente frecuente
+183,44,2,3,2026-05-04,4,8.78 aprox,63.63,8,Telefono,Tarjeta,5,39.9,Revisar
+184,69,8,1,26/06/2026,4,13.23,21.16 aprox,10,WhatsApp,,1,34.99,OK
+185,64,6,7,2026-05-11,3,4.93,53.09,5,ApP,Transferencia,3,35.61,  OK 
+186,53,6,4,2026-01-05,5,2.78,53.09,12,Telefono,Efectivo,4,26.8,Revisar
+187,77,1,1,2026-04-05,3,6.65 aprox,40.61,20,Web,Plin,4, 29.31 ,OK
+188,2,2,5, 2026-03-11 ,,9.91,63.63,20,WhatsApp,Yape,5,35.64,Revisar
+189,34,2,4,2026-01-27,4,2.3,63.63,5,Presencial,Plin,4,22.71,OK
+190,79,9,5,2026-05-11,6,2.27 aprox,27.67,10,,Tarjeta,1 aprox,18.37,Promocion
+191,33,8,5, 2026-04-28 ,1,13.76,21.16,20,WhAtSaPp,Plin,2, 39.83 ,
+192,76,3,2,2026-02-03,1,4.54,46.58,10,Presencial,Transferencia,3,24.25,
+193,2,8,3,2026-03-02,2,7.7,21.16,0,Presencial,Transferencia,2,34.89,Revisar
+194,82,9,5,2026-03-27,8,6.95,S/ 27.67,20 aprox,WhatsApp,Yape,5, 23.43 ,
+195,74,8,7,2026-05-07,8,7.52,21.16,10,Presencial,Tarjeta,3,36.09,OK
+196,21,6,7,2026-04-18,6 aprox,14.36,53.09,5,WhAtSaPp,Efectivo,5,,Promocion
+197,45,1,5,2026-02-12,3,5.53,40.61,0,Presencial,YAPE,2,29.88,
+198,76,3,1,2026-02-10,7,13.43,46.58,0,Web,Tarjeta,2,60.56,Cliente frecuente
+199,33,9,4,2026-02-28,4, 12.78 ,27.67 aprox,5,,Efectivo,5,50.04,OK
+200,35,7,4,2026-04-11,5,5.76,38.69,8,WHATSAPP,Plin,1,33.68,
+201,42,1,7,2026-05-03,6,10.28,S/ 40.61, 0 ,Web,Tarjeta,4,38.02,Cliente frecuente
+202,43,6,2,2026-06-04,1,6.78,53.09,15,Presencial,Yape,2,22.15,
+203,64,1,4,2026-06-05,6 aprox,9.75,40.61,0,Web,Yape,3,38.5,OK
+204,5,8,3,2026-03-21,8,0.91,21.16,15,App,Efectivo, 4 ,13.25,Cliente frecuente
+205,52,4,7,2026-01-20,5,3.27,23.79,15,App,Efectivo,2,19.65,
+206,69,8,1,2026-03-18,1, 11.08 ,21.16,8,WhatsApp,Transferencia,4,43.48,
+207,79,3,3,,7,"10,33",46.58,0,telefono,Yape,2,46.25,Promocion
+208,46,2,4,10/01/2026,4,3.62,63.63,0,Presencial,Plin,3,19.13,Cliente frecuente
+209,17,5,1,2026-01-12,8,,31.56,8,WhatsApp,,3,36.53,
+210,58,1,1,2026/06/07,4,3.67,40.61,15,WhatsApp,Plin,1,34.0,Cliente frecuente
+211,84,1,2,2026-03-19,5 aprox,5.76,40.61,8,Telefono,Tarjeta,4,34.51,OK
+212,85,4,6,2026-05-24,1,3.2,23.79,20 aprox,WeB,Efectivo,4,20.53,
+213,23,9,2,2026-06-19,1,"13,4",27.67,5,App,Tarjeta,5,47.8,Promocion
+214,8,5,7,2026-03-10,4,10.52,31.56,15,Telefono,TaRjEtA,4,45.55,
+215,17,4,6,2026-04-05,5,7.11,23.79,5,ApP,,3,33.21,Promocion
+216,85,9,5,2026-04-10,, 14.21 ,27.67,15,WhatsApp,Tarjeta,1,50.94,OK
+217,48,4,4,2026-04-16,2,11.05,23.79,8,,Transferencia,1, 37.09 ,
+218,1,9,4,2026-06-28,5,9.61,27.67,10,App,Yape,4,18.63,
+219,50,4,2,2026-03-28,2,"0,92",23.79,12 aprox,Web,Transferencia,4,8.46,Promocion
+220,3,1,5,2026-04-23,2,10.92,40.61, 0 ,WhatsApp,TaRjEtA,1,44.07,Cliente frecuente
+221,21,2,2,2026-06-13,6,5.36,63.63,20,Web,Transferencia,1,24.0,Cliente frecuente
+222,42,1,7,2026-05-03,6,10.28,S/ 40.61, 0 ,Web,Tarjeta,4,38.02,Cliente frecuente
+223,80,8,2,2026-01-15,3,10.0,21.16,,Web,Plin,3,32.46,Revisar
+224,59,2,4,2026-05-16,5,2.56,"63,63",5,WhatsApp,Yape,5,30.26,Revisar
+225,66,1,5,2026-05-07,1,3.63,,10,Telefono,Transferencia,3,26.22,Cliente frecuente
+226,17,2,6,2026-05-12,2,3.73,63.63,5,Presencial,Efectivo,2,15.8,Cliente frecuente
+227,11,7,7,19/06/2026,7,8.87,38.69,8,,Tarjeta,1 aprox,47.06,Revisar
+228,53,7,6,11/01/2026,1,4.74,38.69,10 aprox,Web,Transferencia,3,16.48,
+229,38,9,7,2026-02-10,6,3.68,27.67,8,App,Tarjeta,5,36.08,Promocion
+230,55,8,1,2026-06-12,1,8.12,21.16,0,Web,  Efectivo ,2,40.81,Promocion
+231,11,1,1,2026-02-22,4,14.11,40.61,8,Telefono,,5,143.14,Revisar
+232,37,7,5,2026-01-20,7,5.62,38.69,20,,Tarjeta,5,22.69,Cliente frecuente
+233,73,9,4,2026-01-24,7,3.46,27.67,15,telefono,Efectivo,3,25.84,Cliente frecuente
+234,73,8,1,2026-04-17,1,11.4,21.16,0,App,,4,46.49,
+235,50,4,7,,4,14.96,"23,79",0,WhatsApp,Yape,4,52.98,OK
+236,65,6,4,2026-04-24,3,5.29,S/ 53.09,12,Web,Tarjeta,,26.28,Promocion
+237,59,1,2,02/02/2026,3,7.29,40.61,15,App,Plin,4,25.49,OK
+238,27,3,7,2026-06-28,8,3.33,,20,App,Efectivo,2,25.9,
+239,41,8,7,2026-06-21,7,5.97,21.16,8,Web,Tarjeta,3,33.7,Revisar
+240,23,9,6,2026-03-28,7 aprox,"5,98",27.67,12,Presencial,PlIn,4,37.49,OK
+241,15,5,1,27-06-2026, 3 ,"12,11",31.56,10,App,EFECTIVO,4,38.82,  OK 
+242,16,3,3,2026-02-03,8,11.02 aprox,46.58,0,App,Plin,2,43.4,OK
+243,64,2,2,2026-02-24,6,4.7,63.63,0,whatsapp,Transferencia,1,26.06,ClIeNtE FrEcUeNtE
+244,3,3,4,2026-03-13,8,9.92,46.58,0,Presencial,EFECTIVO,4,51.37,Cliente frecuente
+245,78,4,7,2026-05-25,3,0.56,23.79,0,WhatsApp,Efectivo,5,21.66,OK
+246,34,1,7,2026-05-11,2,"12,48",40.61,20,Web,Plin, 1 ,165.42,Cliente frecuente
+247,22,6,4,2026-06-13,3,5.07,53.09,5,App,Plin, 3 ,27.15,revisar
+248,55,6,4,2026-01-03,8,3.1,53.09,5,Web,Tarjeta,1,31.97,
+249,32,9,4,2026-03-13, 1 ,3.01,27.67,0,Telefono,Plin,3,16.08,
+250,1,3,4,2026-03-26,5,12.07 aprox,46.58,0 aprox,App,Tarjeta,3,48.9,
+251,54,2,5,,5,1.83, 63.63 ,20,WhatsApp,Yape,2,16.9,
+252,25,1,5,2026-01-17,5,14.85,40.61,5,,  Yape ,3,62.13,
+253,53,6,2,2026-05-27,6,9.81,53.09,20,Telefono,Efectivo,4,36.05,
+254,20,7,3,01-04-2026,1,,38.69,0,PrEsEnCiAl,Efectivo,1,"11,94",
+255,74,7,5,2026-02-27,5,1.47,38.69,12,Presencial,Yape,4,16.63,Cliente frecuente
+256,3,5,5,2026-03-11,5, 4.97 ,31.56,5,App,Efectivo,5,23.29,Cliente frecuente
+257,83,5,2,10-03-2026,1,3.61,31.56,20,Web,  Efectivo ,1,"7,73",OK
+258,72,4,6,2026-06-19,2 aprox,"2,25",23.79,0,WHATSAPP,Tarjeta,4,22.76,OK
+259,32,1,4,19-03-2026,1,"5,84",40.61,10,Presencial,Plin,2,33.45,Revisar
+260,37,5,6, 2026-06-25 ,6,5.16 aprox,31.56,10 aprox,Web,Yape,5,32.84,OK
+261,45,6,1,2026-01-16,2, 1.43 ,,5,Web,Tarjeta,2,16.01,  Promocion 
+262,83,1,4,2026-05-24,7,9.45,40.61,0,Presencial,Plin,2,35.14,Promocion
+263,12,5,4,2026-02-02,7,6.31,31.56,8,App,Plin,5,19.9,Revisar
+264,74,2,5,2026-05-22,2,14.75,63.63,5,WhatsApp,Plin,5,49.82,
+265,84,7,7,2026-05-14,7,12.08,38.69,0,Web,Yape,4,51.01,CLIENTE FRECUENTE
+266,53,5,6,2026-01-07,2,1.48,31.56,12,WhatsApp,yape,4,,OK
+267,72,8,5,2026-06-09,1,"6,93",21.16,20,WhatsApp,Efectivo,1,19.06,Cliente frecuente
+268,75,9,6,,2,11.71,27.67,8,App,Tarjeta,4,39.4 aprox,cliente frecuente
+269,61,5,1,2026-02-21,3,5.87,31.56,5,Presencial,tarjeta,2,25.78,Revisar
+270,58,1,2,2026-06-09,2,8.24,40.61,10,app,Transferencia,3,S/ 31.06,Revisar
+271,10,4,2,2026-01-06,3,6.0 aprox,23.79,5,App,Transferencia,3,26.89,
+272,59,3,5,2026-06-01,8,2.82,46.58,15,  WhatsApp ,Efectivo,3,18.7,Revisar
+273,77,6,5,2026-01-07,4,,53.09,0,WEB,,3,103.43,Cliente frecuente
+274,2,1,1,2026-04-04,3,10.12,40.61,15,web,Plin,4,23.07,
+275,57,4,1,2026-02-22,6,10.1, 23.79 ,8,Telefono,Efectivo,2,39.86,OK
+276,55,6,4,2026-01-03,8,3.1,53.09,5,Web,Tarjeta,1,31.97,
+277,32,5,2,2026-05-16,4,2.12,S/ 31.56,8,Web,Transferencia,5,30.6,
+278,23,6,1,2026-06-08,6,5.57 aprox,53.09,10,Web,Transferencia,5,30.8,OK
+279,6,8,6,2026-04-08,4,5.17,"21,16",12,Telefono,Transferencia,3,31.75,ClIeNtE FrEcUeNtE
+280,54,5,5,2026-01-21,7,"9,32", 31.56 ,0,WhatsApp,,3,35.32,OK
+281,38,1,3,02/06/2026,8,10.66,40.61,12,Telefono,Plin,1 aprox,51.56,
+282,29,3,4,2026-05-20,3,7.4,46.58,12,web,Tarjeta,2,S/ 36.55,PrOmOcIoN
+283,73,6,4,2026-02-12,5,,53.09,20,App,Transferencia,3,30.32,
+284,79,6,4,2026-03-14,5,12.48,53.09,0,Web,Yape,,39.34,
+285,12,1,5,2026-06-28,,2.91,40.61,12,Presencial,yape,3,30.75,OK
+286,52,5,1, 2026-01-14 ,6,5.07,31.56,20,Presencial,Yape,5,21.51,ok
+287,25,2,6, 2026-06-17 ,2,7.71,63.63,15,WhatsApp,Efectivo,2,30.21,Promocion
+288,9,9,7,2026-04-17,4,4.66,27.67,12,App,EFECTIVO,1,34.42,  Cliente frecuente 
+289,65,3,4,2026-05-04,7,3.73,S/ 46.58, 0 ,App,Yape,1,27.39,Revisar
+290,67,1,2,2026-05-26,4,7.77, 40.61 ,8,Web,Tarjeta,1,33.89,Revisar
+291,39,8,3,2026-01-03,8,1.95, 21.16 ,8,App,Tarjeta,2,39.21,Cliente frecuente
+292,39,9,3,2026-01-25,1,2.05 aprox,27.67,5,Telefono,Yape,5,6.08,cliente frecuente
+293,61,9,6,2026-03-24,4,0.8,27.67,5,Presencial,PlIn,1,29.42,CLIENTE FRECUENTE
+294,81,9,7,2026-05-09,1,4.86,27.67,0,Telefono,Transferencia,,20.14,OK
+295,57,8,2,2026-05-25,7 aprox,1.42,21.16,0,Telefono,Plin,5,30.7,Cliente frecuente
+296,56,3,4,2026-04-07,1,10.25,46.58,20,App,Plin,2,36.77,Revisar
+297,28,3,1,2026-01-01,8,4.17,46.58,0,App,efectivo,1,33.24,Promocion
+298,32,1,3,2026-05-11,8,11.99,40.61,5,WhatsApp,Yape,4,59.52,Cliente frecuente
+299,6,5,2,2026-02-20,6,5.12,31.56,12,WhatsApp,EFECTIVO,1, 32.6 ,OK
+300,83,1,7,2026-06-07,2,12.68,40.61, 0 ,App,Yape,2,49.81,
+301,82,4,2,2026-03-24, 1 ,7.34,23.79,8,Presencial,Transferencia,5,20.59,OK
+302,56,4,4,11/02/2026,4,10.27,23.79,20,Presencial,transferencia,3,36.05,Cliente frecuente
+303,34,3,6,2026-02-27,8,7.78,46.58,0,Telefono,Tarjeta,1, 34.52 ,Revisar
+304,80,5,5, 2026-04-13 ,7 aprox,13.09,31.56,10,Web,Tarjeta,1,39.66,Cliente frecuente
+305,38,7,3,2026-04-08,7, 2.19 ,38.69,,Presencial,Plin,3 aprox,25.62,Revisar
+306,55,6,2,2026-01-07,6,3.94,53.09,20,App,Transferencia,3,19.95,Promocion
+307,52,4,6,2026-02-06,,8.61,23.79,5,App,Tarjeta,1,29.82,
+308,51,7,2,2026-04-01,2,4.78,38.69,12,App,Tarjeta,1,17.33,Cliente frecuente
+309,35,2,2,2026-06-04,6,13.35,63.63 aprox,5,Telefono,Yape,1,,Promocion
+310,58,2,1,2026-04-04,2,14.01,"63,63",0,Telefono,Plin,5,54.35,
+311,13,9,2,2026-02-22,4,6.01,27.67,12,Web,Tarjeta,3,22.49,
+312,35,7,2,,7,12.05,38.69,5,whatsapp,EfEcTiVo,3,40.64,Cliente frecuente
+313,43,3,5,,3,11.12,46.58,0 aprox,WhatsApp,Transferencia,1,38.73,OK
+314,17,2,7,2026-01-07,5,1.95,63.63,0,whatsapp,Transferencia,4,25.88,Promocion
+315,42,3,1,2026-02-01,2,7.97 aprox,46.58 aprox,0,App,Tarjeta,4,42.03,Revisar
+316,37,3,6,2026-03-27,5,4.3,46.58,15,WhatsApp,Transferencia,2,23.11,Cliente frecuente
+317,43,2,7,2026-01-22,8, 2.41 ,63.63 aprox,,WhatsApp,Plin,3,27.72 aprox,Cliente frecuente
+318,44,3,5,2026-02-05,4,11.49,46.58,10,Telefono,Plin,2, 54.44 ,Promocion
+319,5,8,4,2026-02-02,1,2.96,21.16,12,Web,Efectivo,5,24.07,
+320,19,8,4,2026-02-27,3,7.27,21.16,0,App,efectivo,4,34.89,
+321,5,2,2,2026-06-17,2,2.68,63.63,12,Telefono,Efectivo,5,16.97,OK
+322,66,3,5,2026-04-16,3,12.07,46.58,5,WhatsApp,Yape,4,39.69,Revisar
+323,43,1,5,2026-01-25,5,11.66,40.61,0,App,Tarjeta,5,53.94 aprox,Cliente frecuente
+324,23,1,4,2026-06-04,1,6.68,40.61,15,  App ,,4,28.47,CLIENTE FRECUENTE
+325,20,1,3,2026-03-01,1,14.6 aprox,40.61,20,App,Transferencia,,37.23,Promocion
+326,54,5,1,2026-01-12,7,14.45 aprox,31.56 aprox,15,App,Plin,,42.05,Cliente frecuente
+327,25,3,7,04/01/2026,1,4.3,,0,Telefono,Yape,4,23.43,Revisar
+328,79,7,4,2026-04-16,2,13.14,38.69,15,App,Efectivo,2,44.54,Promocion
+329,49,1,4,2026-02-22,7,3.25,40.61, 20 ,Web,Tarjeta,4,36.67 aprox,Cliente frecuente
+330,47,8,3,2026-05-19,4,8.81,21.16,0,WhatsApp,Tarjeta,2,30.78,Revisar
+331,84,4,6,2026-02-01,1,3.15,23.79,20,PRESENCIAL,Plin,1,"9,04",
+332,4,1,2,2026-05-01,1,0.73 aprox,40.61,8,Telefono,Plin,2,18.54,OK
+333,73,6,5,2026-01-02,7,4.55,53.09,15,App,Efectivo,4,13.77,OK
+334,49,8,6,2026-01-14,4,4.47,21.16,5,App,Yape,4,22.16,
+335,65,4,4,2026-01-14,2,4.15,23.79,10,Presencial,Yape,1, 19.17 ,Cliente frecuente
+336,3,5,3,2026-01-26,1,9.52,31.56,10,WhatsApp,Plin,2 aprox,35.21,Promocion
+337,50,8,1,2026-01-01,7,12.78,21.16,0,WhatsApp,PLIN,4,35.88,OK
+338,46,7,4,2026-02-08,4,10.94,38.69,15,Web,tarjeta,4,43.64,  Revisar 
+339,44,5,7,2026-06-03,2 aprox, 13.98 ,31.56,0,WhatsApp,Efectivo,1,48.33,Cliente frecuente
+340,9,5,5,2026/03/05,6,14.7,31.56,5,App,Efectivo,5,"59,36",Cliente frecuente
+341,20,5,1,2026-05-10,3,5.06,31.56,10,  App ,Yape,3,31.78,Promocion
+342,83,1,7,2026-02-03,6,11.85,40.61,15,App,Plin,3,41.71,Cliente frecuente
+343,46,4,7,2026-02-04,8,10.68,23.79,0,App,Plin,4,46.06,
+344,23,8,1,2026-01-07,7,6.02,21.16,8,Presencial,EfEcTiVo,3,26.0,Cliente frecuente
+345,66,6,1,2026-02-02,6, 5.78 ,S/ 53.09,5,Telefono,Efectivo,2,,Cliente frecuente
+346,57,1,7,2026-05-23,2,5.44,40.61 aprox,10,Web,Tarjeta,5,21.65,Revisar
+347,73,3,1,2026/06/05,3,14.61,46.58,15,Telefono,Efectivo,5,40.62,
+348,6,9,2,2026-06-13,4, 13.08 ,27.67,5,Web,Transferencia,3,44.13,Promocion
+349,70,5,6,2026-04-15,1,2.47,31.56,15,,Plin,1,8.82,Promocion
+350,41,8,7,2026-01-09,1,14.82,21.16,0,Presencial,Transferencia,2,50.01,Revisar
+351,35,4,2,2026-03-20,8,"7,82",23.79,8 aprox,Telefono,Tarjeta,1,36.13,OK
+352,31,8,6,2026-05-22,6,6.55,21.16,15,Web,TRANSFERENCIA,4, 29.0 ,Cliente frecuente
+353,27,2,6,2026-04-14,6,10.53,63.63,8,Web,Plin,2,S/ 49.71,Revisar
+354,14,2,1,2026-05-18,7,"6,73",63.63,0,Web,Tarjeta,1,38.81,OK
+355,14,6,3,2026-04-21,8,6.13,53.09,0,  Telefono ,PLIN,2,25.22,
+356,79,1,3, 2026-04-17 ,6,5.54,40.61,8,App,Tarjeta,4,35.5,
+357,68,5,6,2026-03-20,1,14.01,,0,Presencial,Yape,3,52.28,Cliente frecuente
+358,60,9,2,,4,1.65,27.67,12,Web,Transferencia,5,19.08,Revisar
+359,7,3,1,2026-06-02,7,2.31,46.58,20,Telefono,Plin,2,15.16,Promocion
+360,7,9,2,2026-05-19,7, 14.74 ,27.67, 0 ,WhatsApp,Tarjeta,1,49.15,Revisar
+361,61,3,7,2026-01-12,7 aprox,13.35,,0,Presencial,Transferencia,1,38.59,OK
+362,27,2,4,2026-01-28,4,1.55,63.63,0,WhatsApp,Efectivo,4,24.82,Cliente frecuente
+363,66,8,4, 2026-06-28 ,2,4.96,21.16,15,Presencial,Yape,3,13.29,Revisar
+364,24,1,6,2026-05-19,,44.93 aprox,40.61,0,Web,Yape,1,129.79,Promocion
+365,8,7,2,2026-04-12,2,14.39,38.69,12,presencial,Efectivo,4,50.09,Promocion
+366,62,7,7,20/02/2026,8,4.35,38.69,5,WhatsApp,Tarjeta,3,S/ 36.26,PrOmOcIoN
+367,53,8,4,2026-04-26,4,10.96,21.16,0,WhatsApp,Efectivo,1,33.57,Promocion
+368,1,9,6,2026-02-11,3,12.95,27.67,8,Telefono,Yape,,43.17,
+369,60,3,1,2026-03-27,4,12.76,46.58,5,  WhatsApp ,YaPe,2,S/ 38.39,Promocion
+370,60,5,1,2026-03-27,3,2.64 aprox,31.56,12,Web,Transferencia,,S/ 32.52,ok
+371,78,5,2,2026-03-03,3,7.71 aprox,31.56,10,presencial,Tarjeta,1,41.01,OK
+372,3,6,4, 2026-04-18 ,6,9.31,53.09,0,Web,Plin,4,53.33,Cliente frecuente
+373,55,3,7,24/03/2026,8,8.35,46.58,10,Presencial,Transferencia,2 aprox, 39.49 ,
+374,77,8,7,,4,14.88,21.16,20,App,Yape,5,38.29,Cliente frecuente
+375,63,3,4,2026-02-03,4,13.15,46.58,0,WhatsApp,TaRjEtA,3,52.06,Promocion
+376,3,5,6,2026-03-15,2,5.47,31.56,15,WEB,Yape,5,23.5,Revisar
+377,12,2,1,2026-03-08,,6.25,63.63,5,WhAtSaPp,Efectivo,2,31.9,
+378,59,2,6,2026-06-03,1,4.98,,10,App,Tarjeta,2,18.71,OK
+379,29,1,6,2026-01-03,6,14.45,40.61,0,App,Transferencia, 3 ,50.36,Promocion
+380,19,3,6,2026-03-24,8,9.46,46.58,12,,efectivo,3,35.13,Promocion
+381,5,6,1,2026-04-01, 4 ,8.22,53.09,10,  App ,Yape,3,41.35,Revisar
+382,4,8,5,2026-04-17,8,22.02,21.16,10,WhatsApp,Efectivo,1,79.66,Cliente frecuente
+383,63,1,2,2026-05-21,6,6.42,40.61,0,Web,Transferencia,5,32.49,Revisar
+384,38,7,4,2026-02-27,4,3.7,38.69,10,Presencial,Tarjeta,1,31.45,OK
+385,72,3,1,2026-05-15,6,10.95,46.58,5,App,Efectivo,4,,  Cliente frecuente 
+386,41,9,4,2026-02-04,4,5.49,27.67,5,Presencial,,5,34.81,Cliente frecuente
+387,55,9,1,2026-02-12,,7.33,27.67,10,Telefono,Plin,,30.67,OK
+388,41,6,7,2026/04/05,7,7.79,53.09,12,Web,Transferencia,1,44.47,Promocion
+389,42,4,2,2026-04-27,1,9.63,23.79,15,App,Plin,3,33.98,Cliente frecuente
+390,71,4,3,2026-05-06,1 aprox,"12,42",23.79,20,App,,2,37.01,
+391,27,1,1,2026-06-25,1,3.39 aprox,40.61,8,WhatsApp,Plin,2,"20,01",Cliente frecuente
+392,24,8,3,2026-05-25,,12.49,21.16,15 aprox,Web,Yape,1,28.44,Revisar
+393,27,9,3,2026-06-24,6,3.39,27.67,5,Presencial,Efectivo, 2 ,29.27,Promocion
+394,56,6,3,2026-03-19,3,14.63,53.09, 0 ,App,,3,48.55,
+395,50,6,6,2026-06-14,6,5.37,53.09,0,Presencial,Transferencia,2,43.2,Revisar
+396,68,7,3,2026-02-27,8,"6,36",38.69,0,WhatsApp,Plin,4,33.02,Revisar
+397,31,9,4,2026-04-15,6,3.28,27.67,12,WhAtSaPp,,2,24.11,ClIeNtE FrEcUeNtE
+398,82,5,1,2026-02-19,5 aprox,7.42,31.56,0,WhatsApp,Transferencia,5,44.73,Cliente frecuente
+399,79,5,6,2026-05-13,6,14.85,31.56,20,App,Yape,2,45.37,OK
+400,55,9,5,2026-06-01,4,7.25,27.67,8,Presencial,Plin,3,36.3,Revisar
+401,41,1,2,2026-02-04,4,10.65,40.61,0,WhatsApp,Plin,5,45.71,cliente frecuente
+402,79,6,7,2026-05-23,4,11.2,53.09,10 aprox,Telefono,Tarjeta,4,43.0,OK
+403,38,6,6,2026-04-11,6,"9,5",53.09,10,Telefono,TRANSFERENCIA,1,42.74,Revisar
+404,53,3,2,2026-01-01,6,10.17,46.58,0 aprox,Web,Tarjeta,3,41.45,
+405,76,5,2,2026-03-06,4,10.95,31.56,15,Presencial,Efectivo,1,45.14,OK
+406,52,1,6,2026-01-23,5,9.84,40.61,0,Presencial,Plin, 5 ,37.82,OK
+407,77,2,3,2026-04-21,2,13.05,"63,63",20,Telefono,Plin,1, 42.83 ,
+408,16,2,4,2026-04-07,3,12.28,63.63,5,App,PLIN, 1 ,S/ 45.17,Revisar
+409,31,5,3,2026-04-23,4,1.0,31.56,0,Telefono,  Yape ,4,21.01,Ok
+410,37,7,3,2026/02/08,1 aprox,10.28,38.69,20,Telefono,Efectivo,4,40.37,OK
+411,50,5,2,,7,6.24,31.56,15,WhatsApp,TRANSFERENCIA,4,27.86,cliente frecuente
+412,29,5,6,2026-03-09,5,6.86,31.56,20,WhatsApp,Efectivo,3,31.31,Ok
+413,13,6,4,2026-01-15,8, 10.7 ,53.09,10,Presencial,Transferencia, 4 ,S/ 39.15,
+414,23,8,1,2026-01-07,7,6.02,21.16,8,Presencial,EfEcTiVo,3,26.0,Cliente frecuente
+415,48,6,3,2026-03-17,3,6.2,53.09,0,WhatsApp,Transferencia,2,25.21,OK
+416,54,9,5,2026-05-27, 3 ,2.41,27.67,12,App,Yape,3,16.97,
+417,64,7,3,2026/05/27,6,4.55,38.69,20,App,Efectivo,2,26.34,  Revisar 
+418,33,9,7,2026-01-21,8,10.13,27.67,8,Web,Transferencia,2,52.2,Revisar
+419,68,4,1,2026-05-08,5,11.1,23.79,0,Web,Tarjeta,3,34.76,Revisar
+420,29,9,1,2026-06-13,5,1.68,27.67,20,Presencial,Tarjeta,4,12.17,OK
+421,41,7,2,2026-02-08,8 aprox,13.81,38.69,5,WhatsApp,Efectivo,5,49.16,
+422,49,7,7,2026-01-24,6,9.22, 38.69 ,0,App,Efectivo,3, 40.55 ,OK
+423,76,7,3,2026-05-15,2, 7.4 ,38.69, 10 ,Presencial,Yape,2,32.73,Cliente frecuente
+424,78,9,7,2026-03-24,7,13.38,27.67,15,WhatsApp,Tarjeta,2 aprox,49.08,
+425,64,6,3,2026-01-11,7,4.6,53.09,15,Presencial,Efectivo,2,,Cliente frecuente
+426,20,2,1,2026-04-23,5,13.93,63.63,12,Telefono,Yape, 1 ,47.51,CLIENTE FRECUENTE
+427,75,5,2,2026-03-06,2,1.98, 31.56 ,8,WhatsApp,Yape,,11.09,OK
+428,82,1,6,2026-02-20,3,"8,21",40.61 aprox,5,presencial,TRANSFERENCIA,1,31.99,Promocion
+429,51,8,5,2026-01-20,1,13.44,21.16,8,Web,Yape,1,51.23,Promocion
+430,71,7,5,2026/05/11,5,"7,72",38.69,12,,Transferencia,2,33.15,
+431,43,8,2,2026-03-18,5,4.24,"21,16",8,App,Transferencia,1,18.86,
+432,62,8,4,2026/01/17,3,8.68,21.16,0,Telefono,Transferencia, 4 , 32.51 ,  Revisar 
+433,55,4,2,2026-06-02,5,10.19,23.79,0,App,Transferencia,1,"43,36",Promocion
+434,40,5,6,12/01/2026,6,8.31,"31,56",10,Telefono,Plin,1,36.11,Promocion
+435,36,6,4,2026-04-12,8,,53.09,10,web,Yape,4,11.19,
+436,29,6,2,2026-05-28,2,14.61,53.09,10,Presencial,Transferencia,4,44.84,  Cliente frecuente 
+437,66,2,1,2026-05-17,3,14.26,63.63,5,  Web ,Efectivo,4,48.6,Revisar
+438,58,2,1,28-06-2026,1,2.2,63.63,10,App,Tarjeta,5,25.62,Revisar
+439,78,3,4,2026-03-06,4,6.47,46.58,12,Presencial,Yape,3,36.35,Cliente frecuente
+440,9,5,1,2026-02-02,8,12.7,31.56,0,WhatsApp,Transferencia,4,51.12,Cliente frecuente
+441,75,8,1,2026-03-08,6,9.69,21.16,12,Presencial,Tarjeta,4,28.56,OK
+442,84,8,1,2026-01-18,3,12.28,21.16,0,TELEFONO,Transferencia,4,51.1,OK
+443,20,3,2,2026-05-06,3 aprox,13.93,46.58,,WhatsApp,Yape,5,43.7,
+444,60,1,2,2026-01-06,3,3.12,40.61,8,App,Efectivo,5,23.62,Promocion
+445,20,5,7,2026-03-26,1,9.84,31.56,0,Presencial,Efectivo,3,33.48,
+446,70,3,6,2026-05-21, 6 ,0.87,46.58,10 aprox,WhatsApp,Yape,3 aprox,22.68,OK
+447,78,1,3,05-01-2026,3,10.0,40.61,15,App,Tarjeta,3,46.74,
+448,30,1,4,2026-04-14,6, 14.48 ,40.61,10,App,Efectivo,5,46.99,
+449,27,4,6,,8,12.12,23.79,8,WhatsApp,Plin,2,49.23,OK
+450,21,9,1,2026-03-13,6,6.09,27.67,15,PRESENCIAL,Plin,4,41.27,
+451,54,1,1,,8,0.73,40.61,0,App,Efectivo, 3 ,14.82,Revisar
+452,69,5,2,09-04-2026,,2.24,31.56,0,  WhatsApp ,YaPe,4,16.75,OK
+453,25,9,7,2026-04-08,5,13.43,S/ 27.67,0,Telefono,Tarjeta,4,50.84,
+454,16,4,2,2026-02-06,6,0.65,23.79,0,PRESENCIAL,Efectivo,3,15.76,
+455,79,8,3,2026-01-03,1,6.66,21.16,20,whatsapp,Efectivo,2,31.75,OK
+456,47,4,2,2026/05/21,7,1.69,23.79,5,WEB,Plin,3,23.12,Cliente frecuente
+457,3,2,2,2026-02-13,7,12.32,63.63 aprox,10 aprox,TeLeFoNo,Tarjeta,4,60.22,Promocion
+458,21,6,7,2026-02-13,6,,"53,09",0,Web,Tarjeta,5,45.67,
+459,9,3,3, 2026-05-08 ,6,4.1,46.58, 10 ,Telefono,Yape,5,33.53,
+460,28,4,4,2026-06-08,7,1.38,23.79,8,whatsapp,Yape,3,25.5,OK
+461,41,4,4,2026-03-04,3,1.44,23.79,5,Web,Efectivo,2,18.88,PrOmOcIoN
+462,82,8,7,2026-01-19,7, 14.85 ,,15,Web,Plin,5,50.37,Revisar
+463,35,4,1,2026-06-27,8,38.82,23.79 aprox,5,Telefono,Efectivo,4,111.27,
+464,77,8,3,2026-02-25,7,1.32,21.16,0,Presencial,Yape,3,35.04,Cliente frecuente
+465,43,9,3,13/02/2026,3,13.62,27.67,0,  App ,Tarjeta,3, 54.72 ,Promocion
+466,19,2,1,2026-06-22,3,3.52 aprox,63.63,10,WhatsApp,Efectivo,4,,cliente frecuente
+467,78,8,2,2026/02/25,1,10.0,21.16,20,ApP,Plin,,24.58,OK
+468,79,4,4,2026-02-17,2,7.59,23.79,20,WhatsApp,Tarjeta,2,26.28,
+469,56,8,2,2026-04-07,1,9.58,21.16,10,App,Yape,3,122.5,
+470,70,6,3,2026-04-27,2,14.36,53.09,0,App,Transferencia,4,46.6,OK
+471,71,1,3,2026-05-26,5,0.61,40.61,10,Telefono,Transferencia,5,11.47,
+472,3,1,5,2026-05-04,2,13.35,40.61,0,Telefono,Tarjeta,4,42.58,OK
+473,8,7,6,2026-03-09,7,6.07,38.69,12,ApP,Yape,1,"25,75",OK
+474,69,9,7,2026-04-26,3,3.0 aprox,27.67,0,App,Efectivo,5,21.31,Promocion
+475,34,3,6,2026-02-27,8,7.78,46.58,0,Telefono,Tarjeta,1, 34.52 ,Revisar
+476,13,3,2,2026-04-27,3,0.54,46.58,0,WhatsApp,Yape,2,30.1,Revisar
+477,5,2,5,2026-01-10,2,13.16,63.63, 0 ,Web,Yape,5,44.57,
+478,26,5,2,2026-05-18,5,3.7,31.56,5,Telefono,Plin,3,20.12,Cliente frecuente
+479,13,7,4, 2026-02-28 ,,13.69,38.69,10,Telefono,Transferencia,2,"44,22",OK
+480,73,5,1,2026/01/05,8,"12,18","31,56",0,Presencial,Transferencia,3,54.67,
+481,4,5,7,2026-04-24,5,2.14 aprox,31.56,0,App,Efectivo,2,24.42,  Revisar 
+482,58,8,2,2026-02-01,4,8.99,21.16,0 aprox,whatsapp,Yape,4,36.35,OK
+483,73,2,7,2026-05-28,6,13.55,63.63,0,Telefono,TARJETA,3,54.12,Revisar
+484,57,9,7,2026-05-10,6,3.08,"27,67",15,Presencial,Efectivo,4,22.8,OK
+485,69,5,7,16/02/2026,8 aprox,14.61,31.56, 20 ,Telefono,Tarjeta,2,55.49,Cliente frecuente
+486,28,5,3,2026-05-04,5,1.0,31.56,0,Web,Tarjeta,2,22.33,
+487,47,2,6,2026-06-01,6,4.09,63.63,0,Web,Tarjeta,5,25.54,Promocion
+488,69,9,1,2026-03-15,1, 14.66 ,27.67,0,Telefono,Yape,4,51.38,OK
+489,41,5,4,2026-06-23,2,1.85,31.56 aprox,20,,  Efectivo ,2,27.59,Cliente frecuente
+490,12,5,3,2026-03-08,7,"6,34", 31.56 ,8,Telefono,TRANSFERENCIA,3,S/ 36.71,Promocion
+491,21,4,3,2026-02-11,5,8.31,23.79,15,Telefono,Efectivo,4,32.67,Revisar
+492,29,1,3,, 1 ,12.88,40.61,5,whatsapp,,2,48.91,OK
+493,44,8,2,2026-05-08,1,1.86,21.16,5,,Efectivo, 5 ,16.27,Revisar
+494,82,2,2,2026-01-20,6,13.88,63.63,12,Presencial,Yape,5,44.46,
+495,82,1,5,2026-05-19,7,1.12 aprox,40.61,8,Presencial,Efectivo,1,24.15,Revisar
+496,10,3,4,2026-03-04,6,1.07,46.58,0,App,Transferencia,2,22.52,Revisar
+497,8,4,6,2026-06-10,1,3.12,23.79,0,WhAtSaPp,Tarjeta,3,14.92,Promocion
+498,15,5,6,19-02-2026,6,5.08,31.56,15,Presencial,Efectivo,4,21.13,Promocion
+499,81,5,3,2026-03-22,8,4.18,31.56,0,WhatsApp,Transferencia,3,25.21,Cliente frecuente
+500,78,6,5,2026-03-07,7,11.7 aprox,53.09,10,Presencial,Plin,4,42.89,Revisar

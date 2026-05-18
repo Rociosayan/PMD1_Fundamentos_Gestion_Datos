@@ -1,0 +1,10 @@
+id_plan,nombre,categoria,tarifa_plan
+1,Plan basico,Mensual,71.82
+2,,MeNsUaL,117.96
+3,Plan premium,Mensual,137.44
+4,Plan estudiante,,55.86
+5,Plan familiar,Familiar,196.44
+6,Yoga,Especial,88.04
+7,Cross training,Especial,127.31
+8,FuNcIoNaL,Especial,98.26
+9,Personalizado,Premium,210.83

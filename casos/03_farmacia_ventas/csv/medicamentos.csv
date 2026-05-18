@@ -1,0 +1,10 @@
+id_medicamento,nombre,categoria,precio_unitario
+1,Paracetamol,Analgesico,4.89
+2,Ibuprofeno,Analgesico,6.11
+3,ALCOHOL GEL,higiene,8.25
+4,Vitamina C,Suplemento,15.74
+5,Jabon antibacterial,Higiene,5.65
+6,Antigripal,respiratorio,11.07
+7,Protector solar,Dermocosmetica,41.38
+8,Suero oral,Hidratacion,8.03
+9,panal adulto,Cuidado,44.46

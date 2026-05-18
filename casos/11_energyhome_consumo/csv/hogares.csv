@@ -1,0 +1,86 @@
+id_hogar,nombre,distrito,segmento,fecha_registro
+1,Diego Mendoza,ChOrRiLlOs,Premium,2025-06-16
+2,Miguel Paredes,Villa El Salvador,Corporativo,2025-03-26
+3,Jose Sayan,Chorrillos,,2025-09-25
+4,Marco Castillo,Ventanilla,frecuente,2025-02-15
+5,Rocio Campos,  Villa El Salvador ,Corporativo,2025-12-17
+6,Victor Reyes,San Juan de Lurigancho,Frecuente,2025-03-25
+7,Claudia Rojas,Los Olivos,Corporativo,2025-01-07
+8,CLAUDIA SAYAN,San Juan de Lurigancho,Premium,2025-10-15
+9,Camila Castillo,san juan de lurigancho,  Frecuente ,2025-12-24
+10,carlos torres,Ate,Corporativo,2025-04-10
+11,Diana Mendoza,Villa El Salvador,Frecuente,2025-07-24
+12,Luis Ramos,Lima,Corporativo,2025-07-25
+13,Luis Paredes,Comas,,2025-06-15
+14,Jorge Campos,San Miguel,Premium,2025-04-19
+15,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+16,Marco Ramos,Chorrillos,Regular,2025-04-03
+17,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+18,Pedro Reyes,Surco,Premium,2025-02-12
+19,RAUL REYES,Ate,Nuevo,2025-02-03
+20,Raul Vargas,SAN JUAN DE LURIGANCHO,Frecuente,2025-01-28
+21,Victor Flores,Comas,Premium,2025-12-20
+22,Raul Flores,Ate,Corporativo,2025-04-07
+23,Lucia Paredes,Chorrillos,Corporativo,2025-09-01
+24,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+25,Raul Sayan,Ate,CORPORATIVO,2025-01-05
+26,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+27,Luis Soto,Villa El Salvador,Frecuente, 2025-01-01 
+28,Jorge Ramos,ViLlA El sAlVaDoR,Frecuente,2025-11-03
+29,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+30,  Claudia Reyes ,Independencia,Corporativo,2025-06-27
+31,Luis Salazar,La Molina,Regular,2025-06-22
+32,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+33,Lucia Salazar,Chorrillos,Nuevo,2025-12-24
+34,Rocio Flores,Independencia,Corporativo,2025-06-24
+35,Rocio Flores,,Frecuente,2025-03-27
+36,,independencia,Regular,2025-02-04
+37,Marco Rojas,San Miguel,Regular,2025-09-04
+38,Fiorella Rojas,Lima,Regular,2025-04-06
+39,Elena Vargas,SaN JuAn dE LuRiGaNcHo,CoRpOrAtIvO,2025-05-05
+40,Luis Soto,Comas,,2025-01-04
+41,Andre Navarro,San Juan de Lurigancho,Corporativo,2025-06-05
+42,Diego Rojas,Comas,corporativo,2025-11-04
+43,Camila Gomez,Lima,Nuevo,2025-10-25
+44,Miguel Cruz,,Corporativo,2025-02-01
+45,Sofia Castillo,San Juan de Lurigancho,Premium,2025-10-22
+46,Claudia Paredes,lima,Corporativo,2025-08-27
+47,LUCIA SALAZAR,Comas,Frecuente,2025/03/09
+48,Carlos Reyes,Los Olivos,Premium,08-07-2025
+49,Rocio Cruz,Independencia,Premium,2025-03-26
+50,Jorge Paredes,Villa El Salvador,Regular,2025-05-16
+51,Valeria Rojas,Miraflores,Premium,2025-09-22
+52,Luis Torres,SaN MiGuEl,Corporativo,2025-10-05
+53,Camila Ramos,CHORRILLOS,Corporativo,2025-04-07
+54,  Victor Paredes ,Los Olivos,Regular,2025-07-21
+55,Victor Gomez,Ventanilla,Regular,2025-04-02
+56,Sofia Cruz,SaN JuAn dE LuRiGaNcHo,Regular,2025-10-09
+57,Carlos Gomez,,Regular,2025-04-13
+58,  Carlos Torres ,Independencia,Frecuente,2025-02-02
+59,Diana Reyes,San Miguel,Nuevo,2025-06-15
+60,Diego Navarro,,Nuevo,26-08-2025
+61,Fiorella Vargas,CaLlAo,Premium,2025-12-25
+62,Andre Torres,Los Olivos,Corporativo,2025-01-01
+63,Jorge Huaman,Callao,REGULAR,2025-04-06
+64,Camila Salazar,Independencia,Nuevo,2025-08-16
+65,Diego Mendoza,San Juan de Lurigancho,Regular,2025-04-21
+66,Elena Flores,san miguel,Frecuente,2025-05-26
+67,LUCIA PAREDES,Comas,FRECUENTE, 2025-12-16 
+68,Marco Flores,,Frecuente,2025-11-09
+69,Carlos Rojas,CHORRILLOS,  Frecuente ,17-12-2025
+70,Claudia Mendoza,San  Juan  de  Lurigancho,Regular,2025-03-10
+71,Lucia Sayan,SaN MiGuEl,Corporativo,2025-06-27
+72,Elena Campos,  Surco ,Nuevo,2025-09-05
+73,Carlos Campos,La Molina,Corporativo,2025-06-14
+74,Elena Huaman,Miraflores,Regular,2025-08-16
+75,Fiorella Rojas,,Nuevo,2025-04-25
+76,Jose Rojas,Ate,Premium,2025-05-08
+77,Diana Cruz,Los Olivos,Nuevo,2025-12-13
+78,Carlos Cruz,Independencia,regular,2025-10-09
+79,Maria Quispe,Villa El Salvador,Regular,2025-06-18
+80,Andre Flores,CALLAO,Premium,2025/02/08
+81,Raul Gomez,Independencia,Nuevo, 2025-09-06 
+82,Fiorella Gomez,Callao,Corporativo,25-01-2025
+83,DIEGO QUISPE,San Juan de Lurigancho,Frecuente,2025/08/28
+84,Valeria Rojas,La  Molina,Frecuente,2025-09-11
+85,Elena Paredes,Los Olivos,PREMIUM,2025-01-22

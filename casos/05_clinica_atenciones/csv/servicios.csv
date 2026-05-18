@@ -1,0 +1,10 @@
+id_servicio,nombre,categoria,tarifa_base
+1,Consulta  general,Medicina,77.4
+2,  Laboratorio basico ,Laboratorio,56.5
+3,Radiografia,Imagenes,89.15
+4,,Imagenes,129.22
+5,Curacion,Procedimiento,49.53
+6,Control nutricional,nutricion,61.32
+7,Terapia fisica,rehabilitacion,75.75
+8,Consulta pediatrica,PeDiAtRiA,82.25
+9,Consulta dental,Dental,93.66

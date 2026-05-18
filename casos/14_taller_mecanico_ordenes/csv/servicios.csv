@@ -1,0 +1,10 @@
+id_servicio,nombre,categoria,tarifa_base
+1,Cambio de aceite,Mantenimiento,90.23
+2,Alineamiento,Mantenimiento,77.01
+3,Frenos,Seguridad,182.15
+4,SuSpEnSiOn,MECANICA,275.62
+5,Revision electrica,,143.51
+6,Afinamiento,Motor,215.96
+7,,Electricidad,306.55
+8,Diagnostico scanner,Diagnostico,111.57
+9,Embrague,Mecanica,482.37

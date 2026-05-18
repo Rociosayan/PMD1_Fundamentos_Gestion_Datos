@@ -1,0 +1,86 @@
+id_mascota,nombre,distrito,segmento,fecha_registro
+1,Raul Quispe,Villa El Salvador,Frecuente,2025-11-07
+2,Rocio Rojas,Independencia,Corporativo,2025-09-21
+3,Fiorella Navarro,Surco,Premium, 2025-10-14 
+4,Camila Mendoza,san miguel,Regular,2025-02-20
+5,Rocio Quispe,Callao,Premium,2025-12-07
+6,Diana Sayan,CoMaS,Nuevo,17-10-2025
+7,raul mendoza,independencia,Nuevo,2025-02-10
+8,Valeria Rojas,Chorrillos,Frecuente,
+9,Rocio Torres,  Los Olivos ,regular,22-12-2025
+10,Ana Salazar,Miraflores,Frecuente,2025/07/27
+11,Lucia Ramos,Callao,Frecuente,2025-02-17
+12,Rocio Cruz,LiMa,Frecuente,2025-12-20
+13,Valeria Rojas,Ventanilla,Frecuente, 2025-07-04 
+14,Maria Flores,San Miguel,Nuevo,2025-01-17
+15,Valeria Huaman,Ate,Regular,2025-04-08
+16,Valeria Soto,Ventanilla,CoRpOrAtIvO,2025-08-24
+17,Maria Torres,Independencia,Frecuente,2025-02-11
+18,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+19,AnDrE CaMpOs,Independencia,Regular,2025-08-13
+20,Jose Vargas,Callao,Premium,2025-05-07
+21,Diana Quispe,,corporativo,2025-03-11
+22,Elena Salazar,San Miguel,Regular,2025-02-09
+23,Sofia Soto,Los Olivos,,2025-05-16
+24,Jose Vargas,Independencia,,2025-10-11
+25,Jorge Navarro,Los Olivos,Corporativo,2025-10-18
+26,Claudia Flores,Los Olivos,Frecuente,2025-08-09
+27,Elena Huaman,Ate,Premium,2025-07-05
+28,Sofia  Soto,SuRcO,Regular,2025-09-07
+29,  Carlos Huaman ,Chorrillos,Premium,27-05-2025
+30,Elena Soto,Lima,Frecuente,2025-03-07
+31,Carlos Rojas,Chorrillos,Frecuente,20-11-2025
+32,Sofia Torres,Miraflores,Corporativo,2025-06-20
+33,Miguel Reyes,VENTANILLA,Frecuente,2025-11-14
+34,Miguel Castillo,Callao,Corporativo,2025-10-02
+35,Valeria Soto,Ventanilla,Frecuente,2025-02-26
+36,Luis Salazar,Chorrillos,Corporativo,2025-06-16
+37,Sofia Quispe,Ate,Regular,2025-11-19
+38,Maria Mendoza,Callao,,2025-08-14
+39,Sofia Quispe,san juan de lurigancho,,2025-12-06
+40,,Ventanilla,Regular,2025-11-05
+41,Jorge Reyes,Independencia,Corporativo,2025-02-18
+42,MARIA CASTILLO,Ate,Nuevo,2025-08-17
+43,Ana Navarro,Ventanilla,Nuevo,2025-02-23
+44,Claudia Flores,Chorrillos,Corporativo,2025-07-05
+45,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+46,Elena Mendoza,Comas,corporativo,2025-01-11
+47,Pedro Torres,San Miguel,Premium,2025-01-12
+48,Diana Mendoza,Independencia,Frecuente,2025-06-16
+49,Pedro Campos,La Molina,CoRpOrAtIvO,2025-01-18
+50,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+51,Jose Cruz,San Miguel,NuEvO,2025-09-12
+52,Andre Flores,Miraflores,Regular,2025-03-19
+53,Victor Castillo,Chorrillos,Premium, 2025-12-03 
+54,Jorge Mendoza,Comas,Premium,2025-12-17
+55,Jose Navarro,Chorrillos,Frecuente,2025-02-07
+56,Claudia Rojas,  Independencia ,Regular,2025-02-06
+57,Elena Cruz,San  Juan  de  Lurigancho,Frecuente,2025-07-12
+58,andre castillo,San Miguel,Regular,2025-05-14
+59,Marco Castillo,SaN MiGuEl,Nuevo,2025-08-05
+60,Andre Campos,Callao,Corporativo,2025-08-15
+61,Lucia Quispe,  San Miguel ,Nuevo,2025-10-03
+62,Luis Ramos,Comas,Nuevo,2025-10-23
+63,Fiorella Gomez,,Frecuente,2025-11-20
+64,Rocio Gomez,Ventanilla,Nuevo,2025-05-22
+65,Luis Mendoza,Miraflores,PREMIUM,2025-06-20
+66,Luis Campos,Miraflores,ReGuLaR,2025-02-25
+67,Elena Mendoza,Surco,Premium,2025-11-23
+68,Rocio Rojas,Los  Olivos,Nuevo,2025-08-14
+69,Victor Soto,Los Olivos,  Corporativo ,2025-11-20
+70,Fiorella Mendoza,Chorrillos,Nuevo,2025-10-25
+71,Jorge Salazar,Independencia,Nuevo,2025-03-28
+72,Jorge Flores,Villa El Salvador,Regular,2025-12-11
+73,Marco Gomez,VENTANILLA,Corporativo,2025-09-21
+74,Maria Flores,,PREMIUM,2025-12-20
+75,Ana Gomez,,Premium,2025-01-15
+76,Fiorella Vargas,,Regular,2025/07/22
+77,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+78,Andre Campos,La Molina,Regular,2025-12-22
+79,Valeria Huaman,Surco,Corporativo,2025-02-25
+80,  Andre Vargas ,Callao,Nuevo,2025-12-16
+81,Maria Huaman,Villa El Salvador,Premium,2025-03-02
+82,Sofia Reyes,,Regular,2025-09-27
+83,Lucia Reyes,,PrEmIuM,2025-03-12
+84,Lucia Reyes,Callao,Regular,2025-10-24
+85,Diana Campos,Independencia,Nuevo,2025-10-05

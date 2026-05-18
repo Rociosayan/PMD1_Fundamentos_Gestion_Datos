@@ -1,0 +1,86 @@
+id_parcela,nombre,distrito,segmento,fecha_registro
+1,Elena Paredes,Surco,Premium,2025-10-08
+2,Elena Flores,Surco,Nuevo,16/05/2025
+3,,Callao,Frecuente,2025-04-16
+4,Fiorella Castillo,La Molina,Nuevo,2025-11-21
+5,Elena Quispe,Los Olivos,Regular,2025-01-13
+6,VALERIA FLORES,La Molina,  Regular ,2025-06-10
+7,Valeria Flores,Los Olivos,Frecuente,2025-05-22
+8,Maria Rojas,Comas,Premium,2025-10-22
+9,Fiorella Mendoza,Callao,Corporativo,27/10/2025
+10,Valeria Soto,Ventanilla,Frecuente,2025-08-24
+11,Miguel Rojas,CALLAO,,2025-11-18
+12,Valeria Gomez,San Juan de Lurigancho,Nuevo,2025-04-03
+13,Camila Navarro,Surco,Corporativo,
+14,Jose Mendoza,  Lima ,NuEvO,2025-06-25
+15,Ana Ramos,San Miguel,Premium,2025-03-22
+16,Luis Huaman,Ventanilla,Frecuente,2025-01-19
+17,Ana Quispe,Lima,Nuevo,2025-07-05
+18,Valeria Castillo,San Miguel,Frecuente,2025-07-21
+19,Miguel Gomez,Villa El Salvador,Premium,2025-10-17
+20,Claudia Soto,Ate,Nuevo,2025-07-21
+21,Elena Huaman,Callao,Premium,2025-12-06
+22,Marco Castillo,Villa El Salvador,Premium,2025-05-16
+23,camila rojas,ventanilla,Regular,2025-12-06
+24,Carlos Torres,Miraflores,nuevo,2025-08-13
+25,Diana Paredes,,Nuevo,2025-06-22
+26,Jose Huaman,Lima,Nuevo,2025-09-21
+27,Raul Cruz,Ventanilla,Premium,2025-06-23
+28,Lucia Huaman,Chorrillos,Frecuente,2025-06-05
+29,  Pedro Soto ,Lima,Corporativo,2025-04-13
+30,Valeria Vargas,Los  Olivos,Frecuente,2025-11-23
+31,,Miraflores,Premium,2025-04-02
+32,  Carlos Vargas ,Ate,  Frecuente ,2025-07-21
+33,Camila Ramos,CoMaS,Regular,2025-09-17
+34,Raul Soto,Comas,Corporativo,2025-09-19
+35,,San Juan de Lurigancho,Regular,2025-03-16
+36,Pedro Cruz,Callao,Regular,2025-12-21
+37,Rocio Campos,AtE,Frecuente,2025-03-13
+38,Andre Salazar,La Molina,Corporativo,2025-04-20
+39,Claudia Paredes,ventanilla,Frecuente,2025-03-10
+40,Raul Ramos,villa el salvador,Premium,2025-06-01
+41,Elena Mendoza,La Molina,Premium,2025-03-18
+42,Fiorella Flores,La Molina,Frecuente,2025-12-09
+43,Diego Reyes,Surco,Premium,2025-07-05
+44,Jorge Mendoza,SaN MiGuEl,Frecuente,2025-09-07
+45,Sofia Ramos,Lima,Regular,2025-02-07
+46,Sofia Mendoza,San Miguel,Regular,2025-11-08
+47,Elena Vargas,Ventanilla,Regular,2025-02-15
+48,Diana Rojas,SaN MiGuEl,Frecuente,2025-10-07
+49,Fiorella Navarro,Ate,premium,2025-03-01
+50,Diana Torres,Villa El Salvador,Nuevo,2025-03-16
+51,Claudia Salazar,Independencia,  Nuevo ,15-08-2025
+52,Diana Sayan,Miraflores,Regular,16/09/2025
+53,Lucia  Huaman,Los  Olivos,Corporativo,2025-05-16
+54,raul flores,SURCO,regular, 2025-10-28 
+55,Carlos Campos,La Molina,Premium,2025-12-22
+56,Fiorella Cruz,La Molina,  Premium ,2025-08-01
+57,Diana Torres,comas,Premium,2025-12-08
+58,Maria Flores,  Ate ,Premium,2025-03-26
+59,Ana Sayan,San Juan de Lurigancho,Nuevo,2025-01-01
+60,Jose Sayan,Callao,Regular,2025-01-08
+61,Diana Cruz,Ate,Frecuente,2025-10-05
+62,Marco Huaman,surco,Frecuente,2025-02-17
+63,  Raul Vargas ,Villa  El  Salvador,Frecuente, 2025-02-01 
+64,Valeria Vargas,Lima,Premium,2025-06-24
+65,Camila Paredes,San  Juan  de  Lurigancho,regular,2025-07-01
+66,Victor Salazar,Independencia,Regular,2025-02-22
+67,Marco Soto,Miraflores,Frecuente,19/04/2025
+68,Claudia Reyes,San Miguel,  Premium ,2025-01-02
+69,Ana Ramos,CaLlAo,Nuevo,2025-10-18
+70,Diego Rojas,Los Olivos,CoRpOrAtIvO,2025-04-22
+71,Maria Campos,lima,Regular,2025-07-17
+72,Fiorella Sayan,Miraflores,,2025-08-04
+73,Rocio Reyes,San Miguel,Regular,2025-06-19
+74,carlos rojas,Villa El Salvador,  Premium , 2025-04-26 
+75,Claudia Cruz,San Juan de Lurigancho,Regular,2025-09-24
+76,Fiorella Ramos,Los Olivos,  Frecuente ,2025-01-16
+77,Luis Reyes,Comas,Nuevo,2025-01-26
+78,Ana Castillo,Surco,Premium,2025-11-21
+79,Maria Castillo,Miraflores,Premium,2025-10-24
+80,Raul Salazar,independencia,Nuevo,2025-01-11
+81,Diego Flores,Ate,,2025-06-06
+82,,,Premium,2025-02-11
+83,Raul Mendoza,Ate,REGULAR,2025-08-14
+84,Diego Sayan,San Juan de Lurigancho,Frecuente,2025-05-12
+85,Lucia Cruz,La Molina,Frecuente,2025-08-25

@@ -1,0 +1,10 @@
+id_producto,nombre,categoria,precio_unitario
+1,Pan frances,PaNeS,0.37
+2,Pan integral,  Panes ,0.51
+3,Empanada,salados,4.24
+4,Torta chocolate,Pasteles,45.67
+5,Alfajor,Dulces,3.0
+6,CaFe pAsAdO,Bebidas,4.73
+7,Jugo natural,Bebidas,6.46
+8,Paneton,Temporada,29.17
+9,Queque,PaStElEs,17.5

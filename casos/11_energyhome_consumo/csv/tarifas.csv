@@ -1,0 +1,10 @@
+id_tarifa,nombre,categoria,tarifa_base
+1,Residencial basica,Residencial,0.71
+2,Residencial media,Residencial,0.78
+3,Residencial alta,Residencial,0.87
+4,Comercial pequena,Comercial,0.96
+5,,Comercial,0.97
+6,SoCiAl,SUBVENCIONADA,0.5
+7,Nocturna,Especial,0.61
+8,Solar mixta,Especial,0.61
+9,Temporal,Temporal,0.74

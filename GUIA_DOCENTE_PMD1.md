@@ -1,4 +1,4 @@
-# Guia docente PMD1
+# Guia PMD1
 
 ## Enfoque recomendado
 

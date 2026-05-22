@@ -1,6 +1,6 @@
 # PMD1 - Bases de datos sinteticas para Fundamentos de Gestion de Datos
 
-Este paquete contiene 14 casos cotidianos para el PMD1. Cada caso incluye una base SQLite relacional, archivos CSV por tabla, un `schema.sql` y una guia breve.
+Este paquete contiene 15 casos cotidianos para el PMD1. Cada caso incluye una base SQLite relacional, archivos CSV por tabla, un `schema.sql` y una guia breve.
 
 La idea didactica es que el estudiante:
 
@@ -29,6 +29,7 @@ La idea didactica es que el estudiante:
 | 12 | Gimnasio - Socios y asistencias | `gimnasio_socios.db` | `pago_mensual` | `asistencias_mes` |
 | 13 | Panaderia - Ventas diarias | `panaderia_ventas.db` | `ingreso_venta` | `cantidad_unidades` |
 | 14 | Taller mecanico - Ordenes de servicio | `taller_mecanico_ordenes.db` | `costo_reparacion` | `horas_trabajo` |
+| 15 | Industria - Paradas de maquina y procesos | `industria_paradas_procesos.db` | `costo_parada_soles` | `duracion_parada_min` |
 
 ## Ejemplo para descargar desde GitHub en Colab
 

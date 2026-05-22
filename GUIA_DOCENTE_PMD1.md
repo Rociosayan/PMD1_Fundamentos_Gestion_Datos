@@ -54,6 +54,7 @@ Ejemplos:
 - Delivery: `distancia_km` -> `tiempo_entrega_min`.
 - Hotel: `noches_estadia` -> `monto_reserva`.
 - Cultivos: `hectareas` -> `rendimiento_kg`.
+- Industria: `duracion_parada_min` -> `costo_parada_soles`.
 
 El objetivo no es hacer el mejor modelo del mundo, sino demostrar el flujo completo:
 
@@ -77,4 +78,3 @@ SQL -> Pandas -> Limpieza -> Regresion -> Interpretacion -> SQLite.
 | Regresion lineal simple y metricas | 20% |
 | Guardado de tabla limpia/predicciones en SQLite | 10% |
 | Interpretacion del caso y conclusiones | 10% |
-

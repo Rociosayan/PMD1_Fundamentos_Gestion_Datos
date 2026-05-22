@@ -55,6 +55,7 @@ Ejemplos:
 - Hotel: `noches_estadia` -> `monto_reserva`.
 - Cultivos: `hectareas` -> `rendimiento_kg`.
 - Industria: `duracion_parada_min` -> `costo_parada_soles`.
+- Abarrotes: `cantidad_unidades` -> `monto_venta_soles`.
 
 El objetivo no es hacer el mejor modelo del mundo, sino demostrar el flujo completo:
 

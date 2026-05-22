@@ -54,3 +54,9 @@ df
 Cada base ya viene con claves primarias y foraneas. El estudiante no necesita inventarlas desde cero para iniciar el analisis, pero si debe entenderlas para hacer los `JOIN`.
 
 Tambien puede revisar el archivo `schema.sql` de cada caso para ver como se crea la estructura.
+
+## Modelos de mineria adicionales
+
+Tambien se incluye una carpeta de modelos aplicados:
+
+- `modelos_mineria/02_operaciones_paradas_maquina`: notebook y datos sinteticos para prediccion de paradas no programadas de maquina en operacion minera.

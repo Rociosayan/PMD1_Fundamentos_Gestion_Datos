@@ -1,6 +1,6 @@
 # PMD1 - Bases de datos sinteticas para Fundamentos de Gestion de Datos
 
-Este paquete contiene 17 casos cotidianos para el PMD1. Cada caso incluye una base SQLite relacional, archivos CSV por tabla, un `schema.sql` y una guia breve.
+Este paquete contiene 18 casos cotidianos para el PMD1. Cada caso incluye una base SQLite relacional, archivos CSV por tabla, un `schema.sql` y una guia breve.
 
 La idea didactica es que el estudiante:
 
@@ -32,6 +32,7 @@ La idea didactica es que el estudiante:
 | 15 | Industria - Paradas de maquina y procesos | `industria_paradas_procesos.db` | `costo_parada_soles` | `duracion_parada_min` |
 | 16 | Abarrotes - Ventas e inventario | `abarrotes_ventas_inventario.db` | `monto_venta_soles` | `cantidad_unidades` |
 | 17 | Panaderia - Normalizacion y SQL basico | `panaderia_normalizacion.db` | `total_venta` | `cantidad` |
+| 18 | MiniMarket C2 - Normalizacion y SQL basico | `minimarket_normalizacion.db` | `total_venta` | `cantidad` |
 
 ## Ejemplo para descargar desde GitHub en Colab
 

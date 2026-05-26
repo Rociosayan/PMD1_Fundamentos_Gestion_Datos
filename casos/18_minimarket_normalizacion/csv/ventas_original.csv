@@ -1,0 +1,13 @@
+id_venta,fecha,cliente,distrito_cliente,producto,categoria,local,distrito_local,cantidad,precio_unitario,total_venta
+1,2026-04-01,Ana Torres,Los Olivos,Arroz Costeno 5kg,Abarrotes,MiniMarket Central,Los Olivos,2,28.5,57.0
+2,2026-04-01,Luis Ramos,Comas,Gaseosa Inca Kola 3L,Bebidas,MiniMarket Norte,Comas,5,10.5,52.5
+3,2026-04-02,Ana Torres,Los Olivos,Aceite Primor 1L,Abarrotes,MiniMarket Central,Los Olivos,3,12.8,38.4
+4,2026-04-02,Maria Perez,Independencia,Detergente Bolivar 1kg,Limpieza,MiniMarket Plaza,Independencia,1,16.5,16.5
+5,2026-04-03,Luis Ramos,Comas,Arroz Costeno 5kg,Abarrotes,MiniMarket Norte,Comas,1,28.5,28.5
+6,2026-04-03,Ana Torres,Los Olivos,Agua San Luis 2.5L,Bebidas,MiniMarket Central,Los Olivos,6,3.8,22.8
+7,2026-04-04,Carlos Rios,San Martin,Fideo Don Vittorio 500g,Abarrotes,MiniMarket Plaza,Independencia,4,4.2,16.8
+8,2026-04-04,Rosa Salazar,Puente Piedra,Lejia Clorox 1L,Limpieza,MiniMarket Norte,Comas,2,5.9,11.8
+9,2026-04-05,Jorge Medina,Los Olivos,Jabon Protex,Cuidado personal,MiniMarket Central,Los Olivos,3,4.8,14.4
+10,2026-04-05,Maria Perez,Independencia,Gaseosa Inca Kola 3L,Bebidas,MiniMarket Plaza,Independencia,2,10.5,21.0
+11,2026-04-06,Carlos Rios,San Martin,Detergente Bolivar 1kg,Limpieza,MiniMarket Norte,Comas,2,16.5,33.0
+12,2026-04-06,Rosa Salazar,Puente Piedra,Aceite Primor 1L,Abarrotes,MiniMarket Central,Los Olivos,1,12.8,12.8

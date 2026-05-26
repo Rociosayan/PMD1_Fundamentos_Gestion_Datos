@@ -1,0 +1,19 @@
+id_venta,fecha,cliente_nombre,cliente_distrito,producto_nombre,categoria_nombre,local_nombre,local_distrito,cantidad,precio_unitario,metodo_pago,total_venta
+1,2026-04-01,Ana Torres,Los Olivos,Pan frances,Panes,Panaderia Central,Los Olivos,20,0.5,Efectivo,10.0
+2,2026-04-01,Luis Ramos,Comas,Empanada de pollo,Salados,Panaderia Norte,Comas,4,4.5,Yape,18.0
+3,2026-04-01,Maria Perez,Independencia,Jugo de naranja,Bebidas,Panaderia Plaza,Independencia,2,5.0,Tarjeta,10.0
+4,2026-04-02,Ana Torres,Los Olivos,Torta de chocolate,Pasteles,Panaderia Central,Los Olivos,1,8.0,Tarjeta,8.0
+5,2026-04-02,Carlos Rios,San Martin de Porres,Pan integral,Panes,Panaderia Norte,Comas,12,0.8,Efectivo,9.6
+6,2026-04-02,Rosa Diaz,Los Olivos,Cafe americano,Bebidas,Panaderia Central,Los Olivos,3,4.0,Yape,12.0
+7,2026-04-03,Luis Ramos,Comas,Pan frances,Panes,Panaderia Norte,Comas,15,0.5,Efectivo,7.5
+8,2026-04-03,Jorge Salas,Comas,Empanada de pollo,Salados,Panaderia Plaza,Independencia,2,4.5,Yape,9.0
+9,2026-04-03,Maria Perez,Independencia,Torta de chocolate,Pasteles,Panaderia Plaza,Independencia,2,8.0,Tarjeta,16.0
+10,2026-04-04,Carlos Rios,San Martin de Porres,Jugo de naranja,Bebidas,Panaderia Norte,Comas,4,5.0,Yape,20.0
+11,2026-04-04,Rosa Diaz,Los Olivos,Pan frances,Panes,Panaderia Central,Los Olivos,25,0.5,Efectivo,12.5
+12,2026-04-04,Jorge Salas,Comas,Pan integral,Panes,Panaderia Plaza,Independencia,10,0.8,Tarjeta,8.0
+13,2026-04-05,Ana Torres,Los Olivos,Empanada de pollo,Salados,Panaderia Central,Los Olivos,3,4.5,Efectivo,13.5
+14,2026-04-05,Luis Ramos,Comas,Cafe americano,Bebidas,Panaderia Norte,Comas,2,4.0,Yape,8.0
+15,2026-04-05,Maria Perez,Independencia,Pan frances,Panes,Panaderia Plaza,Independencia,18,0.5,Efectivo,9.0
+16,2026-04-06,Carlos Rios,San Martin de Porres,Torta de chocolate,Pasteles,Panaderia Norte,Comas,1,8.0,Tarjeta,8.0
+17,2026-04-06,Rosa Diaz,Los Olivos,Jugo de naranja,Bebidas,Panaderia Central,Los Olivos,2,5.0,Yape,10.0
+18,2026-04-06,Jorge Salas,Comas,Empanada de pollo,Salados,Panaderia Plaza,Independencia,4,4.5,Efectivo,18.0

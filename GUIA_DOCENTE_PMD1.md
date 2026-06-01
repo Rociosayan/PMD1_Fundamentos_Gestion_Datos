@@ -13,7 +13,7 @@ Cada grupo elige un caso distinto. En general, los casos comparten la misma logi
 7. Validacion con consultas `JOIN`.
 8. Limpieza en Pandas y analisis simple.
 
-Nota: el caso 17 de panaderia se conserva con `ventas_original` y tablas normalizadas porque ya fue usado en clase con esa estructura. Los demas casos quedan como tablas desnormalizadas para que el estudiante normalice.
+Nota: los casos 17 de panaderia y 18 de minimarket se conservan con `ventas_original` y tablas normalizadas porque ya fueron usados en clase/laboratorio con esa estructura. Los demas casos quedan como tablas desnormalizadas para que el estudiante normalice.
 
 ## Como explicar PK y FK
 

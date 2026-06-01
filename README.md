@@ -1,38 +1,39 @@
-# PMD1 - Bases de datos sinteticas para Fundamentos de Gestion de Datos
+# PMD1 - Bases desnormalizadas para Fundamentos de Gestion de Datos
 
-Este paquete contiene 18 casos cotidianos para el PMD1. Cada caso incluye una base SQLite relacional, archivos CSV por tabla, un `schema.sql` y una guia breve.
+Este paquete contiene casos cotidianos para el PMD1. Cada caso incluye una base SQLite con una tabla grande desnormalizada, un CSV equivalente, un `schema.sql` minimo y una guia breve.
 
 La idea didactica es que el estudiante:
 
 1. Descargue la base desde GitHub.
 2. Se conecte a SQLite desde Colab.
-3. Use SQL para unir tablas y construir un dataset analitico.
-4. Limpie datos con Pandas.
-5. Entrene una regresion lineal simple.
-6. Guarde la tabla limpia y/o predicciones nuevamente en SQLite.
+3. Observe una tabla con informacion repetida.
+4. Identifique entidades, dependencias y posibles claves.
+5. Normalice creando sus propias tablas con PK y FK.
+6. Use `JOIN` para reconstruir la informacion despues de normalizar.
+7. Limpie datos con Pandas y, si corresponde, entrene una regresion lineal simple.
 
 ## Casos disponibles
 
-| N | Caso | Base SQLite | Variable objetivo | Predictora sugerida |
-|---|---|---|---|---|
-| 01 | RetailMax - Ventas en tienda | `retailmax_ventas.db` | `monto_total` | `cantidad_productos` |
-| 02 | Restaurante - Pedidos y consumo | `restaurante_pedidos.db` | `total_pedido` | `tiempo_preparacion_min` |
-| 03 | Farmacia - Ventas de productos | `farmacia_ventas.db` | `monto_boleta` | `cantidad_medicamentos` |
-| 04 | Ferreteria - Compras de articulos | `ferreteria_ventas.db` | `monto_compra` | `cantidad_articulos` |
-| 05 | Clinica - Atenciones ambulatorias | `clinica_atenciones.db` | `costo_atencion` | `duracion_consulta_min` |
-| 06 | Veterinaria - Servicios para mascotas | `veterinaria_atenciones.db` | `costo_servicio` | `peso_mascota_kg` |
-| 07 | HotelSmart - Reservas hoteleras | `hotel_reservas.db` | `monto_reserva` | `noches_estadia` |
-| 08 | FoodDelivery - Pedidos a domicilio | `food_delivery_entregas.db` | `tiempo_entrega_min` | `distancia_km` |
-| 09 | LogiExpress - Envios urbanos | `logiexpress_envios.db` | `costo_envio` | `peso_paquete_kg` |
-| 10 | AgroData - Produccion de cultivos | `agrodata_cultivos.db` | `rendimiento_kg` | `hectareas` |
-| 11 | EnergyHome - Consumo electrico | `energyhome_consumo.db` | `consumo_kwh` | `numero_habitantes` |
-| 12 | Gimnasio - Socios y asistencias | `gimnasio_socios.db` | `pago_mensual` | `asistencias_mes` |
-| 13 | Panaderia - Ventas diarias | `panaderia_ventas.db` | `ingreso_venta` | `cantidad_unidades` |
-| 14 | Taller mecanico - Ordenes de servicio | `taller_mecanico_ordenes.db` | `costo_reparacion` | `horas_trabajo` |
-| 15 | Industria - Paradas de maquina y procesos | `industria_paradas_procesos.db` | `costo_parada_soles` | `duracion_parada_min` |
-| 16 | Abarrotes - Ventas e inventario | `abarrotes_ventas_inventario.db` | `monto_venta_soles` | `cantidad_unidades` |
-| 17 | Panaderia - Normalizacion y SQL basico | `panaderia_normalizacion.db` | `total_venta` | `cantidad` |
-| 18 | MiniMarket C2 - Normalizacion y SQL basico | `minimarket_normalizacion.db` | `total_venta` | `cantidad` |
+| N | Caso | Base SQLite | Tabla original | Variable objetivo | Predictora sugerida |
+|---|---|---|---|---|---|
+| 01 | Retailmax Ventas | `retailmax_ventas.db` | `ventas_original` | `monto_total` | `cantidad_productos` |
+| 02 | Restaurante Pedidos | `restaurante_pedidos.db` | `pedidos_original` | `total_pedido` | `tiempo_preparacion_min` |
+| 03 | Farmacia Ventas | `farmacia_ventas.db` | `ventas_original` | `monto_boleta` | `cantidad_medicamentos` |
+| 04 | Ferreteria Ventas | `ferreteria_ventas.db` | `ventas_original` | `monto_compra` | `cantidad_articulos` |
+| 05 | Clinica Atenciones | `clinica_atenciones.db` | `atenciones_original` | `costo_atencion` | `duracion_consulta_min` |
+| 06 | Veterinaria Atenciones | `veterinaria_atenciones.db` | `atenciones_original` | `costo_servicio` | `peso_mascota_kg` |
+| 07 | Hotel Reservas | `hotel_reservas.db` | `reservas_original` | `monto_reserva` | `noches_estadia` |
+| 08 | Food Delivery Entregas | `food_delivery_entregas.db` | `entregas_original` | `tiempo_entrega_min` | `distancia_km` |
+| 09 | Logiexpress Envios | `logiexpress_envios.db` | `envios_original` | `costo_envio` | `peso_paquete_kg` |
+| 10 | Agrodata Cultivos | `agrodata_cultivos.db` | `produccion_original` | `rendimiento_kg` | `hectareas` |
+| 11 | Energyhome Consumo | `energyhome_consumo.db` | `consumos_original` | `consumo_kwh` | `numero_habitantes` |
+| 12 | Gimnasio Socios | `gimnasio_socios.db` | `asistencias_pagos_original` | `pago_mensual` | `asistencias_mes` |
+| 13 | Panaderia Ventas | `panaderia_ventas.db` | `ventas_original` | `ingreso_venta` | `cantidad_unidades` |
+| 14 | Taller Mecanico Ordenes | `taller_mecanico_ordenes.db` | `ordenes_original` | `costo_reparacion` | `horas_trabajo` |
+| 15 | Industria Paradas Procesos | `industria_paradas_procesos.db` | `paradas_original` | `costo_parada_soles` | `duracion_parada_min` |
+| 16 | Abarrotes Ventas Inventario | `abarrotes_ventas_inventario.db` | `ventas_original` | `monto_venta_soles` | `cantidad_unidades` |
+| 17 | Panaderia Normalizacion | `panaderia_normalizacion.db` | `ventas_original` | `total_venta` | `cantidad` |
+| 18 | Minimarket Normalizacion | `minimarket_normalizacion.db` | `ventas_original` | `total_venta` | `cantidad` |
 
 ## Ejemplo para descargar desde GitHub en Colab
 
@@ -47,15 +48,15 @@ open("retailmax_ventas.db", "wb").write(r.content)
 
 conn = sqlite3.connect("retailmax_ventas.db")
 
-df = pd.read_sql_query("SELECT * FROM ventas LIMIT 5", conn)
+df = pd.read_sql_query("SELECT * FROM ventas_original LIMIT 5", conn)
 df
 ```
 
-## Nota sobre claves primarias y foraneas
+## Nota sobre normalizacion
 
-Cada base ya viene con claves primarias y foraneas. El estudiante no necesita inventarlas desde cero para iniciar el analisis, pero si debe entenderlas para hacer los `JOIN`.
+Las bases de estudiantes no traen el modelo normalizado resuelto. El trabajo consiste en partir de la tabla original, reconocer repeticion de datos y construir las tablas normalizadas.
 
-Tambien puede revisar el archivo `schema.sql` de cada caso para ver como se crea la estructura.
+El `schema.sql` de cada caso muestra solamente la estructura de la tabla original. Las claves primarias, claves foraneas y tablas finales deben ser propuestas por el estudiante.
 
 ## Modelos de mineria adicionales
 

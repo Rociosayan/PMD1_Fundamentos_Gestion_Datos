@@ -1,0 +1,501 @@
+id_reserva,fecha_operacion,cantidad_habitaciones,noches_estadia,tarifa_noche,descuento_pct,canal,metodo_pago,calificacion,monto_reserva,observacion,hoteles_nombre,hoteles_distrito,hoteles_zona,habitaciones_nombre,habitaciones_categoria,habitaciones_tarifa_noche,huespedes_nombre,huespedes_distrito,huespedes_segmento,huespedes_fecha_registro
+1,2026-06-23,8 aprox,9,88.18,5 aprox,App,Plin, 4 ,268.05,Revisar,Hotel 5,Lima,Norte,Simple,Estandar,88.18,,San Miguel,Regular,2025-02-18
+2,2026-03-04,6 aprox,5,290.5,8,whatsapp,Efectivo,4,1443.05,Revisar,Hotel 7,  Miraflores ,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+3,14/05/2026,2,6, 351.23 ,0,Telefono,Efectivo,2,415.34,Promocion,Hotel 6,Callao,Este,Bungalow,Especial,351.23,Sofia Huaman,Chorrillos,Corporativo,2025-03-04
+4,2026-02-08,8,9,290.5 aprox, 10 ,Presencial,Efectivo,1,492.36,,Hotel 5,Lima,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+5,2026-04-23,6,5,290.5,5,  Telefono ,Transferencia,4,394.22,Cliente frecuente,Hotel 5,Lima,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Sofia Huaman,Chorrillos,Corporativo,2025-03-04
+6,2026-03-11,2,8,290.5,0,Telefono,Tarjeta,1,363.53,Revisar,Hotel 4,Independencia,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Claudia Sayan,  Villa El Salvador ,Corporativo,2025-06-07
+7,2026-02-04,8,7,369.86,8,Web,Plin,2,559.16,,Hotel 6,Callao,Este,Habitacion vista mar,,369.86,Victor Castillo,  Ventanilla ,Nuevo,2025-08-24
+8,2026-03-26,2,3,88.18,0,Web,Transferencia,4,149.48,,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Rocio Salazar,San Miguel,Corporativo,2025-05-21
+9,2026-06-15,6,7, 369.86 ,10,Telefono,Yape,1 aprox,,Promocion,Hotel 5,Lima,Norte,Habitacion vista mar,,369.86,Diego Flores,La mOlInA,  Frecuente ,2025-07-06
+10,2026-02-24,6,3,425.95,15,Telefono,Transferencia,5,547.69,Ok,Hotel 4,Independencia,Norte,Suite  ejecutiva,suite,425.95,Sofia Torres,MIRAFLORES,Nuevo,2025-01-15
+11,2026/02/15,5,10,290.5,8,,Plin,2 aprox,393.45,Revisar,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Elena Reyes,Ate,Regular,2025-07-10
+12,2026/05/06,1,5,425.95,8,Telefono,Yape,4,489.54,Revisar,Hotel 4,Independencia,Norte,Suite  ejecutiva,suite,425.95,Ana Castillo,Villa El Salvador,Regular,2025-02-14
+13,2026-03-11,2,8,290.5,0,Telefono,Tarjeta,1,363.53,Revisar,Hotel 4,Independencia,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Claudia Sayan,  Villa El Salvador ,Corporativo,2025-06-07
+14,2026-06-23,8,8,290.5,15,App,Yape, 2 ,442.85,Revisar,Hotel 5,Lima,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Fiorella Flores,San Juan de Lurigancho,Premium,2025-01-21
+15,2026-05-08,5,2,159.18,20,Telefono,Efectivo,3, 213.61 ,Revisar,Hotel 5,Lima,Norte,Doble,estandar,159.18,Fiorella Ramos,Independencia,Premium,2025-05-21
+16,2026-06-03,1,8,290.5,0,Presencial,Tarjeta,2,403.15,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Miguel Campos,Villa  El  Salvador,Nuevo,2025-08-26
+17,2026-04-22,5,9,88.18,0 aprox,  App ,Tarjeta,4, 181.19 ,OK,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Jorge Salazar,Los Olivos,Nuevo,2025-06-21
+18,2026-03-25,6,8,158.16,0,WhatsApp,Plin,3,213.19,,Hotel 1,LOS OLIVOS,Centro,Matrimonial,estandar,158.16,Miguel Soto,Villa El Salvador,Nuevo,2025-05-28
+19,2026-01-10,1,8,S/ 369.86,8,WhatsApp,Efectivo,5,468.64,Revisar,Hotel 3,Comas,Este,Habitacion vista mar,,369.86,Fiorella Ramos,Independencia,Premium,2025-05-21
+20,2026-04-22,5,3,425.95,8,App,Tarjeta,2,488.18,Promocion,Hotel 3,Comas,Este,Suite  ejecutiva,suite,425.95,Sofia Ramos,Surco,Corporativo,2025-02-03
+21,2026-02-04,8,4,"158,16",0,Telefono,Efectivo,1,318.5,Revisar,Hotel 6,Callao,Este,Matrimonial,estandar,158.16,Victor Quispe,Ate,Regular,2025-11-07
+22,2026-03-09,3,8,159.18,0,Telefono,Tarjeta,2,234.65,OK,Hotel 6,Callao,Este,Doble,estandar,159.18,Elena Reyes,Ate,Regular,2025-07-10
+23,2026/06/09,7,1,158.16,20,Telefono,Efectivo,3,307.49,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Camila Torres,callao,Frecuente,2025-12-06
+24,2026-05-25,5,1,158.16,,Telefono,PlIn,5,195.43,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Raul Quispe,Surco,Nuevo,2025-03-11
+25,2026-05-24,7,1,324.45,20 aprox,Presencial,Efectivo,4,404.88,Revisar,Hotel 1,LOS OLIVOS,Centro,Suite junior,Suite,324.45,Claudia Rojas,Callao,Corporativo,2025-12-01
+26,14-05-2026,2,2,351.23,20,presencial,Yape,1,400.38,Revisar,Hotel 7,  Miraflores ,  Oeste ,Bungalow,Especial,351.23,Miguel Huaman,Villa El Salvador,premium,2025-05-16
+27,2026-05-17,8 aprox,2,369.86,0,Presencial,Tarjeta,3,500.85,Cliente  frecuente,Hotel 1,LOS OLIVOS,Centro,Habitacion vista mar,,369.86,Pedro Quispe,Ate,Regular,2025-06-04
+28,2026-05-11,8,5,324.45,10,App,Efectivo,5,492.46,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Suite junior,Suite,324.45,Andre  Mendoza,Callao,Regular,2025-06-02
+29,2026-01-11,3,2,262.79,0,App,Tarjeta,1,368.25,,Hotel 3,Comas,Este,FAMILIAR,  Familiar ,262.79,Claudia Quispe,Independencia,Regular,2025-11-16
+30,19/01/2026,2,1,425.95,0,Web,Efectivo,5,494.42,OK,Hotel 1,LOS OLIVOS,Centro,Suite  ejecutiva,suite,425.95,Ana Mendoza,Independencia,,2025-06-19
+31,2026-06-05,2,, 290.5 ,8,Presencial,Efectivo,1,428.06,Cliente frecuente,Hotel 6,Callao,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,ElEnA ReYeS,Ate,Regular,2025-11-26
+32,2026-03-22,2,10,262.79,10,,Plin,1,1363.04,,Hotel 3,Comas,Este,FAMILIAR,  Familiar ,262.79,Camila Salazar,San Juan de Lurigancho,corporativo,2025-02-05
+33,2026-06-15,6,9,159.18,0 aprox,App,Transferencia,2,320.9,Revisar,Hotel 6,Callao,Este,Doble,estandar,159.18,Camila Navarro,CoMaS,Regular,2025/08/25
+34,2026/01/02,5,8,262.79,0,Presencial,Yape,3,,,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Valeria Paredes,VeNtAnIlLa,Corporativo,2025-10-10
+35,2026-04-24,5,7,"369,86",5,Presencial,Transferencia,5,458.84,,Hotel 4,Independencia,Norte,Habitacion vista mar,,369.86,Marco Salazar,Surco,Nuevo,02-01-2025
+36,2026/06/11,7,7,369.86 aprox,0,Presencial,efectivo,2, 452.47 ,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Habitacion vista mar,,369.86,ElEnA ReYeS,Ate,Regular,2025-11-26
+37,2026-05-27, 3 ,7,351.23,12,Telefono,Efectivo,2,435.37,Cliente frecuente,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,Pedro  Flores,san juan de lurigancho,Frecuente,2025-12-08
+38,2026-06-05,2,2,290.5,0,WhatsApp,Efectivo,4,330.61,  Cliente frecuente ,Hotel 3,Comas,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+39,2026-06-16,5 aprox,6,290.5,0,WhatsApp,Efectivo,2 aprox,400.93,OK,Hotel 7,  Miraflores ,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Pedro Quispe,Ate,Regular,2025-06-04
+40,2026-04-03, 3 ,7, 351.23 ,12,WhatsApp,Yape,2,394.7,,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,Pedro Quispe,Ate,Regular,2025-06-04
+41,2026-03-06,6,10,324.45,20,WhatsApp,Efectivo,3,425.96,OK,Hotel 6,Callao,Este,Suite junior,Suite,324.45,Andre Mendoza,La Molina,Frecuente,2025-09-13
+42,2026-05-24,1,1 aprox,159.18,15,App,Plin,2,180.44,Cliente frecuente,Hotel 5,Lima,Norte,Doble,estandar,159.18,Ana Paredes,Miraflores,Regular,2025-04-09
+43,2026-02-27,1 aprox,7, 158.16 ,0,Telefono,Tarjeta,1,264.68,Promocion,Hotel 1,LOS OLIVOS,Centro,Matrimonial,estandar,158.16,Camila Salazar,Ventanilla,Regular,2025-12-10
+44,14-03-2026,3,1,290.5,0,App,Yape,1,343.52,,Hotel 5,Lima,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Raul Campos,Surco,Regular,06/10/2025
+45,2026-02-08,8,9,290.5 aprox, 10 ,Presencial,Efectivo,1,492.36,,Hotel 5,Lima,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+46,2026-04-12,5, 5 ,351.23,0,WhatsApp,Tarjeta,2,410.22,Promocion,Hotel 5,Lima,Norte,Bungalow,Especial,351.23,Diana Cruz,La Molina,Corporativo,2025-06-02
+47,2026-05-27,1,5,159.18,8,  Presencial ,Tarjeta,3,275.22,Cliente frecuente,Hotel 7,  Miraflores ,  Oeste ,Doble,estandar,159.18,Jorge Salazar,Los Olivos,Nuevo,2025-06-21
+48,2026-05-04,3,10,351.23,5 aprox,Web,Transferencia,3,425.25,OK,Hotel 7,  Miraflores ,  Oeste ,Bungalow,Especial,351.23,Sofia Huaman,Chorrillos,Corporativo,2025-03-04
+49,2026-06-25,1 aprox,5,262.79,0 aprox,App,Efectivo,5,"284,67",Revisar,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Camila Sayan,Independencia,Nuevo,10-05-2025
+50,2026-03-18,1,6,,10,Presencial,Efectivo,4,449.48,Revisar,Hotel 7,  Miraflores ,  Oeste ,Suite  ejecutiva,suite,425.95,,San Miguel,Regular,2025-02-18
+51,2026-05-06,4,7,369.86,10,Presencial,Transferencia,5,417.72,Revisar,Hotel 7,  Miraflores ,  Oeste ,Habitacion vista mar,,369.86,Elena Campos,Ventanilla,Premium,2025-12-21
+52,2026-05-11,6,3, 159.18 ,8,WhatsApp,Efectivo,5 aprox,311.35,Cliente frecuente,Hotel 5,Lima,Norte,Doble,estandar,159.18,Sofia Torres,MIRAFLORES,Nuevo,2025-01-15
+53,2026-04-12,5, 5 ,351.23,0,WhatsApp,Tarjeta,2,410.22,Promocion,Hotel 5,Lima,Norte,Bungalow,Especial,351.23,Diana Cruz,La Molina,Corporativo,2025-06-02
+54,2026-06-14,1,5,262.79,0,TeLeFoNo,Plin,5,"239,76",Promocion,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Ana Salazar,Lima,nuevo, 2025-12-01 
+55,2026-03-13,5,1,262.79,0,App,Efectivo,3,351.28,Promocion,Hotel 7,  Miraflores ,  Oeste ,FAMILIAR,  Familiar ,262.79,Camila Salazar,San Juan de Lurigancho,corporativo,2025-02-05
+56,2026-04-07,6,5,425.95,0,Presencial,Transferencia,2,605.92,  Revisar ,Hotel 5,Lima,Norte,Suite  ejecutiva,suite,425.95,Ana Ramos,SaN MiGuEl,Premium,2025-03-02
+57,2026-04-22,2,9,425.95,0,WhatsApp,Yape,2,459.99,,Hotel 3,Comas,Este,Suite  ejecutiva,suite,425.95,Raul Quispe,Surco,Nuevo,2025-03-11
+58,2026-06-19,7,39.54,159.18,0,App,Yape,1,"443,76",Cliente frecuente,Hotel 6,Callao,Este,Doble,estandar,159.18,Pedro Mendoza,Miraflores,Regular,2025-04-28
+59,2026-02-07,1,10,159.18,0,Telefono,plin,4,277.96,Revisar,Hotel 7,  Miraflores ,  Oeste ,Doble,estandar,159.18,Raul Quispe,Surco,Nuevo,2025-03-11
+60,2026-01-19,5,,324.45,5,App,Efectivo,5,415.1,Cliente frecuente,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Jose Flores,La Molina,Regular, 2025-08-15 
+61,2026-06-20,5,1,159.18 aprox,0,WhatsApp,Plin,,977.08,Cliente frecuente,Hotel 4,Independencia,Norte,Doble,estandar,159.18,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+62,2026-01-03,5,4,,5,Web,TARJETA,2,217.93,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Doble,estandar,159.18,Fiorella Campos,Los Olivos,,2025-02-01
+63,17-05-2026,3,10,"425,95",15,Presencial,Yape, 3 ,546.66,Promocion,Hotel 3,Comas,Este,Suite  ejecutiva,suite,425.95,Jorge Salazar,Los Olivos,Nuevo,2025-06-21
+64,05-03-2026,8,4,88.18 aprox,0,Presencial,Tarjeta,5,216.87,Revisar,Hotel 3,Comas,Este,Simple,Estandar,88.18,Andre Cruz,SURCO,Nuevo,2025-04-02
+65,14-05-2026,2,2,351.23,20,presencial,Yape,1,400.38,Revisar,Hotel 7,  Miraflores ,  Oeste ,Bungalow,Especial,351.23,Miguel Huaman,Villa El Salvador,premium,2025-05-16
+66,,6,3,369.86,20,  App ,Yape,1,470.39,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Habitacion vista mar,,369.86,Pedro  Flores,san juan de lurigancho,Frecuente,2025-12-08
+67,2026-02-08,8,9,290.5 aprox, 10 ,Presencial,Efectivo,1,492.36,,Hotel 5,Lima,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+68,2026-01-19,2,2,351.23,5,Web,Yape,4,420.84,Revisar,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,Valeria Paredes,VeNtAnIlLa,Corporativo,2025-10-10
+69,2026-06-27,7,7,425.95,15,app,Transferencia,3,601.7,Cliente frecuente,Hotel 5,Lima,Norte,Suite  ejecutiva,suite,425.95,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+70,02-03-2026,4,8,159.18,8,WhatsApp,Yape,1,285.87,OK,Hotel 4,Independencia,Norte,Doble,estandar,159.18,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+71,2026-05-24,2, 8 ,290.5,10,Web,EFECTIVO,1,369.59,,Hotel 7,  Miraflores ,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Diana Cruz,La Molina,Corporativo,2025-06-02
+72,2026-03-16,3,4,369.86,0,WhatsApp,Transferencia,2,419.69,Revisar,Hotel 7,  Miraflores ,  Oeste ,Habitacion vista mar,,369.86,Diego Flores,La mOlInA,  Frecuente ,2025-07-06
+73,2026-06-10,8,2,158.16,15,Telefono,Transferencia, 2 ,349.61,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Diego Cruz,Miraflores,CORPORATIVO,2025-04-14
+74,2026-01-09,8,30.77,324.45,0,Presencial,Yape,4,590.06,,Hotel 1,LOS OLIVOS,Centro,Suite junior,Suite,324.45,Raul Ramos,Los Olivos,Regular,2025-04-23
+75,2026-06-04,8,5,S/ 369.86,0,App,Efectivo,3,562.56,OK,Hotel 3,Comas,Este,Habitacion vista mar,,369.86,Marco Soto,Callao,Corporativo,2025-04-02
+76,2026-05-26,8,1,324.45,0,TELEFONO,Yape,4,1581.05,Revisar,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Fiorella Ramos,Independencia,Premium,2025-05-21
+77,2026-01-15,1,10,262.79,0,Telefono,Tarjeta,1,330.9,  Revisar ,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Andre Soto,CALLAO,  Nuevo ,2025-02-16
+78, 2026-05-10 ,6,9,158.16,0,Telefono,Efectivo,3,329.04,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Raul Campos,Surco,Regular,06/10/2025
+79,2026-06-10,2 aprox,7,88.18,12,App,Transferencia,5,198.78,,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Andre Quispe,  Miraflores ,corporativo,2025-01-27
+80,2026-06-28,6,4,159.18,15,WhatsApp,Yape,3,330.44,OK,Hotel 2,SAN MIGUEL,  Oeste ,Doble,estandar,159.18,Camila Salazar,San Juan de Lurigancho,corporativo,2025-02-05
+81,2026-04-08,8,4,S/ 262.79,12,app,Efectivo,5,"417,9",Cliente frecuente,Hotel 5,Lima,Norte,FAMILIAR,  Familiar ,262.79,Pedro Mendoza,Miraflores,Regular,2025-04-28
+82,2026-03-28,4,2,88.18,0,Telefono,Tarjeta,3,151.33,Cliente frecuente,Hotel 5,Lima,Norte,Simple,Estandar,88.18,Andre Rojas,CHORRILLOS,Corporativo,2025-08-26
+83,2026-01-03,1,5,262.79,0 aprox,TeLeFoNo,Efectivo,3,371.03,,Hotel 6,Callao,Este,FAMILIAR,  Familiar ,262.79,Diego Flores,La mOlInA,  Frecuente ,2025-07-06
+84,2026-05-13,2,9,262.79,15,  Telefono ,Plin,1,370.01,REVISAR,Hotel 3,Comas,Este,FAMILIAR,  Familiar ,262.79,Claudia Sayan,  Villa El Salvador ,Corporativo,2025-06-07
+85,2026-06-23,5,3,324.45,20,WhatsApp,PLIN,1,398.01,Revisar,Hotel 7,  Miraflores ,  Oeste ,Suite junior,Suite,324.45,Andre Cruz,SURCO,Nuevo,2025-04-02
+86,2026-02-20,2,10,88.18, 0 ,Telefono,Efectivo,4,131.3,,Hotel 1,LOS OLIVOS,Centro,Simple,Estandar,88.18,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+87,2026-01-12,7,4,425.95,20,Telefono,Efectivo,5,556.87,OK,Hotel 7,  Miraflores ,  Oeste ,Suite  ejecutiva,suite,425.95,Rocio Rojas,Independencia,Premium,2025-07-23
+88,2026-03-16,4,9,369.86,0,Presencial,Tarjeta,2,423.17,Cliente frecuente,Hotel 4,Independencia,Norte,Habitacion vista mar,,369.86,Andre Soto,CALLAO,  Nuevo ,2025-02-16
+89,2026-01-25,1,5,290.5,12,Web,Plin,3,354.58,OK,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Elena Campos,Ventanilla,Premium,2025-12-21
+90,2026-03-28,5,9,324.45,10,Telefono,Plin,3,436.77,,Hotel 3,Comas,Este,Suite junior,Suite,324.45,Fiorella Reyes,independencia,Premium,2025-01-25
+91,2026-06-08,5,10,290.5, 15 ,Telefono,Tarjeta,4,362.96,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Pedro Mendoza,Miraflores,Regular,2025-04-28
+92,2026-06-04,5,5,"351,23",0,WhatsApp,Plin,4,444.11,,Hotel 3,Comas,Este,Bungalow,Especial,351.23,Victor Mendoza,Independencia,Premium,2025-05-06
+93,2026-03-25,3,10,324.45,0,WhatsApp,,1,433.39,Cliente frecuente,Hotel 7,  Miraflores ,  Oeste ,Suite junior,Suite,324.45,Diego Flores,La mOlInA,  Frecuente ,2025-07-06
+94,2026-01-14,7,7,159.18,20,Presencial,Plin,5,S/ 298.26,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,Doble,estandar,159.18,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+95,06/06/2026,2,,369.86,0,Telefono,Transferencia,1,412.86,Promocion,Hotel 3,Comas,Este,Habitacion vista mar,,369.86,Claudia Rojas,Callao,Corporativo,2025-12-01
+96,2026-03-09,7,8,369.86,8 aprox,whatsapp,Yape,2,514.19,OK,Hotel 5,Lima,Norte,Habitacion vista mar,,369.86,Andre Soto,CALLAO,  Nuevo ,2025-02-16
+97,2026-02-25,3,5,88.18,10,Presencial,  Plin ,1,173.41,Promocion,Hotel 3,Comas,Este,Simple,Estandar,88.18,Diana Campos,Ventanilla,Regular,2025-11-08
+98,2026-04-15,3,6,425.95,10,App,Yape,3,505.35,OK,Hotel 4,Independencia,Norte,Suite  ejecutiva,suite,425.95,Pedro Mendoza,Miraflores,Regular,2025-04-28
+99,2026-04-23,2,6,158.16,0,Telefono,Efectivo,1,240.0,Revisar,Hotel 1,LOS OLIVOS,Centro,Matrimonial,estandar,158.16,Claudia Flores,San Miguel,Premium,2025-11-12
+100,2026-04-26,2,10,290.5,15,App,Efectivo,1,S/ 317.02,Cliente frecuente,Hotel 2,SAN MIGUEL,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Diana Cruz,La Molina,Corporativo,2025-06-02
+101,2026-01-13,3,10,351.23,10,WhatsApp,Efectivo,1,471.38,Revisar,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,Jorge Navarro,Comas,Nuevo,2025-09-23
+102,2026-03-19,7,6,88.18,15,Web,Transferencia,2,223.58,Revisar,Hotel 1,LOS OLIVOS,Centro,Simple,Estandar,88.18,Ana Paredes,Miraflores,Regular,2025-04-09
+103,2026-01-01,5,9,425.95,0,App,PlIn,3, 604.28 ,Cliente frecuente,Hotel 3,Comas,Este,Suite  ejecutiva,suite,425.95,Pedro Navarro,Lima,Nuevo,2025-11-14
+104,02-04-2026,3,8,369.86,15,Web,  Yape ,5,438.62,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,Habitacion vista mar,,369.86,Sofia Ramos,Surco,Corporativo,2025-02-03
+105,2026-05-24,5,6,262.79,15,Web,Transferencia,4,376.79,,Hotel 3,Comas,Este,FAMILIAR,  Familiar ,262.79,Victor Castillo,  Ventanilla ,Nuevo,2025-08-24
+106,2026-05-17,1,5 aprox, 158.16 ,12,App,Tarjeta,5,264.32,OK,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Raul Quispe,Surco,Nuevo,2025-03-11
+107,2026-05-09,6,7,369.86,5,presencial,TaRjEtA,3,451.8,OK,Hotel 1,LOS OLIVOS,Centro,Habitacion vista mar,,369.86,Elena Campos,Ventanilla,Premium,2025-12-21
+108,2026-03-02,6,5,324.45,12,Web,Yape,5,"445,17",,Hotel 6,Callao,Este,Suite junior,Suite,324.45,Jorge Navarro,Independencia,Corporativo,2025-07-06
+109,2026-01-21,8,9,290.5 aprox,20,Telefono,Efectivo,5,408.1,,Hotel 4,Independencia,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Ana Ramos,SaN MiGuEl,Premium,2025-03-02
+110,2026-02-26,8 aprox,10 aprox,425.95,10,Presencial,Plin,1,576.54,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Suite  ejecutiva,suite,425.95,Sofia Torres,MIRAFLORES,Nuevo,2025-01-15
+111,2026-05-01,8,5,262.79,0,Telefono,  Yape , 3 ,420.92,Cliente frecuente,Hotel 6,Callao,Este,FAMILIAR,  Familiar ,262.79,Jorge Quispe,Chorrillos,Regular,2025-12-25
+112,2026-05-13,5,8,,20,Telefono,Efectivo,1,415.75 aprox,Cliente frecuente,Hotel 2,SAN MIGUEL,  Oeste ,Suite junior,Suite,324.45,Camila Soto,San Juan de Lurigancho,Regular,2025-04-07
+113,2026-01-28,7,10,262.79,0,Presencial,EfEcTiVo,3,434.47,Cliente frecuente,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Valeria Huaman,miraflores,NuEvO,2025-01-22
+114,2026-06-25,2,7,88.18,0,Web,Yape,4,142.64,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,Simple,Estandar,88.18,Andre Quispe,  Miraflores ,corporativo,2025-01-27
+115,2026-02-15,3,6,88.18,20,Web,TrAnSfErEnCiA,4,150.75,,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,claudia navarro,Villa El Salvador,Frecuente,2025-03-01
+116,2026-04-07,4,12.45,88.18,0,Presencial,Efectivo,2,225.87,OK,Hotel 6,Callao,Este,Simple,Estandar,88.18,Andre Rojas,CHORRILLOS,Corporativo,2025-08-26
+117,14-03-2026, 5 ,8,159.18,12,Telefono,Transferencia,1,249.35,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Doble,estandar,159.18,Elena Flores,Miraflores,Corporativo,2025-11-09
+118,2026-04-04,8,5,290.5,15,Web,Efectivo,1,453.17,Promocion,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Jorge Navarro,Independencia,Corporativo,2025-07-06
+119,2026-01-03,6,23.71,425.95,10,App,Efectivo,3,634.55,Revisar,Hotel 4,Independencia,Norte,Suite  ejecutiva,suite,425.95,Victor Castillo,  Ventanilla ,Nuevo,2025-08-24
+120,,1,5,290.5,0,Telefono,Yape,3,330.88,Revisar,Hotel 7,  Miraflores ,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Valeria Huaman,miraflores,NuEvO,2025-01-22
+121,2026-03-24,7,8,425.95,0,Presencial,,3,534.44,Cliente frecuente,Hotel 6,Callao,Este,Suite  ejecutiva,suite,425.95,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+122,2026-06-18,3,8,262.79,8,WEB,Efectivo,2,354.29,Revisar,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Victor Campos,Lima,frecuente,2025-03-03
+123,2026-02-11,1,7,351.23,15,Telefono,Tarjeta,1,447.17,Promocion,Hotel 6,Callao,Este,Bungalow,Especial,351.23,Diana Campos,Ventanilla,Regular,2025-11-08
+124,2026-01-18,1,7,425.95,5,Presencial,Transferencia,3,462.0,OK,Hotel 1,LOS OLIVOS,Centro,Suite  ejecutiva,suite,425.95,Victor Castillo,  Ventanilla ,Nuevo,2025-08-24
+125,2026-02-02,6,8,324.45,8,Telefono,Plin,5,479.04,Promocion,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Miguel Huaman,Villa El Salvador,premium,2025-05-16
+126,2026-04-02,7,5,159.18,0,Telefono,Efectivo,4,268.56,,Hotel 5,Lima,Norte,Doble,estandar,159.18,Fiorella Flores,San Juan de Lurigancho,Premium,2025-01-21
+127,2026-05-02,2,10,,12,,TRANSFERENCIA,5,455.74,Revisar,Hotel 6,Callao,Este,Suite junior,Suite,324.45,Elena Reyes,Independencia,Frecuente,2025-09-21
+128,2026-04-05,7,,290.5,0,Presencial,yape,5,355.29 aprox,Revisar,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,,Surco,Premium,2025-12-25
+129,2026-03-06,4,4,88.18,0,Presencial,Transferencia, 2 ,"129,21",Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Diana Ramos,Villa El Salvador,Corporativo,2025-09-15
+130,2026-03-12,7,5,158.16,20,Telefono,Yape,5,277.6,,Hotel 7,  Miraflores ,  Oeste ,Matrimonial,estandar,158.16,Diana Castillo,lima,Corporativo,2025-08-12
+131,2026-04-08,1,2,369.86,0,  Web ,Transferencia, 4 ,401.45,Revisar,Hotel 7,  Miraflores ,  Oeste ,Habitacion vista mar,,369.86,Camila Salazar,San Juan de Lurigancho,corporativo,2025-02-05
+132,2026-05-23,7,4,369.86,20,WhatsApp,Tarjeta,5,432.34,Cliente frecuente,Hotel 6,Callao,Este,Habitacion vista mar,,369.86,Valeria Paredes,VeNtAnIlLa,Corporativo,2025-10-10
+133,2026-06-03,3, 6 ,159.18,20,WhatsApp,Plin,2,256.67,Revisar,Hotel 7,  Miraflores ,  Oeste ,Doble,estandar,159.18,Pedro  Flores,san juan de lurigancho,Frecuente,2025-12-08
+134,,4,1,290.5,10,Presencial,Plin,4,351.98,OK,Hotel 2,SAN MIGUEL,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Valeria Vargas,San  Juan  de  Lurigancho,Premium,2025-02-19
+135,09/02/2026,6,4,158.16,5 aprox,whatsapp,TrAnSfErEnCiA,3,258.2,Promocion,Hotel 4,Independencia,Norte,Matrimonial,estandar,158.16,Elena Reyes,Ate,Regular,2025-07-10
+136,2026-03-11,6, 2 ,262.79,20 aprox,Presencial,Efectivo, 2 ,377.62,,Hotel 5,Lima,Norte,FAMILIAR,  Familiar ,262.79,Raul Ramos,Los Olivos,Regular,2025-04-23
+137,2026-04-12,8,9,S/ 290.5,5,,Plin,1,403.53,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Miguel Gomez,  Los Olivos ,Nuevo,2025-12-28
+138,2026-04-07,6,1,88.18,15,Presencial,Transferencia,4,,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Diana Ramos,Villa El Salvador,Corporativo,2025-09-15
+139,2026-02-23,2,10,324.45,0,WhatsApp,Tarjeta,3,348.27,promocion,Hotel 3,Comas,Este,Suite junior,Suite,324.45,Andre  Mendoza,Callao,Regular,2025-06-02
+140,2026-01-22,,9,351.23,0,WhatsApp,Yape,3,463.99 aprox,Promocion,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+141,2026-02-06, 2 ,5 aprox,"351,23",12,Telefono,Transferencia,1,392.32,,Hotel 7,  Miraflores ,  Oeste ,Bungalow,Especial,351.23,Camila Torres,callao,Frecuente,2025-12-06
+142, 2026-06-18 ,5,5,369.86 aprox,0,Web,Yape,4,461.74,Promocion,Hotel 6,Callao,Este,Habitacion vista mar,,369.86,Maria Gomez,SaN JuAn dE LuRiGaNcHo,Frecuente,2025-06-20
+143,2026-02-05,1,3,324.45, 15 ,Telefono,Plin,2,1447.52,Promocion,Hotel 1,LOS OLIVOS,Centro,Suite junior,Suite,324.45,,San Miguel,Regular,2025-02-18
+144,2026-03-19,4,6,88.18, 20 ,Telefono,Tarjeta,5,271.22,Cliente frecuente,Hotel 5,Lima,Norte,Simple,Estandar,88.18,Andre Soto,Ventanilla,  Frecuente ,2025-02-08
+145,2026-02-11,4,8 aprox,"159,18",8,Presencial,Plin,5,241.74,,Hotel 3,Comas,Este,Doble,estandar,159.18,Miguel Huaman,Villa El Salvador,premium,2025-05-16
+146,2026-04-16,7,5,369.86,0,web,Plin,5,526.93,REVISAR,Hotel 7,  Miraflores ,  Oeste ,Habitacion vista mar,,369.86,Diego Flores,La mOlInA,  Frecuente ,2025-07-06
+147,2026-04-28,1 aprox,10,351.23 aprox,15,App,Efectivo,2,416.86,,Hotel 1,LOS OLIVOS,Centro,Bungalow,Especial,351.23,Jorge Quispe,Chorrillos,Regular,2025-12-25
+148,2026/03/27,5,5,158.16,0,Web,Tarjeta,4,255.28,,Hotel 1,LOS OLIVOS,Centro,Matrimonial,estandar,158.16,Victor Quispe,Ate,Regular,2025-11-07
+149,2026-04-25,1,10 aprox,425.95 aprox,8,WhatsApp,Yape,1,460.0,,Hotel 5,Lima,Norte,Suite  ejecutiva,suite,425.95,Jorge Quispe,Chorrillos,Regular,2025-12-25
+150,2026-02-03,3,2,88.18,20,Telefono,  Plin ,1,122.01,Promocion,Hotel 3,Comas,Este,Simple,Estandar,88.18,Victor Castillo,  Ventanilla ,Nuevo,2025-08-24
+151,2026-05-25, 3 ,6 aprox,262.79,15,Presencial,PlIn,1,309.97,,Hotel 1,LOS OLIVOS,Centro,FAMILIAR,  Familiar ,262.79,Claudia Flores,San Miguel,Premium,2025-11-12
+152,2026-06-12,3,5,369.86,8,Presencial,tarjeta,2, 450.51 ,OK,Hotel 1,LOS OLIVOS,Centro,Habitacion vista mar,,369.86,Maria Soto,San Miguel,FRECUENTE,2025-11-02
+153,2026-06-14,6,8,88.18,8,Telefono,EFECTIVO,4,165.71,,Hotel 3,Comas,Este,Simple,Estandar,88.18,Valeria Vargas,San  Juan  de  Lurigancho,Premium,2025-02-19
+154,2026-01-26,7,6,159.18,0,Presencial,Transferencia,2,266.45,Cliente frecuente,Hotel 3,Comas,Este,Doble,estandar,159.18,CaRlOs fLoReS,San Miguel,CORPORATIVO,2025-01-14
+155,2026-02-07,3,3,324.45,15,Presencial,Efectivo,2,433.62,,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Lucia Mendoza,Ate,Corporativo,2025-05-28
+156,2026-04-14,5,1,290.5,0,Telefono,Yape,2,397.3,Promocion,Hotel 7,  Miraflores ,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Jorge Salazar,Los Olivos,Nuevo,2025-06-21
+157,2026-02-15,6, 3 ,425.95,0,,Efectivo,4,531.25,Cliente frecuente,Hotel 7,  Miraflores ,  Oeste ,Suite  ejecutiva,suite,425.95,Diana Cruz,La Molina,Corporativo,2025-06-02
+158,2026-04-17,4,3,159.18,5,WhatsApp,Yape,2,273.91,,Hotel 2,SAN MIGUEL,  Oeste ,Doble,estandar,159.18,Claudia Flores,San Miguel,Premium,2025-11-12
+159,2026-04-04,2,7,425.95,15,WhatsApp,Efectivo,2,512.82,OK,Hotel 5,Lima,Norte,Suite  ejecutiva,suite,425.95,Diana Campos,Ventanilla,Regular,2025-11-08
+160,2026-04-18,3,5,262.79, 5 ,Telefono,Yape,5,411.21,promocion,Hotel 7,  Miraflores ,  Oeste ,FAMILIAR,  Familiar ,262.79,Victor Quispe,Ate,Regular,2025-11-07
+161,,7,5,88.18 aprox,10 aprox,WhatsApp,Plin,5,206.82,Revisar,Hotel 7,  Miraflores ,  Oeste ,Simple,Estandar,88.18,Jose Flores,La Molina,Regular, 2025-08-15 
+162,2026-06-11,2,10,159.18 aprox,20,WhatsApp,Transferencia,4,299.86,Revisar,Hotel 3,Comas,Este,Doble,estandar,159.18,Miguel Huaman,Villa El Salvador,premium,2025-05-16
+163,2026-04-01,4,,262.79,5,WhatsApp,,3,,Cliente frecuente,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Andre Mendoza,La Molina,Frecuente,2025-09-13
+164,2026-05-08,3,4, 290.5 ,0,Telefono,Yape,5,279.34,ok,Hotel 4,Independencia,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Fiorella Campos,Los Olivos,,2025-02-01
+165,23/03/2026, 6 ,10,88.18,15,Presencial,Yape,2,198.31,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Lucia Mendoza,Ate,Corporativo,2025-05-28
+166,2026-05-05,8,,S/ 351.23, 0 ,TELEFONO,Plin,1,452.04,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Bungalow,Especial,351.23,Elena Flores,Miraflores,Corporativo,2025-11-09
+167,2026-01-27,8,6,324.45 aprox,0,Web,Transferencia,1,453.09,Promocion,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Diego Cruz,Miraflores,CORPORATIVO,2025-04-14
+168,2026-04-03,2,5,158.16,0,Web,Tarjeta,5,214.29,OK,Hotel 6,Callao,Este,Matrimonial,estandar,158.16,Jorge Reyes,Callao,Corporativo,2025-11-26
+169,2026-03-24,2,2,159.18,8,ApP,Efectivo,3,254.45,,Hotel 6,Callao,Este,Doble,estandar,159.18,Victor Quispe,Ate,Regular,2025-11-07
+170,2026-03-01,7,7,425.95,0,Telefono,  Plin ,3,"547,4",Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,Suite  ejecutiva,suite,425.95,ElEnA ReYeS,Ate,Regular,2025-11-26
+171,10/06/2026,5,1,425.95,12,Telefono,Transferencia,3,545.41,Promocion,Hotel 6,Callao,Este,Suite  ejecutiva,suite,425.95,Claudia Rojas,Callao,Corporativo,2025-12-01
+172,2026-05-27,2,10,158.16,12,WhatsApp,Efectivo,4,317.28,,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Claudia Rojas,Callao,Corporativo,2025-12-01
+173,14-05-2026,2,2,351.23,20,presencial,Yape,1,400.38,Revisar,Hotel 7,  Miraflores ,  Oeste ,Bungalow,Especial,351.23,Miguel Huaman,Villa El Salvador,premium,2025-05-16
+174,2026-04-05,1,10,351.23 aprox,,Web,Yape,5,527.73,,Hotel 5,Lima,Norte,Bungalow,Especial,351.23,Victor Reyes,Miraflores,NUEVO,2025-10-20
+175,2026-06-19,7,3,351.23 aprox,8,WhatsApp,Tarjeta,4,456.93,,Hotel 2,SAN MIGUEL,  Oeste ,Bungalow,Especial,351.23,Maria Soto,San Miguel,FRECUENTE,2025-11-02
+176,2026-02-25, 1 ,2 aprox,324.45,12,presencial,Efectivo,4 aprox,364.46,REVISAR,Hotel 5,Lima,Norte,Suite junior,Suite,324.45,Fiorella Reyes,independencia,Premium,2025-01-25
+177,13/01/2026,8,3,351.23,5,Presencial,Yape,1,483.82,,Hotel 6,Callao,Este,Bungalow,Especial,351.23,Valeria Huaman,miraflores,NuEvO,2025-01-22
+178,2026-01-09,1,1,324.45,15 aprox,Telefono,Yape,1,351.9,OK,Hotel 1,LOS OLIVOS,Centro,Suite junior,Suite,324.45,,Surco,Premium,2025-12-25
+179,2026-05-12,8, 10 ,290.5,8,Web,Tarjeta,5,385.63,OK,Hotel 2,SAN MIGUEL,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+180,2026-03-18,7,2,,10,TeLeFoNo,Plin,4,512.66,,Hotel 5,Lima,Norte,Suite  ejecutiva,suite,425.95,Sofia Huaman,Chorrillos,Corporativo,2025-03-04
+181,2026/05/25,3,10,324.45,8,Presencial,Yape,4 aprox,382.01,OK,Hotel 1,LOS OLIVOS,Centro,Suite junior,Suite,324.45,Sofia Ramos,Surco,Corporativo,2025-02-03
+182,2026-06-15,,6,324.45,0,Presencial,Transferencia,3,458.11,Revisar,Hotel 7,  Miraflores ,  Oeste ,Suite junior,Suite,324.45,Valeria Huaman,miraflores,NuEvO,2025-01-22
+183,2026-05-02,8, 6 ,290.5,5,WhatsApp,yape,5,469.49,,Hotel 4,Independencia,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Rocio Salazar,San Miguel,Corporativo,2025-05-21
+184,2026-01-19,3,6 aprox,S/ 88.18,12,  Web ,Tarjeta,3, 174.49 ,OK,Hotel 7,  Miraflores ,  Oeste ,Simple,Estandar,88.18,Raul Ramos,Los Olivos,Regular,2025-04-23
+185,2026-06-13,2,8,290.5,0,App,,2,354.6,OK,Hotel 3,Comas,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Victor Castillo,  Ventanilla ,Nuevo,2025-08-24
+186,2026-01-03,6,5,"369,86",0,Web,Plin,5,527.57,Revisar,Hotel 4,Independencia,Norte,Habitacion vista mar,,369.86,Andre Mendoza,La Molina,Frecuente,2025-09-13
+187,2026-06-16,8,7,88.18, 8 ,Telefono,Transferencia,2,273.54,,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Ana Ramos,SaN MiGuEl,Premium,2025-03-02
+188,2026-03-26,2,10,290.5 aprox,10,Web,Transferencia,1,374.09,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Ana Ramos,SaN MiGuEl,Premium,2025-03-02
+189,2026-01-20,7,1,324.45,12 aprox,Telefono,Efectivo,1,"436,62",Cliente frecuente,Hotel 6,Callao,Este,Suite junior,Suite,324.45,Camila Navarro,CoMaS,Regular,2025/08/25
+190,2026-05-13,1,8, 351.23 ,5,APP,,4,403.53,,Hotel 1,LOS OLIVOS,Centro,Bungalow,Especial,351.23,Victor Castillo,  Ventanilla ,Nuevo,2025-08-24
+191,2026-05-08,7,4,"290,5",8,App,Yape,4,422.33,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Pedro Quispe,Ate,Regular,2025-06-04
+192,,1,,88.18,5,TELEFONO,  Efectivo , 4 ,170.34,Cliente frecuente,Hotel 3,Comas,Este,Simple,Estandar,88.18,Maria Soto,San Miguel,FRECUENTE,2025-11-02
+193,2026-01-14,2,5,369.86,5,TeLeFoNo,Plin,1,419.2,Promocion,Hotel 5,Lima,Norte,Habitacion vista mar,,369.86,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+194,2026-05-24,3,3,324.45,0,Telefono,Plin,1,444.14,,Hotel 6,Callao,Este,Suite junior,Suite,324.45,Fiorella Campos,Los Olivos,,2025-02-01
+195,2026-01-23,2,2,159.18,0,WhatsApp,  Transferencia ,,200.67,,Hotel 4,Independencia,Norte,Doble,estandar,159.18,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+196,2026-04-06,4,7,158.16,12,WhatsApp,Transferencia,,245.78,ClIeNtE FrEcUeNtE,Hotel 6,Callao,Este,Matrimonial,estandar,158.16,Ana Mendoza,Independencia,,2025-06-19
+197,2026-06-09,7, 1 ,425.95,0,App,Transferencia,3,520.05,Promocion,Hotel 7,  Miraflores ,  Oeste ,Suite  ejecutiva,suite,425.95,Jorge Navarro,Comas,Nuevo,2025-09-23
+198,2026-05-08,5,2,159.18,20,Telefono,Efectivo,3, 213.61 ,Revisar,Hotel 5,Lima,Norte,Doble,estandar,159.18,Fiorella Ramos,Independencia,Premium,2025-05-21
+199,2026-03-18,8, 6 ,369.86 aprox,12,WhatsApp,Tarjeta,1 aprox,493.1,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Habitacion vista mar,,369.86,Diego Flores,La mOlInA,  Frecuente ,2025-07-06
+200,2026-01-15,4,9,351.23,12,Web,Yape,5,498.93,OK,Hotel 3,Comas,Este,Bungalow,Especial,351.23,Claudia Quispe,Independencia,Regular,2025-11-16
+201,2026-06-24,8,6,369.86,0,Web,Efectivo,4,539.01,Revisar,Hotel 1,LOS OLIVOS,Centro,Habitacion vista mar,,369.86,Sofia Huaman,Chorrillos,Corporativo,2025-03-04
+202, 2026-03-12 ,7, 3 ,,5,Telefono,Tarjeta,3,327.0,OK,Hotel 1,LOS OLIVOS,Centro,Doble,estandar,159.18,Elena Campos,Ventanilla,Premium,2025-12-21
+203,2026-06-02,1,7,262.79,0,Presencial,Plin,5, 321.44 ,  Cliente frecuente ,Hotel 5,Lima,Norte,FAMILIAR,  Familiar ,262.79,Andre Cruz,SURCO,Nuevo,2025-04-02
+204,2026-06-18,3,3,425.95,0,Web,Efectivo,2,"488,32",,Hotel 5,Lima,Norte,Suite  ejecutiva,suite,425.95,Ana Ramos,SaN MiGuEl,Premium,2025-03-02
+205,2026-06-11,2,10,159.18 aprox,20,WhatsApp,Transferencia,4,299.86,Revisar,Hotel 3,Comas,Este,Doble,estandar,159.18,Miguel Huaman,Villa El Salvador,premium,2025-05-16
+206,2026-06-18,7,9,351.23,8,WEB,Yape,4,559.07,REVISAR,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+207,2026-01-21,5,1,,20,Telefono,Tarjeta,5,386.21,Cliente frecuente,Hotel 6,Callao,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Camila Navarro,CoMaS,Regular,2025/08/25
+208,24-04-2026,8,8,369.86,0,Presencial,Plin,5,511.87,Promocion,Hotel 4,Independencia,Norte,Habitacion vista mar,,369.86,Jorge Reyes,Callao,Corporativo,2025-11-26
+209,2026-05-23,8,7,351.23,12,App,Tarjeta,5,578.65,,Hotel 7,  Miraflores ,  Oeste ,Bungalow,Especial,351.23,Marco Soto,Callao,Corporativo,2025-04-02
+210,2026-06-14,,6,S/ 425.95,15,  Web ,Efectivo,2,647.07,,Hotel 5,Lima,Norte,Suite  ejecutiva,suite,425.95,Andre Rojas,CHORRILLOS,Corporativo,2025-08-26
+211,2026-05-08,7,2,290.5,0,Presencial,Transferencia,1,405.42,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Miguel Campos,Villa  El  Salvador,Nuevo,2025-08-26
+212,2026-01-05,3,9,88.18,12,App,YAPE,2,185.66,OK,Hotel 6,Callao,Este,Simple,Estandar,88.18,Camila Navarro,CoMaS,Regular,2025/08/25
+213,2026-06-21,6,7,324.45,10,App,,1,442.33,REVISAR,Hotel 5,Lima,Norte,Suite junior,Suite,324.45,Camila Sayan,Independencia,Nuevo,10-05-2025
+214,2026/03/03,6,9,158.16,5,WhatsApp,Plin,5, 412.36 ,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Jorge Navarro,Comas,Nuevo,2025-09-23
+215, 2026-01-26 ,2,7,S/ 290.5,0,Web,Transferencia,2,405.49,,Hotel 7,  Miraflores ,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Miguel Gomez,  Los Olivos ,Nuevo,2025-12-28
+216,2026-04-04,2,1,324.45,5,Presencial,Plin,1,364.6,Revisar,Hotel 6,Callao,Este,Suite junior,Suite,324.45,,Surco,Premium,2025-12-25
+217,2026-06-05,8,7,290.5,0,WhatsApp,Plin,2,501.11,,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Lucia Mendoza,Ate,Corporativo,2025-05-28
+218,,,8,158.16,12,Telefono,  Efectivo ,5,254.71,,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Jorge Navarro,Comas,Nuevo,2025-09-23
+219,2026-02-12,8,4, 262.79 ,0,App,Yape,5,379.89,OK,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Ana Salazar,Lima,nuevo, 2025-12-01 
+220,2026-04-06,8,10,158.16,20,Telefono,Efectivo,2,,Cliente frecuente,Hotel 4,Independencia,Norte,Matrimonial,estandar,158.16,Sofia Ramos,Surco,Corporativo,2025-02-03
+221,2026-01-15,8,3,262.79,15,App,Plin,3,331.41,promocion,Hotel 7,  Miraflores ,  Oeste ,FAMILIAR,  Familiar ,262.79,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+222,2026/04/03,4,2,425.95,0,WhatsApp,Efectivo,5,499.65 aprox,PrOmOcIoN,Hotel 1,LOS OLIVOS,Centro,Suite  ejecutiva,suite,425.95,Sofia Torres,MIRAFLORES,Nuevo,2025-01-15
+223,18-03-2026,1,3,425.95,20,Web,efectivo,4,,,Hotel 3,Comas,Este,Suite  ejecutiva,suite,425.95,Pedro Navarro,Lima,Nuevo,2025-11-14
+224,2026-06-14,1,5,262.79,0,TeLeFoNo,Plin,5,"239,76",Promocion,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Ana Salazar,Lima,nuevo, 2025-12-01 
+225,2026-05-21,5 aprox,8,S/ 351.23,15,App,Transferencia,2,465.91,Cliente frecuente,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,Diego Flores,La mOlInA,  Frecuente ,2025-07-06
+226,2026-04-04,3,5,262.79,10 aprox,  Web ,Yape,1,359.96,Promocion,Hotel 3,Comas,Este,FAMILIAR,  Familiar ,262.79,Camila Navarro,CoMaS,Regular,2025/08/25
+227,2026-06-27,8,7,324.45,10 aprox,Presencial,Tarjeta,1,471.89,OK,Hotel 3,Comas,Este,Suite junior,Suite,324.45,,San Miguel,Regular,2025-02-18
+228,2026-01-18, 7 ,9,369.86,0,Web,Tarjeta,5,524.09,,Hotel 4,Independencia,Norte,Habitacion vista mar,,369.86,Jorge Navarro,Comas,Nuevo,2025-09-23
+229,2026-02-20,8,8,158.16,15,WhatsApp,Efectivo,4,297.35,,Hotel 3,Comas,Este,Matrimonial,estandar,158.16,claudia navarro,Villa El Salvador,Frecuente,2025-03-01
+230,2026-04-24,1,36.92,425.95,12,WhatsApp,Transferencia,4,591.39,,Hotel 3,Comas,Este,Suite  ejecutiva,suite,425.95,Miguel Gomez,  Los Olivos ,Nuevo,2025-12-28
+231,,1,5,"351,23",0,Web,Tarjeta,5,357.13,Cliente frecuente,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,Claudia Sayan,  Villa El Salvador ,Corporativo,2025-06-07
+232,2026-03-26,6,3,159.18,5,Web,Transferencia,2,269.54,,Hotel 5,Lima,Norte,Doble,estandar,159.18,Elena Reyes,Independencia,Frecuente,2025-09-21
+233,2026-01-12,5,1,"158,16",0,WhatsApp,Efectivo,3,"265,12",Revisar,Hotel 3,Comas,Este,Matrimonial,estandar,158.16,Diana Campos,Ventanilla,Regular,2025-11-08
+234,2026-02-19,5,1,290.5,12,WhatsApp,Yape,4,263.73,Cliente frecuente,Hotel 4,Independencia,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Victor Reyes,Miraflores,NUEVO,2025-10-20
+235,2026-03-14,6,10,290.5,20,Web,Yape,5,378.56,Revisar,Hotel 7,  Miraflores ,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+236,2026-02-16,4,6,262.79,0,  App ,Yape,,369.45,Promocion,Hotel 7,  Miraflores ,  Oeste ,FAMILIAR,  Familiar ,262.79,,Surco,Premium,2025-12-25
+237,2026-06-07,6,3,88.18 aprox,15,  WhatsApp ,Plin,4,243.21,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Sofia Huaman,Chorrillos,Corporativo,2025-03-04
+238,2026-06-08,1,10,159.18,0,Presencial,Plin,3,238.51,Cliente frecuente,Hotel 6,Callao,Este,Doble,estandar,159.18,Camila Soto,San Juan de Lurigancho,Regular,2025-04-07
+239,24-03-2026,1,4,262.79,0,App,Plin,5,,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,FAMILIAR,  Familiar ,262.79,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+240,26/01/2026,7,2,S/ 369.86,15,Telefono,efectivo,4,,,Hotel 6,Callao,Este,Habitacion vista mar,,369.86,Fiorella Castillo,La Molina,  Corporativo ,2025-08-26
+241,2026-05-13,6,9,S/ 262.79,12,WeB,Efectivo,,361.3,promocion,Hotel 7,  Miraflores ,  Oeste ,FAMILIAR,  Familiar ,262.79,Jorge Navarro,Independencia,Corporativo,2025-07-06
+242,2026-05-05,4,6,158.16,5,  App ,Tarjeta,1,261.9,OK,Hotel 6,Callao,Este,Matrimonial,estandar,158.16,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+243,2026-06-06,3,4 aprox,324.45,0,Telefono,Tarjeta,4,356.17,  OK ,Hotel 1,LOS OLIVOS,Centro,Suite junior,Suite,324.45,Pedro  Flores,san juan de lurigancho,Frecuente,2025-12-08
+244,2026-04-01,5,5,369.86,0,Telefono,Efectivo,4,403.56,OK,Hotel 5,Lima,Norte,Habitacion vista mar,,369.86,Elena Flores,Miraflores,Corporativo,2025-11-09
+245,2026-06-13, 3 ,6,S/ 369.86,12,Presencial,Tarjeta,5,417.23,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Habitacion vista mar,,369.86,Claudia Sayan,  Villa El Salvador ,Corporativo,2025-06-07
+246,,8,1,,8,WhatsApp,Transferencia,4,480.19,,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+247,2026-02-14,7,4,158.16,0,WhatsApp,Tarjeta,5,334.97,OK,Hotel 5,Lima,Norte,Matrimonial,estandar,158.16,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+248,2026-02-05,1,7,290.5 aprox,12,App,Efectivo,1,370.72,Promocion,Hotel 5,Lima,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Victor Campos,Lima,frecuente,2025-03-03
+249,2026-05-08,7,2,290.5,0,Presencial,Transferencia,1,405.42,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Miguel Campos,Villa  El  Salvador,Nuevo,2025-08-26
+250,2026-05-07, 2 ,3,290.5,5,App,Yape,3,354.35,Promocion,Hotel 3,Comas,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+251,2026-06-22,7,9,290.5,12,Web,Tarjeta,4,499.42,Revisar,Hotel 4,Independencia,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Andre Quispe,  Miraflores ,corporativo,2025-01-27
+252,2026-02-09,5,10 aprox,425.95,12,whatsapp,Plin,1,,Promocion,Hotel 1,LOS OLIVOS,Centro,Suite  ejecutiva,suite,425.95,Jorge Reyes,Callao,Corporativo,2025-11-26
+253,2026-05-28,,8,369.86,0,Presencial,efectivo, 4 ,484.17,Cliente frecuente,Hotel 5,Lima,Norte,Habitacion vista mar,,369.86,Jose Flores,La Molina,Regular, 2025-08-15 
+254,2026-02-15,3,5,324.45 aprox, 5 ,PrEsEnCiAl,Efectivo,1,347.32,Promocion,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Diana Castillo,lima,Corporativo,2025-08-12
+255,2026-06-09,7,7,324.45 aprox,12,Presencial,EFECTIVO,1,461.5,,Hotel 1,LOS OLIVOS,Centro,Suite junior,Suite,324.45,Diego Cruz,Miraflores,CORPORATIVO,2025-04-14
+256,2026-04-18,1,4,351.23, 0 ,Web,Efectivo,1,379.06,,Hotel 6,Callao,Este,Bungalow,Especial,351.23,Camila Salazar,San Juan de Lurigancho,corporativo,2025-02-05
+257,2026-03-08,6,7,159.18,12,  Web ,TrAnSfErEnCiA,5,239.47,Cliente frecuente,Hotel 4,Independencia,Norte,Doble,estandar,159.18,,Surco,Premium,2025-12-25
+258,2026-01-18,2,10,290.5,15,WhatsApp,Plin,3,418.33,,Hotel 6,Callao,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+259,2026-04-08,4,1,425.95, 10 ,Presencial,Efectivo,1,531.68,Promocion,Hotel 3,Comas,Este,Suite  ejecutiva,suite,425.95,Jorge Navarro,Comas,Nuevo,2025-09-23
+260,2026-02-18, 2 ,6,262.79,15,Telefono,Yape,5 aprox,365.01,,Hotel 5,Lima,Norte,FAMILIAR,  Familiar ,262.79,Jorge Reyes,Callao,Corporativo,2025-11-26
+261,2026-01-05,2,9,324.45,12 aprox,Web,Transferencia,5,401.17,Revisar,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Camila Navarro,CoMaS,Regular,2025/08/25
+262,2026-05-14,4,10,88.18,12,web,Efectivo,4,,CLIENTE FRECUENTE,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Camila Torres,callao,Frecuente,2025-12-06
+263,2026-01-18,6,8 aprox,262.79,15,Presencial,Yape,3,406.36,,Hotel 3,Comas,Este,FAMILIAR,  Familiar ,262.79,Victor Campos,Lima,frecuente,2025-03-03
+264,2026-06-24,8,10,425.95,10,App,Plin,,564.83,OK,Hotel 4,Independencia,Norte,Suite  ejecutiva,suite,425.95,Maria Gomez,SaN JuAn dE LuRiGaNcHo,Frecuente,2025-06-20
+265,2026-04-13,4,6,290.5,8,App,Yape,3,365.91,Promocion,Hotel 4,Independencia,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,claudia navarro,Villa El Salvador,Frecuente,2025-03-01
+266,2026-01-08,,1,369.86,,WhatsApp,Plin,5,392.06,Revisar,Hotel 6,Callao,Este,Habitacion vista mar,,369.86,Andre  Mendoza,Callao,Regular,2025-06-02
+267,2026-06-14,8,10,88.18,20,Telefono,Tarjeta,5,275.59,Cliente frecuente,Hotel 3,Comas,Este,Simple,Estandar,88.18,Maria Soto,San Miguel,FRECUENTE,2025-11-02
+268,2026-06-28,5,2,425.95,,Telefono,Plin,5,512.35,Revisar,Hotel 4,Independencia,Norte,Suite  ejecutiva,suite,425.95,Ana Paredes,Miraflores,Regular,2025-04-09
+269,2026-06-14,1,5,262.79,0,TeLeFoNo,Plin,5,"239,76",Promocion,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Ana Salazar,Lima,nuevo, 2025-12-01 
+270,2026-01-02,4,2,158.16,15,  Telefono ,Transferencia,1,238.36,OK,Hotel 1,LOS OLIVOS,Centro,Matrimonial,estandar,158.16,Camila Soto,San Juan de Lurigancho,Regular,2025-04-07
+271,2026-04-03,5,9, 351.23 ,5,WhatsApp,Efectivo,2,541.29,OK,Hotel 7,  Miraflores ,  Oeste ,Bungalow,Especial,351.23,Rocio Paredes,San Juan de Lurigancho,Premium,2025-03-24
+272,2026-06-03,1,4, 158.16 ,12,WhatsApp,Yape,4,,Cliente frecuente,Hotel 4,Independencia,Norte,Matrimonial,estandar,158.16,Jorge Navarro,Independencia,Corporativo,2025-07-06
+273,2026-04-03,6,3,158.16,15,Web,Tarjeta,5,241.65,,Hotel 6,Callao,Este,Matrimonial,estandar,158.16,Miguel Huaman,Villa El Salvador,premium,2025-05-16
+274,2026-02-23,3,2,159.18,0,Telefono,TARJETA,4,274.32,OK,Hotel 2,SAN MIGUEL,  Oeste ,Doble,estandar,159.18,Victor Quispe,Ate,Regular,2025-11-07
+275,2026-04-20,6,8,158.16,15,web,Transferencia,, 255.08 ,Promocion,Hotel 3,Comas,Este,Matrimonial,estandar,158.16,Victor Campos,Lima,frecuente,2025-03-03
+276, 2026-04-04 ,1,9,159.18,0,WhatsApp,Tarjeta,1,237.82,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Doble,estandar,159.18,Rocio Paredes,San Juan de Lurigancho,Premium,2025-03-24
+277,2026-05-07, 2 ,3,290.5,5,App,Yape,3,354.35,Promocion,Hotel 3,Comas,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+278,2026-02-05,1,6,425.95,8,WhAtSaPp,Tarjeta,4,494.49,Cliente frecuente,Hotel 7,  Miraflores ,  Oeste ,Suite  ejecutiva,suite,425.95,CaRlOs fLoReS,San Miguel,CORPORATIVO,2025-01-14
+279,2026-01-15,6,10,159.18,0,Web,Efectivo,3,278.84,,Hotel 3,Comas,Este,Doble,estandar,159.18,,San Miguel,Regular,2025-02-18
+280,2026-06-26,8,4,369.86,8,Web,TRANSFERENCIA,3,466.92,Promocion,Hotel 1,LOS OLIVOS,Centro,Habitacion vista mar,,369.86,Valeria Huaman,miraflores,NuEvO,2025-01-22
+281,2026-06-12,7,1,88.18,8,Presencial,Transferencia,1,218.23,,Hotel 6,Callao,Este,Simple,Estandar,88.18,Jorge Quispe,Chorrillos,Regular,2025-12-25
+282, 2026-06-03 ,7,10,158.16,0,Presencial,Yape,2,283.41,OK,Hotel 6,Callao,Este,Matrimonial,estandar,158.16,Victor Castillo,  Ventanilla ,Nuevo,2025-08-24
+283,2026-04-16,2,2,351.23,8,Presencial,Tarjeta,5,"370,4",Cliente frecuente,Hotel 7,  Miraflores ,  Oeste ,Bungalow,Especial,351.23,Victor Quispe,Ate,Regular,2025-11-07
+284,2026-01-21, 5 ,6,158.16,0,App,Plin,4,345.23,,Hotel 4,Independencia,Norte,Matrimonial,estandar,158.16,Maria Gomez,SaN JuAn dE LuRiGaNcHo,Frecuente,2025-06-20
+285,2026-03-11,6, 2 ,262.79,20 aprox,Presencial,Efectivo, 2 ,377.62,,Hotel 5,Lima,Norte,FAMILIAR,  Familiar ,262.79,Raul Ramos,Los Olivos,Regular,2025-04-23
+286,2026-06-10,6,6,290.5,0 aprox,Presencial,Transferencia,1,361.02,Promocion,Hotel 6,Callao,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Victor Mendoza,Independencia,Premium,2025-05-06
+287,2026-06-18,,8,290.5,0,Presencial,Efectivo,4,,Promocion,Hotel 3,Comas,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Andre Cruz,SURCO,Nuevo,2025-04-02
+288,2026-05-15, 5 ,10,159.18,0,Telefono,Plin,3,313.9,,Hotel 7,  Miraflores ,  Oeste ,Doble,estandar,159.18,ElEnA ReYeS,Ate,Regular,2025-11-26
+289,2026-05-09,6,7,369.86,5,presencial,TaRjEtA,3,451.8,OK,Hotel 1,LOS OLIVOS,Centro,Habitacion vista mar,,369.86,Elena Campos,Ventanilla,Premium,2025-12-21
+290,2026-03-03,6,1,262.79,20,WhAtSaPp,Efectivo,4,377.99,Cliente frecuente,Hotel 6,Callao,Este,FAMILIAR,  Familiar ,262.79,,San Miguel,Regular,2025-02-18
+291,2026-04-13,8,7,290.5,0,Presencial,Transferencia,4,388.04,Promocion,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,,San Miguel,Regular,2025-02-18
+292,2026-01-22,7,8,290.5,0,Presencial,Yape,2,479.73,OK,Hotel 6,Callao,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Andre Soto,CALLAO,  Nuevo ,2025-02-16
+293,2026-04-02,3,1,158.16,5,WEB,YAPE,5, 221.18 ,Revisar,Hotel 1,LOS OLIVOS,Centro,Matrimonial,estandar,158.16,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+294,2026-04-07,2,7,159.18,8,Web,Tarjeta,2,290.98,,Hotel 5,Lima,Norte,Doble,estandar,159.18,Jorge Reyes,Callao,Corporativo,2025-11-26
+295,2026-05-18,1,7,158.16,20,app,Plin,3,187.99,,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Raul Campos,Surco,Regular,06/10/2025
+296,2026-06-09,3, 4 ,88.18,15,Telefono,PlIn,5,99.28,OK,Hotel 1,LOS OLIVOS,Centro,Simple,Estandar,88.18,Sofia Ramos,Surco,Corporativo,2025-02-03
+297,2026-06-27,3,8,290.5,15,PRESENCIAL,Tarjeta,4,429.59,ClIeNtE FrEcUeNtE,Hotel 5,Lima,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Elena Flores,Miraflores,Corporativo,2025-11-09
+298,2026-02-17,4 aprox,6,369.86,12,App,Tarjeta,5,484.02,Revisar,Hotel 4,Independencia,Norte,Habitacion vista mar,,369.86,Ana Salazar,Lima,nuevo, 2025-12-01 
+299,2026-05-21,6,3,290.5,12,Presencial,Yape,2,336.89,,Hotel 3,Comas,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,,Surco,Premium,2025-12-25
+300,2026-05-27,1,5,159.18,0,Presencial,Yape,5,203.17,,Hotel 5,Lima,Norte,Doble,estandar,159.18,,Surco,Premium,2025-12-25
+301,2026-03-22,3,9,369.86,0,App,Efectivo,3,488.12,Promocion,Hotel 4,Independencia,Norte,Habitacion vista mar,,369.86,Rocio Rojas,Independencia,Premium,2025-07-23
+302,2026-03-26,,9,,15,PRESENCIAL,Tarjeta,3,294.37,Promocion,Hotel 7,  Miraflores ,  Oeste ,Doble,estandar,159.18,Jorge Reyes,Callao,Corporativo,2025-11-26
+303,2026-02-08, 2 ,2,324.45,20,Telefono,Tarjeta,1,428.04,  OK ,Hotel 2,SAN MIGUEL,  Oeste ,Suite junior,Suite,324.45,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+304,2026-03-17,7,9,159.18,20,Telefono,Yape, 4 ,316.9,ok,Hotel 2,SAN MIGUEL,  Oeste ,Doble,estandar,159.18,Andre Cruz,SURCO,Nuevo,2025-04-02
+305,2026-06-19,6 aprox,2,425.95,12,Telefono,Tarjeta,2,535.11,Revisar,Hotel 4,Independencia,Norte,Suite  ejecutiva,suite,425.95,Camila Salazar,San Juan de Lurigancho,corporativo,2025-02-05
+306,2026-04-19,2,3,88.18 aprox,8,Web,Tarjeta,5,133.74,,Hotel 3,Comas,Este,Simple,Estandar,88.18,,Surco,Premium,2025-12-25
+307,2026-02-13,5,3,S/ 324.45,12,APP,Transferencia,1,449.2,OK,Hotel 5,Lima,Norte,Suite junior,Suite,324.45,Sofia Ramos,Surco,Corporativo,2025-02-03
+308,2026/01/18,2,9,324.45,8,PRESENCIAL,Tarjeta,4,413.7,,Hotel 2,SAN MIGUEL,  Oeste ,Suite junior,Suite,324.45,Raul Quispe,Surco,Nuevo,2025-03-11
+309,,8,2,425.95 aprox,0,Presencial,Transferencia,1,525.51,,Hotel 7,  Miraflores ,  Oeste ,Suite  ejecutiva,suite,425.95,,San Miguel,Regular,2025-02-18
+310,,4,1,88.18,0,Web,,5,163.22,,Hotel 1,LOS OLIVOS,Centro,Simple,Estandar,88.18,Camila Torres,callao,Frecuente,2025-12-06
+311,2026-03-16,8,4,351.23,10 aprox,Web,Transferencia,1,501.77,OK,Hotel 5,Lima,Norte,Bungalow,Especial,351.23,claudia navarro,Villa El Salvador,Frecuente,2025-03-01
+312,2026-02-27,2,7,351.23,20,,Tarjeta,1,453.66,Ok,Hotel 6,Callao,Este,Bungalow,Especial,351.23,Ana Castillo,Villa El Salvador,Regular,2025-02-14
+313,2026-06-20,6,10,S/ 369.86,12,WhatsApp,Transferencia, 4 ,466.69,,Hotel 2,SAN MIGUEL,  Oeste ,Habitacion vista mar,,369.86,Camila Sayan,Independencia,Nuevo,10-05-2025
+314,2026/04/01,1,5,,0,App,Tarjeta,3,167.8,Cliente frecuente,Hotel 3,Comas,Este,Matrimonial,estandar,158.16,Jorge Salazar,Los Olivos,Nuevo,2025-06-21
+315,,4,1,290.5,10,Presencial,Plin,4,351.98,OK,Hotel 2,SAN MIGUEL,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Valeria Vargas,San  Juan  de  Lurigancho,Premium,2025-02-19
+316,2026-03-05,7,6,324.45,5,TeLeFoNo,Yape,4,431.39,OK,Hotel 6,Callao,Este,Suite junior,Suite,324.45,Sofia Torres,MIRAFLORES,Nuevo,2025-01-15
+317,23/05/2026,2,10,159.18,0,,Plin,3,216.97,ReViSaR,Hotel 5,Lima,Norte,Doble,estandar,159.18,Maria Soto,San Miguel,FRECUENTE,2025-11-02
+318,2026-05-01,8,1,158.16,8 aprox,App,Plin,2,289.68,Cliente frecuente,Hotel 5,Lima,Norte,Matrimonial,estandar,158.16,Maria Gomez,SaN JuAn dE LuRiGaNcHo,Frecuente,2025-06-20
+319,2026-03-16,6,4,159.18,20,Telefono,Tarjeta,5,280.58,Cliente frecuente,Hotel 5,Lima,Norte,Doble,estandar,159.18,Diego Flores,La mOlInA,  Frecuente ,2025-07-06
+320,2026-03-07,3 aprox,1,,0,WhatsApp,Efectivo,4,229.21,Cliente frecuente,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Diana Castillo,lima,Corporativo,2025-08-12
+321,2026-04-22,5,7 aprox,290.5,0,App,Efectivo,1,351.25,,Hotel 2,SAN MIGUEL,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Victor Mendoza,Independencia,Premium,2025-05-06
+322,2026-02-22,3 aprox,3,"158,16",8,App,Tarjeta,1,233.41,OK,Hotel 5,Lima,Norte,Matrimonial,estandar,158.16,Andre Quispe,  Miraflores ,corporativo,2025-01-27
+323,2026-06-23,5,,351.23,5,Web,Tarjeta,2,482.81,,Hotel 2,SAN MIGUEL,  Oeste ,Bungalow,Especial,351.23,Jorge Salazar,Los Olivos,Nuevo,2025-06-21
+324,2026-06-08,2,2,369.86,20,WEB,TrAnSfErEnCiA,2,426.64,Cliente frecuente,Hotel 3,Comas,Este,Habitacion vista mar,,369.86,Andre Mendoza,La Molina,Frecuente,2025-09-13
+325,2026-05-09,7,10,88.18,0,,Efectivo,4,206.28,OK,Hotel 5,Lima,Norte,Simple,Estandar,88.18,Jorge Navarro,Comas,Nuevo,2025-09-23
+326,2026-03-19,4,6,88.18, 20 ,Telefono,Tarjeta,5,271.22,Cliente frecuente,Hotel 5,Lima,Norte,Simple,Estandar,88.18,Andre Soto,Ventanilla,  Frecuente ,2025-02-08
+327,16-04-2026,6,1,351.23,0,App,Efectivo,4,471.8,OK,Hotel 5,Lima,Norte,Bungalow,Especial,351.23,Lucia Mendoza,Ate,Corporativo,2025-05-28
+328,2026-01-17,4,18.21,290.5,5,Presencial,Efectivo,3,466.95,promocion,Hotel 5,Lima,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+329,2026-05-28,1,2,425.95,0,Telefono,Tarjeta,5,1474.88,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,Suite  ejecutiva,suite,425.95,Elena Reyes,Ate,Regular,2025-07-10
+330,2026-02-23,4,10,158.16,8,App,Tarjeta,2,263.06,OK,Hotel 6,Callao,Este,Matrimonial,estandar,158.16,Rocio Rojas,Independencia,Premium,2025-07-23
+331,2026-03-27,5,1,159.18,10,Telefono,Efectivo,2,280.79,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Doble,estandar,159.18,Diana Campos,Ventanilla,Regular,2025-11-08
+332,2026-04-17,2,4,158.16, 0 ,WhatsApp,efectivo,2,171.18,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Claudia Quispe,Independencia,Regular,2025-11-16
+333,26-03-2026,5 aprox,,158.16,20,App,Efectivo,4,220.11,,Hotel 3,Comas,Este,Matrimonial,estandar,158.16,Miguel Gomez,  Los Olivos ,Nuevo,2025-12-28
+334,2026-05-09,5,10,158.16,0,Presencial,Plin, 1 ,286.81,Promocion,Hotel 4,Independencia,Norte,Matrimonial,estandar,158.16,Raul Ramos,Los Olivos,Regular,2025-04-23
+335,2026-05-09,1,10,88.18,0,Telefono,TARJETA,2,64.88,OK,Hotel 7,  Miraflores ,  Oeste ,Simple,Estandar,88.18,Victor Campos,Lima,frecuente,2025-03-03
+336,2026/02/13,4,,88.18,0,App,Plin,4,224.88,OK,Hotel 5,Lima,Norte,Simple,Estandar,88.18,Diana Quispe,San Miguel,Corporativo,2025/11/25
+337,2026-03-14,5,6,324.45,20,Presencial,Transferencia,2,418.29 aprox,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,Suite junior,Suite,324.45,Ana Mendoza,Independencia,,2025-06-19
+338,2026-06-15,1,7,351.23,10,TeLeFoNo,,3,392.22,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,Bungalow,Especial,351.23,Rocio Salazar,San Miguel,Corporativo,2025-05-21
+339,2026-03-11, 1 ,1,262.79,5,App,Transferencia,2,279.93,Cliente frecuente,Hotel 3,Comas,Este,FAMILIAR,  Familiar ,262.79,Victor Campos,Lima,frecuente,2025-03-03
+340,2026-05-08,5,8,324.45 aprox,0,App,Transferencia,4,393.29,OK,Hotel 2,SAN MIGUEL,  Oeste ,Suite junior,Suite,324.45,Carlos Paredes,Independencia,Regular,2025-12-07
+341,2026-04-04,1,3,88.18,20,WhatsApp,Plin,3,138.65,Cliente frecuente,Hotel 3,Comas,Este,Simple,Estandar,88.18,Miguel Campos,Villa  El  Salvador,Nuevo,2025-08-26
+342,2026-02-18,1,8,S/ 262.79,,  Telefono ,Tarjeta,5,1199.23,Cliente frecuente,Hotel 6,Callao,Este,FAMILIAR,  Familiar ,262.79,Rocio Rojas,Independencia,Premium,2025-07-23
+343, 2026-01-22 ,3,10,159.18,20,  Presencial ,Plin,4,340.1,Revisar,Hotel 6,Callao,Este,Doble,estandar,159.18,Fiorella Campos,Los Olivos,,2025-02-01
+344,2026-06-23,5 aprox,8,351.23,10,web,TRANSFERENCIA,5,471.52,OK,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,Jorge Quispe,Chorrillos,Regular,2025-12-25
+345,2026/02/06,8, 5 ,158.16,10,Presencial,Efectivo,2,312.7,OK,Hotel 4,Independencia,Norte,Matrimonial,estandar,158.16,Jose Mendoza,Chorrillos,Premium,2025-04-02
+346, 2026-02-16 ,4,8,159.18,0,Web,Transferencia,3,297.23,Revisar,Hotel 6,Callao,Este,Doble,estandar,159.18,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+347,11-04-2026,1,10,369.86,0,App,Efectivo,3,474.93,OK,Hotel 6,Callao,Este,Habitacion vista mar,,369.86,Diana Castillo,lima,Corporativo,2025-08-12
+348,2026-05-06,4,6,"351,23", 5 ,App,Transferencia,4,479.56,Cliente frecuente,Hotel 6,Callao,Este,Bungalow,Especial,351.23,Raul Quispe,Surco,Nuevo,2025-03-11
+349,2026-04-15,2,2,324.45,15,App,Tarjeta,4,414.5,Revisar,Hotel 7,  Miraflores ,  Oeste ,Suite junior,Suite,324.45,Marco Soto,Callao,Corporativo,2025-04-02
+350,2026-05-28,7,,290.5,12 aprox,  Web ,EFECTIVO,2,391.23,PROMOCION,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+351,2026-04-25, 1 ,5 aprox, 262.79 ,0,App,Yape,2,285.37,,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Ana Ramos,SaN MiGuEl,Premium,2025-03-02
+352,2026-05-11,7,2,369.86,0,WhatsApp,Transferencia,1,470.57,Promocion,Hotel 7,  Miraflores ,  Oeste ,Habitacion vista mar,,369.86,Victor Mendoza,Independencia,Premium,2025-05-06
+353,2026-01-20,5,9,351.23 aprox,15,App,Plin,5,473.24,OK,Hotel 1,LOS OLIVOS,Centro,Bungalow,Especial,351.23,Diego Flores,La mOlInA,  Frecuente ,2025-07-06
+354,2026-05-09,1,9,"351,23",0,Web,Transferencia,5,464.61,Revisar,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,,Surco,Premium,2025-12-25
+355,2026-01-09,6,2,425.95,5,PrEsEnCiAl,Tarjeta,3,530.8,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Suite  ejecutiva,suite,425.95,Victor Quispe,Ate,Regular,2025-11-07
+356,2026-06-17,3,2,88.18,12,Telefono,,4, 165.08 ,,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Ana Ramos,SaN MiGuEl,Premium,2025-03-02
+357,2026/02/25, 3 ,6,S/ 369.86,,PrEsEnCiAl,Efectivo,1,415.25,,Hotel 7,  Miraflores ,  Oeste ,Habitacion vista mar,,369.86,Andre Soto,Ventanilla,  Frecuente ,2025-02-08
+358,2026-01-09,2,1,158.16,20,WhatsApp,Tarjeta,4,207.33,Cliente frecuente,Hotel 7,  Miraflores ,  Oeste ,Matrimonial,estandar,158.16,Jorge Salazar,Los Olivos,Nuevo,2025-06-21
+359,2026-04-02,7,3,262.79, 0 ,App,transferencia,4,S/ 365.27,Revisar,Hotel 2,SAN MIGUEL,  Oeste ,FAMILIAR,  Familiar ,262.79,Elena Reyes,Independencia,Frecuente,2025-09-21
+360,2026-03-09,4,1,425.95,12,Web,Transferencia,3,522.6,,Hotel 6,Callao,Este,Suite  ejecutiva,suite,425.95,Elena Reyes,Ate,Regular,2025-07-10
+361,2026-05-26,5,1,369.86,8,ApP,Transferencia,4 aprox,426.96,Revisar,Hotel 3,Comas,Este,Habitacion vista mar,,369.86,Andre  Mendoza,Callao,Regular,2025-06-02
+362,2026-04-25,8,6,159.18,0,WhatsApp,Yape,5 aprox,329.44 aprox,Cliente frecuente,Hotel 5,Lima,Norte,Doble,estandar,159.18,,San Miguel,Regular,2025-02-18
+363,19/03/2026,5,6, 351.23 ,0,App,Transferencia,4,471.57,Revisar,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,Victor Campos,Lima,frecuente,2025-03-03
+364,2026-04-15,6,4,159.18,0,,Yape,5,276.87 aprox,Revisar,Hotel 4,Independencia,Norte,Doble,estandar,159.18,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+365,2026-01-26, 5 ,7,324.45,15,Telefono,yape,1,424.68,  Cliente frecuente ,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Claudia Quispe,Independencia,Regular,2025-11-16
+366,2026-04-12,6,5,262.79,8,WhatsApp,Tarjeta,5,367.76,,Hotel 2,SAN MIGUEL,  Oeste ,FAMILIAR,  Familiar ,262.79,Miguel Huaman,Villa El Salvador,premium,2025-05-16
+367,2026-01-03,7,7,262.79,12,App,Yape,2,397.06,Cliente frecuente,Hotel 2,SAN MIGUEL,  Oeste ,FAMILIAR,  Familiar ,262.79,Andre Quispe,  Miraflores ,corporativo,2025-01-27
+368,2026-02-27,7,4,158.16,15,WhatsApp,Transferencia,2,313.46,Cliente frecuente,Hotel 4,Independencia,Norte,Matrimonial,estandar,158.16,Diana Cruz,La Molina,Corporativo,2025-06-02
+369,2026-03-01,5,3,290.5,20,WhatsApp,TrAnSfErEnCiA,4,352.9,Cliente  frecuente,Hotel 2,SAN MIGUEL,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Carlos Paredes,Independencia,Regular,2025-12-07
+370,2026-02-12,3,6, 262.79 ,12,Web,Tarjeta,1,361.52,Promocion,Hotel 3,Comas,Este,FAMILIAR,  Familiar ,262.79,Pedro Navarro,Lima,Nuevo,2025-11-14
+371,2026-01-11,1,3,262.79,0,Presencial,Transferencia,4,320.28,Promocion,Hotel 3,Comas,Este,FAMILIAR,  Familiar ,262.79,Jose Flores,La Molina,Regular, 2025-08-15 
+372,2026-06-02,6,9,88.18,15,WhatsApp,Efectivo,2,240.67,Promocion,Hotel 4,Independencia,Norte,Simple,Estandar,88.18,Ana Ramos,SaN MiGuEl,Premium,2025-03-02
+373,2026/03/24,8,2,,20,Presencial,TRANSFERENCIA,3,503.62,Cliente frecuente,Hotel 2,SAN MIGUEL,  Oeste ,Suite  ejecutiva,suite,425.95,Ana Salazar,Lima,nuevo, 2025-12-01 
+374,2026-01-26,8,5,262.79,0,App,Plin, 2 ,387.24,Promocion,Hotel 6,Callao,Este,FAMILIAR,  Familiar ,262.79,Jorge Reyes,Callao,Corporativo,2025-11-26
+375,2026-06-25,,8,425.95,10,Web,Transferencia,2,422.65,Cliente frecuente,Hotel 6,Callao,Este,Suite  ejecutiva,suite,425.95,Raul Campos,Surco,Regular,06/10/2025
+376,2026-02-18,2,4,425.95,12,WhatsApp,Tarjeta,,420.97,,Hotel 2,SAN MIGUEL,  Oeste ,Suite  ejecutiva,suite,425.95,Jose Mendoza,Chorrillos,Premium,2025-04-02
+377,2026-05-19,5,6,425.95,8,WhatsApp,Transferencia,4,467.33,,Hotel 5,Lima,Norte,Suite  ejecutiva,suite,425.95,Victor Huaman,LiMa,Premium,2025-05-13
+378,2026-02-22,8,6,425.95,10,  Telefono ,Yape,2,S/ 546.81,Cliente frecuente,Hotel 4,Independencia,Norte,Suite  ejecutiva,suite,425.95,Victor Reyes,Miraflores,NUEVO,2025-10-20
+379,2026-02-03,6,6,158.16,15,Telefono,Yape,3,253.35,Cliente frecuente,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Pedro Mendoza,Miraflores,Regular,2025-04-28
+380,2026-02-14,,10,262.79,0,Presencial,Plin, 1 ,406.23,,Hotel 7,  Miraflores ,  Oeste ,FAMILIAR,  Familiar ,262.79,Andre Mendoza,La Molina,Frecuente,2025-09-13
+381,2026-01-11,5,8,262.79,0,  App ,Efectivo,5, 342.27 ,Cliente frecuente,Hotel 2,SAN MIGUEL,  Oeste ,FAMILIAR,  Familiar ,262.79,Diana Quispe,San Miguel,Corporativo,2025/11/25
+382,2026-04-09,8,3,290.5,10,,Plin,2,480.03,Revisar,Hotel 7,  Miraflores ,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,,Surco,Premium,2025-12-25
+383,2026-03-16,8,5 aprox,351.23,0,WhatsApp,Tarjeta,2,498.67,,Hotel 1,LOS OLIVOS,Centro,Bungalow,Especial,351.23,Claudia Flores,San Miguel,Premium,2025-11-12
+384,2026-01-02,7,10,351.23,10,WhatsApp,Efectivo,1,515.34,,Hotel 1,LOS OLIVOS,Centro,Bungalow,Especial,351.23,Camila Salazar,Ventanilla,Regular,2025-12-10
+385,2026-06-10,8 aprox,,324.45,0,Telefono,Tarjeta,2,"539,63",,Hotel 7,  Miraflores ,  Oeste ,Suite junior,Suite,324.45,Andre Soto,CALLAO,  Nuevo ,2025-02-16
+386,2026-06-11,1,8,262.79,5,App,Plin,5,321.8,,Hotel 6,Callao,Este,FAMILIAR,  Familiar ,262.79,Fiorella Campos,Los Olivos,,2025-02-01
+387,2026-02-21,4,2,88.18,5,App,Yape,4, 151.19 ,Promocion,Hotel 6,Callao,Este,Simple,Estandar,88.18,Jorge Quispe,Chorrillos,Regular,2025-12-25
+388,2026-02-27,1,5,159.18,0 aprox,WeB,Plin,3,226.46 aprox,Cliente frecuente,Hotel 5,Lima,Norte,Doble,estandar,159.18,,Surco,Premium,2025-12-25
+389,2026-02-10,5,2,262.79,20,presencial,Plin,4,344.88,  Cliente frecuente ,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Rocio Paredes,San Juan de Lurigancho,Premium,2025-03-24
+390,2026-03-24,6, 10 ,290.5,0,Telefono,Transferencia,1,350.37,,Hotel 7,  Miraflores ,  Oeste ,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Andre Soto,Ventanilla,  Frecuente ,2025-02-08
+391,2026-04-17,3,5,290.5,20,presencial,Tarjeta,3,385.19,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+392,2026-05-11,3,2,"324,45",0,Web,Tarjeta,4,436.85,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Suite junior,Suite,324.45,Diana Ramos,Villa El Salvador,Corporativo,2025-09-15
+393,,6,4,324.45,10,Presencial,Efectivo,2,396.24,Promocion,Hotel 1,LOS OLIVOS,Centro,Suite junior,Suite,324.45,Marco Soto,Callao,Corporativo,2025-04-02
+394,23-02-2026,7,8,159.18,0,WhatsApp,Tarjeta, 1 ,330.88,,Hotel 2,SAN MIGUEL,  Oeste ,Doble,estandar,159.18,Fiorella Castillo,La Molina,  Corporativo ,2025-08-26
+395,2026-06-01,7,7,262.79,0,Telefono,Yape,5, 352.4 ,  Cliente frecuente ,Hotel 7,  Miraflores ,  Oeste ,FAMILIAR,  Familiar ,262.79,Fiorella Flores,San Juan de Lurigancho,Premium,2025-01-21
+396,24-02-2026,7,9,262.79,0,App,Transferencia,3,350.49,Promocion,Hotel 1,LOS OLIVOS,Centro,FAMILIAR,  Familiar ,262.79,Valeria Vargas,San  Juan  de  Lurigancho,Premium,2025-02-19
+397,2026-02-01,3,4,369.86,0,  Web ,Efectivo,1,459.79,Cliente frecuente,Hotel 5,Lima,Norte,Habitacion vista mar,,369.86,Rocio Paredes,San Juan de Lurigancho,Premium,2025-03-24
+398,2026-01-26,3,6,290.5,0,presencial,Yape,2,392.58,OK,Hotel 6,Callao,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+399,2026-06-26,3,2,324.45,10,,Efectivo,4,409.0,Promocion,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Ana Castillo,Villa El Salvador,Regular,2025-02-14
+400,2026-01-23,2,2,425.95,0,,Efectivo,4,449.18,,Hotel 7,  Miraflores ,  Oeste ,Suite  ejecutiva,suite,425.95,Claudia Flores,San Miguel,Premium,2025-11-12
+401,17/03/2026,5,9,S/ 262.79,0,Presencial,Tarjeta,1,352.23,,Hotel 7,  Miraflores ,  Oeste ,FAMILIAR,  Familiar ,262.79,Raul Ramos,Los Olivos,Regular,2025-04-23
+402,2026-06-03,6 aprox,3,324.45,0,WhatsApp,Yape,3,411.33,Cliente frecuente,Hotel 7,  Miraflores ,  Oeste ,Suite junior,Suite,324.45,Carlos Paredes,Independencia,Regular,2025-12-07
+403,2026-02-16,8,6,369.86,8,Presencial,Plin,5, 509.43 ,Promocion,Hotel 7,  Miraflores ,  Oeste ,Habitacion vista mar,,369.86,Claudia Rojas,Callao,Corporativo,2025-12-01
+404,2026-05-22,3,5,159.18,0,ApP,Yape,2,208.05,OK,Hotel 6,Callao,Este,Doble,estandar,159.18,ElEnA ReYeS,Ate,Regular,2025-11-26
+405, 2026-05-07 ,7,5, 351.23 ,0,Web,Transferencia,2,472.53,,Hotel 1,LOS OLIVOS,Centro,Bungalow,Especial,351.23,Elena Reyes,Ate,Regular,2025-07-10
+406,2026-01-14,5,8,88.18,0,Web,Transferencia,1,187.85,Promocion,Hotel 5,Lima,Norte,Simple,Estandar,88.18,Miguel Campos,Villa  El  Salvador,Nuevo,2025-08-26
+407,2026-02-20,3,1,158.16,12,WhatsApp,Tarjeta,2,211.26,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,Matrimonial,estandar,158.16,Jorge Salazar,Los Olivos,Nuevo,2025-06-21
+408,2026-02-03,4,1,158.16,0,Telefono,tarjeta,1,266.35,,Hotel 7,  Miraflores ,  Oeste ,Matrimonial,estandar,158.16,Rocio Paredes,San Juan de Lurigancho,Premium,2025-03-24
+409,2026-05-10,3,9,S/ 290.5, 12 ,Web,Tarjeta,4,370.39,,Hotel 4,Independencia,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Fiorella Reyes,independencia,Premium,2025-01-25
+410,2026-06-20,6,6,425.95 aprox,0,WhatsApp,YAPE,1,522.93,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Suite  ejecutiva,suite,425.95,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+411,2026-04-11,3,5,324.45,20,Telefono,Plin,2,362.8,OK,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Victor Quispe,Ate,Regular,2025-11-07
+412,2026-04-20,3,7,158.16,10,Telefono,Efectivo,3,235.38,Revisar,Hotel 5,Lima,Norte,Matrimonial,estandar,158.16,Marco Soto,Callao,Corporativo,2025-04-02
+413,2026-05-27,5, 9 ,351.23,,Web,Tarjeta,3,479.64,OK,Hotel 6,Callao,Este,Bungalow,Especial,351.23,Raul Ramos,Los Olivos,Regular,2025-04-23
+414,2026-05-24,5,6,158.16,8,WhatsApp,Plin,5,309.24,PrOmOcIoN,Hotel 4,Independencia,Norte,Matrimonial,estandar,158.16,Camila Salazar,San Juan de Lurigancho,corporativo,2025-02-05
+415,2026-01-26,7,1,158.16,,,Tarjeta,1,251.01,OK,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Andre Soto,CALLAO,  Nuevo ,2025-02-16
+416,2026-05-11,5,1,88.18 aprox,20,App,Yape,4,159.0,Revisar,Hotel 7,  Miraflores ,  Oeste ,Simple,Estandar,88.18,Raul Quispe,Surco,Nuevo,2025-03-11
+417,2026-01-05,1,8,"159,18",8 aprox,APP,Tarjeta,4,231.53,ReViSaR,Hotel 3,Comas,Este,Doble,estandar,159.18,Elena Reyes,Independencia,Frecuente,2025-09-21
+418,04-05-2026,6,3,158.16,15,Web,Tarjeta,1,325.01,Cliente frecuente,Hotel 7,  Miraflores ,  Oeste ,Matrimonial,estandar,158.16,Raul Quispe,Surco,Nuevo,2025-03-11
+419,2026-01-16,5,8,159.18,12,Web,Yape,1,225.07,Revisar,Hotel 3,Comas,Este,Doble,estandar,159.18,Victor Reyes,Miraflores,NUEVO,2025-10-20
+420,2026-04-11,5,8 aprox,324.45,15,Presencial,Transferencia,4,402.73,  Cliente frecuente ,Hotel 7,  Miraflores ,  Oeste ,Suite junior,Suite,324.45,Rocio Campos,  Ventanilla ,Frecuente,2025-09-28
+421,2026-02-05,6,5,369.86,15,app,Transferencia,1,457.21,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Habitacion vista mar,,369.86,Elena Campos,Ventanilla,Premium,2025-12-21
+422,2026-01-24,7,2,369.86,0,App,Efectivo,2,473.07,,Hotel 2,SAN MIGUEL,  Oeste ,Habitacion vista mar,,369.86,Raul Quispe,Surco,Nuevo,2025-03-11
+423,2026-05-01,3,6,88.18,0,Telefono,Plin,1,202.43,,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Elena Campos,Ventanilla,Premium,2025-12-21
+424, 2026-06-23 ,2,6,369.86 aprox,0,  Web ,Efectivo,2,413.89,,Hotel 2,SAN MIGUEL,  Oeste ,Habitacion vista mar,,369.86,Andre Mendoza,La Molina,Frecuente,2025-09-13
+425,2026-01-02,6,7,369.86,0,,Transferencia,1,500.24,,Hotel 7,  Miraflores ,  Oeste ,Habitacion vista mar,,369.86,Diego Cruz,Miraflores,CORPORATIVO,2025-04-14
+426,2026/02/20,4,7,159.18,0,Telefono,Yape,4,291.91,Cliente frecuente,Hotel 5,Lima,Norte,Doble,estandar,159.18,Claudia Sayan,  Villa El Salvador ,Corporativo,2025-06-07
+427,2026/04/24,6,8,262.79,,Web,Yape,1,339.88,,Hotel 1,LOS OLIVOS,Centro,FAMILIAR,  Familiar ,262.79,Claudia Sayan,  Villa El Salvador ,Corporativo,2025-06-07
+428,2026-05-01,4,1,324.45,0,Telefono,Efectivo,1 aprox, 414.84 ,Revisar,Hotel 1,LOS OLIVOS,Centro,Suite junior,Suite,324.45,Valeria Vargas,San  Juan  de  Lurigancho,Premium,2025-02-19
+429,2026-02-15,7,8,425.95,15,Web,Yape,1,S/ 528.12,,Hotel 6,Callao,Este,Suite  ejecutiva,suite,425.95,Jorge Navarro,Comas,Nuevo,2025-09-23
+430,2026-05-19,5,5,290.5,8,app,Transferencia,3,363.51,Promocion,Hotel 1,LOS OLIVOS,Centro,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Victor Castillo,  Ventanilla ,Nuevo,2025-08-24
+431,2026-01-03,2,2 aprox,369.86,5,,Transferencia,3,371.06,OK,Hotel 5,Lima,Norte,Habitacion vista mar,,369.86,Jorge Navarro,Comas,Nuevo,2025-09-23
+432,2026-04-03,3,6,351.23,0,App,Plin,1,,OK,Hotel 3,Comas,Este,Bungalow,Especial,351.23,Pedro Navarro,Lima,Nuevo,2025-11-14
+433,2026-03-21, 6 ,1,159.18,0,App,,4,,Cliente frecuente,Hotel 5,Lima,Norte,Doble,estandar,159.18,Ana Paredes,Miraflores,Regular,2025-04-09
+434,2026-04-11,4,3.05,88.18, 0 ,Web,Efectivo,5,194.38,Cliente frecuente,Hotel 5,Lima,Norte,Simple,Estandar,88.18,,Surco,Premium,2025-12-25
+435,2026-03-18,6,9,262.79,0,WhatsApp,Transferencia,2,393.7,Promocion,Hotel 7,  Miraflores ,  Oeste ,FAMILIAR,  Familiar ,262.79,Raul Ramos,Los Olivos,Regular,2025-04-23
+436,2026-02-04,5,1,"324,45",0,Presencial,,3,408.48,OK,Hotel 7,  Miraflores ,  Oeste ,Suite junior,Suite,324.45,Fiorella Ramos,Independencia,Premium,2025-05-21
+437,2026-06-23,7,5,159.18,12,Presencial,TARJETA,2,272.24 aprox,Revisar,Hotel 4,Independencia,Norte,Doble,estandar,159.18,Andre Cruz,SURCO,Nuevo,2025-04-02
+438,2026-06-15,2,5,158.16,15,WHATSAPP,  Yape ,3,250.45,,Hotel 3,Comas,Este,Matrimonial,estandar,158.16,Diego Cruz,Miraflores,CORPORATIVO,2025-04-14
+439,2026-06-21,6,8,88.18,20,Telefono,Efectivo,3,169.99,Promocion,Hotel 3,Comas,Este,Simple,Estandar,88.18,Fiorella Flores,San Juan de Lurigancho,Premium,2025-01-21
+440,2026-01-05,4,3,,0,ApP,Transferencia,5,366.86,Cliente frecuente,Hotel 2,SAN MIGUEL,  Oeste ,FAMILIAR,  Familiar ,262.79,Diana Ramos,Villa El Salvador,Corporativo,2025-09-15
+441,2026/05/20,7,3 aprox,369.86,15,Presencial,EfEcTiVo,1,414.67,promocion,Hotel 3,Comas,Este,Habitacion vista mar,,369.86,Rocio Rojas,Independencia,Premium,2025-07-23
+442,2026-01-17,3,7,262.79,0,Presencial,Yape,5,998.04,,Hotel 1,LOS OLIVOS,Centro,FAMILIAR,  Familiar ,262.79,Raul Quispe,Surco,Nuevo,2025-03-11
+443,2026-04-04,3,6,324.45,0,WhatsApp,Tarjeta,4,387.74,OK,Hotel 3,Comas,Este,Suite junior,Suite,324.45,Miguel Huaman,Villa El Salvador,premium,2025-05-16
+444,2026-05-28,4,10,158.16,0,Presencial,Efectivo,5,279.58,ok,Hotel 4,Independencia,Norte,Matrimonial,estandar,158.16,Jorge Reyes,Callao,Corporativo,2025-11-26
+445,2026-04-19,1,9,159.18,8,Telefono,Yape,1,253.08,,Hotel 6,Callao,Este,Doble,estandar,159.18,Pedro  Flores,san juan de lurigancho,Frecuente,2025-12-08
+446,2026-04-09,1,2,290.5,5 aprox,Telefono,Transferencia,4,276.44,Promocion,Hotel 3,Comas,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Diana Cruz,La Molina,Corporativo,2025-06-02
+447,2026-03-08,3,9, 425.95 ,12,Web,Efectivo,4,537.36,,Hotel 1,LOS OLIVOS,Centro,Suite  ejecutiva,suite,425.95,Ana Castillo,Villa El Salvador,Regular,2025-02-14
+448,2026-02-24,6,6,159.18,0,Web,Efectivo,2,304.4,,Hotel 2,SAN MIGUEL,  Oeste ,Doble,estandar,159.18,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+449,2026-04-04,3,5,351.23,0,WHATSAPP,Yape,2,435.25,Cliente frecuente,Hotel 2,SAN MIGUEL,  Oeste ,Bungalow,Especial,351.23,Maria Gomez,SaN JuAn dE LuRiGaNcHo,Frecuente,2025-06-20
+450,2026-02-24,2,2,88.18,20,Telefono,Tarjeta,2,131.24,,Hotel 7,  Miraflores ,  Oeste ,Simple,Estandar,88.18,Jose Flores,La Molina,Regular, 2025-08-15 
+451,2026-05-02,1,10,159.18 aprox,12,  Web ,Yape,5,232.36,Revisar,Hotel 3,Comas,Este,Doble,estandar,159.18,Miguel Huaman,Villa El Salvador,premium,2025-05-16
+452,2026-05-27,4, 2 ,262.79,8,App,Yape,5,341.76,OK,Hotel 2,SAN MIGUEL,  Oeste ,FAMILIAR,  Familiar ,262.79,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+453,2026-01-27,7,1,,0,WhatsApp,Plin,4,244.37,OK,Hotel 3,Comas,Este,Doble,estandar,159.18,Elena Reyes,Ate,Regular,2025-07-10
+454,2026-06-24,8,2,88.18,12,Telefono,Tarjeta,3,249.9,Promocion,Hotel 7,  Miraflores ,  Oeste ,Simple,Estandar,88.18,Diego Flores,La mOlInA,  Frecuente ,2025-07-06
+455,2026-05-26,1, 7 ,88.18,15 aprox,Web,Yape,1,145.39 aprox,  Revisar ,Hotel 4,Independencia,Norte,Simple,Estandar,88.18,Elena Reyes,Independencia,Frecuente,2025-09-21
+456,2026-06-08,3,10,262.79,12,Web,Transferencia,5, 350.38 ,OK,Hotel 4,Independencia,Norte,FAMILIAR,  Familiar ,262.79,Victor Quispe,Ate,Regular,2025-11-07
+457,2026-02-08,3,6,425.95,15,WEB,TaRjEtA, 2 ,,Promocion,Hotel 3,Comas,Este,Suite  ejecutiva,suite,425.95,Rocio Salazar,San Miguel,Corporativo,2025-05-21
+458,2026-06-05,1,2,324.45,15,Telefono,Plin,5,389.13,,Hotel 6,Callao,Este,Suite junior,Suite,324.45,Jorge Navarro,Independencia,Corporativo,2025-07-06
+459,2026-04-01,1,5,425.95,20,Telefono,Plin,3,467.29,Cliente frecuente,Hotel 6,Callao,Este,Suite  ejecutiva,suite,425.95,Camila Navarro,CoMaS,Regular,2025/08/25
+460,2026-02-02,6,4,88.18,12,Presencial,Yape,3,189.6,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Camila Sayan,Independencia,Nuevo,10-05-2025
+461,2026-06-10,2,4,159.18,12,,Efectivo,3,194.69,Promocion,Hotel 4,Independencia,Norte,Doble,estandar,159.18,Lucia Mendoza,Ate,Corporativo,2025-05-28
+462,2026-03-05,7,8,351.23,5,Web,Yape,2,509.58,Revisar,Hotel 6,Callao,Este,Bungalow,Especial,351.23,Andre Soto,CALLAO,  Nuevo ,2025-02-16
+463,2026-02-11,5,8,262.79,20,WhatsApp,Tarjeta,2,381.44,Revisar,Hotel 5,Lima,Norte,FAMILIAR,  Familiar ,262.79,Valeria Huaman,miraflores,NuEvO,2025-01-22
+464,,3,1,369.86,5,Telefono,Yape,4,419.58,,Hotel 6,Callao,Este,Habitacion vista mar,,369.86,Victor Reyes,Miraflores,NUEVO,2025-10-20
+465,2026-06-20,1,8,324.45,0,WhatsApp,Tarjeta,4, 396.29 ,Promocion,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Camila Salazar,San Juan de Lurigancho,corporativo,2025-02-05
+466,2026-03-26,4,2,369.86,0,App,Yape,4,452.89,Promocion,Hotel 6,Callao,Este,Habitacion vista mar,,369.86,Victor Campos,Lima,frecuente,2025-03-03
+467,2026-02-21,3,8 aprox, 425.95 ,20,Web,Plin,1,466.85,,Hotel 7,  Miraflores ,  Oeste ,Suite  ejecutiva,suite,425.95,Diana Castillo,lima,Corporativo,2025-08-12
+468,2026-03-14,1,10,351.23,12,Telefono,Tarjeta,3,1393.55,OK,Hotel 5,Lima,Norte,Bungalow,Especial,351.23,Fiorella Castillo,La Molina,  Corporativo ,2025-08-26
+469,2026-04-20,3,5,"425,95",5,PrEsEnCiAl,Tarjeta,5,465.42,,Hotel 3,Comas,Este,Suite  ejecutiva,suite,425.95,Sofia Huaman,Chorrillos,Corporativo,2025-03-04
+470,2026-03-10,5,7,158.16,12,Web,Tarjeta,,256.71,,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Fiorella Campos,Los Olivos,,2025-02-01
+471,2026-03-25,1,8,88.18,5,  Telefono ,Efectivo,1,185.55,,Hotel 1,LOS OLIVOS,Centro,Simple,Estandar,88.18,Claudia Rojas,Callao,Corporativo,2025-12-01
+472,2026-05-02,3,3,324.45,12,Telefono,Plin,3,489.06,OK,Hotel 3,Comas,Este,Suite junior,Suite,324.45,Diego Cruz,Miraflores,CORPORATIVO,2025-04-14
+473,2026-04-17,7,9,88.18,5,whatsapp,YAPE,4,314.01,,Hotel 3,Comas,Este,Simple,Estandar,88.18,Fiorella Campos,Los Olivos,,2025-02-01
+474,2026-02-21,7,9,S/ 88.18,12,App,,2,217.66,,Hotel 5,Lima,Norte,Simple,Estandar,88.18,Diana Campos,Ventanilla,Regular,2025-11-08
+475,2026-02-27,1,2 aprox,324.45,20,Presencial,Yape,,373.36,Cliente frecuente,Hotel 4,Independencia,Norte,Suite junior,Suite,324.45,Andre Quispe,  Miraflores ,corporativo,2025-01-27
+476,2026-02-07,7,8,"159,18",12,web,Plin,2,280.44,,Hotel 3,Comas,Este,Doble,estandar,159.18,Diana Quispe,San Miguel,Corporativo,2025/11/25
+477,2026-03-28,8,6,158.16,0,  Web ,Transferencia,1,291.13,Cliente frecuente,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Raul Quispe,Surco,Nuevo,2025-03-11
+478,2026-04-19,5,10,262.79,12,Presencial,Yape,5,371.01,,Hotel 7,  Miraflores ,  Oeste ,FAMILIAR,  Familiar ,262.79,Fiorella Ramos,Independencia,Premium,2025-05-21
+479,2026/02/02,5,9,S/ 425.95,0,WhatsApp,Tarjeta,2,459.69,Revisar,Hotel 3,Comas,Este,Suite  ejecutiva,suite,425.95,Diego Flores,La mOlInA,  Frecuente ,2025-07-06
+480,2026-04-03,1,7,158.16,10,Web,Transferencia,1,228.57,,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Miguel Gomez,  Los Olivos ,Nuevo,2025-12-28
+481,2026/02/19,5,4,88.18,0,Telefono,Transferencia,2,191.94,,Hotel 2,SAN MIGUEL,  Oeste ,Simple,Estandar,88.18,Pedro Quispe,Ate,Regular,2025-06-04
+482,2026-06-25,4,9,369.86,12,PrEsEnCiAl,Yape,1,391.17,Revisar,Hotel 7,  Miraflores ,  Oeste ,Habitacion vista mar,,369.86,Ana Castillo,Villa El Salvador,Regular,2025-02-14
+483,2026-01-19,4,5,88.18,10,,Transferencia,3,201.03,Cliente frecuente,Hotel 4,Independencia,Norte,Simple,Estandar,88.18,Andre Quispe,  Miraflores ,corporativo,2025-01-27
+484,2026-04-19,1,10,324.45,10,App,Plin,2,470.48,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Suite junior,Suite,324.45,Jorge Navarro,Comas,Nuevo,2025-09-23
+485,02/02/2026,8,10,351.23,0,App,Efectivo,2,458.16,Revisar,Hotel 4,Independencia,Norte,Bungalow,Especial,351.23,Carlos Paredes,Independencia,Regular,2025-12-07
+486,2026-04-23,1,10 aprox,351.23, 20 ,Presencial,Plin,5,414.93,Cliente frecuente,Hotel 1,LOS OLIVOS,Centro,Bungalow,Especial,351.23,Diego Salazar,San  Juan  de  Lurigancho,Frecuente,2025-09-20
+487,2026-06-28,5,5,,0,App,Yape,2,257.88,  Cliente frecuente ,Hotel 5,Lima,Norte,Matrimonial,estandar,158.16,Ana Ramos,SaN MiGuEl,Premium,2025-03-02
+488,2026-06-12,6,7 aprox,324.45, 5 ,App,Transferencia,3,329.99,,Hotel 5,Lima,Norte,Suite junior,Suite,324.45,Victor Castillo,  Ventanilla ,Nuevo,2025-08-24
+489,2026-05-23,6,10,158.16,0,Presencial,Tarjeta,5,265.44,OK,Hotel 4,Independencia,Norte,Matrimonial,estandar,158.16,Sofia Huaman,Chorrillos,Corporativo,2025-03-04
+490,2026-01-12,1,3,158.16,12,WhatsApp,Transferencia,,169.75,Promocion,Hotel 2,SAN MIGUEL,  Oeste ,Matrimonial,estandar,158.16,Diana Quispe,San Miguel,Corporativo,2025/11/25
+491,2026-02-01,8,9,324.45,0,WhatsApp,TRANSFERENCIA,5,523.99,Promocion,Hotel 7,  Miraflores ,  Oeste ,Suite junior,Suite,324.45,Camila Soto,San Juan de Lurigancho,Regular,2025-04-07
+492,03-03-2026,,7,S/ 88.18,8,WhatsApp,Transferencia,,179.18,,Hotel 3,Comas,Este,Simple,Estandar,88.18,Claudia Quispe,Independencia,Regular,2025-11-16
+493,2026-02-20,8,7 aprox,369.86,0,Telefono,Plin,1,475.25,Revisar,Hotel 1,LOS OLIVOS,Centro,Habitacion vista mar,,369.86,Lucia Mendoza,Ate,Corporativo,2025-05-28
+494,2026-04-16,7,6,290.5, 15 ,Web,Tarjeta,5,,OK,Hotel 3,Comas,Este,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Fiorella Gomez,Chorrillos,Premium, 2025-07-22 
+495,2026-02-09,4,6,158.16, 12 ,Web,Tarjeta,3,262.71,Revisar,Hotel 1,LOS OLIVOS,Centro,Matrimonial,estandar,158.16,CaRlOs fLoReS,San Miguel,CORPORATIVO,2025-01-14
+496,2026-04-17,7,7,262.79,15,WHATSAPP,Efectivo,1,383.71,,Hotel 2,SAN MIGUEL,  Oeste ,FAMILIAR,  Familiar ,262.79,Victor Castillo,  Ventanilla ,Nuevo,2025-08-24
+497,2026-04-09,2,3,425.95, 20 ,Telefono,Transferencia,5,452.86,Revisar,Hotel 1,LOS OLIVOS,Centro,Suite  ejecutiva,suite,425.95,Andre Soto,Ventanilla,  Frecuente ,2025-02-08
+498,2026-06-08,8,9 aprox,159.18,0,App,EFECTIVO,4,337.76,,Hotel 6,Callao,Este,Doble,estandar,159.18,Rocio Rojas,Independencia,Premium,2025-07-23
+499,2026-01-26,3,5,262.79,0,Web,Plin,5,374.1,,Hotel 2,SAN MIGUEL,  Oeste ,FAMILIAR,  Familiar ,262.79,Claudia Quispe,Independencia,Regular,2025-11-16
+500,2026/02/21,7,2,290.5,12,Web,Yape,1,"414,39",OK,Hotel 4,Independencia,Norte,HaBiTaCiOn bUsInEsS,Ejecutiva,290.5,Miguel Campos,Villa  El  Salvador,Nuevo,2025-08-26

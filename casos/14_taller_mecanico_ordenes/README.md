@@ -1,52 +1,34 @@
-# Taller mecanico - Ordenes de servicio
+# Caso 14 - Taller Mecanico Ordenes
 
-## Contexto
-Un taller mecanico analiza costos de reparacion por servicio y sede.
+## Enfoque del caso
 
-## Tablas
-- `clientes`: datos de clientes.
-- `servicios`: catalogo de servicios.
-- `sedes`: sedes, zonas o puntos de operacion.
-- `ordenes`: tabla principal con 500 registros y claves foraneas.
+Este caso entrega una sola tabla desnormalizada para que el estudiante identifique datos repetidos y proponga el modelo normalizado.
+
+La base no incluye tablas normalizadas, claves foraneas ni una solucion relacional ya construida.
+
+## Archivo SQLite
+
+- `taller_mecanico_ordenes.db`
+
+## Tabla disponible
+
+- `ordenes_original`: tabla de partida con 500 registros. Mezcla datos de la operacion principal con datos descriptivos de clientes, productos, sedes, categorias u otras entidades del caso.
 
 ## Reto PMD1
-Predecir el costo de reparacion segun las horas de trabajo.
+
+1. Explorar la tabla original.
+2. Detectar patrones repetidos y dependencias entre columnas.
+3. Proponer entidades, claves primarias y claves foraneas.
+4. Crear las tablas normalizadas en SQLite.
+5. Insertar los datos desde `ordenes_original` hacia las nuevas tablas.
+6. Reconstruir un reporte con `JOIN` para validar que no se perdio informacion.
+7. Limpiar datos con Pandas y preparar un dataset analitico.
 
 Variable objetivo sugerida: `costo_reparacion`.
 Variable predictora basica sugerida: `horas_trabajo`.
 
-## Suciedad incluida
-- Espacios en blanco al inicio/final.
-- Mayusculas y minusculas inconsistentes.
-- Valores nulos.
-- Fechas con formatos mezclados.
-- Numeros guardados como texto, con coma decimal o simbolo `S/`.
-- Duplicados parciales en la tabla principal.
-- Algunos valores extremos.
+## Archivo CSV
 
-## Consulta base para Pandas
+La carpeta `csv/` contiene solo la tabla original:
 
-```sql
-SELECT
-    f.id_orden,
-    p.nombre AS cliente,
-    p.distrito AS distrito_cliente,
-    p.segmento,
-    i.nombre AS servicio,
-    i.categoria,
-    l.nombre AS sede,
-    l.zona,
-    f.fecha_operacion,
-    f.cantidad_repuestos,
-    f.horas_trabajo,
-    f.tarifa_base,
-    f.descuento_pct,
-    f.canal,
-    f.metodo_pago,
-    f.calificacion,
-    f.costo_reparacion
-FROM ordenes f
-LEFT JOIN clientes p ON f.id_cliente = p.id_cliente
-LEFT JOIN servicios i ON f.id_servicio = i.id_servicio
-LEFT JOIN sedes l ON f.id_sede = l.id_sede;
-```
+- `ordenes_original.csv`

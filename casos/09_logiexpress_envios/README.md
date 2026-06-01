@@ -1,52 +1,34 @@
-# LogiExpress - Envios urbanos
+# Caso 09 - Logiexpress Envios
 
-## Contexto
-Una empresa de mensajeria analiza costos y tiempos de envio.
+## Enfoque del caso
 
-## Tablas
-- `clientes`: datos de clientes.
-- `tipos_envio`: catalogo de tipo_envios.
-- `sedes`: sedes, zonas o puntos de operacion.
-- `envios`: tabla principal con 500 registros y claves foraneas.
+Este caso entrega una sola tabla desnormalizada para que el estudiante identifique datos repetidos y proponga el modelo normalizado.
+
+La base no incluye tablas normalizadas, claves foraneas ni una solucion relacional ya construida.
+
+## Archivo SQLite
+
+- `logiexpress_envios.db`
+
+## Tabla disponible
+
+- `envios_original`: tabla de partida con 500 registros. Mezcla datos de la operacion principal con datos descriptivos de clientes, productos, sedes, categorias u otras entidades del caso.
 
 ## Reto PMD1
-Predecir el costo de envio segun el peso del paquete.
+
+1. Explorar la tabla original.
+2. Detectar patrones repetidos y dependencias entre columnas.
+3. Proponer entidades, claves primarias y claves foraneas.
+4. Crear las tablas normalizadas en SQLite.
+5. Insertar los datos desde `envios_original` hacia las nuevas tablas.
+6. Reconstruir un reporte con `JOIN` para validar que no se perdio informacion.
+7. Limpiar datos con Pandas y preparar un dataset analitico.
 
 Variable objetivo sugerida: `costo_envio`.
 Variable predictora basica sugerida: `peso_paquete_kg`.
 
-## Suciedad incluida
-- Espacios en blanco al inicio/final.
-- Mayusculas y minusculas inconsistentes.
-- Valores nulos.
-- Fechas con formatos mezclados.
-- Numeros guardados como texto, con coma decimal o simbolo `S/`.
-- Duplicados parciales en la tabla principal.
-- Algunos valores extremos.
+## Archivo CSV
 
-## Consulta base para Pandas
+La carpeta `csv/` contiene solo la tabla original:
 
-```sql
-SELECT
-    f.id_envio,
-    p.nombre AS cliente,
-    p.distrito AS distrito_cliente,
-    p.segmento,
-    i.nombre AS tipo_envio,
-    i.categoria,
-    l.nombre AS sede,
-    l.zona,
-    f.fecha_operacion,
-    f.cantidad_paquetes,
-    f.peso_paquete_kg,
-    f.tarifa_base,
-    f.descuento_pct,
-    f.canal,
-    f.metodo_pago,
-    f.calificacion,
-    f.costo_envio
-FROM envios f
-LEFT JOIN clientes p ON f.id_cliente = p.id_cliente
-LEFT JOIN tipos_envio i ON f.id_tipo_envio = i.id_tipo_envio
-LEFT JOIN sedes l ON f.id_sede = l.id_sede;
-```
+- `envios_original.csv`

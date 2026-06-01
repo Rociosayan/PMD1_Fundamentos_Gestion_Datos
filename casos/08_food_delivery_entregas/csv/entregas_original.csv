@@ -1,0 +1,501 @@
+id_entrega,fecha_operacion,cantidad_items,distancia_km,costo_pedido,descuento_pct,canal,metodo_pago,calificacion,tiempo_entrega_min,observacion,zonas_nombre,zonas_distrito,zonas_zona,restaurantes_nombre,restaurantes_categoria,restaurantes_costo_pedido,clientes_nombre,clientes_distrito,clientes_segmento,clientes_fecha_registro
+1,2026-05-07,2,0.75,23.79,8,WHATSAPP,Yape,4,21.08,Cliente frecuente,Zona 5,Lima,,Menu Criollo,Criolla,23.79,Fiorella Salazar,SAN JUAN DE LURIGANCHO,regular,2025-06-05
+2,2026-05-10,1,,27.67,10,Presencial,Efectivo,2,22.67,Promocion,Zona 1,  Ventanilla ,  Centro ,Tacos Urbanos,MEXICANA,27.67,Elena Torres,Ate,Frecuente,2025-07-15
+3,2026-06-13,5,5.89,27.67,15,Presencial,Yape, 2 ,19.49,Revisar,Zona 1,  Ventanilla ,  Centro ,Tacos Urbanos,MEXICANA,27.67,Marco Sayan,Villa El Salvador,frecuente,2025-08-20
+4,2026-05-21, 5 ,13.31,27.67,0,Presencial,Yape,2,53.73,OK,Zona 6,Callao,Centro,Tacos Urbanos,MEXICANA,27.67,Raul Sayan,Villa El Salvador,Premium,2025-02-03
+5,2026-01-28,6,12.97,23.79,0,Web,Tarjeta,1,46.21,,Zona 6,Callao,Centro,Menu Criollo,Criolla,23.79,Raul Paredes,Ventanilla,Corporativo,2025-12-17
+6,2026-06-18,6 aprox, 7.27 ,40.61,5,  Web ,Plin,4,33.39,,Zona 4,Los Olivos,este,Polleria El Carbon,Polleria,40.61,Elena Soto,Lima,Premium,2025/07/25
+7, 2026-02-25 ,1 aprox,5.73,46.58,0,WhatsApp,Plin,5,33.65,OK,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,Valeria Soto,Miraflores,Regular,2025-12-06
+8,2026-04-17,1, 7.64 ,38.69,,,Plin,2,30.23,,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,Maria Gomez,La Molina,Premium,2025-11-12
+9,2026-01-18,1,9.1,38.69,0,Telefono,Transferencia,4,,Cliente frecuente,Zona 7,La Molina,Centro,Chifa Dragon,Chifa,38.69,Ana Paredes,SaN MiGuEl,Regular,2025-01-14
+10,2026-05-21,2,7.94,23.79,,App,Efectivo,2,35.6,,Zona 7,La Molina,Centro,Menu Criollo,Criolla,23.79,Raul Soto,  Lima ,Regular, 2025-01-08 
+11,2026-04-15,,"11,1",27.67 aprox,8,ApP,  Transferencia ,5, 31.18 ,ReViSaR,Zona 6,Callao,Centro,Tacos Urbanos,MEXICANA,27.67,Valeria Reyes,Surco,  Corporativo ,2025-11-14
+12,02/06/2026,3,10.27,21.16,15,Telefono,Efectivo,2,,Revisar,Zona 5,Lima,,Cafe Dulce,  Cafeteria ,21.16,Marco Sayan,Villa El Salvador,frecuente,2025-08-20
+13,2026-01-04,6,,23.79,15,ApP,,1,45.37,,Zona 7,La Molina,Centro,Menu Criollo,Criolla,23.79,,san miguel,Corporativo,2025-06-16
+14,2026-05-11,8,7.72,S/ 31.56,8,Presencial,EfEcTiVo,3,40.43,Cliente frecuente,Zona 3,Lima,Sur,BuRgEr nOrTe,Comida rapida,31.56,Marco Cruz,VILLA EL SALVADOR,Premium,2025-09-17
+15,2026-04-27,6,12.72,46.58,0,  Web ,Yape,2,44.09,,Zona 7,La Molina,Centro,Pizza Centro,PIZZERIA,46.58,,san miguel,Corporativo,2025-06-16
+16,2026-04-02, 3 ,13.59,53.09,10,Web,Efectivo,1,53.57,Revisar,Zona 7,La Molina,Centro,Cevicheria Azul,  Marina ,53.09,Raul Cruz,surco,Nuevo,2025-03-24
+17,2026-05-24,2,3.92,63.63,15,TELEFONO,Yape,1,23.64,Promocion,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,Sofia Navarro,Comas,Nuevo,2025-05-12
+18,2026-06-07,4,11.06,46.58,10,Telefono,,4,38.63,Revisar,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,,  Miraflores ,Nuevo,2025-11-18
+19,2026-05-08,2,6.85,63.63,10,App,Yape,1,30.61,,Zona 2,  San Juan de Lurigancho ,Este,Sushi Barrio,Japonesa,63.63,Marco Sayan,Villa El Salvador,frecuente,2025-08-20
+20,,7,"10,33",46.58,0,telefono,Yape,2,46.25,Promocion,Zona 3,Lima,Sur,Pizza Centro,PIZZERIA,46.58,Fiorella Salazar,SAN JUAN DE LURIGANCHO,regular,2025-06-05
+21,2026-02-28,2, 6.81 ,46.58,15,Telefono,Efectivo,4,33.9,Revisar,Zona 6,Callao,Centro,Pizza Centro,PIZZERIA,46.58,Miguel Gomez,  Ate ,Premium,2025-06-17
+22,2026-04-15,2,11.15,,0,Telefono,Plin,1,33.62,Revisar,Zona 3,Lima,Sur,Cafe Dulce,  Cafeteria ,21.16,Valeria Navarro,Miraflores,Nuevo,2025-11-10
+23,2026-05-16,1,10.55,23.79,8,App,Transferencia,2,33.78,Cliente frecuente,Zona 5,Lima,,Menu Criollo,Criolla,23.79,Valeria Navarro,Miraflores,Nuevo,2025-11-10
+24,2026-06-14,6,8.29,31.56,0,App,Yape,5,38.69,Promocion,Zona 3,Lima,Sur,BuRgEr nOrTe,Comida rapida,31.56,Maria Salazar,Ate,Corporativo,2025-02-18
+25,2026-02-03,3,2.29,40.61,8,ApP,Tarjeta,1, 18.42 ,Cliente frecuente,Zona 4,Los Olivos,este,Polleria El Carbon,Polleria,40.61,Carlos Vargas,AtE,Regular,2025-09-04
+26,2026-05-26,3,9.5,63.63,20,TELEFONO,Transferencia,5,34.64,Promocion,Zona 7,La Molina,Centro,Sushi Barrio,Japonesa,63.63,Raul Paredes,Ventanilla,Corporativo,2025-12-17
+27,2026-01-10,5 aprox,11.1,27.67,0,Presencial,Plin,5,34.9,REVISAR,Zona 4,Los Olivos,este,Tacos Urbanos,MEXICANA,27.67,Valeria Reyes,Surco,  Corporativo ,2025-11-14
+28,2026-03-17,,1.06,"63,63",10,Telefono,,4,20.54,Revisar,Zona 6,Callao,Centro,Sushi Barrio,Japonesa,63.63,Maria Salazar,Ate,Corporativo,2025-02-18
+29,2026-03-20,4,34.75 aprox,21.16,0,Telefono,Plin,3,95.83,Cliente frecuente,Zona 5,Lima,,Cafe Dulce,  Cafeteria ,21.16,  Camila Navarro ,Independencia,Frecuente,2025-10-03
+30,2026-03-11,7,10.97,53.09,20,Presencial,transferencia,,40.53 aprox,Promocion,Zona 3,Lima,Sur,Cevicheria Azul,  Marina ,53.09,Valeria Reyes,San Juan de Lurigancho,Regular,2025-05-23
+31,2026-03-26,5,7.29,46.58,20,presencial,Transferencia,3,28.52,Cliente frecuente,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,Diana Paredes,Ate,Nuevo,2025-08-09
+32,2026-01-17,4,13.19,63.63,15,WhatsApp,Transferencia,3,S/ 32.13,,Zona 6,Callao,Centro,Sushi Barrio,Japonesa,63.63,Victor Campos,san miguel,Regular,2025-09-27
+33,2026-01-11,3,13.44,40.61,5,App,Plin,1, 46.97 ,Promocion,Zona 1,  Ventanilla ,  Centro ,Polleria El Carbon,Polleria,40.61,Lucia Quispe,Los Olivos,Nuevo,2025-11-15
+34,2026-06-11,7,0.92,38.69,20,Presencial,Tarjeta,5,S/ 17.33,,Zona 1,  Ventanilla ,  Centro ,Chifa Dragon,Chifa,38.69,Victor Navarro,Villa El Salvador,Premium,2025-09-18
+35,2026-01-04,1,,53.09,0,App,Tarjeta,1,24.54,Promocion,Zona 7,La Molina,Centro,Cevicheria Azul,  Marina ,53.09,Camila Castillo,San Juan de Lurigancho,,2025-10-15
+36,2026-06-21,7,"5,95",38.69,10,presencial,Yape, 5 ,37.58,,Zona 1,  Ventanilla ,  Centro ,Chifa Dragon,Chifa,38.69,Diego Flores,San Miguel,Frecuente,23-12-2025
+37,2026-04-09,5,4.08,63.63,8,WhatsApp,Yape,5,21.22,ClIeNtE FrEcUeNtE,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,Elena Campos,Independencia,Premium,2025-06-20
+38,2026-06-23,2,11.6 aprox,40.61,10,Web,TaRjEtA,3,41.61,,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,Lucia Quispe,Los Olivos,Nuevo,2025-07-07
+39,2026-01-25,5,7.42,21.16,15,App,Plin,5,20.86,OK,Zona 6,Callao,Centro,Cafe Dulce,  Cafeteria ,21.16,Raul Vargas,Lima,PREMIUM,2025-10-22
+40,2026-02-07,2,8.38,40.61,15,,Tarjeta,5,36.66,Revisar,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,Ana Paredes,SaN MiGuEl,Regular,2025-01-14
+41,2026-06-28,5,3.38,40.61,20,  App ,YAPE,4,10.88,Promocion,Zona 6,Callao,Centro,Polleria El Carbon,Polleria,40.61,Claudia Vargas,Independencia,Premium,2025-09-01
+42,2026-02-26,3,6.7,S/ 21.16,12,Telefono,Yape,4,"31,81",Promocion,Zona 5,Lima,,Cafe Dulce,  Cafeteria ,21.16,Diana Paredes,Ate,Nuevo,2025-08-09
+43,2026-05-09,8,2.23,31.56,0,Telefono,Transferencia,2,39.4,PrOmOcIoN,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,Elena Sayan,Ventanilla,CoRpOrAtIvO,2025-04-03
+44,2026-05-06,5,13.33,S/ 31.56,0,Telefono,Plin,2,39.8,Cliente frecuente,Zona 7,La Molina,Centro,BuRgEr nOrTe,Comida rapida,31.56,Sofia Vargas,,Regular,2025-12-02
+45,2026-02-25,2,2.32,38.69 aprox,0,WhatsApp,Transferencia,2,20.42,,Zona 6,Callao,Centro,Chifa Dragon,Chifa,38.69,Sofia Mendoza,,Frecuente, 2025-04-16 
+46,2026-01-09,8,6.27,31.56,12,WhatsApp,Yape,1,26.59,Revisar,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,Jose Reyes,  Lima ,Nuevo,2025-01-14
+47,2026-02-03,1,4.54,46.58,10,Presencial,Transferencia,3,24.25,,Zona 2,  San Juan de Lurigancho ,Este,Pizza Centro,PIZZERIA,46.58,Marco Sayan,Villa El Salvador,frecuente,2025-08-20
+48,2026-01-13,8,"10,1",53.09,10,Telefono,Plin,3,34.21,,Zona 5,Lima,,Cevicheria Azul,  Marina ,53.09,Elena Cruz,Comas,Nuevo,2025-09-25
+49,05/02/2026,8,8.49,40.61,5,WhatsApp,Transferencia,3,39.38,Cliente frecuente,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,Sofia Navarro,Comas,Nuevo,2025-05-12
+50,2026-05-04,3,10.78,40.61,0,,Yape,5,36.5,Revisar,Zona 6,Callao,Centro,Polleria El Carbon,Polleria,40.61,Marco Quispe,San Miguel,Regular,2025-12-27
+51,2026-02-11,7,6.92,21.16, 0 ,  App ,Yape,2,28.25,Promocion,Zona 7,La Molina,Centro,Cafe Dulce,  Cafeteria ,21.16,Victor Campos,san miguel,Regular,2025-09-27
+52,2026-01-10,7,1.17,38.69,20,WhAtSaPp,  Yape ,5,21.88,Revisar,Zona 6,Callao,Centro,Chifa Dragon,Chifa,38.69,Raul Sayan,Villa El Salvador,Premium,2025-02-03
+53,2026-04-11,3,6.32,27.67,0,TeLeFoNo,Efectivo,2,43.15,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Tacos Urbanos,MEXICANA,27.67,Elena Torres,Ate,Frecuente,2025-07-15
+54,2026-04-12,5,8.04,63.63,10,Presencial,Plin,5,36.26,Cliente frecuente,Zona 7,La Molina,Centro,Sushi Barrio,Japonesa,63.63,,Ventanilla,PrEmIuM,2025-03-07
+55,2026-01-07,2,8.38,63.63,12,App,Transferencia,2,31.43,Cliente frecuente,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,Victor Campos,san miguel,Regular,2025-09-27
+56,2026-04-16,5,14.34,,10,Telefono,Efectivo,1,S/ 50.97,Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,Tacos Urbanos,MEXICANA,27.67,Diana Castillo,LoS OlIvOs,Frecuente,2025-04-25
+57,2026/05/14,6,5.1,63.63,0,Telefono,Transferencia,2,,Cliente frecuente,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,Camila Castillo,San Juan de Lurigancho,,2025-10-15
+58,2026-05-10,8,1.24,40.61,0,Telefono,Transferencia,1,27.68,,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,Andre Rojas,CALLAO,Premium,2025-02-06
+59,2026-01-01,8,2.11,53.09,8,Presencial,Efectivo,5,17.26,,Zona 2,  San Juan de Lurigancho ,Este,Cevicheria Azul,  Marina ,53.09,Elena Campos,Independencia,Premium,2025-06-20
+60,11-02-2026,6,4.41,53.09,10,,Transferencia,2,23.37,,Zona 3,Lima,Sur,Cevicheria Azul,  Marina ,53.09,Claudia Vargas,Independencia,Premium,2025-09-01
+61,2026-02-11, 5 ,8.34,63.63,0 aprox,App,Yape,1,40.49,,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,Sofia Navarro,Comas,Nuevo,2025-05-12
+62,2026-06-23,3,13.85,31.56,0,App,Yape,4,54.27,Revisar,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,Valeria Soto,Miraflores,Regular,2025-12-06
+63,2026-06-16,6,11.51,27.67,0 aprox,Presencial,Yape,2,44.31,Promocion,Zona 7,La Molina,Centro,Tacos Urbanos,MEXICANA,27.67,Lucia Salazar,Ventanilla,Frecuente,2025-05-10
+64,2026-03-23,7,2.05 aprox,23.79,20,Web,Plin,3,14.69,OK,Zona 5,Lima,,Menu Criollo,Criolla,23.79,Ana Reyes,Chorrillos,Regular,2025-05-24
+65,2026-06-22,1,4.38,31.56,20,WhatsApp,Transferencia,2,18.38,Revisar,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,Marco Cruz,VILLA EL SALVADOR,Premium,2025-09-17
+66,2026-04-17,1, 7.64 ,38.69,,,Plin,2,30.23,,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,Maria Gomez,La Molina,Premium,2025-11-12
+67,17/04/2026,4,8.14,63.63,8,Telefono,Yape,1,22.21,OK,Zona 2,  San Juan de Lurigancho ,Este,Sushi Barrio,Japonesa,63.63,Andre Rojas,CALLAO,Premium,2025-02-06
+68,2026-01-04,3 aprox, 1.28 ,21.16,20,Web,Transferencia,3,9.47,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Cafe Dulce,  Cafeteria ,21.16,Sofia Mendoza,CoMaS,Frecuente,2025-12-23
+69,2026-06-10,5,9.9,46.58,0,Presencial,Tarjeta,4,46.78,OK,Zona 7,La Molina,Centro,Pizza Centro,PIZZERIA,46.58,Raul Sayan,Villa El Salvador,Premium,2025-02-03
+70,2026-02-19,7,4.66,21.16,0,Presencial,Plin,,30.94,Revisar,Zona 4,Los Olivos,este,Cafe Dulce,  Cafeteria ,21.16,Ana Vargas,San  Miguel,Nuevo,2025-02-03
+71, 2026-01-20 ,3,10.15,53.09,0,WhatsApp,Tarjeta,3,43.47,,Zona 2,  San Juan de Lurigancho ,Este,Cevicheria Azul,  Marina ,53.09,Elena Soto,Lima,Premium,2025/07/25
+72,2026-05-27,4,6.16,38.69,8,App,Yape, 1 ,18.31,,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,Marco Quispe,San Miguel,Regular,2025-12-27
+73,2026-05-20,3,,38.69,8,Web,Yape,2,49.25,Revisar,Zona 5,Lima,,Chifa Dragon,Chifa,38.69,Diana Castillo,LoS OlIvOs,Frecuente,2025-04-25
+74,2026-05-09,5,10.15,46.58,0,Web,Yape,2,43.97,OK,Zona 2,  San Juan de Lurigancho ,Este,Pizza Centro,PIZZERIA,46.58,Valeria Soto,Miraflores,Regular,2025-12-06
+75,2026-05-05,1, 5.77 ,23.79,0,Telefono,Efectivo,1,24.58,,Zona 3,Lima,Sur,Menu Criollo,Criolla,23.79,Lucia Quispe,Los Olivos,Nuevo,2025-07-07
+76,2026-05-27,7,1.36,27.67,12,Telefono,,5,30.74,,Zona 6,Callao,Centro,Tacos Urbanos,MEXICANA,27.67,Maria Reyes,Comas,Premium,2025-05-12
+77,2026-02-20,3,"1,25",31.56,10,  Presencial ,Tarjeta,2,19.13,,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,,  Miraflores ,Nuevo,2025-11-18
+78,2026-03-13,6,11.53 aprox,23.79,8,Telefono,Efectivo,1,47.47,OK,Zona 2,  San Juan de Lurigancho ,Este,Menu Criollo,Criolla,23.79,Marco Sayan,Villa El Salvador,frecuente,2025-08-20
+79,2026-04-19,8,"13,55",23.79,20,WEB,Plin,1,44.94 aprox,OK,Zona 3,Lima,Sur,Menu Criollo,Criolla,23.79,Diego Navarro,Chorrillos,Frecuente,2025-08-18
+80,2026-04-01,5,5.67, 21.16 ,15,,Tarjeta,1,33.34,,Zona 1,  Ventanilla ,  Centro ,Cafe Dulce,  Cafeteria ,21.16,Miguel Huaman,InDePeNdEnCiA,Regular,2025-03-24
+81,2026-01-04,1,,53.09,0,App,Tarjeta,1,24.54,Promocion,Zona 7,La Molina,Centro,Cevicheria Azul,  Marina ,53.09,Camila Castillo,San Juan de Lurigancho,,2025-10-15
+82,2026-02-06,2,1.94,46.58,15,WhatsApp,Tarjeta,5,16.33,Cliente frecuente,Zona 6,Callao,Centro,Pizza Centro,PIZZERIA,46.58,Raul Soto,  Lima ,Regular, 2025-01-08 
+83,2026-04-05,6,14.58,63.63,12,Web,Transferencia,5,44.7,,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,,  Miraflores ,Nuevo,2025-11-18
+84,2026-01-11,1 aprox,11.95,53.09,15,Telefono,Yape,5,38.45,Revisar,Zona 7,La Molina,Centro,Cevicheria Azul,  Marina ,53.09,Marco Castillo,Independencia,Nuevo,2025-07-10
+85,2026-05-07,3,14.9,27.67,0,Telefono,Yape,2,49.28,Revisar,Zona 1,  Ventanilla ,  Centro ,Tacos Urbanos,MEXICANA,27.67,Marco Paredes,Lima,Corporativo,2025-12-22
+86,2026/02/24,3,"14,49",63.63,15,WhatsApp,Efectivo,2,47.24,OK,Zona 7,La Molina,Centro,Sushi Barrio,Japonesa,63.63,Miguel Gomez,  Ate ,Premium,2025-06-17
+87,20/06/2026,8,13.61,31.56,0,Telefono,Transferencia,1,53.25,OK,Zona 2,  San Juan de Lurigancho ,Este,BuRgEr nOrTe,Comida rapida,31.56,jose mendoza,Ventanilla,Premium,2025/08/27
+88,2026-03-16,5,2.44,27.67,12,Presencial,TrAnSfErEnCiA,1,24.84,revisar,Zona 1,  Ventanilla ,  Centro ,Tacos Urbanos,MEXICANA,27.67,Elena Cruz,Comas,Nuevo,2025-09-25
+89,2026-06-11,8 aprox,9.73,53.09,12 aprox,WhAtSaPp,Efectivo,2,38.39,,Zona 5,Lima,,Cevicheria Azul,  Marina ,53.09,Sofia Mendoza,CoMaS,Frecuente,2025-12-23
+90,2026-03-15,3,7.66,40.61,0,WEB,Plin,5,27.81,Cliente frecuente,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,Sofia Mendoza,,Frecuente, 2025-04-16 
+91,2026-01-05,3,9.36,46.58,8,Presencial,PLIN,3,37.84,Cliente frecuente,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,Maria Reyes,Comas,Premium,2025-05-12
+92,2026-04-21,6,9.64,38.69,15,Telefono,Tarjeta,5,36.58,Revisar,Zona 1,  Ventanilla ,  Centro ,Chifa Dragon,Chifa,38.69,Miguel Huaman,CALLAO,Frecuente,2025-07-22
+93,2026/01/14,8,7.5,31.56,12,App,  Efectivo ,3,45.71,Cliente frecuente,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,Ana Vargas,San  Miguel,Nuevo,2025-02-03
+94,2026-06-06,2,4.35,27.67,12,Presencial,Yape,4,34.75,Revisar,Zona 3,Lima,Sur,Tacos Urbanos,MEXICANA,27.67,jose mendoza,Ventanilla,Premium,2025/08/27
+95,2026-02-10,2,1.74,23.79,15,Telefono,Plin,5,10.62,Cliente frecuente,Zona 3,Lima,Sur,Menu Criollo,Criolla,23.79,Sofia Mendoza,CoMaS,Frecuente,2025-12-23
+96,2026-02-09,2,1.19,53.09,8,Presencial,,3,S/ 18.48,OK,Zona 5,Lima,,Cevicheria Azul,  Marina ,53.09,Luis Castillo,MIRAFLORES,Frecuente,2025-10-20
+97,2026-05-14,5,14.75,63.63,5,Telefono,Plin,3,49.22,,Zona 6,Callao,Centro,Sushi Barrio,Japonesa,63.63,Sofia Torres,lima,NuEvO,2025-07-01
+98,2026-01-25,6,13.87,27.67,20,,PlIn,5,41.73,Cliente frecuente,Zona 4,Los Olivos,este,Tacos Urbanos,MEXICANA,27.67,Maria Gomez,La Molina,Premium,2025-11-12
+99,2026-02-25,6,3.2,23.79,5,Telefono,Transferencia,4,24.45,,Zona 4,Los Olivos,este,Menu Criollo,Criolla,23.79,Marco Castillo,Independencia,Nuevo,2025-07-10
+100,2026-06-17,3,13.14,31.56,15,Web,,1,49.89,Cliente frecuente,Zona 7,La Molina,Centro,BuRgEr nOrTe,Comida rapida,31.56,,Ventanilla,PrEmIuM,2025-03-07
+101,2026-02-03,8,14.29,38.69,15,WEB,Yape,5,62.67,Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,Chifa Dragon,Chifa,38.69,Luis Paredes,Chorrillos,  Premium ,2025-01-25
+102,2026-03-18,3,6.57 aprox,21.16,8,Presencial,Yape,4,34.52,Promocion,Zona 7,La Molina,Centro,Cafe Dulce,  Cafeteria ,21.16,Maria Gomez,La Molina,Premium,2025-11-12
+103,2026-05-19,8 aprox,10.73,53.09,20,Telefono,Transferencia,3,46.84,Revisar,Zona 3,Lima,Sur,Cevicheria Azul,  Marina ,53.09,Miguel Gomez,  Ate ,Premium,2025-06-17
+104,2026-03-24,2,11.46,38.69, 20 ,Web,YAPE,2,33.85,Cliente frecuente,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,Camila Castillo,San Juan de Lurigancho,,2025-10-15
+105,12/01/2026,2,11.16,23.79,5,presencial,Efectivo,5,36.44 aprox,Cliente frecuente,Zona 6,Callao,Centro,Menu Criollo,Criolla,23.79,Ana Vargas,San  Miguel,Nuevo,2025-02-03
+106,2026-02-06,6,8.08,23.79,5,App,Plin,4,41.01,Revisar,Zona 5,Lima,,Menu Criollo,Criolla,23.79,Raul Soto,  Lima ,Regular, 2025-01-08 
+107,2026-01-08,5,7.34,"38,69",0,Presencial,Transferencia,2,34.89,,Zona 6,Callao,Centro,Chifa Dragon,Chifa,38.69,Lucia Quispe,Los Olivos,Nuevo,2025-07-07
+108, 2026-03-11 ,8 aprox,14.59,40.61,12,  App ,Efectivo,5,45.26,cliente frecuente,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,Valeria Reyes,Surco,  Corporativo ,2025-11-14
+109,2026-03-12,1,13.23, 23.79 ,8,Web,Efectivo,2 aprox,38.37,Promocion,Zona 7,La Molina,Centro,Menu Criollo,Criolla,23.79,Elena Torres,Chorrillos,Corporativo,2025-04-26
+110,,4,3.04,23.79, 0 ,Web,Tarjeta,5,28.78,,Zona 7,La Molina,Centro,Menu Criollo,Criolla,23.79,Diego Flores,San Miguel,Frecuente,23-12-2025
+111,2026-02-07,6,2.45,53.09,10,Web,Efectivo,1,33.56,,Zona 6,Callao,Centro,Cevicheria Azul,  Marina ,53.09,Carlos Vargas,AtE,Regular,2025-09-04
+112,2026-01-01,1,5.91,40.61,0,App,Yape,3,31.43,OK,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,Rocio Salazar,  San Miguel ,Frecuente,2025-08-03
+113,08/01/2026,3,13.8,46.58,0,Telefono,  Yape ,3,S/ 51.59,Revisar,Zona 7,La Molina,Centro,Pizza Centro,PIZZERIA,46.58,Raul Paredes,Ventanilla,Corporativo,2025-12-17
+114,2026-06-14,7,6.27,53.09, 10 ,Telefono,Plin,1,31.76,Cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,Cevicheria Azul,  Marina ,53.09,Maria Salazar,Ate,Corporativo,2025-02-18
+115,2026-01-01,7,12.04,23.79,0,Telefono,PlIn,3,,,Zona 6,Callao,Centro,Menu Criollo,Criolla,23.79,Elena Cruz,Comas,Nuevo,2025-09-25
+116,2026-06-21,,4.84,"21,16",15,WhatsApp,TARJETA,3,28.21,,Zona 6,Callao,Centro,Cafe Dulce,  Cafeteria ,21.16,Victor Campos,san miguel,Regular,2025-09-27
+117,2026-05-11,1, 10.22 ,31.56,0,Telefono,Tarjeta,1,37.34,OK,Zona 7,La Molina,Centro,BuRgEr nOrTe,Comida rapida,31.56,Ana Salazar,Chorrillos,Nuevo,2025-11-15
+118,10-06-2026,4,3.38,38.69,20,Web,Yape,3,19.94,,Zona 6,Callao,Centro,Chifa Dragon,Chifa,38.69,Sofia Navarro,Comas,Nuevo,2025-05-12
+119,2026-03-20,6,6.44,53.09,0,Presencial,Efectivo,1,31.69,,Zona 4,Los Olivos,este,Cevicheria Azul,  Marina ,53.09,jose mendoza,Ventanilla,Premium,2025/08/27
+120,2026-01-17,8,5.53 aprox,21.16,10,Telefono,Plin,3,34.04,Promocion,Zona 3,Lima,Sur,Cafe Dulce,  Cafeteria ,21.16,Elena Campos,Independencia,Premium,2025-06-20
+121,2026-05-03,6,10.28,S/ 40.61, 0 ,Web,Tarjeta,4,38.02,Cliente frecuente,Zona 7,La Molina,Centro,Polleria El Carbon,Polleria,40.61,Maria Reyes,Comas,Premium,2025-05-12
+122,2026-03-16,6,0.81, 53.09 ,20,WhatsApp,Transferencia,1,19.53,Revisar,Zona 7,La Molina,Centro,Cevicheria Azul,  Marina ,53.09,Carlos Vargas,AtE,Regular,2025-09-04
+123,2026-06-27,4,14.56,38.69,20,Web,Transferencia,,50.06,Cliente frecuente,Zona 6,Callao,Centro,Chifa Dragon,Chifa,38.69,Valeria Navarro,Miraflores,Nuevo,2025-11-10
+124,2026-05-27,3,4.69,,5,Telefono,plin,5, 22.91 ,,Zona 2,  San Juan de Lurigancho ,Este,Tacos Urbanos,MEXICANA,27.67,Valeria Paredes,Chorrillos,Frecuente,2025-09-23
+125,2026-02-28,6,1.76,27.67,0,Web,Plin,5,30.98,,Zona 4,Los Olivos,este,Tacos Urbanos,MEXICANA,27.67,Marco Sayan,Villa El Salvador,frecuente,2025-08-20
+126,2026-05-19,6,10.74,46.58,12,App,  Transferencia ,1,39.39,,Zona 5,Lima,,Pizza Centro,PIZZERIA,46.58,Elena Cruz,Comas,Nuevo,2025-09-25
+127, 2026-05-06 ,5,12.94,46.58,12,WhatsApp,Transferencia,5,49.02,Cliente frecuente,Zona 5,Lima,,Pizza Centro,PIZZERIA,46.58,Miguel Huaman,CALLAO,Frecuente,2025-07-22
+128,2026-06-21,1,3.49,21.16,10,Web,Efectivo,5, 22.72 ,Revisar,Zona 3,Lima,Sur,Cafe Dulce,  Cafeteria ,21.16,,Ventanilla,PrEmIuM,2025-03-07
+129,2026-01-24,4,9.77,46.58,8,App,Yape,5,33.91,OK,Zona 7,La Molina,Centro,Pizza Centro,PIZZERIA,46.58,Miguel Gomez,  Ate ,Premium,2025-06-17
+130,2026-05-13,4,5.85,53.09,0,Web,Efectivo,2,34.54,OK,Zona 6,Callao,Centro,Cevicheria Azul,  Marina ,53.09,Rocio Sayan,San Juan de Lurigancho,,2025-03-05
+131,2026-05-20,5,8.24,21.16,10,Web,Transferencia,1,38.44,Promocion,Zona 4,Los Olivos,este,Cafe Dulce,  Cafeteria ,21.16,  Camila Navarro ,Independencia,Frecuente,2025-10-03
+132,2026-01-06,4,10.37,38.69,20,  App ,Plin,2,35.53,Cliente frecuente,Zona 6,Callao,Centro,Chifa Dragon,Chifa,38.69,Carlos Huaman,  Callao ,Nuevo,2025-05-19
+133,2026-06-26,8,,23.79,10,WhatsApp,,2,24.32,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Menu Criollo,Criolla,23.79,Sofia Mendoza,,Frecuente, 2025-04-16 
+134,2026-03-02,,8.21,40.61,5,  WhatsApp ,Transferencia,4,37.85,,Zona 6,Callao,Centro,Polleria El Carbon,Polleria,40.61,Miguel Gomez,  Ate ,Premium,2025-06-17
+135,2026-02-16,8,5.21,63.63,20,Web,Plin,2,37.1,Revisar,Zona 3,Lima,Sur,Sushi Barrio,Japonesa,63.63,Raul Soto,  Lima ,Regular, 2025-01-08 
+136,2026-04-03,1,5.25,27.67,0,WhatsApp,Efectivo,3,34.87,Revisar,Zona 6,Callao,Centro,Tacos Urbanos,MEXICANA,27.67,Valeria Soto,Miraflores,Regular,2025-12-06
+137,2026-02-05,1,9.08,27.67,0,Presencial,Yape,4,31.61,,Zona 3,Lima,Sur,Tacos Urbanos,MEXICANA,27.67,VaLeRiA MeNdOzA,Villa El Salvador,Premium,2025-02-18
+138,2026-06-21,5,7.57,21.16,0,Presencial,Yape,5,38.05,OK,Zona 1,  Ventanilla ,  Centro ,Cafe Dulce,  Cafeteria ,21.16,Ana Reyes,Chorrillos,Regular,2025-05-24
+139,2026-01-25, 7 ,5.44,23.79,15,App,Tarjeta,1,35.01,OK,Zona 5,Lima,,Menu Criollo,Criolla,23.79,Ana Paredes,SaN MiGuEl,Regular,2025-01-14
+140,2026-01-03,6,9.52,23.79,15,,Yape,3,S/ 45.75,Cliente frecuente,Zona 5,Lima,,Menu Criollo,Criolla,23.79,Carlos Vargas,AtE,Regular,2025-09-04
+141,2026-01-02,6,12.34,38.69,0,App,Tarjeta,,47.84,OK,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,Andre Rojas,CALLAO,Premium,2025-02-06
+142,14-05-2026,1,13.95,38.69,0 aprox,Telefono,Efectivo,3,45.93,Promocion,Zona 6,Callao,Centro,Chifa Dragon,Chifa,38.69,jose mendoza,Ventanilla,Premium,2025/08/27
+143,2026-06-09, 1 ,13.39,23.79,15,Presencial,efectivo,5,46.83,,Zona 3,Lima,Sur,Menu Criollo,Criolla,23.79,Sofia Vargas,,Regular,2025-12-02
+144,2026-04-08,5,14.72,,10,web,Yape,1,52.33,OK,Zona 2,  San Juan de Lurigancho ,Este,Tacos Urbanos,MEXICANA,27.67,,Ventanilla,PrEmIuM,2025-03-07
+145,2026-06-21,5,2.88, 46.58 ,15,WhatsApp,Plin,,27.02,Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,Pizza Centro,PIZZERIA,46.58,Camila Vargas,Miraflores,Regular,2025-06-03
+146,2026-06-22,6,2.45,27.67,0,App,Transferencia,4,31.64,cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,Tacos Urbanos,MEXICANA,27.67,Elena Sayan,Ventanilla,CoRpOrAtIvO,2025-04-03
+147,2026-01-05,7,6.97,38.69,5,Presencial,Plin,1,31.4,OK,Zona 3,Lima,Sur,Chifa Dragon,Chifa,38.69,Raul Cruz,surco,Nuevo,2025-03-24
+148,04/02/2026,6 aprox,6.69,38.69,0,Web,Transferencia,2,39.4,OK,Zona 1,  Ventanilla ,  Centro ,Chifa Dragon,Chifa,38.69,Pedro Gomez,Lima,  Corporativo ,2025-08-20
+149,2026-05-28,2,6.06,38.69,10,WhatsApp,,2,30.35,,Zona 6,Callao,Centro,Chifa Dragon,Chifa,38.69,Sofia Vargas,,Regular,2025-12-02
+150,2026-06-09,4,11.05 aprox,31.56,15,Telefono,Efectivo,2,45.95,Cliente frecuente,Zona 4,Los Olivos,este,BuRgEr nOrTe,Comida rapida,31.56,Sofia Torres,lima,NuEvO,2025-07-01
+151,2026-01-07,6,10.29,40.61,8,WhatsApp,Tarjeta,3,41.35,OK,Zona 2,  San Juan de Lurigancho ,Este,Polleria El Carbon,Polleria,40.61,Ana Vargas,San  Miguel,Nuevo,2025-02-03
+152,2026-02-03,5,6.09,23.79,8,  App ,Yape,5,29.45 aprox,,Zona 5,Lima,,Menu Criollo,Criolla,23.79,Elena Cruz,Comas,Nuevo,2025-09-25
+153,2026-06-09,4,2.03,"63,63",5 aprox,App,Tarjeta,1,23.23,Revisar,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,Maria Gomez,La Molina,Premium,2025-11-12
+154,2026-06-23,2,"14,73",63.63,10,App,Efectivo,2,,revisar,Zona 2,  San Juan de Lurigancho ,Este,Sushi Barrio,Japonesa,63.63,  Victor Sayan ,  Lima ,Corporativo,2025-06-06
+155,2026-05-16,3,10.68,23.79,15,Presencial,Efectivo,4,S/ 28.47,Cliente frecuente,Zona 7,La Molina,Centro,Menu Criollo,Criolla,23.79,Ana Paredes,SaN MiGuEl,Regular,2025-01-14
+156,2026-06-20,2,9.23,40.61,10,Presencial,Yape,3,33.79,Revisar,Zona 6,Callao,Centro,Polleria El Carbon,Polleria,40.61,Raul Soto,  Lima ,Regular, 2025-01-08 
+157,2026-05-10,7,12.89,63.63,8,WhatsApp,Tarjeta,4,46.78,OK,Zona 5,Lima,,Sushi Barrio,Japonesa,63.63,Lucia Ramos,Ate,Frecuente,2025-02-03
+158,2026-04-07,4,,38.69,12 aprox,whatsapp,Plin,4,32.24,Promocion,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,Victor Navarro,Villa El Salvador,Premium,2025-09-18
+159,2026-01-15,7, 10.06 ,53.09,12,WhatsApp,Plin,3,"41,14",,Zona 5,Lima,,Cevicheria Azul,  Marina ,53.09,Jose Reyes,  Lima ,Nuevo,2025-01-14
+160,2026/01/03,6,5.96,,12,App,Yape,2,23.79,Promocion,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,Lucia Salazar,Ventanilla,Frecuente,2025-05-10
+161,2026-02-14,4,10.12,"27,67",15,Telefono,Efectivo,2,39.54,OK,Zona 1,  Ventanilla ,  Centro ,Tacos Urbanos,MEXICANA,27.67,Andre Quispe,Independencia,Corporativo,2025-11-07
+162,2026-05-08,3,10.62,23.79,12,Web,Tarjeta,5, 36.85 ,,Zona 3,Lima,Sur,Menu Criollo,Criolla,23.79,Diego Flores,San Miguel,Frecuente,23-12-2025
+163,2026-06-14,5, 1.61 ,23.79,0,WhatsApp,Tarjeta,5,66.44,Cliente frecuente,Zona 5,Lima,,Menu Criollo,Criolla,23.79,Raul Soto,  Lima ,Regular, 2025-01-08 
+164,,2,10.1,38.69,0,Telefono,Yape,5,,Cliente frecuente,Zona 5,Lima,,Chifa Dragon,Chifa,38.69,VaLeRiA MeNdOzA,Villa El Salvador,Premium,2025-02-18
+165,2026-06-20,4,12.14,S/ 63.63,10,Telefono,EFECTIVO,,41.19,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Sushi Barrio,Japonesa,63.63,Rocio Salazar,  San Miguel ,Frecuente,2025-08-03
+166,,3,11.6 aprox,53.09,8,Presencial,yape,4,52.41,,Zona 2,  San Juan de Lurigancho ,Este,Cevicheria Azul,  Marina ,53.09,RaUl rAmOs,Miraflores,Corporativo,2025-07-05
+167,2026-03-02,4,8.7,46.58,20,App,Efectivo,5,S/ 35.41,,Zona 5,Lima,,Pizza Centro,PIZZERIA,46.58,Ana Salazar,Chorrillos,Nuevo,2025-11-15
+168,17/06/2026,5,"4,82",40.61,0,,Efectivo,2,34.98,Revisar,Zona 6,Callao,Centro,Polleria El Carbon,Polleria,40.61,Maria Gomez,La Molina,Premium,2025-11-12
+169,2026-03-21,5,7.3,40.61,20,Telefono,Tarjeta,2,42.28,Revisar,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,Jorge Torres,Surco,Regular, 2025-04-01 
+170,2026-05-09,3,8.67,21.16, 0 ,Web,Transferencia,2,35.71,,Zona 6,Callao,Centro,Cafe Dulce,  Cafeteria ,21.16,Carlos Huaman,  Callao ,Nuevo,2025-05-19
+171,2026-01-24,5,2.55,31.56,15,Presencial,Yape,4,30.93,,Zona 3,Lima,Sur,BuRgEr nOrTe,Comida rapida,31.56,Elena Torres,Chorrillos,Corporativo,2025-04-26
+172,2026/01/22,5,3.24,53.09,10,App,Transferencia,2,26.08,Cliente frecuente,Zona 6,Callao,Centro,Cevicheria Azul,  Marina ,53.09,Maria Gomez,La Molina,Premium,2025-11-12
+173,2026-05-28,1,10.72 aprox,38.69,5,App,TrAnSfErEnCiA,5,40.26,  OK ,Zona 5,Lima,,Chifa Dragon,Chifa,38.69,Marco Cruz,VILLA EL SALVADOR,Premium,2025-09-17
+174,2026-01-02,6,8.05,46.58,8,App,Yape,2,30.12,Promocion,Zona 7,La Molina,Centro,Pizza Centro,PIZZERIA,46.58,Elena Cruz,Comas,Nuevo,2025-09-25
+175,11-02-2026,1,7.48,"23,79",0,WhatsApp,Yape,4,25.69,OK,Zona 2,  San Juan de Lurigancho ,Este,Menu Criollo,Criolla,23.79,Lucia Ramos,Ate,Frecuente,2025-02-03
+176,2026-01-20,8,12.06,31.56,10,App,Yape,1,52.68,Promocion,Zona 4,Los Olivos,este,BuRgEr nOrTe,Comida rapida,31.56,Valeria Navarro,Miraflores,Nuevo,2025-11-10
+177,2026-04-03,7,11.69,38.69,12,WhatsApp,Yape,5,125.45,,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,Rocio Sayan,San Juan de Lurigancho,,2025-03-05
+178,2026-03-14,6,6.79,40.61,8,App,Plin,5,31.2,Cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,Polleria El Carbon,Polleria,40.61,Jorge Torres,Surco,Regular, 2025-04-01 
+179,2026-04-10,5,6.36,21.16,,Telefono,Plin,3,43.48,,Zona 6,Callao,Centro,Cafe Dulce,  Cafeteria ,21.16,Raul Cruz,surco,Nuevo,2025-03-24
+180,2026-04-18,,5.76,63.63,0,Web,Efectivo,3,43.92,Revisar,Zona 3,Lima,Sur,Sushi Barrio,Japonesa,63.63,Andre Rojas,CALLAO,Premium,2025-02-06
+181,2026-06-21,8,13.67,63.63,8,Telefono,Plin,3,53.21,Promocion,Zona 2,  San Juan de Lurigancho ,Este,Sushi Barrio,Japonesa,63.63,Diana Castillo,LoS OlIvOs,Frecuente,2025-04-25
+182,2026-05-14,3,13.23,63.63,10,WhatsApp,Plin,3,46.45,Cliente frecuente,Zona 5,Lima,,Sushi Barrio,Japonesa,63.63,Marco Sayan,Villa El Salvador,frecuente,2025-08-20
+183,2026-05-04,4,8.78 aprox,63.63,8,Telefono,Tarjeta,5,39.9,Revisar,Zona 3,Lima,Sur,Sushi Barrio,Japonesa,63.63,VaLeRiA MeNdOzA,Villa El Salvador,Premium,2025-02-18
+184,26/06/2026,4,13.23,21.16 aprox,10,WhatsApp,,1,34.99,OK,Zona 1,  Ventanilla ,  Centro ,Cafe Dulce,  Cafeteria ,21.16,Miguel Huaman,CALLAO,Frecuente,2025-07-22
+185,2026-05-11,3,4.93,53.09,5,ApP,Transferencia,3,35.61,  OK ,Zona 7,La Molina,Centro,Cevicheria Azul,  Marina ,53.09,Luis Paredes,Chorrillos,  Premium ,2025-01-25
+186,2026-01-05,5,2.78,53.09,12,Telefono,Efectivo,4,26.8,Revisar,Zona 4,Los Olivos,este,Cevicheria Azul,  Marina ,53.09,Lucia Ramos,Ate,Frecuente,2025-02-03
+187,2026-04-05,3,6.65 aprox,40.61,20,Web,Plin,4, 29.31 ,OK,Zona 1,  Ventanilla ,  Centro ,Polleria El Carbon,Polleria,40.61,Victor Campos,san miguel,Regular,2025-09-27
+188, 2026-03-11 ,,9.91,63.63,20,WhatsApp,Yape,5,35.64,Revisar,Zona 5,Lima,,Sushi Barrio,Japonesa,63.63,jose mendoza,Ventanilla,Premium,2025/08/27
+189,2026-01-27,4,2.3,63.63,5,Presencial,Plin,4,22.71,OK,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,Valeria Navarro,Miraflores,Nuevo,2025-11-10
+190,2026-05-11,6,2.27 aprox,27.67,10,,Tarjeta,1 aprox,18.37,Promocion,Zona 5,Lima,,Tacos Urbanos,MEXICANA,27.67,Fiorella Salazar,SAN JUAN DE LURIGANCHO,regular,2025-06-05
+191, 2026-04-28 ,1,13.76,21.16,20,WhAtSaPp,Plin,2, 39.83 ,,Zona 5,Lima,,Cafe Dulce,  Cafeteria ,21.16,Sofia Mendoza,CoMaS,Frecuente,2025-12-23
+192,2026-02-03,1,4.54,46.58,10,Presencial,Transferencia,3,24.25,,Zona 2,  San Juan de Lurigancho ,Este,Pizza Centro,PIZZERIA,46.58,Marco Sayan,Villa El Salvador,frecuente,2025-08-20
+193,2026-03-02,2,7.7,21.16,0,Presencial,Transferencia,2,34.89,Revisar,Zona 3,Lima,Sur,Cafe Dulce,  Cafeteria ,21.16,jose mendoza,Ventanilla,Premium,2025/08/27
+194,2026-03-27,8,6.95,S/ 27.67,20 aprox,WhatsApp,Yape,5, 23.43 ,,Zona 5,Lima,,Tacos Urbanos,MEXICANA,27.67,Ana Vargas,San  Miguel,Nuevo,2025-02-03
+195,2026-05-07,8,7.52,21.16,10,Presencial,Tarjeta,3,36.09,OK,Zona 7,La Molina,Centro,Cafe Dulce,  Cafeteria ,21.16,Elena Torres,Ate,Frecuente,2025-07-15
+196,2026-04-18,6 aprox,14.36,53.09,5,WhAtSaPp,Efectivo,5,,Promocion,Zona 7,La Molina,Centro,Cevicheria Azul,  Marina ,53.09,Maria Gomez,La Molina,Premium,2025-11-12
+197,2026-02-12,3,5.53,40.61,0,Presencial,YAPE,2,29.88,,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,Elena Sayan,Ventanilla,CoRpOrAtIvO,2025-04-03
+198,2026-02-10,7,13.43,46.58,0,Web,Tarjeta,2,60.56,Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,Pizza Centro,PIZZERIA,46.58,Marco Sayan,Villa El Salvador,frecuente,2025-08-20
+199,2026-02-28,4, 12.78 ,27.67 aprox,5,,Efectivo,5,50.04,OK,Zona 4,Los Olivos,este,Tacos Urbanos,MEXICANA,27.67,Sofia Mendoza,CoMaS,Frecuente,2025-12-23
+200,2026-04-11,5,5.76,38.69,8,WHATSAPP,Plin,1,33.68,,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,  Victor Sayan ,  Lima ,Corporativo,2025-06-06
+201,2026-05-03,6,10.28,S/ 40.61, 0 ,Web,Tarjeta,4,38.02,Cliente frecuente,Zona 7,La Molina,Centro,Polleria El Carbon,Polleria,40.61,Maria Reyes,Comas,Premium,2025-05-12
+202,2026-06-04,1,6.78,53.09,15,Presencial,Yape,2,22.15,,Zona 2,  San Juan de Lurigancho ,Este,Cevicheria Azul,  Marina ,53.09,Elena Torres,Chorrillos,Corporativo,2025-04-26
+203,2026-06-05,6 aprox,9.75,40.61,0,Web,Yape,3,38.5,OK,Zona 4,Los Olivos,este,Polleria El Carbon,Polleria,40.61,Luis Paredes,Chorrillos,  Premium ,2025-01-25
+204,2026-03-21,8,0.91,21.16,15,App,Efectivo, 4 ,13.25,Cliente frecuente,Zona 3,Lima,Sur,Cafe Dulce,  Cafeteria ,21.16,Pedro Gomez,Lima,  Corporativo ,2025-08-20
+205,2026-01-20,5,3.27,23.79,15,App,Efectivo,2,19.65,,Zona 7,La Molina,Centro,Menu Criollo,Criolla,23.79,,  Miraflores ,Nuevo,2025-11-18
+206,2026-03-18,1, 11.08 ,21.16,8,WhatsApp,Transferencia,4,43.48,,Zona 1,  Ventanilla ,  Centro ,Cafe Dulce,  Cafeteria ,21.16,Miguel Huaman,CALLAO,Frecuente,2025-07-22
+207,,7,"10,33",46.58,0,telefono,Yape,2,46.25,Promocion,Zona 3,Lima,Sur,Pizza Centro,PIZZERIA,46.58,Fiorella Salazar,SAN JUAN DE LURIGANCHO,regular,2025-06-05
+208,10/01/2026,4,3.62,63.63,0,Presencial,Plin,3,19.13,Cliente frecuente,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,RaUl fLoReS,la molina,Regular,2025-09-27
+209,2026-01-12,8,,31.56,8,WhatsApp,,3,36.53,,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,Valeria Soto,Miraflores,Regular,2025-12-06
+210,2026/06/07,4,3.67,40.61,15,WhatsApp,Plin,1,34.0,Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,Polleria El Carbon,Polleria,40.61,Rocio Torres,,Premium,2025-01-19
+211,2026-03-19,5 aprox,5.76,40.61,8,Telefono,Tarjeta,4,34.51,OK,Zona 2,  San Juan de Lurigancho ,Este,Polleria El Carbon,Polleria,40.61,Raul Sayan,Villa El Salvador,Premium,2025-02-03
+212,2026-05-24,1,3.2,23.79,20 aprox,WeB,Efectivo,4,20.53,,Zona 6,Callao,Centro,Menu Criollo,Criolla,23.79,Rocio Sayan,San Juan de Lurigancho,,2025-03-05
+213,2026-06-19,1,"13,4",27.67,5,App,Tarjeta,5,47.8,Promocion,Zona 2,  San Juan de Lurigancho ,Este,Tacos Urbanos,MEXICANA,27.67,Fiorella Vargas,Callao,Premium,2025-08-06
+214,2026-03-10,4,10.52,31.56,15,Telefono,TaRjEtA,4,45.55,,Zona 7,La Molina,Centro,BuRgEr nOrTe,Comida rapida,31.56,Victor Navarro,Villa El Salvador,Premium,2025-09-18
+215,2026-04-05,5,7.11,23.79,5,ApP,,3,33.21,Promocion,Zona 6,Callao,Centro,Menu Criollo,Criolla,23.79,Valeria Soto,Miraflores,Regular,2025-12-06
+216,2026-04-10,, 14.21 ,27.67,15,WhatsApp,Tarjeta,1,50.94,OK,Zona 5,Lima,,Tacos Urbanos,MEXICANA,27.67,Rocio Sayan,San Juan de Lurigancho,,2025-03-05
+217,2026-04-16,2,11.05,23.79,8,,Transferencia,1, 37.09 ,,Zona 4,Los Olivos,este,Menu Criollo,Criolla,23.79,Rocio Mendoza,  Surco ,Regular,2025-05-28
+218,2026-06-28,5,9.61,27.67,10,App,Yape,4,18.63,,Zona 4,Los Olivos,este,Tacos Urbanos,MEXICANA,27.67,Miguel Gomez,  Ate ,Premium,2025-06-17
+219,2026-03-28,2,"0,92",23.79,12 aprox,Web,Transferencia,4,8.46,Promocion,Zona 2,  San Juan de Lurigancho ,Este,Menu Criollo,Criolla,23.79,Camila Castillo,San Juan de Lurigancho,,2025-10-15
+220,2026-04-23,2,10.92,40.61, 0 ,WhatsApp,TaRjEtA,1,44.07,Cliente frecuente,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,Ana Salazar,Chorrillos,Nuevo,2025-11-15
+221,2026-06-13,6,5.36,63.63,20,Web,Transferencia,1,24.0,Cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,Sushi Barrio,Japonesa,63.63,Maria Gomez,La Molina,Premium,2025-11-12
+222,2026-05-03,6,10.28,S/ 40.61, 0 ,Web,Tarjeta,4,38.02,Cliente frecuente,Zona 7,La Molina,Centro,Polleria El Carbon,Polleria,40.61,Maria Reyes,Comas,Premium,2025-05-12
+223,2026-01-15,3,10.0,21.16,,Web,Plin,3,32.46,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Cafe Dulce,  Cafeteria ,21.16,Andre Quispe,Independencia,Corporativo,2025-11-07
+224,2026-05-16,5,2.56,"63,63",5,WhatsApp,Yape,5,30.26,Revisar,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,Valeria Reyes,San Juan de Lurigancho,Regular,2025-05-23
+225,2026-05-07,1,3.63,,10,Telefono,Transferencia,3,26.22,Cliente frecuente,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,RaUl rAmOs,Miraflores,Corporativo,2025-07-05
+226,2026-05-12,2,3.73,63.63,5,Presencial,Efectivo,2,15.8,Cliente frecuente,Zona 6,Callao,Centro,Sushi Barrio,Japonesa,63.63,Valeria Soto,Miraflores,Regular,2025-12-06
+227,19/06/2026,7,8.87,38.69,8,,Tarjeta,1 aprox,47.06,Revisar,Zona 7,La Molina,Centro,Chifa Dragon,Chifa,38.69,  Camila Navarro ,Independencia,Frecuente,2025-10-03
+228,11/01/2026,1,4.74,38.69,10 aprox,Web,Transferencia,3,16.48,,Zona 6,Callao,Centro,Chifa Dragon,Chifa,38.69,Lucia Ramos,Ate,Frecuente,2025-02-03
+229,2026-02-10,6,3.68,27.67,8,App,Tarjeta,5,36.08,Promocion,Zona 7,La Molina,Centro,Tacos Urbanos,MEXICANA,27.67,Diego Flores,San Miguel,Frecuente,23-12-2025
+230,2026-06-12,1,8.12,21.16,0,Web,  Efectivo ,2,40.81,Promocion,Zona 1,  Ventanilla ,  Centro ,Cafe Dulce,  Cafeteria ,21.16,Elena Cruz,Comas,Nuevo,2025-09-25
+231,2026-02-22,4,14.11,40.61,8,Telefono,,5,143.14,Revisar,Zona 1,  Ventanilla ,  Centro ,Polleria El Carbon,Polleria,40.61,  Camila Navarro ,Independencia,Frecuente,2025-10-03
+232,2026-01-20,7,5.62,38.69,20,,Tarjeta,5,22.69,Cliente frecuente,Zona 5,Lima,,Chifa Dragon,Chifa,38.69,Jorge Torres,Surco,Regular, 2025-04-01 
+233,2026-01-24,7,3.46,27.67,15,telefono,Efectivo,3,25.84,Cliente frecuente,Zona 4,Los Olivos,este,Tacos Urbanos,MEXICANA,27.67,Ana Reyes,Chorrillos,Regular,2025-05-24
+234,2026-04-17,1,11.4,21.16,0,App,,4,46.49,,Zona 1,  Ventanilla ,  Centro ,Cafe Dulce,  Cafeteria ,21.16,Ana Reyes,Chorrillos,Regular,2025-05-24
+235,,4,14.96,"23,79",0,WhatsApp,Yape,4,52.98,OK,Zona 7,La Molina,Centro,Menu Criollo,Criolla,23.79,Camila Castillo,San Juan de Lurigancho,,2025-10-15
+236,2026-04-24,3,5.29,S/ 53.09,12,Web,Tarjeta,,26.28,Promocion,Zona 4,Los Olivos,este,Cevicheria Azul,  Marina ,53.09,Valeria Paredes,Chorrillos,Frecuente,2025-09-23
+237,02/02/2026,3,7.29,40.61,15,App,Plin,4,25.49,OK,Zona 2,  San Juan de Lurigancho ,Este,Polleria El Carbon,Polleria,40.61,Valeria Reyes,San Juan de Lurigancho,Regular,2025-05-23
+238,2026-06-28,8,3.33,,20,App,Efectivo,2,25.9,,Zona 7,La Molina,Centro,Pizza Centro,PIZZERIA,46.58,Sofia Navarro,Comas,Nuevo,2025-05-12
+239,2026-06-21,7,5.97,21.16,8,Web,Tarjeta,3,33.7,Revisar,Zona 7,La Molina,Centro,Cafe Dulce,  Cafeteria ,21.16,Marco Castillo,Lima,Nuevo,2025-10-20
+240,2026-03-28,7 aprox,"5,98",27.67,12,Presencial,PlIn,4,37.49,OK,Zona 6,Callao,Centro,Tacos Urbanos,MEXICANA,27.67,Fiorella Vargas,Callao,Premium,2025-08-06
+241,27-06-2026, 3 ,"12,11",31.56,10,App,EFECTIVO,4,38.82,  OK ,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,Marco Paredes,Lima,Corporativo,2025-12-22
+242,2026-02-03,8,11.02 aprox,46.58,0,App,Plin,2,43.4,OK,Zona 3,Lima,Sur,Pizza Centro,PIZZERIA,46.58,,Ventanilla,PrEmIuM,2025-03-07
+243,2026-02-24,6,4.7,63.63,0,whatsapp,Transferencia,1,26.06,ClIeNtE FrEcUeNtE,Zona 2,  San Juan de Lurigancho ,Este,Sushi Barrio,Japonesa,63.63,Luis Paredes,Chorrillos,  Premium ,2025-01-25
+244,2026-03-13,8,9.92,46.58,0,Presencial,EFECTIVO,4,51.37,Cliente frecuente,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,Ana Salazar,Chorrillos,Nuevo,2025-11-15
+245,2026-05-25,3,0.56,23.79,0,WhatsApp,Efectivo,5,21.66,OK,Zona 7,La Molina,Centro,Menu Criollo,Criolla,23.79,Luis Castillo,MIRAFLORES,Frecuente,2025-10-20
+246,2026-05-11,2,"12,48",40.61,20,Web,Plin, 1 ,165.42,Cliente frecuente,Zona 7,La Molina,Centro,Polleria El Carbon,Polleria,40.61,Valeria Navarro,Miraflores,Nuevo,2025-11-10
+247,2026-06-13,3,5.07,53.09,5,App,Plin, 3 ,27.15,revisar,Zona 4,Los Olivos,este,Cevicheria Azul,  Marina ,53.09,Carlos Huaman,  Callao ,Nuevo,2025-05-19
+248,2026-01-03,8,3.1,53.09,5,Web,Tarjeta,1,31.97,,Zona 4,Los Olivos,este,Cevicheria Azul,  Marina ,53.09,Elena Cruz,Comas,Nuevo,2025-09-25
+249,2026-03-13, 1 ,3.01,27.67,0,Telefono,Plin,3,16.08,,Zona 4,Los Olivos,este,Tacos Urbanos,MEXICANA,27.67,Andre Huaman,  Chorrillos ,Frecuente,2025-09-10
+250,2026-03-26,5,12.07 aprox,46.58,0 aprox,App,Tarjeta,3,48.9,,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,Miguel Gomez,  Ate ,Premium,2025-06-17
+251,,5,1.83, 63.63 ,20,WhatsApp,Yape,2,16.9,,Zona 5,Lima,,Sushi Barrio,Japonesa,63.63,Rocio Salazar,  San Miguel ,Frecuente,2025-08-03
+252,2026-01-17,5,14.85,40.61,5,,  Yape ,3,62.13,,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,Diana Gomez,Chorrillos,Frecuente,2025-04-19
+253,2026-05-27,6,9.81,53.09,20,Telefono,Efectivo,4,36.05,,Zona 2,  San Juan de Lurigancho ,Este,Cevicheria Azul,  Marina ,53.09,Lucia Ramos,Ate,Frecuente,2025-02-03
+254,01-04-2026,1,,38.69,0,PrEsEnCiAl,Efectivo,1,"11,94",,Zona 3,Lima,Sur,Chifa Dragon,Chifa,38.69,Elena Vargas,Callao,Nuevo,2025-05-07
+255,2026-02-27,5,1.47,38.69,12,Presencial,Yape,4,16.63,Cliente frecuente,Zona 5,Lima,,Chifa Dragon,Chifa,38.69,Elena Torres,Ate,Frecuente,2025-07-15
+256,2026-03-11,5, 4.97 ,31.56,5,App,Efectivo,5,23.29,Cliente frecuente,Zona 5,Lima,,BuRgEr nOrTe,Comida rapida,31.56,Ana Salazar,Chorrillos,Nuevo,2025-11-15
+257,10-03-2026,1,3.61,31.56,20,Web,  Efectivo ,1,"7,73",OK,Zona 2,  San Juan de Lurigancho ,Este,BuRgEr nOrTe,Comida rapida,31.56,Camila Vargas,Miraflores,Regular,2025-06-03
+258,2026-06-19,2 aprox,"2,25",23.79,0,WHATSAPP,Tarjeta,4,22.76,OK,Zona 6,Callao,Centro,Menu Criollo,Criolla,23.79,Jorge Soto,  Chorrillos ,Premium,2025/11/17
+259,19-03-2026,1,"5,84",40.61,10,Presencial,Plin,2,33.45,Revisar,Zona 4,Los Olivos,este,Polleria El Carbon,Polleria,40.61,Andre Huaman,  Chorrillos ,Frecuente,2025-09-10
+260, 2026-06-25 ,6,5.16 aprox,31.56,10 aprox,Web,Yape,5,32.84,OK,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,Jorge Torres,Surco,Regular, 2025-04-01 
+261,2026-01-16,2, 1.43 ,,5,Web,Tarjeta,2,16.01,  Promocion ,Zona 1,  Ventanilla ,  Centro ,Cevicheria Azul,  Marina ,53.09,Elena Sayan,Ventanilla,CoRpOrAtIvO,2025-04-03
+262,2026-05-24,7,9.45,40.61,0,Presencial,Plin,2,35.14,Promocion,Zona 4,Los Olivos,este,Polleria El Carbon,Polleria,40.61,Camila Vargas,Miraflores,Regular,2025-06-03
+263,2026-02-02,7,6.31,31.56,8,App,Plin,5,19.9,Revisar,Zona 4,Los Olivos,este,BuRgEr nOrTe,Comida rapida,31.56,Marco Cruz,VILLA EL SALVADOR,Premium,2025-09-17
+264,2026-05-22,2,14.75,63.63,5,WhatsApp,Plin,5,49.82,,Zona 5,Lima,,Sushi Barrio,Japonesa,63.63,Elena Torres,Ate,Frecuente,2025-07-15
+265,2026-05-14,7,12.08,38.69,0,Web,Yape,4,51.01,CLIENTE FRECUENTE,Zona 7,La Molina,Centro,Chifa Dragon,Chifa,38.69,Raul Sayan,Villa El Salvador,Premium,2025-02-03
+266,2026-01-07,2,1.48,31.56,12,WhatsApp,yape,4,,OK,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,Lucia Ramos,Ate,Frecuente,2025-02-03
+267,2026-06-09,1,"6,93",21.16,20,WhatsApp,Efectivo,1,19.06,Cliente frecuente,Zona 5,Lima,,Cafe Dulce,  Cafeteria ,21.16,Jorge Soto,  Chorrillos ,Premium,2025/11/17
+268,,2,11.71,27.67,8,App,Tarjeta,4,39.4 aprox,cliente frecuente,Zona 6,Callao,Centro,Tacos Urbanos,MEXICANA,27.67,Elena Campos,Independencia,Premium,2025-06-20
+269,2026-02-21,3,5.87,31.56,5,Presencial,tarjeta,2,25.78,Revisar,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,Sofia Torres,lima,NuEvO,2025-07-01
+270,2026-06-09,2,8.24,40.61,10,app,Transferencia,3,S/ 31.06,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Polleria El Carbon,Polleria,40.61,Rocio Torres,,Premium,2025-01-19
+271,2026-01-06,3,6.0 aprox,23.79,5,App,Transferencia,3,26.89,,Zona 2,  San Juan de Lurigancho ,Este,Menu Criollo,Criolla,23.79,Marco Quispe,San Miguel,Regular,2025-12-27
+272,2026-06-01,8,2.82,46.58,15,  WhatsApp ,Efectivo,3,18.7,Revisar,Zona 5,Lima,,Pizza Centro,PIZZERIA,46.58,Valeria Reyes,San Juan de Lurigancho,Regular,2025-05-23
+273,2026-01-07,4,,53.09,0,WEB,,3,103.43,Cliente frecuente,Zona 5,Lima,,Cevicheria Azul,  Marina ,53.09,Victor Campos,san miguel,Regular,2025-09-27
+274,2026-04-04,3,10.12,40.61,15,web,Plin,4,23.07,,Zona 1,  Ventanilla ,  Centro ,Polleria El Carbon,Polleria,40.61,jose mendoza,Ventanilla,Premium,2025/08/27
+275,2026-02-22,6,10.1, 23.79 ,8,Telefono,Efectivo,2,39.86,OK,Zona 1,  Ventanilla ,  Centro ,Menu Criollo,Criolla,23.79,Elena Rojas,Lima,Regular,2025-08-09
+276,2026-01-03,8,3.1,53.09,5,Web,Tarjeta,1,31.97,,Zona 4,Los Olivos,este,Cevicheria Azul,  Marina ,53.09,Elena Cruz,Comas,Nuevo,2025-09-25
+277,2026-05-16,4,2.12,S/ 31.56,8,Web,Transferencia,5,30.6,,Zona 2,  San Juan de Lurigancho ,Este,BuRgEr nOrTe,Comida rapida,31.56,Andre Huaman,  Chorrillos ,Frecuente,2025-09-10
+278,2026-06-08,6,5.57 aprox,53.09,10,Web,Transferencia,5,30.8,OK,Zona 1,  Ventanilla ,  Centro ,Cevicheria Azul,  Marina ,53.09,Fiorella Vargas,Callao,Premium,2025-08-06
+279,2026-04-08,4,5.17,"21,16",12,Telefono,Transferencia,3,31.75,ClIeNtE FrEcUeNtE,Zona 6,Callao,Centro,Cafe Dulce,  Cafeteria ,21.16,Camila Soto,Callao,,2025-10-10
+280,2026-01-21,7,"9,32", 31.56 ,0,WhatsApp,,3,35.32,OK,Zona 5,Lima,,BuRgEr nOrTe,Comida rapida,31.56,Rocio Salazar,  San Miguel ,Frecuente,2025-08-03
+281,02/06/2026,8,10.66,40.61,12,Telefono,Plin,1 aprox,51.56,,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,Diego Flores,San Miguel,Frecuente,23-12-2025
+282,2026-05-20,3,7.4,46.58,12,web,Tarjeta,2,S/ 36.55,PrOmOcIoN,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,,san miguel,Corporativo,2025-06-16
+283,2026-02-12,5,,53.09,20,App,Transferencia,3,30.32,,Zona 4,Los Olivos,este,Cevicheria Azul,  Marina ,53.09,Ana Reyes,Chorrillos,Regular,2025-05-24
+284,2026-03-14,5,12.48,53.09,0,Web,Yape,,39.34,,Zona 4,Los Olivos,este,Cevicheria Azul,  Marina ,53.09,Fiorella Salazar,SAN JUAN DE LURIGANCHO,regular,2025-06-05
+285,2026-06-28,,2.91,40.61,12,Presencial,yape,3,30.75,OK,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,Marco Cruz,VILLA EL SALVADOR,Premium,2025-09-17
+286, 2026-01-14 ,6,5.07,31.56,20,Presencial,Yape,5,21.51,ok,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,,  Miraflores ,Nuevo,2025-11-18
+287, 2026-06-17 ,2,7.71,63.63,15,WhatsApp,Efectivo,2,30.21,Promocion,Zona 6,Callao,Centro,Sushi Barrio,Japonesa,63.63,Diana Gomez,Chorrillos,Frecuente,2025-04-19
+288,2026-04-17,4,4.66,27.67,12,App,EFECTIVO,1,34.42,  Cliente frecuente ,Zona 7,La Molina,Centro,Tacos Urbanos,MEXICANA,27.67,Elena Soto,Lima,Premium,2025/07/25
+289,2026-05-04,7,3.73,S/ 46.58, 0 ,App,Yape,1,27.39,Revisar,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,Valeria Paredes,Chorrillos,Frecuente,2025-09-23
+290,2026-05-26,4,7.77, 40.61 ,8,Web,Tarjeta,1,33.89,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Polleria El Carbon,Polleria,40.61,Sofia Vargas,,Regular,2025-12-02
+291,2026-01-03,8,1.95, 21.16 ,8,App,Tarjeta,2,39.21,Cliente frecuente,Zona 3,Lima,Sur,Cafe Dulce,  Cafeteria ,21.16,Ana Paredes,SaN MiGuEl,Regular,2025-01-14
+292,2026-01-25,1,2.05 aprox,27.67,5,Telefono,Yape,5,6.08,cliente frecuente,Zona 3,Lima,Sur,Tacos Urbanos,MEXICANA,27.67,Ana Paredes,SaN MiGuEl,Regular,2025-01-14
+293,2026-03-24,4,0.8,27.67,5,Presencial,PlIn,1,29.42,CLIENTE FRECUENTE,Zona 6,Callao,Centro,Tacos Urbanos,MEXICANA,27.67,Sofia Torres,lima,NuEvO,2025-07-01
+294,2026-05-09,1,4.86,27.67,0,Telefono,Transferencia,,20.14,OK,Zona 7,La Molina,Centro,Tacos Urbanos,MEXICANA,27.67,Marco Castillo,Independencia,Nuevo,2025-07-10
+295,2026-05-25,7 aprox,1.42,21.16,0,Telefono,Plin,5,30.7,Cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,Cafe Dulce,  Cafeteria ,21.16,Elena Rojas,Lima,Regular,2025-08-09
+296,2026-04-07,1,10.25,46.58,20,App,Plin,2,36.77,Revisar,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,Diego Navarro,Chorrillos,Frecuente,2025-08-18
+297,2026-01-01,8,4.17,46.58,0,App,efectivo,1,33.24,Promocion,Zona 1,  Ventanilla ,  Centro ,Pizza Centro,PIZZERIA,46.58,Carlos Vargas,AtE,Regular,2025-09-04
+298,2026-05-11,8,11.99,40.61,5,WhatsApp,Yape,4,59.52,Cliente frecuente,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,Andre Huaman,  Chorrillos ,Frecuente,2025-09-10
+299,2026-02-20,6,5.12,31.56,12,WhatsApp,EFECTIVO,1, 32.6 ,OK,Zona 2,  San Juan de Lurigancho ,Este,BuRgEr nOrTe,Comida rapida,31.56,Camila Soto,Callao,,2025-10-10
+300,2026-06-07,2,12.68,40.61, 0 ,App,Yape,2,49.81,,Zona 7,La Molina,Centro,Polleria El Carbon,Polleria,40.61,Camila Vargas,Miraflores,Regular,2025-06-03
+301,2026-03-24, 1 ,7.34,23.79,8,Presencial,Transferencia,5,20.59,OK,Zona 2,  San Juan de Lurigancho ,Este,Menu Criollo,Criolla,23.79,Ana Vargas,San  Miguel,Nuevo,2025-02-03
+302,11/02/2026,4,10.27,23.79,20,Presencial,transferencia,3,36.05,Cliente frecuente,Zona 4,Los Olivos,este,Menu Criollo,Criolla,23.79,Diego Navarro,Chorrillos,Frecuente,2025-08-18
+303,2026-02-27,8,7.78,46.58,0,Telefono,Tarjeta,1, 34.52 ,Revisar,Zona 6,Callao,Centro,Pizza Centro,PIZZERIA,46.58,Valeria Navarro,Miraflores,Nuevo,2025-11-10
+304, 2026-04-13 ,7 aprox,13.09,31.56,10,Web,Tarjeta,1,39.66,Cliente frecuente,Zona 5,Lima,,BuRgEr nOrTe,Comida rapida,31.56,Andre Quispe,Independencia,Corporativo,2025-11-07
+305,2026-04-08,7, 2.19 ,38.69,,Presencial,Plin,3 aprox,25.62,Revisar,Zona 3,Lima,Sur,Chifa Dragon,Chifa,38.69,Diego Flores,San Miguel,Frecuente,23-12-2025
+306,2026-01-07,6,3.94,53.09,20,App,Transferencia,3,19.95,Promocion,Zona 2,  San Juan de Lurigancho ,Este,Cevicheria Azul,  Marina ,53.09,Elena Cruz,Comas,Nuevo,2025-09-25
+307,2026-02-06,,8.61,23.79,5,App,Tarjeta,1,29.82,,Zona 6,Callao,Centro,Menu Criollo,Criolla,23.79,,  Miraflores ,Nuevo,2025-11-18
+308,2026-04-01,2,4.78,38.69,12,App,Tarjeta,1,17.33,Cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,Chifa Dragon,Chifa,38.69,Raul Soto,  Lima ,Regular, 2025-01-08 
+309,2026-06-04,6,13.35,63.63 aprox,5,Telefono,Yape,1,,Promocion,Zona 2,  San Juan de Lurigancho ,Este,Sushi Barrio,Japonesa,63.63,  Victor Sayan ,  Lima ,Corporativo,2025-06-06
+310,2026-04-04,2,14.01,"63,63",0,Telefono,Plin,5,54.35,,Zona 1,  Ventanilla ,  Centro ,Sushi Barrio,Japonesa,63.63,Rocio Torres,,Premium,2025-01-19
+311,2026-02-22,4,6.01,27.67,12,Web,Tarjeta,3,22.49,,Zona 2,  San Juan de Lurigancho ,Este,Tacos Urbanos,MEXICANA,27.67,Diana Soto,Ventanilla,Nuevo,2025-02-12
+312,,7,12.05,38.69,5,whatsapp,EfEcTiVo,3,40.64,Cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,Chifa Dragon,Chifa,38.69,  Victor Sayan ,  Lima ,Corporativo,2025-06-06
+313,,3,11.12,46.58,0 aprox,WhatsApp,Transferencia,1,38.73,OK,Zona 5,Lima,,Pizza Centro,PIZZERIA,46.58,Elena Torres,Chorrillos,Corporativo,2025-04-26
+314,2026-01-07,5,1.95,63.63,0,whatsapp,Transferencia,4,25.88,Promocion,Zona 7,La Molina,Centro,Sushi Barrio,Japonesa,63.63,Valeria Soto,Miraflores,Regular,2025-12-06
+315,2026-02-01,2,7.97 aprox,46.58 aprox,0,App,Tarjeta,4,42.03,Revisar,Zona 1,  Ventanilla ,  Centro ,Pizza Centro,PIZZERIA,46.58,Maria Reyes,Comas,Premium,2025-05-12
+316,2026-03-27,5,4.3,46.58,15,WhatsApp,Transferencia,2,23.11,Cliente frecuente,Zona 6,Callao,Centro,Pizza Centro,PIZZERIA,46.58,Jorge Torres,Surco,Regular, 2025-04-01 
+317,2026-01-22,8, 2.41 ,63.63 aprox,,WhatsApp,Plin,3,27.72 aprox,Cliente frecuente,Zona 7,La Molina,Centro,Sushi Barrio,Japonesa,63.63,Elena Torres,Chorrillos,Corporativo,2025-04-26
+318,2026-02-05,4,11.49,46.58,10,Telefono,Plin,2, 54.44 ,Promocion,Zona 5,Lima,,Pizza Centro,PIZZERIA,46.58,VaLeRiA MeNdOzA,Villa El Salvador,Premium,2025-02-18
+319,2026-02-02,1,2.96,21.16,12,Web,Efectivo,5,24.07,,Zona 4,Los Olivos,este,Cafe Dulce,  Cafeteria ,21.16,Pedro Gomez,Lima,  Corporativo ,2025-08-20
+320,2026-02-27,3,7.27,21.16,0,App,efectivo,4,34.89,,Zona 4,Los Olivos,este,Cafe Dulce,  Cafeteria ,21.16,Lucia Salazar,Ventanilla,Frecuente,2025-05-10
+321,2026-06-17,2,2.68,63.63,12,Telefono,Efectivo,5,16.97,OK,Zona 2,  San Juan de Lurigancho ,Este,Sushi Barrio,Japonesa,63.63,Pedro Gomez,Lima,  Corporativo ,2025-08-20
+322,2026-04-16,3,12.07,46.58,5,WhatsApp,Yape,4,39.69,Revisar,Zona 5,Lima,,Pizza Centro,PIZZERIA,46.58,RaUl rAmOs,Miraflores,Corporativo,2025-07-05
+323,2026-01-25,5,11.66,40.61,0,App,Tarjeta,5,53.94 aprox,Cliente frecuente,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,Elena Torres,Chorrillos,Corporativo,2025-04-26
+324,2026-06-04,1,6.68,40.61,15,  App ,,4,28.47,CLIENTE FRECUENTE,Zona 4,Los Olivos,este,Polleria El Carbon,Polleria,40.61,Fiorella Vargas,Callao,Premium,2025-08-06
+325,2026-03-01,1,14.6 aprox,40.61,20,App,Transferencia,,37.23,Promocion,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,Elena Vargas,Callao,Nuevo,2025-05-07
+326,2026-01-12,7,14.45 aprox,31.56 aprox,15,App,Plin,,42.05,Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,Rocio Salazar,  San Miguel ,Frecuente,2025-08-03
+327,04/01/2026,1,4.3,,0,Telefono,Yape,4,23.43,Revisar,Zona 7,La Molina,Centro,Pizza Centro,PIZZERIA,46.58,Diana Gomez,Chorrillos,Frecuente,2025-04-19
+328,2026-04-16,2,13.14,38.69,15,App,Efectivo,2,44.54,Promocion,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,Fiorella Salazar,SAN JUAN DE LURIGANCHO,regular,2025-06-05
+329,2026-02-22,7,3.25,40.61, 20 ,Web,Tarjeta,4,36.67 aprox,Cliente frecuente,Zona 4,Los Olivos,este,Polleria El Carbon,Polleria,40.61,Valeria Reyes,Surco,  Corporativo ,2025-11-14
+330,2026-05-19,4,8.81,21.16,0,WhatsApp,Tarjeta,2,30.78,Revisar,Zona 3,Lima,Sur,Cafe Dulce,  Cafeteria ,21.16,Maria Salazar,Ate,Corporativo,2025-02-18
+331,2026-02-01,1,3.15,23.79,20,PRESENCIAL,Plin,1,"9,04",,Zona 6,Callao,Centro,Menu Criollo,Criolla,23.79,Raul Sayan,Villa El Salvador,Premium,2025-02-03
+332,2026-05-01,1,0.73 aprox,40.61,8,Telefono,Plin,2,18.54,OK,Zona 2,  San Juan de Lurigancho ,Este,Polleria El Carbon,Polleria,40.61,Lucia Quispe,Los Olivos,Nuevo,2025-07-07
+333,2026-01-02,7,4.55,53.09,15,App,Efectivo,4,13.77,OK,Zona 5,Lima,,Cevicheria Azul,  Marina ,53.09,Ana Reyes,Chorrillos,Regular,2025-05-24
+334,2026-01-14,4,4.47,21.16,5,App,Yape,4,22.16,,Zona 6,Callao,Centro,Cafe Dulce,  Cafeteria ,21.16,Valeria Reyes,Surco,  Corporativo ,2025-11-14
+335,2026-01-14,2,4.15,23.79,10,Presencial,Yape,1, 19.17 ,Cliente frecuente,Zona 4,Los Olivos,este,Menu Criollo,Criolla,23.79,Valeria Paredes,Chorrillos,Frecuente,2025-09-23
+336,2026-01-26,1,9.52,31.56,10,WhatsApp,Plin,2 aprox,35.21,Promocion,Zona 3,Lima,Sur,BuRgEr nOrTe,Comida rapida,31.56,Ana Salazar,Chorrillos,Nuevo,2025-11-15
+337,2026-01-01,7,12.78,21.16,0,WhatsApp,PLIN,4,35.88,OK,Zona 1,  Ventanilla ,  Centro ,Cafe Dulce,  Cafeteria ,21.16,Camila Castillo,San Juan de Lurigancho,,2025-10-15
+338,2026-02-08,4,10.94,38.69,15,Web,tarjeta,4,43.64,  Revisar ,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,RaUl fLoReS,la molina,Regular,2025-09-27
+339,2026-06-03,2 aprox, 13.98 ,31.56,0,WhatsApp,Efectivo,1,48.33,Cliente frecuente,Zona 7,La Molina,Centro,BuRgEr nOrTe,Comida rapida,31.56,VaLeRiA MeNdOzA,Villa El Salvador,Premium,2025-02-18
+340,2026/03/05,6,14.7,31.56,5,App,Efectivo,5,"59,36",Cliente frecuente,Zona 5,Lima,,BuRgEr nOrTe,Comida rapida,31.56,Elena Soto,Lima,Premium,2025/07/25
+341,2026-05-10,3,5.06,31.56,10,  App ,Yape,3,31.78,Promocion,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,Elena Vargas,Callao,Nuevo,2025-05-07
+342,2026-02-03,6,11.85,40.61,15,App,Plin,3,41.71,Cliente frecuente,Zona 7,La Molina,Centro,Polleria El Carbon,Polleria,40.61,Camila Vargas,Miraflores,Regular,2025-06-03
+343,2026-02-04,8,10.68,23.79,0,App,Plin,4,46.06,,Zona 7,La Molina,Centro,Menu Criollo,Criolla,23.79,RaUl fLoReS,la molina,Regular,2025-09-27
+344,2026-01-07,7,6.02,21.16,8,Presencial,EfEcTiVo,3,26.0,Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,Cafe Dulce,  Cafeteria ,21.16,Fiorella Vargas,Callao,Premium,2025-08-06
+345,2026-02-02,6, 5.78 ,S/ 53.09,5,Telefono,Efectivo,2,,Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,Cevicheria Azul,  Marina ,53.09,RaUl rAmOs,Miraflores,Corporativo,2025-07-05
+346,2026-05-23,2,5.44,40.61 aprox,10,Web,Tarjeta,5,21.65,Revisar,Zona 7,La Molina,Centro,Polleria El Carbon,Polleria,40.61,Elena Rojas,Lima,Regular,2025-08-09
+347,2026/06/05,3,14.61,46.58,15,Telefono,Efectivo,5,40.62,,Zona 1,  Ventanilla ,  Centro ,Pizza Centro,PIZZERIA,46.58,Ana Reyes,Chorrillos,Regular,2025-05-24
+348,2026-06-13,4, 13.08 ,27.67,5,Web,Transferencia,3,44.13,Promocion,Zona 2,  San Juan de Lurigancho ,Este,Tacos Urbanos,MEXICANA,27.67,Camila Soto,Callao,,2025-10-10
+349,2026-04-15,1,2.47,31.56,15,,Plin,1,8.82,Promocion,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,Lucia Quispe,Los Olivos,Nuevo,2025-11-15
+350,2026-01-09,1,14.82,21.16,0,Presencial,Transferencia,2,50.01,Revisar,Zona 7,La Molina,Centro,Cafe Dulce,  Cafeteria ,21.16,Marco Castillo,Lima,Nuevo,2025-10-20
+351,2026-03-20,8,"7,82",23.79,8 aprox,Telefono,Tarjeta,1,36.13,OK,Zona 2,  San Juan de Lurigancho ,Este,Menu Criollo,Criolla,23.79,  Victor Sayan ,  Lima ,Corporativo,2025-06-06
+352,2026-05-22,6,6.55,21.16,15,Web,TRANSFERENCIA,4, 29.0 ,Cliente frecuente,Zona 6,Callao,Centro,Cafe Dulce,  Cafeteria ,21.16,Raul Paredes,Ventanilla,Corporativo,2025-12-17
+353,2026-04-14,6,10.53,63.63,8,Web,Plin,2,S/ 49.71,Revisar,Zona 6,Callao,Centro,Sushi Barrio,Japonesa,63.63,Sofia Navarro,Comas,Nuevo,2025-05-12
+354,2026-05-18,7,"6,73",63.63,0,Web,Tarjeta,1,38.81,OK,Zona 1,  Ventanilla ,  Centro ,Sushi Barrio,Japonesa,63.63,Raul Cruz,surco,Nuevo,2025-03-24
+355,2026-04-21,8,6.13,53.09,0,  Telefono ,PLIN,2,25.22,,Zona 3,Lima,Sur,Cevicheria Azul,  Marina ,53.09,Raul Cruz,surco,Nuevo,2025-03-24
+356, 2026-04-17 ,6,5.54,40.61,8,App,Tarjeta,4,35.5,,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,Fiorella Salazar,SAN JUAN DE LURIGANCHO,regular,2025-06-05
+357,2026-03-20,1,14.01,,0,Presencial,Yape,3,52.28,Cliente frecuente,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,Raul Vargas,Lima,PREMIUM,2025-10-22
+358,,4,1.65,27.67,12,Web,Transferencia,5,19.08,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Tacos Urbanos,MEXICANA,27.67,Sofia Mendoza,,Frecuente, 2025-04-16 
+359,2026-06-02,7,2.31,46.58,20,Telefono,Plin,2,15.16,Promocion,Zona 1,  Ventanilla ,  Centro ,Pizza Centro,PIZZERIA,46.58,,  Ate ,Regular,2025-03-01
+360,2026-05-19,7, 14.74 ,27.67, 0 ,WhatsApp,Tarjeta,1,49.15,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Tacos Urbanos,MEXICANA,27.67,,  Ate ,Regular,2025-03-01
+361,2026-01-12,7 aprox,13.35,,0,Presencial,Transferencia,1,38.59,OK,Zona 7,La Molina,Centro,Pizza Centro,PIZZERIA,46.58,Sofia Torres,lima,NuEvO,2025-07-01
+362,2026-01-28,4,1.55,63.63,0,WhatsApp,Efectivo,4,24.82,Cliente frecuente,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,Sofia Navarro,Comas,Nuevo,2025-05-12
+363, 2026-06-28 ,2,4.96,21.16,15,Presencial,Yape,3,13.29,Revisar,Zona 4,Los Olivos,este,Cafe Dulce,  Cafeteria ,21.16,RaUl rAmOs,Miraflores,Corporativo,2025-07-05
+364,2026-05-19,,44.93 aprox,40.61,0,Web,Yape,1,129.79,Promocion,Zona 6,Callao,Centro,Polleria El Carbon,Polleria,40.61,Diana Castillo,LoS OlIvOs,Frecuente,2025-04-25
+365,2026-04-12,2,14.39,38.69,12,presencial,Efectivo,4,50.09,Promocion,Zona 2,  San Juan de Lurigancho ,Este,Chifa Dragon,Chifa,38.69,Victor Navarro,Villa El Salvador,Premium,2025-09-18
+366,20/02/2026,8,4.35,38.69,5,WhatsApp,Tarjeta,3,S/ 36.26,PrOmOcIoN,Zona 7,La Molina,Centro,Chifa Dragon,Chifa,38.69,Valeria Salazar,Independencia,Nuevo,2025-09-11
+367,2026-04-26,4,10.96,21.16,0,WhatsApp,Efectivo,1,33.57,Promocion,Zona 4,Los Olivos,este,Cafe Dulce,  Cafeteria ,21.16,Lucia Ramos,Ate,Frecuente,2025-02-03
+368,2026-02-11,3,12.95,27.67,8,Telefono,Yape,,43.17,,Zona 6,Callao,Centro,Tacos Urbanos,MEXICANA,27.67,Miguel Gomez,  Ate ,Premium,2025-06-17
+369,2026-03-27,4,12.76,46.58,5,  WhatsApp ,YaPe,2,S/ 38.39,Promocion,Zona 1,  Ventanilla ,  Centro ,Pizza Centro,PIZZERIA,46.58,Sofia Mendoza,,Frecuente, 2025-04-16 
+370,2026-03-27,3,2.64 aprox,31.56,12,Web,Transferencia,,S/ 32.52,ok,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,Sofia Mendoza,,Frecuente, 2025-04-16 
+371,2026-03-03,3,7.71 aprox,31.56,10,presencial,Tarjeta,1,41.01,OK,Zona 2,  San Juan de Lurigancho ,Este,BuRgEr nOrTe,Comida rapida,31.56,Luis Castillo,MIRAFLORES,Frecuente,2025-10-20
+372, 2026-04-18 ,6,9.31,53.09,0,Web,Plin,4,53.33,Cliente frecuente,Zona 4,Los Olivos,este,Cevicheria Azul,  Marina ,53.09,Ana Salazar,Chorrillos,Nuevo,2025-11-15
+373,24/03/2026,8,8.35,46.58,10,Presencial,Transferencia,2 aprox, 39.49 ,,Zona 7,La Molina,Centro,Pizza Centro,PIZZERIA,46.58,Elena Cruz,Comas,Nuevo,2025-09-25
+374,,4,14.88,21.16,20,App,Yape,5,38.29,Cliente frecuente,Zona 7,La Molina,Centro,Cafe Dulce,  Cafeteria ,21.16,Victor Campos,san miguel,Regular,2025-09-27
+375,2026-02-03,4,13.15,46.58,0,WhatsApp,TaRjEtA,3,52.06,Promocion,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,Jose Ramos,Callao,Frecuente,2025-06-01
+376,2026-03-15,2,5.47,31.56,15,WEB,Yape,5,23.5,Revisar,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,Ana Salazar,Chorrillos,Nuevo,2025-11-15
+377,2026-03-08,,6.25,63.63,5,WhAtSaPp,Efectivo,2,31.9,,Zona 1,  Ventanilla ,  Centro ,Sushi Barrio,Japonesa,63.63,Marco Cruz,VILLA EL SALVADOR,Premium,2025-09-17
+378,2026-06-03,1,4.98,,10,App,Tarjeta,2,18.71,OK,Zona 6,Callao,Centro,Sushi Barrio,Japonesa,63.63,Valeria Reyes,San Juan de Lurigancho,Regular,2025-05-23
+379,2026-01-03,6,14.45,40.61,0,App,Transferencia, 3 ,50.36,Promocion,Zona 6,Callao,Centro,Polleria El Carbon,Polleria,40.61,,san miguel,Corporativo,2025-06-16
+380,2026-03-24,8,9.46,46.58,12,,efectivo,3,35.13,Promocion,Zona 6,Callao,Centro,Pizza Centro,PIZZERIA,46.58,Lucia Salazar,Ventanilla,Frecuente,2025-05-10
+381,2026-04-01, 4 ,8.22,53.09,10,  App ,Yape,3,41.35,Revisar,Zona 1,  Ventanilla ,  Centro ,Cevicheria Azul,  Marina ,53.09,Pedro Gomez,Lima,  Corporativo ,2025-08-20
+382,2026-04-17,8,22.02,21.16,10,WhatsApp,Efectivo,1,79.66,Cliente frecuente,Zona 5,Lima,,Cafe Dulce,  Cafeteria ,21.16,Lucia Quispe,Los Olivos,Nuevo,2025-07-07
+383,2026-05-21,6,6.42,40.61,0,Web,Transferencia,5,32.49,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Polleria El Carbon,Polleria,40.61,Jose Ramos,Callao,Frecuente,2025-06-01
+384,2026-02-27,4,3.7,38.69,10,Presencial,Tarjeta,1,31.45,OK,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,Diego Flores,San Miguel,Frecuente,23-12-2025
+385,2026-05-15,6,10.95,46.58,5,App,Efectivo,4,,  Cliente frecuente ,Zona 1,  Ventanilla ,  Centro ,Pizza Centro,PIZZERIA,46.58,Jorge Soto,  Chorrillos ,Premium,2025/11/17
+386,2026-02-04,4,5.49,27.67,5,Presencial,,5,34.81,Cliente frecuente,Zona 4,Los Olivos,este,Tacos Urbanos,MEXICANA,27.67,Marco Castillo,Lima,Nuevo,2025-10-20
+387,2026-02-12,,7.33,27.67,10,Telefono,Plin,,30.67,OK,Zona 1,  Ventanilla ,  Centro ,Tacos Urbanos,MEXICANA,27.67,Elena Cruz,Comas,Nuevo,2025-09-25
+388,2026/04/05,7,7.79,53.09,12,Web,Transferencia,1,44.47,Promocion,Zona 7,La Molina,Centro,Cevicheria Azul,  Marina ,53.09,Marco Castillo,Lima,Nuevo,2025-10-20
+389,2026-04-27,1,9.63,23.79,15,App,Plin,3,33.98,Cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,Menu Criollo,Criolla,23.79,Maria Reyes,Comas,Premium,2025-05-12
+390,2026-05-06,1 aprox,"12,42",23.79,20,App,,2,37.01,,Zona 3,Lima,Sur,Menu Criollo,Criolla,23.79,Diana Paredes,Ate,Nuevo,2025-08-09
+391,2026-06-25,1,3.39 aprox,40.61,8,WhatsApp,Plin,2,"20,01",Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,Polleria El Carbon,Polleria,40.61,Sofia Navarro,Comas,Nuevo,2025-05-12
+392,2026-05-25,,12.49,21.16,15 aprox,Web,Yape,1,28.44,Revisar,Zona 3,Lima,Sur,Cafe Dulce,  Cafeteria ,21.16,Diana Castillo,LoS OlIvOs,Frecuente,2025-04-25
+393,2026-06-24,6,3.39,27.67,5,Presencial,Efectivo, 2 ,29.27,Promocion,Zona 3,Lima,Sur,Tacos Urbanos,MEXICANA,27.67,Sofia Navarro,Comas,Nuevo,2025-05-12
+394,2026-03-19,3,14.63,53.09, 0 ,App,,3,48.55,,Zona 3,Lima,Sur,Cevicheria Azul,  Marina ,53.09,Diego Navarro,Chorrillos,Frecuente,2025-08-18
+395,2026-06-14,6,5.37,53.09,0,Presencial,Transferencia,2,43.2,Revisar,Zona 6,Callao,Centro,Cevicheria Azul,  Marina ,53.09,Camila Castillo,San Juan de Lurigancho,,2025-10-15
+396,2026-02-27,8,"6,36",38.69,0,WhatsApp,Plin,4,33.02,Revisar,Zona 3,Lima,Sur,Chifa Dragon,Chifa,38.69,Raul Vargas,Lima,PREMIUM,2025-10-22
+397,2026-04-15,6,3.28,27.67,12,WhAtSaPp,,2,24.11,ClIeNtE FrEcUeNtE,Zona 4,Los Olivos,este,Tacos Urbanos,MEXICANA,27.67,Raul Paredes,Ventanilla,Corporativo,2025-12-17
+398,2026-02-19,5 aprox,7.42,31.56,0,WhatsApp,Transferencia,5,44.73,Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,Ana Vargas,San  Miguel,Nuevo,2025-02-03
+399,2026-05-13,6,14.85,31.56,20,App,Yape,2,45.37,OK,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,Fiorella Salazar,SAN JUAN DE LURIGANCHO,regular,2025-06-05
+400,2026-06-01,4,7.25,27.67,8,Presencial,Plin,3,36.3,Revisar,Zona 5,Lima,,Tacos Urbanos,MEXICANA,27.67,Elena Cruz,Comas,Nuevo,2025-09-25
+401,2026-02-04,4,10.65,40.61,0,WhatsApp,Plin,5,45.71,cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,Polleria El Carbon,Polleria,40.61,Marco Castillo,Lima,Nuevo,2025-10-20
+402,2026-05-23,4,11.2,53.09,10 aprox,Telefono,Tarjeta,4,43.0,OK,Zona 7,La Molina,Centro,Cevicheria Azul,  Marina ,53.09,Fiorella Salazar,SAN JUAN DE LURIGANCHO,regular,2025-06-05
+403,2026-04-11,6,"9,5",53.09,10,Telefono,TRANSFERENCIA,1,42.74,Revisar,Zona 6,Callao,Centro,Cevicheria Azul,  Marina ,53.09,Diego Flores,San Miguel,Frecuente,23-12-2025
+404,2026-01-01,6,10.17,46.58,0 aprox,Web,Tarjeta,3,41.45,,Zona 2,  San Juan de Lurigancho ,Este,Pizza Centro,PIZZERIA,46.58,Lucia Ramos,Ate,Frecuente,2025-02-03
+405,2026-03-06,4,10.95,31.56,15,Presencial,Efectivo,1,45.14,OK,Zona 2,  San Juan de Lurigancho ,Este,BuRgEr nOrTe,Comida rapida,31.56,Marco Sayan,Villa El Salvador,frecuente,2025-08-20
+406,2026-01-23,5,9.84,40.61,0,Presencial,Plin, 5 ,37.82,OK,Zona 6,Callao,Centro,Polleria El Carbon,Polleria,40.61,,  Miraflores ,Nuevo,2025-11-18
+407,2026-04-21,2,13.05,"63,63",20,Telefono,Plin,1, 42.83 ,,Zona 3,Lima,Sur,Sushi Barrio,Japonesa,63.63,Victor Campos,san miguel,Regular,2025-09-27
+408,2026-04-07,3,12.28,63.63,5,App,PLIN, 1 ,S/ 45.17,Revisar,Zona 4,Los Olivos,este,Sushi Barrio,Japonesa,63.63,,Ventanilla,PrEmIuM,2025-03-07
+409,2026-04-23,4,1.0,31.56,0,Telefono,  Yape ,4,21.01,Ok,Zona 3,Lima,Sur,BuRgEr nOrTe,Comida rapida,31.56,Raul Paredes,Ventanilla,Corporativo,2025-12-17
+410,2026/02/08,1 aprox,10.28,38.69,20,Telefono,Efectivo,4,40.37,OK,Zona 3,Lima,Sur,Chifa Dragon,Chifa,38.69,Jorge Torres,Surco,Regular, 2025-04-01 
+411,,7,6.24,31.56,15,WhatsApp,TRANSFERENCIA,4,27.86,cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,BuRgEr nOrTe,Comida rapida,31.56,Camila Castillo,San Juan de Lurigancho,,2025-10-15
+412,2026-03-09,5,6.86,31.56,20,WhatsApp,Efectivo,3,31.31,Ok,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,,san miguel,Corporativo,2025-06-16
+413,2026-01-15,8, 10.7 ,53.09,10,Presencial,Transferencia, 4 ,S/ 39.15,,Zona 4,Los Olivos,este,Cevicheria Azul,  Marina ,53.09,Diana Soto,Ventanilla,Nuevo,2025-02-12
+414,2026-01-07,7,6.02,21.16,8,Presencial,EfEcTiVo,3,26.0,Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,Cafe Dulce,  Cafeteria ,21.16,Fiorella Vargas,Callao,Premium,2025-08-06
+415,2026-03-17,3,6.2,53.09,0,WhatsApp,Transferencia,2,25.21,OK,Zona 3,Lima,Sur,Cevicheria Azul,  Marina ,53.09,Rocio Mendoza,  Surco ,Regular,2025-05-28
+416,2026-05-27, 3 ,2.41,27.67,12,App,Yape,3,16.97,,Zona 5,Lima,,Tacos Urbanos,MEXICANA,27.67,Rocio Salazar,  San Miguel ,Frecuente,2025-08-03
+417,2026/05/27,6,4.55,38.69,20,App,Efectivo,2,26.34,  Revisar ,Zona 3,Lima,Sur,Chifa Dragon,Chifa,38.69,Luis Paredes,Chorrillos,  Premium ,2025-01-25
+418,2026-01-21,8,10.13,27.67,8,Web,Transferencia,2,52.2,Revisar,Zona 7,La Molina,Centro,Tacos Urbanos,MEXICANA,27.67,Sofia Mendoza,CoMaS,Frecuente,2025-12-23
+419,2026-05-08,5,11.1,23.79,0,Web,Tarjeta,3,34.76,Revisar,Zona 1,  Ventanilla ,  Centro ,Menu Criollo,Criolla,23.79,Raul Vargas,Lima,PREMIUM,2025-10-22
+420,2026-06-13,5,1.68,27.67,20,Presencial,Tarjeta,4,12.17,OK,Zona 1,  Ventanilla ,  Centro ,Tacos Urbanos,MEXICANA,27.67,,san miguel,Corporativo,2025-06-16
+421,2026-02-08,8 aprox,13.81,38.69,5,WhatsApp,Efectivo,5,49.16,,Zona 2,  San Juan de Lurigancho ,Este,Chifa Dragon,Chifa,38.69,Marco Castillo,Lima,Nuevo,2025-10-20
+422,2026-01-24,6,9.22, 38.69 ,0,App,Efectivo,3, 40.55 ,OK,Zona 7,La Molina,Centro,Chifa Dragon,Chifa,38.69,Valeria Reyes,Surco,  Corporativo ,2025-11-14
+423,2026-05-15,2, 7.4 ,38.69, 10 ,Presencial,Yape,2,32.73,Cliente frecuente,Zona 3,Lima,Sur,Chifa Dragon,Chifa,38.69,Marco Sayan,Villa El Salvador,frecuente,2025-08-20
+424,2026-03-24,7,13.38,27.67,15,WhatsApp,Tarjeta,2 aprox,49.08,,Zona 7,La Molina,Centro,Tacos Urbanos,MEXICANA,27.67,Luis Castillo,MIRAFLORES,Frecuente,2025-10-20
+425,2026-01-11,7,4.6,53.09,15,Presencial,Efectivo,2,,Cliente frecuente,Zona 3,Lima,Sur,Cevicheria Azul,  Marina ,53.09,Luis Paredes,Chorrillos,  Premium ,2025-01-25
+426,2026-04-23,5,13.93,63.63,12,Telefono,Yape, 1 ,47.51,CLIENTE FRECUENTE,Zona 1,  Ventanilla ,  Centro ,Sushi Barrio,Japonesa,63.63,Elena Vargas,Callao,Nuevo,2025-05-07
+427,2026-03-06,2,1.98, 31.56 ,8,WhatsApp,Yape,,11.09,OK,Zona 2,  San Juan de Lurigancho ,Este,BuRgEr nOrTe,Comida rapida,31.56,Elena Campos,Independencia,Premium,2025-06-20
+428,2026-02-20,3,"8,21",40.61 aprox,5,presencial,TRANSFERENCIA,1,31.99,Promocion,Zona 6,Callao,Centro,Polleria El Carbon,Polleria,40.61,Ana Vargas,San  Miguel,Nuevo,2025-02-03
+429,2026-01-20,1,13.44,21.16,8,Web,Yape,1,51.23,Promocion,Zona 5,Lima,,Cafe Dulce,  Cafeteria ,21.16,Raul Soto,  Lima ,Regular, 2025-01-08 
+430,2026/05/11,5,"7,72",38.69,12,,Transferencia,2,33.15,,Zona 5,Lima,,Chifa Dragon,Chifa,38.69,Diana Paredes,Ate,Nuevo,2025-08-09
+431,2026-03-18,5,4.24,"21,16",8,App,Transferencia,1,18.86,,Zona 2,  San Juan de Lurigancho ,Este,Cafe Dulce,  Cafeteria ,21.16,Elena Torres,Chorrillos,Corporativo,2025-04-26
+432,2026/01/17,3,8.68,21.16,0,Telefono,Transferencia, 4 , 32.51 ,  Revisar ,Zona 4,Los Olivos,este,Cafe Dulce,  Cafeteria ,21.16,Valeria Salazar,Independencia,Nuevo,2025-09-11
+433,2026-06-02,5,10.19,23.79,0,App,Transferencia,1,"43,36",Promocion,Zona 2,  San Juan de Lurigancho ,Este,Menu Criollo,Criolla,23.79,Elena Cruz,Comas,Nuevo,2025-09-25
+434,12/01/2026,6,8.31,"31,56",10,Telefono,Plin,1,36.11,Promocion,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,Andre Rojas,CALLAO,Premium,2025-02-06
+435,2026-04-12,8,,53.09,10,web,Yape,4,11.19,,Zona 4,Los Olivos,este,Cevicheria Azul,  Marina ,53.09,Fiorella Ramos,  Independencia ,Nuevo,2025-08-08
+436,2026-05-28,2,14.61,53.09,10,Presencial,Transferencia,4,44.84,  Cliente frecuente ,Zona 2,  San Juan de Lurigancho ,Este,Cevicheria Azul,  Marina ,53.09,,san miguel,Corporativo,2025-06-16
+437,2026-05-17,3,14.26,63.63,5,  Web ,Efectivo,4,48.6,Revisar,Zona 1,  Ventanilla ,  Centro ,Sushi Barrio,Japonesa,63.63,RaUl rAmOs,Miraflores,Corporativo,2025-07-05
+438,28-06-2026,1,2.2,63.63,10,App,Tarjeta,5,25.62,Revisar,Zona 1,  Ventanilla ,  Centro ,Sushi Barrio,Japonesa,63.63,Rocio Torres,,Premium,2025-01-19
+439,2026-03-06,4,6.47,46.58,12,Presencial,Yape,3,36.35,Cliente frecuente,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,Luis Castillo,MIRAFLORES,Frecuente,2025-10-20
+440,2026-02-02,8,12.7,31.56,0,WhatsApp,Transferencia,4,51.12,Cliente frecuente,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,Elena Soto,Lima,Premium,2025/07/25
+441,2026-03-08,6,9.69,21.16,12,Presencial,Tarjeta,4,28.56,OK,Zona 1,  Ventanilla ,  Centro ,Cafe Dulce,  Cafeteria ,21.16,Elena Campos,Independencia,Premium,2025-06-20
+442,2026-01-18,3,12.28,21.16,0,TELEFONO,Transferencia,4,51.1,OK,Zona 1,  Ventanilla ,  Centro ,Cafe Dulce,  Cafeteria ,21.16,Raul Sayan,Villa El Salvador,Premium,2025-02-03
+443,2026-05-06,3 aprox,13.93,46.58,,WhatsApp,Yape,5,43.7,,Zona 2,  San Juan de Lurigancho ,Este,Pizza Centro,PIZZERIA,46.58,Elena Vargas,Callao,Nuevo,2025-05-07
+444,2026-01-06,3,3.12,40.61,8,App,Efectivo,5,23.62,Promocion,Zona 2,  San Juan de Lurigancho ,Este,Polleria El Carbon,Polleria,40.61,Sofia Mendoza,,Frecuente, 2025-04-16 
+445,2026-03-26,1,9.84,31.56,0,Presencial,Efectivo,3,33.48,,Zona 7,La Molina,Centro,BuRgEr nOrTe,Comida rapida,31.56,Elena Vargas,Callao,Nuevo,2025-05-07
+446,2026-05-21, 6 ,0.87,46.58,10 aprox,WhatsApp,Yape,3 aprox,22.68,OK,Zona 6,Callao,Centro,Pizza Centro,PIZZERIA,46.58,Lucia Quispe,Los Olivos,Nuevo,2025-11-15
+447,05-01-2026,3,10.0,40.61,15,App,Tarjeta,3,46.74,,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,Luis Castillo,MIRAFLORES,Frecuente,2025-10-20
+448,2026-04-14,6, 14.48 ,40.61,10,App,Efectivo,5,46.99,,Zona 4,Los Olivos,este,Polleria El Carbon,Polleria,40.61,Claudia Vargas,Independencia,Premium,2025-09-01
+449,,8,12.12,23.79,8,WhatsApp,Plin,2,49.23,OK,Zona 6,Callao,Centro,Menu Criollo,Criolla,23.79,Sofia Navarro,Comas,Nuevo,2025-05-12
+450,2026-03-13,6,6.09,27.67,15,PRESENCIAL,Plin,4,41.27,,Zona 1,  Ventanilla ,  Centro ,Tacos Urbanos,MEXICANA,27.67,Maria Gomez,La Molina,Premium,2025-11-12
+451,,8,0.73,40.61,0,App,Efectivo, 3 ,14.82,Revisar,Zona 1,  Ventanilla ,  Centro ,Polleria El Carbon,Polleria,40.61,Rocio Salazar,  San Miguel ,Frecuente,2025-08-03
+452,09-04-2026,,2.24,31.56,0,  WhatsApp ,YaPe,4,16.75,OK,Zona 2,  San Juan de Lurigancho ,Este,BuRgEr nOrTe,Comida rapida,31.56,Miguel Huaman,CALLAO,Frecuente,2025-07-22
+453,2026-04-08,5,13.43,S/ 27.67,0,Telefono,Tarjeta,4,50.84,,Zona 7,La Molina,Centro,Tacos Urbanos,MEXICANA,27.67,Diana Gomez,Chorrillos,Frecuente,2025-04-19
+454,2026-02-06,6,0.65,23.79,0,PRESENCIAL,Efectivo,3,15.76,,Zona 2,  San Juan de Lurigancho ,Este,Menu Criollo,Criolla,23.79,,Ventanilla,PrEmIuM,2025-03-07
+455,2026-01-03,1,6.66,21.16,20,whatsapp,Efectivo,2,31.75,OK,Zona 3,Lima,Sur,Cafe Dulce,  Cafeteria ,21.16,Fiorella Salazar,SAN JUAN DE LURIGANCHO,regular,2025-06-05
+456,2026/05/21,7,1.69,23.79,5,WEB,Plin,3,23.12,Cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,Menu Criollo,Criolla,23.79,Maria Salazar,Ate,Corporativo,2025-02-18
+457,2026-02-13,7,12.32,63.63 aprox,10 aprox,TeLeFoNo,Tarjeta,4,60.22,Promocion,Zona 2,  San Juan de Lurigancho ,Este,Sushi Barrio,Japonesa,63.63,Ana Salazar,Chorrillos,Nuevo,2025-11-15
+458,2026-02-13,6,,"53,09",0,Web,Tarjeta,5,45.67,,Zona 7,La Molina,Centro,Cevicheria Azul,  Marina ,53.09,Maria Gomez,La Molina,Premium,2025-11-12
+459, 2026-05-08 ,6,4.1,46.58, 10 ,Telefono,Yape,5,33.53,,Zona 3,Lima,Sur,Pizza Centro,PIZZERIA,46.58,Elena Soto,Lima,Premium,2025/07/25
+460,2026-06-08,7,1.38,23.79,8,whatsapp,Yape,3,25.5,OK,Zona 4,Los Olivos,este,Menu Criollo,Criolla,23.79,Carlos Vargas,AtE,Regular,2025-09-04
+461,2026-03-04,3,1.44,23.79,5,Web,Efectivo,2,18.88,PrOmOcIoN,Zona 4,Los Olivos,este,Menu Criollo,Criolla,23.79,Marco Castillo,Lima,Nuevo,2025-10-20
+462,2026-01-19,7, 14.85 ,,15,Web,Plin,5,50.37,Revisar,Zona 7,La Molina,Centro,Cafe Dulce,  Cafeteria ,21.16,Ana Vargas,San  Miguel,Nuevo,2025-02-03
+463,2026-06-27,8,38.82,23.79 aprox,5,Telefono,Efectivo,4,111.27,,Zona 1,  Ventanilla ,  Centro ,Menu Criollo,Criolla,23.79,  Victor Sayan ,  Lima ,Corporativo,2025-06-06
+464,2026-02-25,7,1.32,21.16,0,Presencial,Yape,3,35.04,Cliente frecuente,Zona 3,Lima,Sur,Cafe Dulce,  Cafeteria ,21.16,Victor Campos,san miguel,Regular,2025-09-27
+465,13/02/2026,3,13.62,27.67,0,  App ,Tarjeta,3, 54.72 ,Promocion,Zona 3,Lima,Sur,Tacos Urbanos,MEXICANA,27.67,Elena Torres,Chorrillos,Corporativo,2025-04-26
+466,2026-06-22,3,3.52 aprox,63.63,10,WhatsApp,Efectivo,4,,cliente frecuente,Zona 1,  Ventanilla ,  Centro ,Sushi Barrio,Japonesa,63.63,Lucia Salazar,Ventanilla,Frecuente,2025-05-10
+467,2026/02/25,1,10.0,21.16,20,ApP,Plin,,24.58,OK,Zona 2,  San Juan de Lurigancho ,Este,Cafe Dulce,  Cafeteria ,21.16,Luis Castillo,MIRAFLORES,Frecuente,2025-10-20
+468,2026-02-17,2,7.59,23.79,20,WhatsApp,Tarjeta,2,26.28,,Zona 4,Los Olivos,este,Menu Criollo,Criolla,23.79,Fiorella Salazar,SAN JUAN DE LURIGANCHO,regular,2025-06-05
+469,2026-04-07,1,9.58,21.16,10,App,Yape,3,122.5,,Zona 2,  San Juan de Lurigancho ,Este,Cafe Dulce,  Cafeteria ,21.16,Diego Navarro,Chorrillos,Frecuente,2025-08-18
+470,2026-04-27,2,14.36,53.09,0,App,Transferencia,4,46.6,OK,Zona 3,Lima,Sur,Cevicheria Azul,  Marina ,53.09,Lucia Quispe,Los Olivos,Nuevo,2025-11-15
+471,2026-05-26,5,0.61,40.61,10,Telefono,Transferencia,5,11.47,,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,Diana Paredes,Ate,Nuevo,2025-08-09
+472,2026-05-04,2,13.35,40.61,0,Telefono,Tarjeta,4,42.58,OK,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,Ana Salazar,Chorrillos,Nuevo,2025-11-15
+473,2026-03-09,7,6.07,38.69,12,ApP,Yape,1,"25,75",OK,Zona 6,Callao,Centro,Chifa Dragon,Chifa,38.69,Victor Navarro,Villa El Salvador,Premium,2025-09-18
+474,2026-04-26,3,3.0 aprox,27.67,0,App,Efectivo,5,21.31,Promocion,Zona 7,La Molina,Centro,Tacos Urbanos,MEXICANA,27.67,Miguel Huaman,CALLAO,Frecuente,2025-07-22
+475,2026-02-27,8,7.78,46.58,0,Telefono,Tarjeta,1, 34.52 ,Revisar,Zona 6,Callao,Centro,Pizza Centro,PIZZERIA,46.58,Valeria Navarro,Miraflores,Nuevo,2025-11-10
+476,2026-04-27,3,0.54,46.58,0,WhatsApp,Yape,2,30.1,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Pizza Centro,PIZZERIA,46.58,Diana Soto,Ventanilla,Nuevo,2025-02-12
+477,2026-01-10,2,13.16,63.63, 0 ,Web,Yape,5,44.57,,Zona 5,Lima,,Sushi Barrio,Japonesa,63.63,Pedro Gomez,Lima,  Corporativo ,2025-08-20
+478,2026-05-18,5,3.7,31.56,5,Telefono,Plin,3,20.12,Cliente frecuente,Zona 2,  San Juan de Lurigancho ,Este,BuRgEr nOrTe,Comida rapida,31.56,Jose Reyes,  Lima ,Nuevo,2025-01-14
+479, 2026-02-28 ,,13.69,38.69,10,Telefono,Transferencia,2,"44,22",OK,Zona 4,Los Olivos,este,Chifa Dragon,Chifa,38.69,Diana Soto,Ventanilla,Nuevo,2025-02-12
+480,2026/01/05,8,"12,18","31,56",0,Presencial,Transferencia,3,54.67,,Zona 1,  Ventanilla ,  Centro ,BuRgEr nOrTe,Comida rapida,31.56,Ana Reyes,Chorrillos,Regular,2025-05-24
+481,2026-04-24,5,2.14 aprox,31.56,0,App,Efectivo,2,24.42,  Revisar ,Zona 7,La Molina,Centro,BuRgEr nOrTe,Comida rapida,31.56,Lucia Quispe,Los Olivos,Nuevo,2025-07-07
+482,2026-02-01,4,8.99,21.16,0 aprox,whatsapp,Yape,4,36.35,OK,Zona 2,  San Juan de Lurigancho ,Este,Cafe Dulce,  Cafeteria ,21.16,Rocio Torres,,Premium,2025-01-19
+483,2026-05-28,6,13.55,63.63,0,Telefono,TARJETA,3,54.12,Revisar,Zona 7,La Molina,Centro,Sushi Barrio,Japonesa,63.63,Ana Reyes,Chorrillos,Regular,2025-05-24
+484,2026-05-10,6,3.08,"27,67",15,Presencial,Efectivo,4,22.8,OK,Zona 7,La Molina,Centro,Tacos Urbanos,MEXICANA,27.67,Elena Rojas,Lima,Regular,2025-08-09
+485,16/02/2026,8 aprox,14.61,31.56, 20 ,Telefono,Tarjeta,2,55.49,Cliente frecuente,Zona 7,La Molina,Centro,BuRgEr nOrTe,Comida rapida,31.56,Miguel Huaman,CALLAO,Frecuente,2025-07-22
+486,2026-05-04,5,1.0,31.56,0,Web,Tarjeta,2,22.33,,Zona 3,Lima,Sur,BuRgEr nOrTe,Comida rapida,31.56,Carlos Vargas,AtE,Regular,2025-09-04
+487,2026-06-01,6,4.09,63.63,0,Web,Tarjeta,5,25.54,Promocion,Zona 6,Callao,Centro,Sushi Barrio,Japonesa,63.63,Maria Salazar,Ate,Corporativo,2025-02-18
+488,2026-03-15,1, 14.66 ,27.67,0,Telefono,Yape,4,51.38,OK,Zona 1,  Ventanilla ,  Centro ,Tacos Urbanos,MEXICANA,27.67,Miguel Huaman,CALLAO,Frecuente,2025-07-22
+489,2026-06-23,2,1.85,31.56 aprox,20,,  Efectivo ,2,27.59,Cliente frecuente,Zona 4,Los Olivos,este,BuRgEr nOrTe,Comida rapida,31.56,Marco Castillo,Lima,Nuevo,2025-10-20
+490,2026-03-08,7,"6,34", 31.56 ,8,Telefono,TRANSFERENCIA,3,S/ 36.71,Promocion,Zona 3,Lima,Sur,BuRgEr nOrTe,Comida rapida,31.56,Marco Cruz,VILLA EL SALVADOR,Premium,2025-09-17
+491,2026-02-11,5,8.31,23.79,15,Telefono,Efectivo,4,32.67,Revisar,Zona 3,Lima,Sur,Menu Criollo,Criolla,23.79,Maria Gomez,La Molina,Premium,2025-11-12
+492,, 1 ,12.88,40.61,5,whatsapp,,2,48.91,OK,Zona 3,Lima,Sur,Polleria El Carbon,Polleria,40.61,,san miguel,Corporativo,2025-06-16
+493,2026-05-08,1,1.86,21.16,5,,Efectivo, 5 ,16.27,Revisar,Zona 2,  San Juan de Lurigancho ,Este,Cafe Dulce,  Cafeteria ,21.16,VaLeRiA MeNdOzA,Villa El Salvador,Premium,2025-02-18
+494,2026-01-20,6,13.88,63.63,12,Presencial,Yape,5,44.46,,Zona 2,  San Juan de Lurigancho ,Este,Sushi Barrio,Japonesa,63.63,Ana Vargas,San  Miguel,Nuevo,2025-02-03
+495,2026-05-19,7,1.12 aprox,40.61,8,Presencial,Efectivo,1,24.15,Revisar,Zona 5,Lima,,Polleria El Carbon,Polleria,40.61,Ana Vargas,San  Miguel,Nuevo,2025-02-03
+496,2026-03-04,6,1.07,46.58,0,App,Transferencia,2,22.52,Revisar,Zona 4,Los Olivos,este,Pizza Centro,PIZZERIA,46.58,Marco Quispe,San Miguel,Regular,2025-12-27
+497,2026-06-10,1,3.12,23.79,0,WhAtSaPp,Tarjeta,3,14.92,Promocion,Zona 6,Callao,Centro,Menu Criollo,Criolla,23.79,Victor Navarro,Villa El Salvador,Premium,2025-09-18
+498,19-02-2026,6,5.08,31.56,15,Presencial,Efectivo,4,21.13,Promocion,Zona 6,Callao,Centro,BuRgEr nOrTe,Comida rapida,31.56,Marco Paredes,Lima,Corporativo,2025-12-22
+499,2026-03-22,8,4.18,31.56,0,WhatsApp,Transferencia,3,25.21,Cliente frecuente,Zona 3,Lima,Sur,BuRgEr nOrTe,Comida rapida,31.56,Marco Castillo,Independencia,Nuevo,2025-07-10
+500,2026-03-07,7,11.7 aprox,53.09,10,Presencial,Plin,4,42.89,Revisar,Zona 5,Lima,,Cevicheria Azul,  Marina ,53.09,Luis Castillo,MIRAFLORES,Frecuente,2025-10-20

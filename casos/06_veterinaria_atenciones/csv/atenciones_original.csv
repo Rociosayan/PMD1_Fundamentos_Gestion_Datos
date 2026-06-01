@@ -1,0 +1,501 @@
+id_atencion,fecha_operacion,cantidad_servicios,peso_mascota_kg,tarifa_base,descuento_pct,canal,metodo_pago,calificacion,costo_servicio,observacion,sedes_nombre,sedes_distrito,sedes_zona,servicios_nombre,servicios_categoria,servicios_tarifa_base,mascotas_nombre,mascotas_distrito,mascotas_segmento,mascotas_fecha_registro
+1,2026-04-15,1,15.9,38.23,0,Telefono,YaPe,1,59.41,Promocion,Sede 3,San Juan de Lurigancho,Norte,DESPARASITACION,Prevencion,38.23,MARIA CASTILLO,Ate,Nuevo,2025-08-17
+2,2026-04-15,5,40.79,240.03,0,  Presencial ,Yape,2,294.55 aprox,Promocion,,Surco,Centro,Hospitalizacion,Internamiento,240.03,Marco Castillo,SaN MiGuEl,Nuevo,2025-08-05
+3,2026-02-02,4,7.36,46.0,12,telefono,Tarjeta,5,84.24,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Bano medicado,Estetica,46.0,Rocio Rojas,Independencia,Corporativo,2025-09-21
+4,2026/01/14,6,31.73,240.03,10,web,Yape,2,319.59,Cliente frecuente,Sede  6,Callao,Este,Hospitalizacion,Internamiento,240.03,Lucia Reyes,,PrEmIuM,2025-03-12
+5,2026-06-19,5 aprox,,61.97,0,App,Efectivo,2,158.3,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Vacuna,PrEvEnCiOn,61.97,Elena Cruz,San  Juan  de  Lurigancho,Frecuente,2025-07-12
+6,2026-05-17,4,36.72,240.03,10,Presencial,Plin,4,286.05 aprox,Revisar,Sede 1,  Comas ,Oeste,Hospitalizacion,Internamiento,240.03,Claudia Flores,Los Olivos,Frecuente,2025-08-09
+7,2026-04-10, 2 ,36.55,42.06 aprox, 0 ,  Presencial ,EFECTIVO,2,125.19,Cliente frecuente,Sede  6,Callao,Este,Corte de pelo,ESTETICA,42.06,Fiorella Vargas,,Regular,2025/07/22
+8,2026-04-10,5,17.25,49.12,0,WhatsApp,Efectivo,3,140.76,Cliente frecuente,Sede 5,Villa El Salvador,Norte,CoNsUlTa,Salud,49.12,Sofia Reyes,,Regular,2025-09-27
+9,2026-05-21,1,20.87,240.03,12,Telefono,Efectivo,5,211.36,,Sede  6,Callao,Este,Hospitalizacion,Internamiento,240.03,Elena Soto,Lima,Frecuente,2025-03-07
+10,2026-02-07,5,29.79,240.03,8,Presencial,Plin,2,243.94,,Sede 3,San Juan de Lurigancho,Norte,Hospitalizacion,Internamiento,240.03,Sofia Torres,Miraflores,Corporativo,2025-06-20
+11,2026-05-11,4,11.03,S/ 111.09,8,Web,Transferencia,2,145.8,,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Valeria Huaman,Ate,Regular,2025-04-08
+12,10/05/2026,8,31.81,61.97,,,Yape,3,185.52,,Sede 5,Villa El Salvador,Norte,Vacuna,PrEvEnCiOn,61.97,Fiorella Vargas,,Regular,2025/07/22
+13,2026-06-25,2,13.93, 188.14 ,5,Presencial,Tarjeta, 5 ,218.18,,Sede 5,Villa El Salvador,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Luis Ramos,Comas,Nuevo,2025-10-23
+14,2026-05-11,1,31.73 aprox,46.0,10,Telefono,Efectivo,4,86.61,REVISAR,Sede 2,Independencia,CeNtRo,Bano medicado,Estetica,46.0,Andre Campos,La Molina,Regular,2025-12-22
+15,2026-05-22,8,26.44,42.06,0,Web,Yape,5,140.5,,Sede 4,Surco,Este,Corte de pelo,ESTETICA,42.06,Rocio Cruz,LiMa,Frecuente,2025-12-20
+16,2026-06-03,6,42.32,111.09,5,WhatsApp,Yape,5,205.61,,Sede 5,Villa El Salvador,Norte,Radiografia,DiAgNoStIcO,111.09,Ana Gomez,,Premium,2025-01-15
+17,2026-06-08,,27.8,42.06,8,WhatsApp,Transferencia,5,136.8,,,Surco,Centro,Corte de pelo,ESTETICA,42.06,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+18,,8,34.9,"38,23",0,Web,Transferencia,1,138.11,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,DESPARASITACION,Prevencion,38.23,Diana Mendoza,Independencia,Frecuente,2025-06-16
+19,2026-05-19,1,27.94,,20,Telefono,Transferencia,3,S/ 63.08,,Sede 4,Surco,Este,Bano medicado,Estetica,46.0,Camila Mendoza,san miguel,Regular,2025-02-20
+20,2026-02-21,1,"44,05",188.14,20,Telefono,Transferencia,2,256.82,Revisar,Sede 4,Surco,Este,Cirugia menor,PROCEDIMIENTO,188.14,AnDrE CaMpOs,Independencia,Regular,2025-08-13
+21,2026-03-23,5,18.24,100.11,15,App,Plin,5 aprox,149.68,Revisar,Sede 1,  Comas ,Oeste,Analisis sangre,Laboratorio,100.11,Jorge Flores,Villa El Salvador,Regular,2025-12-11
+22,2026-05-27, 7 ,15.27,42.06,15,App,Plin,5,111.67,,,Surco,Centro,Corte de pelo,ESTETICA,42.06,Miguel Castillo,Callao,Corporativo,2025-10-02
+23,2026-03-27,3,14.27,61.97,12,WhatsApp,Plin,4,116.02,Revisar,,Surco,Centro,Vacuna,PrEvEnCiOn,61.97,Rocio Gomez,Ventanilla,Nuevo,2025-05-22
+24,2026-04-13,8,33.57,42.06,20,Telefono,PLIN,2,S/ 169.66,Cliente frecuente,,Surco,Centro,Corte de pelo,ESTETICA,42.06,Jose Vargas,Callao,Premium,2025-05-07
+25,2026-03-21,5,3.67,49.12,10,Web,transferencia,5,70.11,,Sede 2,Independencia,CeNtRo,CoNsUlTa,Salud,49.12,  Andre Vargas ,Callao,Nuevo,2025-12-16
+26,2026-04-27,2,22.11,111.09,5,Web,Tarjeta,5,141.87,,Sede 1,  Comas ,Oeste,Radiografia,DiAgNoStIcO,111.09,Rocio Rojas,Los  Olivos,Nuevo,2025-08-14
+27,2026-04-02,4,"12,33",111.09,12,  WhatsApp ,Tarjeta,3 aprox,S/ 132.82,Revisar,Sede 4,Surco,Este,Radiografia,DiAgNoStIcO,111.09,Claudia Flores,Los Olivos,Frecuente,2025-08-09
+28,2026-01-16,6,3.8,240.03,20,TeLeFoNo,Tarjeta,1,257.58,PROMOCION,Sede 5,Villa El Salvador,Norte,Hospitalizacion,Internamiento,240.03,Ana Salazar,Miraflores,Frecuente,2025/07/27
+29,2026-01-14,3,5.99,46.0,0,WeB,Transferencia,4,87.03,,Sede 2,Independencia,CeNtRo,Bano medicado,Estetica,46.0,Lucia Ramos,Callao,Frecuente,2025-02-17
+30,2026-01-13,5 aprox,9.34,42.06,10,Web,Efectivo,1,96.76,Revisar,Sede 3,San Juan de Lurigancho,Norte,Corte de pelo,ESTETICA,42.06,Maria Flores,,PREMIUM,2025-12-20
+31,2026/02/28,6,22.98,111.09,8,Presencial,Tarjeta,2,202.18,OK,Sede 4,Surco,Este,Radiografia,DiAgNoStIcO,111.09,Victor Castillo,Chorrillos,Premium, 2025-12-03 
+32,2026-03-10,7,39.49,49.12,,WhatsApp,Plin,1,145.51,OK,Sede 4,Surco,Este,CoNsUlTa,Salud,49.12,Luis Mendoza,Miraflores,PREMIUM,2025-06-20
+33,,5,38.13,,15,Web,Tarjeta,2,234.9,,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Valeria Huaman,Ate,Regular,2025-04-08
+34,2026-03-19,5,19.56,188.14,0,Telefono,Tarjeta,3,223.74,Promocion,Sede 2,Independencia,CeNtRo,Cirugia menor,PROCEDIMIENTO,188.14,Sofia Reyes,,Regular,2025-09-27
+35,2026-02-07,4,,42.06,20,WhatsApp,Efectivo,1,109.64,OK,,Surco,Centro,Corte de pelo,ESTETICA,42.06,Fiorella Gomez,,Frecuente,2025-11-20
+36,2026/01/22,3,7.16,100.11,10,,Tarjeta,1,108.96,Promocion,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+37,2026-06-17,4,31.55,49.12, 10 ,Telefono,Plin,5,86.86,,Sede  6,Callao,Este,CoNsUlTa,Salud,49.12,Valeria Huaman,Surco,Corporativo,2025-02-25
+38,18-05-2026,5,23.48,111.09, 20 ,Web,Transferencia,4,177.32,Promocion,Sede  6,Callao,Este,Radiografia,DiAgNoStIcO,111.09,Jorge Salazar,Independencia,Nuevo,2025-03-28
+39,2026-05-10,7,28.57,61.97,,App,Plin,5,153.88,cliente frecuente,Sede 1,  Comas ,Oeste,Vacuna,PrEvEnCiOn,61.97,Fiorella Gomez,,Frecuente,2025-11-20
+40,2026-03-28,,21.05,38.23,8,WhatsApp,Transferencia,5,134.72,,Sede 4,Surco,Este,DESPARASITACION,Prevencion,38.23,raul mendoza,independencia,Nuevo,2025-02-10
+41,2026-02-14,2,38.89,111.09,12,Presencial,Plin,1 aprox,S/ 182.5,,Sede 4,Surco,Este,Radiografia,DiAgNoStIcO,111.09,Jorge Navarro,Los Olivos,Corporativo,2025-10-18
+42,2026-02-11,6,37.93,100.11,,  Telefono ,Efectivo,4,172.78,Cliente frecuente,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Victor Castillo,Chorrillos,Premium, 2025-12-03 
+43,2026-01-07,5,38.38,240.03,15,Web,Efectivo,3,"278,11",,Sede 4,Surco,Este,Hospitalizacion,Internamiento,240.03,Sofia Quispe,Ate,Regular,2025-11-19
+44,2026-05-11,4,28.99,38.23,12,Telefono,Yape,1,116.02,Revisar,Sede 4,Surco,Este,DESPARASITACION,Prevencion,38.23,Luis Salazar,Chorrillos,Corporativo,2025-06-16
+45,2026-06-24,3, 21.73 ,"111,09",5,WhatsApp,Transferencia,2,123.38,Revisar,Sede 5,Villa El Salvador,Norte,Radiografia,DiAgNoStIcO,111.09,Jorge Reyes,Independencia,Corporativo,2025-02-18
+46,2026-04-15,1,15.9,38.23,0,Telefono,YaPe,1,59.41,Promocion,Sede 3,San Juan de Lurigancho,Norte,DESPARASITACION,Prevencion,38.23,MARIA CASTILLO,Ate,Nuevo,2025-08-17
+47,2026-06-21, 8 ,34.77,S/ 46.0,12,Presencial,Plin,2,,Revisar,Sede 1,  Comas ,Oeste,Bano medicado,Estetica,46.0,Lucia Quispe,  San Miguel ,Nuevo,2025-10-03
+48,24/04/2026,4,17.91,100.11,15,ApP,Efectivo, 3 ,149.18,Promocion,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Sofia Soto,Los Olivos,,2025-05-16
+49,2026-06-09,3,13.02,188.14,5,Web,Yape,2,205.73,,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Valeria Huaman,Ate,Regular,2025-04-08
+50,2026-02-22,8,15.5,240.03,20,Presencial,Yape,5,297.03,Revisar,Sede 3,San Juan de Lurigancho,Norte,Hospitalizacion,Internamiento,240.03,Maria Torres,Independencia,Frecuente,2025-02-11
+51,2026-02-03,8,37.05,188.14,20,Web,Yape,2,,,Sede  6,Callao,Este,Cirugia menor,PROCEDIMIENTO,188.14,Claudia Rojas,  Independencia ,Regular,2025-02-06
+52,2026-01-19,5,"23,32",61.97,,App,Tarjeta,3 aprox,103.85,ClIeNtE FrEcUeNtE,Sede 3,San Juan de Lurigancho,Norte,Vacuna,PrEvEnCiOn,61.97,Elena Mendoza,Comas,corporativo,2025-01-11
+53,2026-05-09,2,"22,04",188.14,20,Telefono,Efectivo,2,211.78,,Sede 2,Independencia,CeNtRo,Cirugia menor,PROCEDIMIENTO,188.14,Elena Salazar,San Miguel,Regular,2025-02-09
+54, 2026-02-03 ,7,2.65,42.06,0,Presencial,Transferencia,1,112.28,Cliente frecuente,Sede 1,  Comas ,Oeste,Corte de pelo,ESTETICA,42.06,Rocio Gomez,Ventanilla,Nuevo,2025-05-22
+55,2026-06-07,5,19.73,42.06,10,Presencial,Yape,4,135.43,,Sede 2,Independencia,CeNtRo,Corte de pelo,ESTETICA,42.06,Pedro Campos,La Molina,CoRpOrAtIvO,2025-01-18
+56,2026-06-01,8,19.54,38.23,0,App,Tarjeta,2,162.22,Revisar,Sede  6,Callao,Este,DESPARASITACION,Prevencion,38.23,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+57,2026-01-08,4,41.31,188.14,12 aprox,APP,PlIn,2, 264.59 ,Revisar,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Valeria Soto,Ventanilla,CoRpOrAtIvO,2025-08-24
+58,2026-04-15,3,14.95,46.0,0,App,Yape,3,86.08,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+59,2026-02-25,6,25.15,111.09,0,App,Plin,3,182.23,OK,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Claudia Rojas,  Independencia ,Regular,2025-02-06
+60,2026-04-10,2 aprox,26.28,100.11,0 aprox,Web,,1,128.67,OK,Sede 4,Surco,Este,Analisis sangre,Laboratorio,100.11,Sofia Soto,Los Olivos,,2025-05-16
+61,2026-01-11,1,19.92 aprox,100.11,5,PRESENCIAL,Yape,4,125.65,Cliente frecuente,Sede 2,Independencia,CeNtRo,Analisis sangre,Laboratorio,100.11,Marco Castillo,SaN MiGuEl,Nuevo,2025-08-05
+62,2026-03-06,8,31.46, 111.09 ,20,WHATSAPP,Efectivo,5,"210,59",Cliente frecuente,Sede 4,Surco,Este,Radiografia,DiAgNoStIcO,111.09,Maria Huaman,Villa El Salvador,Premium,2025-03-02
+63,2026-04-15,3,4.56,240.03,8,WhatsApp,Tarjeta,1,241.3,,Sede 1,  Comas ,Oeste,Hospitalizacion,Internamiento,240.03,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+64,2026-06-10,2,37.69,46.0,0,WhatsApp,,1,82.26,Cliente frecuente,Sede 4,Surco,Este,Bano medicado,Estetica,46.0,Diana Sayan,CoMaS,Nuevo,17-10-2025
+65, 2026-04-10 ,1 aprox,15.68,S/ 100.11,0,Presencial,Transferencia,,128.6,,Sede 1,  Comas ,Oeste,Analisis sangre,Laboratorio,100.11,,Ventanilla,Regular,2025-11-05
+66,2026-03-06,2,37.98,42.06,12,PrEsEnCiAl,Tarjeta,1,100.17,OK,Sede 3,San Juan de Lurigancho,Norte,Corte de pelo,ESTETICA,42.06,Lucia Quispe,  San Miguel ,Nuevo,2025-10-03
+67,2026-02-22,4,34.53,61.97,0,Presencial,Yape,5,135.58,Promocion,Sede 3,San Juan de Lurigancho,Norte,Vacuna,PrEvEnCiOn,61.97,Elena Cruz,San  Juan  de  Lurigancho,Frecuente,2025-07-12
+68,2026-06-12,2,14.4,46.0,20,App,TRANSFERENCIA,4,,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,Victor Castillo,Chorrillos,Premium, 2025-12-03 
+69,2026-04-12,7, 10.96 ,240.03,15,Web,Yape,3,315.58,Promocion,Sede 3,San Juan de Lurigancho,Norte,Hospitalizacion,Internamiento,240.03,Jose Vargas,Independencia,,2025-10-11
+70,2026-03-02,8,29.87,188.14,0,Web,Yape,4,263.03,,,Surco,Centro,Cirugia menor,PROCEDIMIENTO,188.14,Miguel Castillo,Callao,Corporativo,2025-10-02
+71,2026-06-03,7,43.87, 100.11 ,0,Presencial,Plin,2,192.42,Revisar,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Luis Ramos,Comas,Nuevo,2025-10-23
+72,2026-02-20,1,16.23,188.14,12,App,Plin,2,188.11,,Sede 3,San Juan de Lurigancho,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Lucia Quispe,  San Miguel ,Nuevo,2025-10-03
+73,2026-04-02,1,21.62,100.11,12,Web,  Efectivo ,4,112.56,Cliente frecuente,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Maria Huaman,Villa El Salvador,Premium,2025-03-02
+74,2026-06-02,1,24.92,61.97,12,App,Plin,5,94.85,Revisar,Sede 3,San Juan de Lurigancho,Norte,Vacuna,PrEvEnCiOn,61.97,Andre Flores,Miraflores,Regular,2025-03-19
+75,2026-02-04,7,33.2, 100.11 ,0,App,,1,208.92,,,Surco,Centro,Analisis sangre,Laboratorio,100.11,Maria Flores,San Miguel,Nuevo,2025-01-17
+76,2026-02-07,4,11.4,49.12,12,Presencial,YAPE,3, 81.85 ,Promocion,Sede 3,San Juan de Lurigancho,Norte,CoNsUlTa,Salud,49.12,Andre Campos,Callao,Corporativo,2025-08-15
+77,2026-04-06,,18.32,49.12,0,TELEFONO,tarjeta,1,148.07,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,CoNsUlTa,Salud,49.12,Jose Vargas,Independencia,,2025-10-11
+78,2026-03-21,6,34.73,61.97,10,Web,Transferencia,5,167.11,OK,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,raul mendoza,independencia,Nuevo,2025-02-10
+79,2026-01-20,3,44.32,46.0,0,Web,Efectivo,1,66.02,Cliente frecuente,Sede 4,Surco,Este,Bano medicado,Estetica,46.0,Elena Soto,Lima,Frecuente,2025-03-07
+80,2026-06-01,8,23.75,100.11,5,Presencial,Yape,1,172.62,ReViSaR,Sede 1,  Comas ,Oeste,Analisis sangre,Laboratorio,100.11,Diana Quispe,,corporativo,2025-03-11
+81,2026-02-11,7,38.35,188.14,0 aprox,App,Transferencia,4,245.53,Promocion,,Surco,Centro,Cirugia menor,PROCEDIMIENTO,188.14,Rocio Gomez,Ventanilla,Nuevo,2025-05-22
+82,2026-02-10,3,30.02,240.03,8,Web,Efectivo,2,270.61,,Sede  6,Callao,Este,Hospitalizacion,Internamiento,240.03,Rocio Gomez,Ventanilla,Nuevo,2025-05-22
+83,2026-01-22,5,26.22,240.03,15,App,Efectivo,5,273.43,OK,Sede 4,Surco,Este,Hospitalizacion,Internamiento,240.03,Claudia Flores,Los Olivos,Frecuente,2025-08-09
+84,2026-04-24,6,25.48,46.0 aprox,0 aprox,WhatsApp,PLIN,4,133.94,Cliente frecuente,Sede 1,  Comas ,Oeste,Bano medicado,Estetica,46.0,Jorge Flores,Villa El Salvador,Regular,2025-12-11
+85,2026-01-25,7,13.57,46.0,0,Presencial,yape,4,117.93,ok,Sede 1,  Comas ,Oeste,Bano medicado,Estetica,46.0,Valeria Rojas,Ventanilla,Frecuente, 2025-07-04 
+86,2026-06-20,7,"29,75",42.06,0,Web,Yape,5,118.0,Cliente frecuente,,Surco,Centro,Corte de pelo,ESTETICA,42.06,Camila Mendoza,san miguel,Regular,2025-02-20
+87,2026-05-21,1,15.55,240.03,0,PrEsEnCiAl,Plin,5, 207.24 ,Promocion,Sede  6,Callao,Este,Hospitalizacion,Internamiento,240.03,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+88,03/02/2026, 4 ,33.04,100.11,10,App,Tarjeta,2,161.87,,Sede 3,San Juan de Lurigancho,Norte,Analisis sangre,Laboratorio,100.11,Diana Quispe,,corporativo,2025-03-11
+89,2026-03-07,8,4.23,61.97,0,WhatsApp,,2,123.37,OK,Sede  6,Callao,Este,Vacuna,PrEvEnCiOn,61.97,Jorge Reyes,Independencia,Corporativo,2025-02-18
+90,2026-02-23,5,27.49,111.09,5,TELEFONO,Tarjeta,3,186.85,,Sede 4,Surco,Este,Radiografia,DiAgNoStIcO,111.09,Lucia Reyes,,PrEmIuM,2025-03-12
+91,2026-05-17,8,26.16,,8,Presencial,Efectivo,2,245.53,,Sede  6,Callao,Este,Cirugia menor,PROCEDIMIENTO,188.14,Elena Soto,Lima,Frecuente,2025-03-07
+92,2026-03-13,5,3.76,42.06,15,WhatsApp,Transferencia,5,110.71,OK,Sede 4,Surco,Este,Corte de pelo,ESTETICA,42.06,Fiorella Mendoza,Chorrillos,Nuevo,2025-10-25
+93,2026-03-17,5,20.08, 61.97 ,0,  App ,Plin,2,133.45,,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,Ana Navarro,Ventanilla,Nuevo,2025-02-23
+94,2026-04-13,5,32.15,46.0,20,App,Tarjeta,2,97.99,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Bano medicado,Estetica,46.0,Ana Salazar,Miraflores,Frecuente,2025/07/27
+95,2026-02-23,4,17.89,100.11,10,Web,,4,140.06,Ok,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Maria Torres,Independencia,Frecuente,2025-02-11
+96,2026-04-18,5,27.76,38.23,12,App,Plin,,147.21,Cliente frecuente,Sede 5,Villa El Salvador,Norte,DESPARASITACION,Prevencion,38.23,Andre Campos,Callao,Corporativo,2025-08-15
+97,2026-02-21,4,25.09,61.97, 5 ,Telefono,Yape,1,112.45,,Sede  6,Callao,Este,Vacuna,PrEvEnCiOn,61.97,Sofia Quispe,san juan de lurigancho,,2025-12-06
+98,2026-03-15,4,4.94,111.09,0,app,Yape,3,"152,29",Promocion,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Jose Cruz,San Miguel,NuEvO,2025-09-12
+99,2026-04-10,4,44.06,42.06,0,Presencial,Transferencia,5,121.91,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Corte de pelo,ESTETICA,42.06,Rocio Cruz,LiMa,Frecuente,2025-12-20
+100,2026-05-23,2,26.66,46.0,20,Web,Tarjeta,2,74.61,Revisar,Sede 3,San Juan de Lurigancho,Norte,Bano medicado,Estetica,46.0,Victor Soto,Los Olivos,  Corporativo ,2025-11-20
+101,2026-02-08,2,7.66,49.12,20,Telefono,Transferencia,,72.32,Revisar,Sede 3,San Juan de Lurigancho,Norte,CoNsUlTa,Salud,49.12,Victor Soto,Los Olivos,  Corporativo ,2025-11-20
+102,2026-02-27,4,10.16,61.97,20,App,Transferencia,3 aprox,116.65,   ,Sede 1,  Comas ,Oeste,Vacuna,PrEvEnCiOn,61.97,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+103,2026-06-27,4,8.2,188.14,0,Presencial,,1,252.58 aprox,,Sede 2,Independencia,CeNtRo,Cirugia menor,PROCEDIMIENTO,188.14,Victor Soto,Los Olivos,  Corporativo ,2025-11-20
+104,2026-02-02,8,16.9,38.23,0,WhatsApp,EfEcTiVo,4,,Revisar,Sede 1,  Comas ,Oeste,DESPARASITACION,Prevencion,38.23,Claudia Rojas,  Independencia ,Regular,2025-02-06
+105,2026/05/24,4,2.92 aprox,111.09,0 aprox,WhatsApp,Transferencia,4,139.32,Promocion,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Elena Salazar,San Miguel,Regular,2025-02-09
+106,2026-03-10,8,44.72,42.06,0,TeLeFoNo,Tarjeta,2,152.04,Revisar,Sede 2,Independencia,CeNtRo,Corte de pelo,ESTETICA,42.06,Jose Vargas,Callao,Premium,2025-05-07
+107,2026-03-07,8,34.64,111.09,5,WhatsApp,Plin,3,209.29,,Sede 1,  Comas ,Oeste,Radiografia,DiAgNoStIcO,111.09,Jorge Salazar,Independencia,Nuevo,2025-03-28
+108,2026-02-23,7,11.91,240.03,10,WhatsApp,Yape,,271.3,,Sede 3,San Juan de Lurigancho,Norte,Hospitalizacion,Internamiento,240.03,Claudia Flores,Los Olivos,Frecuente,2025-08-09
+109,11/01/2026, 3 ,13.02,42.06,10,  App ,Tarjeta,1,103.48,Promocion,Sede 2,Independencia,CeNtRo,Corte de pelo,ESTETICA,42.06,  Carlos Huaman ,Chorrillos,Premium,27-05-2025
+110,2026-01-17,2,23.46,188.14,12,Presencial,Tarjeta,1,210.16,Promocion,Sede 3,San Juan de Lurigancho,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Rocio Rojas,Independencia,Corporativo,2025-09-21
+111,2026-05-21,7,3.88,61.97,20,App,tarjeta,1,152.31,,Sede 4,Surco,Este,Vacuna,PrEvEnCiOn,61.97,andre castillo,San Miguel,Regular,2025-05-14
+112,2026-02-12,6,40.75,46.0,8,WhatsApp,Yape,1,157.51,revisar,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,andre castillo,San Miguel,Regular,2025-05-14
+113,2026-05-14,5,40.89, 42.06 ,20 aprox,Telefono,Tarjeta,1,115.04,,Sede 1,  Comas ,Oeste,Corte de pelo,ESTETICA,42.06,Diana Mendoza,Independencia,Frecuente,2025-06-16
+114,2026-04-05,5,36.18,61.97 aprox,8,App,Tarjeta,,105.14,OK,Sede 5,Villa El Salvador,Norte,Vacuna,PrEvEnCiOn,61.97,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+115,2026-05-05,1, 18.58 ,111.09,10,Web,Plin,1,118.4,,Sede  6,Callao,Este,Radiografia,DiAgNoStIcO,111.09,Maria Mendoza,Callao,,2025-08-14
+116,2026-01-02,2,43.88,61.97,20,Web,Transferencia,4,84.86,,Sede  6,Callao,Este,Vacuna,PrEvEnCiOn,61.97,Fiorella Gomez,,Frecuente,2025-11-20
+117,2026-03-18,6,,"240,03",0,Web,Tarjeta,5,246.98,,Sede 1,  Comas ,Oeste,Hospitalizacion,Internamiento,240.03,MARIA CASTILLO,Ate,Nuevo,2025-08-17
+118,2026-03-03,5,15.85,49.12,0,Telefono,Yape,3,"161,46",Promocion,Sede 2,Independencia,CeNtRo,CoNsUlTa,Salud,49.12,  Andre Vargas ,Callao,Nuevo,2025-12-16
+119,2026-02-28,8,12.67,100.11,8,  Presencial ,Plin,4,178.4,Promocion,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Diana Quispe,,corporativo,2025-03-11
+120,2026-02-12,6,33.16,38.23,0,Presencial,Yape,1,120.52,,Sede 4,Surco,Este,DESPARASITACION,Prevencion,38.23,Lucia Quispe,  San Miguel ,Nuevo,2025-10-03
+121,19-04-2026,8,"28,62",61.97,8,App,Tarjeta,,156.94,Cliente frecuente,,Surco,Centro,Vacuna,PrEvEnCiOn,61.97,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+122,2026-05-17,4,31.55,188.14,8,Presencial,YAPE,1,233.62,Cliente frecuente,,Surco,Centro,Cirugia menor,PROCEDIMIENTO,188.14,Maria Mendoza,Callao,,2025-08-14
+123,2026-02-09,5,14.47,42.06 aprox,10,Telefono,Transferencia,4,117.78,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Corte de pelo,ESTETICA,42.06,  Andre Vargas ,Callao,Nuevo,2025-12-16
+124,23/06/2026,8,22.32,111.09,15,Web,Transferencia,1,"188,71",OK,Sede  6,Callao,Este,Radiografia,DiAgNoStIcO,111.09,Jorge Navarro,Los Olivos,Corporativo,2025-10-18
+125,2026-02-16,8,23.07,61.97,8,Presencial,Tarjeta,4 aprox,117.89,,Sede 4,Surco,Este,Vacuna,PrEvEnCiOn,61.97,Sofia Torres,Miraflores,Corporativo,2025-06-20
+126,2026-06-26,6,31.15,61.97,15,WhatsApp,Transferencia,1,146.97,Revisar,Sede 4,Surco,Este,Vacuna,PrEvEnCiOn,61.97,Sofia  Soto,SuRcO,Regular,2025-09-07
+127,2026-03-11,4,13.93,38.23,5,App,Transferencia,3,93.37,OK,Sede 3,San Juan de Lurigancho,Norte,DESPARASITACION,Prevencion,38.23,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+128,2026-06-13,3,43.41,100.11,0,WEB,Tarjeta,1,158.01,OK,Sede 3,San Juan de Lurigancho,Norte,Analisis sangre,Laboratorio,100.11,Diana Mendoza,Independencia,Frecuente,2025-06-16
+129,2026-04-12,5,8.51,111.09,10,WhatsApp,efectivo,1,127.34,Cliente frecuente,Sede  6,Callao,Este,Radiografia,DiAgNoStIcO,111.09,Lucia Quispe,  San Miguel ,Nuevo,2025-10-03
+130,2026-04-23,7,26.45,100.11,0,Presencial,Efectivo,2 aprox,127.18,,Sede 1,  Comas ,Oeste,Analisis sangre,Laboratorio,100.11,Sofia Torres,Miraflores,Corporativo,2025-06-20
+131,24/03/2026,1,44.76,240.03,0,App,Tarjeta,4,266.47,Promocion,Sede 1,  Comas ,Oeste,Hospitalizacion,Internamiento,240.03,Victor Castillo,Chorrillos,Premium, 2025-12-03 
+132,2026-01-18,4,23.24,61.97,15,WhatsApp,Efectivo,1,109.83,Revisar,Sede 1,  Comas ,Oeste,Vacuna,PrEvEnCiOn,61.97,Elena Cruz,San  Juan  de  Lurigancho,Frecuente,2025-07-12
+133,05/04/2026,5,26.35,49.12,20,Web,Plin,4,111.69,OK,Sede 3,San Juan de Lurigancho,Norte,CoNsUlTa,Salud,49.12,Rocio Gomez,Ventanilla,Nuevo,2025-05-22
+134,2026-06-09,1 aprox,22.31,61.97,5,WhatsApp,Efectivo,5,105.08,  Promocion ,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+135,2026-02-09,4,2.03,188.14,,Web,Plin,2,186.51,Cliente frecuente,Sede 4,Surco,Este,Cirugia menor,PROCEDIMIENTO,188.14,Jose Vargas,Callao,Premium,2025-05-07
+136,2026-02-28,3,19.18,100.11,15,  App ,Transferencia,2,"110,19",OK,Sede 1,  Comas ,Oeste,Analisis sangre,Laboratorio,100.11,andre castillo,San Miguel,Regular,2025-05-14
+137,2026-06-18,6,11.82,38.23,20,WhatsApp,Transferencia,5,"132,31",OK,Sede 2,Independencia,CeNtRo,DESPARASITACION,Prevencion,38.23,Luis Salazar,Chorrillos,Corporativo,2025-06-16
+138,2026-01-08,4,18.31,100.11,20,Web,Tarjeta, 3 ,174.97,OK,Sede 4,Surco,Este,Analisis sangre,Laboratorio,100.11,Jose Navarro,Chorrillos,Frecuente,2025-02-07
+139,2026-05-27,6,12.91,188.14,20,Presencial,Plin,3,656.81,Promocion,Sede 5,Villa El Salvador,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Valeria Huaman,Surco,Corporativo,2025-02-25
+140,2026-04-19,7,8.22,111.09,10 aprox,WhatsApp,Efectivo,3 aprox,152.55,,Sede 5,Villa El Salvador,Norte,Radiografia,DiAgNoStIcO,111.09,Victor Soto,Los Olivos,  Corporativo ,2025-11-20
+141,2026-05-03,7 aprox,9.13,111.09, 0 ,WhatsApp,Tarjeta,4,S/ 173.41,,Sede 5,Villa El Salvador,Norte,Radiografia,DiAgNoStIcO,111.09,Victor Soto,Los Olivos,  Corporativo ,2025-11-20
+142,2026-06-28,6,7.71 aprox,"46,0",12,Presencial,tarjeta,4,101.79,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Bano medicado,Estetica,46.0,Fiorella Navarro,Surco,Premium, 2025-10-14 
+143,2026-02-15,7,41.97,46.0,0,WhatsApp,Tarjeta,2,157.85,OK,Sede 1,  Comas ,Oeste,Bano medicado,Estetica,46.0,Valeria Rojas,Ventanilla,Frecuente, 2025-07-04 
+144,2026-02-12,5,37.83,42.06,0,Presencial,,5,,Cliente frecuente,Sede 1,  Comas ,Oeste,Corte de pelo,ESTETICA,42.06,Sofia Torres,Miraflores,Corporativo,2025-06-20
+145,2026-04-15,7,30.65,240.03,10,Telefono,Efectivo,1,321.37,,Sede 4,Surco,Este,Hospitalizacion,Internamiento,240.03,Ana Gomez,,Premium,2025-01-15
+146,2026-03-26,6,14.91,240.03,0,App,Plin,3,277.15,Revisar,Sede 2,Independencia,CeNtRo,Hospitalizacion,Internamiento,240.03,Miguel Reyes,VENTANILLA,Frecuente,2025-11-14
+147,2026-02-10,7,26.15,38.23, 10 ,ApP,Transferencia,2,153.33,,,Surco,Centro,DESPARASITACION,Prevencion,38.23,Miguel Reyes,VENTANILLA,Frecuente,2025-11-14
+148, 2026-03-14 ,4,"26,34",188.14,12,App,PLIN,5 aprox, 225.61 ,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Valeria Huaman,Ate,Regular,2025-04-08
+149,2026-04-06,5,25.58,49.12,0,WhatsApp,EFECTIVO,2,176.51,promocion,,Surco,Centro,CoNsUlTa,Salud,49.12,Jose Vargas,Callao,Premium,2025-05-07
+150,2026-06-17,5, 43.95 , 188.14 ,5,Telefono,Efectivo,5,224.19,OK,,Surco,Centro,Cirugia menor,PROCEDIMIENTO,188.14,Maria Huaman,Villa El Salvador,Premium,2025-03-02
+151,2026-05-17,6,14.02,38.23,0,Presencial,Transferencia,5,106.44,Promocion,Sede 3,San Juan de Lurigancho,Norte,DESPARASITACION,Prevencion,38.23,Jorge Navarro,Los Olivos,Corporativo,2025-10-18
+152,2026-05-23,2,,100.11 aprox,5,App,Transferencia,3,105.71,Revisar,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Sofia Reyes,,Regular,2025-09-27
+153,2026-01-16,1,28.23,188.14,0,App,Tarjeta,2,205.24,,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Fiorella Gomez,,Frecuente,2025-11-20
+154,2026-05-07,3,36.91,100.11,20,Web,Yape,5,140.69,Cliente frecuente,Sede 4,Surco,Este,Analisis sangre,Laboratorio,100.11,Lucia Quispe,  San Miguel ,Nuevo,2025-10-03
+155,2026-04-02,1,11.19,42.06,5 aprox,WhatsApp,YAPE,2,37.14,Revisar,Sede  6,Callao,Este,Corte de pelo,ESTETICA,42.06,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+156,2026-06-04,5,"37,52",42.06,5,Web,Tarjeta,5,100.98,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Corte de pelo,ESTETICA,42.06,Andre Flores,Miraflores,Regular,2025-03-19
+157,2026-06-09,4,8.99 aprox,38.23,12,App,Yape,1,54.32,,Sede 4,Surco,Este,DESPARASITACION,Prevencion,38.23,Camila Mendoza,san miguel,Regular,2025-02-20
+158,12-01-2026,8,33.71,42.06,8 aprox,Presencial,Yape,1,150.02,,Sede 1,  Comas ,Oeste,Corte de pelo,ESTETICA,42.06,Jorge Salazar,Independencia,Nuevo,2025-03-28
+159,04/05/2026,1,2.83,61.97,0,WhatsApp,Yape,4,88.45,OK,Sede 5,Villa El Salvador,Norte,Vacuna,PrEvEnCiOn,61.97,Maria Torres,Independencia,Frecuente,2025-02-11
+160,2026-05-23,7,10.09,46.0,0,Web,Transferencia,2,141.45,,Sede 2,Independencia,CeNtRo,Bano medicado,Estetica,46.0,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+161,2026-06-09,1,25.31,61.97,0,WhatsApp,EfEcTiVo,3,92.62,Cliente frecuente,,Surco,Centro,Vacuna,PrEvEnCiOn,61.97,Elena Huaman,Ate,Premium,2025-07-05
+162,2026-06-09,3,32.14,100.11,20,Web,Tarjeta,5,146.63,,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Jorge Reyes,Independencia,Corporativo,2025-02-18
+163,2026-04-11,7,25.74,46.0, 0 ,Presencial,Tarjeta,4,108.63,,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,Fiorella Mendoza,Chorrillos,Nuevo,2025-10-25
+164,2026-05-21,2,33.61,38.23,10,App,Efectivo,4,87.26,,Sede 3,San Juan de Lurigancho,Norte,DESPARASITACION,Prevencion,38.23,  Andre Vargas ,Callao,Nuevo,2025-12-16
+165,2026-05-13,7,37.88,46.0,0,WhatsApp,Yape,3,151.83,OK,Sede 2,Independencia,CeNtRo,Bano medicado,Estetica,46.0,Ana Navarro,Ventanilla,Nuevo,2025-02-23
+166,2026-02-22,5,"12,69",111.09,0,Web,Plin,5 aprox,189.03,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Radiografia,DiAgNoStIcO,111.09,Victor Soto,Los Olivos,  Corporativo ,2025-11-20
+167,2026-04-23,8,21.7,46.0,20,App,Efectivo,3,110.83,Cliente frecuente,Sede  6,Callao,Este,Bano medicado,Estetica,46.0,Sofia Soto,Los Olivos,,2025-05-16
+168,2026-03-25,1,12.41,,0,Telefono,Yape,3,109.51,Promocion,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,Maria Torres,Independencia,Frecuente,2025-02-11
+169,2026-01-22,4,12.44,38.23,8,Web,tarjeta,2,92.19,OK,Sede 2,Independencia,CeNtRo,DESPARASITACION,Prevencion,38.23,Lucia Quispe,  San Miguel ,Nuevo,2025-10-03
+170,2026-03-26,1,22.8,240.03,0,WHATSAPP,  Transferencia ,1 aprox,254.3,Revisar,Sede 1,  Comas ,Oeste,Hospitalizacion,Internamiento,240.03,Valeria Soto,Ventanilla,CoRpOrAtIvO,2025-08-24
+171,2026-03-11,2,8.58,188.14,5,WEB,Efectivo,4,,  OK ,Sede 5,Villa El Salvador,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Valeria Rojas,Ventanilla,Frecuente, 2025-07-04 
+172,2026-01-18,4,23.24,61.97,15,WhatsApp,Efectivo,1,109.83,Revisar,Sede 1,  Comas ,Oeste,Vacuna,PrEvEnCiOn,61.97,Elena Cruz,San  Juan  de  Lurigancho,Frecuente,2025-07-12
+173,2026/01/06,7,30.03,111.09,5,App,Tarjeta,5,217.88,,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Luis Mendoza,Miraflores,PREMIUM,2025-06-20
+174,,,29.31,111.09,8,Web,EfEcTiVo,2,190.49,ok,Sede 2,Independencia,CeNtRo,Radiografia,DiAgNoStIcO,111.09,Rocio Cruz,LiMa,Frecuente,2025-12-20
+175,2026-04-16,7,25.81,49.12,20,WhatsApp,Transferencia,3,131.97 aprox,ClIeNtE FrEcUeNtE,Sede 1,  Comas ,Oeste,CoNsUlTa,Salud,49.12,Fiorella Navarro,Surco,Premium, 2025-10-14 
+176,2026-03-09,3 aprox,31.31,100.11,15,Web,Transferencia,4,153.41,OK,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Victor Castillo,Chorrillos,Premium, 2025-12-03 
+177,2026-04-09,3,13.3,46.0,0,Presencial,Transferencia,4,92.99,Revisar,,Surco,Centro,Bano medicado,Estetica,46.0,Victor Soto,Los Olivos,  Corporativo ,2025-11-20
+178,2026-03-25,4,39.67,188.14,8,Presencial,Yape,1 aprox,281.14,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Jorge Salazar,Independencia,Nuevo,2025-03-28
+179,2026-04-04,5,32.77,42.06,5,Telefono,Plin,4,155.11,,Sede 4,Surco,Este,Corte de pelo,ESTETICA,42.06,Valeria Soto,Ventanilla,Frecuente,2025-02-26
+180,2026-04-27,5,16.16,240.03,12,Presencial,Efectivo,1,261.75,Promocion,Sede 3,San Juan de Lurigancho,Norte,Hospitalizacion,Internamiento,240.03,Pedro Torres,San Miguel,Premium,2025-01-12
+181,2026-04-17,2,27.48,240.03,20,Presencial,Yape,3,261.0,,Sede 1,  Comas ,Oeste,Hospitalizacion,Internamiento,240.03,Jorge Salazar,Independencia,Nuevo,2025-03-28
+182,2026-02-21,5,33.28,38.23,5,App,Plin,1,113.14,Cliente frecuente,,Surco,Centro,DESPARASITACION,Prevencion,38.23,Luis Mendoza,Miraflores,PREMIUM,2025-06-20
+183,2026-05-21,8,38.92,111.09 aprox,15,Telefono,,,171.66,Revisar,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+184,2026-01-25,4,22.45,42.06,8,Web,,1,97.94,,Sede 3,San Juan de Lurigancho,Norte,Corte de pelo,ESTETICA,42.06,Elena Cruz,San  Juan  de  Lurigancho,Frecuente,2025-07-12
+185,2026-05-25,3,26.71,61.97,20,App,Yape,3,130.18,Promocion,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,Luis Salazar,Chorrillos,Corporativo,2025-06-16
+186,2026-06-12,8,15.34,188.14,20,,Plin,4, 232.62 ,Revisar,Sede 3,San Juan de Lurigancho,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Jorge Flores,Villa El Salvador,Regular,2025-12-11
+187,2026-06-13,5,11.06,46.0,20,Telefono,Efectivo,3,117.96,Revisar,Sede 4,Surco,Este,Bano medicado,Estetica,46.0,Luis Campos,Miraflores,ReGuLaR,2025-02-25
+188,2026-01-25,7,13.43,42.06,5,Presencial,Efectivo,5,102.07,Promocion,Sede 1,  Comas ,Oeste,Corte de pelo,ESTETICA,42.06,Sofia  Soto,SuRcO,Regular,2025-09-07
+189,2026-01-17,4,11.63,111.09,0,App,  Transferencia ,1,,OK,Sede 5,Villa El Salvador,Norte,Radiografia,DiAgNoStIcO,111.09,Maria Torres,Independencia,Frecuente,2025-02-11
+190,2026-03-05,4,35.6,38.23,15,Presencial,Plin, 1 ,81.95,Cliente frecuente,Sede 5,Villa El Salvador,Norte,DESPARASITACION,Prevencion,38.23,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+191,2026-03-07,5,10.9,61.97,20,Telefono,Efectivo,4,115.55,Cliente frecuente,Sede  6,Callao,Este,Vacuna,PrEvEnCiOn,61.97,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+192,2026-05-03,5,23.72,100.11,0 aprox,presencial,Yape, 2 ,184.65,Promocion,Sede 2,Independencia,CeNtRo,Analisis sangre,Laboratorio,100.11,Miguel Reyes,VENTANILLA,Frecuente,2025-11-14
+193,2026-02-08,2,18.63,61.97,0,web,Tarjeta,3,117.98,,Sede 3,San Juan de Lurigancho,Norte,Vacuna,PrEvEnCiOn,61.97,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+194,2026-04-15,7, 20.33 ,111.09,5,Web,  Plin ,2,179.96,Cliente frecuente,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Ana Navarro,Ventanilla,Nuevo,2025-02-23
+195,10-02-2026,7,15.64,46.0,12,App,Efectivo,1,106.95,Cliente frecuente,Sede  6,Callao,Este,Bano medicado,Estetica,46.0,Sofia Quispe,Ate,Regular,2025-11-19
+196,2026-02-25,6,3.49,61.97,10,Web,Plin,4,101.36,Cliente frecuente,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,Miguel Reyes,VENTANILLA,Frecuente,2025-11-14
+197,14/03/2026,7,19.85,49.12,8,WhAtSaPp,Transferencia,3,133.33,revisar,Sede 2,Independencia,CeNtRo,CoNsUlTa,Salud,49.12,Marco Gomez,VENTANILLA,Corporativo,2025-09-21
+198,2026-02-16,4,23.73,61.97,15,App,Plin,4,130.53,OK,,Surco,Centro,Vacuna,PrEvEnCiOn,61.97,  Andre Vargas ,Callao,Nuevo,2025-12-16
+199,2026-01-22, 2 ,19.58 aprox,188.14,15,Telefono,,1,526.67,OK,Sede 5,Villa El Salvador,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Raul Quispe,Villa El Salvador,Frecuente,2025-11-07
+200,2026-01-18,4,37.02,111.09,20,App,Plin,5,146.26,Promocion,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Sofia Quispe,san juan de lurigancho,,2025-12-06
+201,2026-05-09,1,17.3,38.23,8,,Yape, 4 ,105.03,,Sede  6,Callao,Este,DESPARASITACION,Prevencion,38.23,Jorge Flores,Villa El Salvador,Regular,2025-12-11
+202,2026-05-12,7,2.16,240.03,20,WhatsApp,Plin,2,306.74 aprox,Revisar,Sede 1,  Comas ,Oeste,Hospitalizacion,Internamiento,240.03,Elena Mendoza,Surco,Premium,2025-11-23
+203,2026-04-26,3 aprox,16.86,38.23 aprox,0,telefono,YaPe,4,80.79,,Sede 1,  Comas ,Oeste,DESPARASITACION,Prevencion,38.23,Marco Castillo,SaN MiGuEl,Nuevo,2025-08-05
+204,,6 aprox,34.56,188.14,5,App,Efectivo,5,227.32,OK,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Miguel Reyes,VENTANILLA,Frecuente,2025-11-14
+205,2026-02-15,2,44.2,46.0,20,Web,Transferencia,3,78.81,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,Valeria Soto,Ventanilla,CoRpOrAtIvO,2025-08-24
+206,2026-03-22,8,44.38,38.23,5,Web,Transferencia,1,151.39,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,DESPARASITACION,Prevencion,38.23,Maria Torres,Independencia,Frecuente,2025-02-11
+207,2026-03-16,5,30.83,38.23,8,Presencial,Yape,2,"106,67",Cliente frecuente,Sede 1,  Comas ,Oeste,DESPARASITACION,Prevencion,38.23,Pedro Campos,La Molina,CoRpOrAtIvO,2025-01-18
+208,2026-06-25,5,30.23,38.23,0,App,Plin,3,122.26,Cliente frecuente,Sede  6,Callao,Este,DESPARASITACION,Prevencion,38.23,Sofia  Soto,SuRcO,Regular,2025-09-07
+209,2026/04/14,7,38.29 aprox,61.97,0,Presencial,Yape,3,"123,95",Cliente frecuente,Sede 4,Surco,Este,Vacuna,PrEvEnCiOn,61.97,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+210,2026-01-15,5,26.2,61.97,15,WhatsApp,Plin,2,138.44,OK,Sede 3,San Juan de Lurigancho,Norte,Vacuna,PrEvEnCiOn,61.97,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+211,16-01-2026,6,12.83,49.12,12,Telefono,TaRjEtA,2,117.7,cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,CoNsUlTa,Salud,49.12,Ana Gomez,,Premium,2025-01-15
+212,2026-03-15,4,4.94,111.09,0,app,Yape,3,"152,29",Promocion,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Jose Cruz,San Miguel,NuEvO,2025-09-12
+213,2026-06-15,7,10.85,46.0,0,WhatsApp,,2,162.77,OK,Sede 2,Independencia,CeNtRo,Bano medicado,Estetica,46.0,Lucia Reyes,,PrEmIuM,2025-03-12
+214,2026/01/08,8,"20,8",240.03,15,App,Plin,5,310.32,revisar,Sede 5,Villa El Salvador,Norte,Hospitalizacion,Internamiento,240.03,Maria Mendoza,Callao,,2025-08-14
+215,2026-04-24,5,24.23,,5,Presencial,Tarjeta,,173.6,,Sede 5,Villa El Salvador,Norte,Analisis sangre,Laboratorio,100.11,Jorge Reyes,Independencia,Corporativo,2025-02-18
+216,2026-06-22,3,3.66,42.06,10,WhatsApp,Yape,4,54.38,,Sede 4,Surco,Este,Corte de pelo,ESTETICA,42.06,Miguel Reyes,VENTANILLA,Frecuente,2025-11-14
+217,2026-02-24,1,198.36,42.06,0,Web,Tarjeta,,251.36,OK,Sede 2,Independencia,CeNtRo,Corte de pelo,ESTETICA,42.06,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+218,2026-06-18,1,17.32,111.09,8 aprox,WhatsApp,Yape,4,102.52,Cliente frecuente,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Elena Salazar,San Miguel,Regular,2025-02-09
+219,2026-04-11,8,"10,8",188.14,5,Presencial,Efectivo,4,263.59,ReViSaR,Sede 3,San Juan de Lurigancho,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Jorge Navarro,Los Olivos,Corporativo,2025-10-18
+220,2026-01-01,2,39.87,240.03,15,app,Tarjeta,2,907.8,,Sede 2,Independencia,CeNtRo,Hospitalizacion,Internamiento,240.03,Fiorella Vargas,,Regular,2025/07/22
+221,2026-03-22,8,44.38,38.23,5,Web,Transferencia,1,151.39,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,DESPARASITACION,Prevencion,38.23,Maria Torres,Independencia,Frecuente,2025-02-11
+222,2026-05-03,1, 37.89 ,61.97,0,Web,Transferencia,3,100.5,Promocion,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,raul mendoza,independencia,Nuevo,2025-02-10
+223,2026-03-06,3,43.15 aprox,46.0,5,Telefono,TARJETA,3,123.26,Revisar,,Surco,Centro,Bano medicado,Estetica,46.0,Sofia Quispe,san juan de lurigancho,,2025-12-06
+224,27/06/2026,2,23.56,100.11,0,Web,Transferencia,4,120.64,OK,Sede 1,  Comas ,Oeste,Analisis sangre,Laboratorio,100.11,Carlos Rojas,Chorrillos,Frecuente,20-11-2025
+225,2026-02-27,6,30.44,100.11,5,Presencial,Efectivo,2,161.42,Cliente frecuente,,Surco,Centro,Analisis sangre,Laboratorio,100.11,Sofia Quispe,san juan de lurigancho,,2025-12-06
+226,2026-04-08,4,39.1,240.03,5,Telefono,Yape,3,293.54,OK,Sede 2,Independencia,CeNtRo,Hospitalizacion,Internamiento,240.03,Diana Mendoza,Independencia,Frecuente,2025-06-16
+227,2026-02-04, 8 ,12.39,240.03,5,App,Tarjeta,2,342.47,,Sede 2,Independencia,CeNtRo,Hospitalizacion,Internamiento,240.03,Rocio Rojas,Independencia,Corporativo,2025-09-21
+228,2026-02-04,5,17.23,49.12,20,,Transferencia,3, 110.02 ,,Sede 5,Villa El Salvador,Norte,CoNsUlTa,Salud,49.12,Miguel Reyes,VENTANILLA,Frecuente,2025-11-14
+229,2026-04-22,6,15.65,100.11,12,Presencial,Tarjeta,4,136.46,,Sede 1,  Comas ,Oeste,Analisis sangre,Laboratorio,100.11,Jorge Reyes,Independencia,Corporativo,2025-02-18
+230,2026-01-25,8,11.75 aprox,111.09,12,Telefono,Efectivo,3,171.89,OK,Sede 2,Independencia,CeNtRo,Radiografia,DiAgNoStIcO,111.09,Jorge Flores,Villa El Salvador,Regular,2025-12-11
+231,2026-04-26,1,8.7,111.09,12,WhatsApp,Transferencia,3,178.09,OK,Sede 2,Independencia,CeNtRo,Radiografia,DiAgNoStIcO,111.09,Lucia Ramos,Callao,Frecuente,2025-02-17
+232,2026-04-18,1 aprox,15.14,111.09,0,PRESENCIAL,Yape,5,150.34,Cliente frecuente,Sede 1,  Comas ,Oeste,Radiografia,DiAgNoStIcO,111.09,Jorge Mendoza,Comas,Premium,2025-12-17
+233,2026/02/20,7,35.06,100.11,15,Telefono,Yape,3,"157,33",Promocion,Sede 2,Independencia,CeNtRo,Analisis sangre,Laboratorio,100.11,Andre Campos,La Molina,Regular,2025-12-22
+234,2026-05-06,3,8.24,100.11,15,ApP,efectivo,2,157.15 aprox,,Sede 3,San Juan de Lurigancho,Norte,Analisis sangre,Laboratorio,100.11,Jose Vargas,Independencia,,2025-10-11
+235,2026-05-10, 3 ,12.78,188.14,10,Presencial,Tarjeta,2, 226.42 ,Promocion,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Camila Mendoza,san miguel,Regular,2025-02-20
+236,2026-05-21,8,38.92,111.09 aprox,15,Telefono,,,171.66,Revisar,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+237,2026-05-09,6,24.23,240.03,12 aprox,Telefono,Transferencia,3,264.57,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Hospitalizacion,Internamiento,240.03,Maria Mendoza,Callao,,2025-08-14
+238,2026-02-13,8,16.42 aprox,111.09,0,App,Transferencia,2,218.82,Promocion,Sede  6,Callao,Este,Radiografia,DiAgNoStIcO,111.09,Sofia Quispe,Ate,Regular,2025-11-19
+239,2026-01-09,5,26.16,46.0,10,Web,Tarjeta,4,157.35,Promocion,Sede 2,Independencia,CeNtRo,Bano medicado,Estetica,46.0,Miguel Reyes,VENTANILLA,Frecuente,2025-11-14
+240,2026-03-03,7,31.33, 240.03 ,12,App,Plin,1,338.3,OK,Sede 5,Villa El Salvador,Norte,Hospitalizacion,Internamiento,240.03,Jorge Flores,Villa El Salvador,Regular,2025-12-11
+241,2026-04-21,4,9.59,38.23,0,  Web ,yape,3,80.39,,Sede 2,Independencia,CeNtRo,DESPARASITACION,Prevencion,38.23,Sofia  Soto,SuRcO,Regular,2025-09-07
+242,2026/02/05,1,42.24, 240.03 , 20 ,  WhatsApp ,Plin,2,255.18,OK,,Surco,Centro,Hospitalizacion,Internamiento,240.03,Victor Soto,Los Olivos,  Corporativo ,2025-11-20
+243,2026-04-17,1,43.47, 100.11 ,10,App,Tarjeta,5,113.65,,Sede 5,Villa El Salvador,Norte,Analisis sangre,Laboratorio,100.11,Raul Quispe,Villa El Salvador,Frecuente,2025-11-07
+244,24/04/2026,4,17.91,100.11,15,ApP,Efectivo, 3 ,149.18,Promocion,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Sofia Soto,Los Olivos,,2025-05-16
+245,2026-04-24,6,9.53,42.06,8,Presencial,Transferencia,5,132.79,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Corte de pelo,ESTETICA,42.06,Jose Navarro,Chorrillos,Frecuente,2025-02-07
+246,09-03-2026,2,32.44,38.23,8,App,yape,4 aprox,"90,86",Revisar,,Surco,Centro,DESPARASITACION,Prevencion,38.23,Sofia  Soto,SuRcO,Regular,2025-09-07
+247,2026-02-26,6,2.26,46.0,8,App,Transferencia,4,,Revisar,Sede 1,  Comas ,Oeste,Bano medicado,Estetica,46.0,Maria Huaman,Villa El Salvador,Premium,2025-03-02
+248,06-06-2026,7,39.49,240.03,15 aprox,WhatsApp,Plin,5,276.12,Promocion,Sede  6,Callao,Este,Hospitalizacion,Internamiento,240.03,Sofia Reyes,,Regular,2025-09-27
+249,2026-06-23,2,31.85,38.23,0,WhatsApp,Yape,2,122.23,Revisar,Sede 2,Independencia,CeNtRo,DESPARASITACION,Prevencion,38.23,Lucia Reyes,,PrEmIuM,2025-03-12
+250,2026-05-18,8,104.77,42.06,0,ApP,Transferencia,3,,OK,Sede  6,Callao,Este,Corte de pelo,ESTETICA,42.06,raul mendoza,independencia,Nuevo,2025-02-10
+251,2026-04-10,,16.81,100.11,0,Web,  Plin ,5,129.57,Promocion,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Elena Soto,Lima,Frecuente,2025-03-07
+252,2026-03-16,1,38.4,111.09,15,Web,YaPe,5,129.08,OK,Sede 1,  Comas ,Oeste,Radiografia,DiAgNoStIcO,111.09,MARIA CASTILLO,Ate,Nuevo,2025-08-17
+253,2026-01-07,1,28.69,46.0,0,Telefono,plin,2,128.37,Promocion,Sede  6,Callao,Este,Bano medicado,Estetica,46.0,Rocio Torres,  Los Olivos ,regular,22-12-2025
+254,2026-06-21,8,7.72,61.97,0,Presencial,Efectivo, 2 ,116.0,Revisar,Sede 3,San Juan de Lurigancho,Norte,Vacuna,PrEvEnCiOn,61.97,Maria Flores,San Miguel,Nuevo,2025-01-17
+255,,8,3.81,49.12, 10 ,WhatsApp,Transferencia,1,143.44,Revisar,Sede  6,Callao,Este,CoNsUlTa,Salud,49.12,Elena Mendoza,Comas,corporativo,2025-01-11
+256,2026-05-26,6,5.76,42.06,12,App,Efectivo,3,113.81,PROMOCION,Sede 1,  Comas ,Oeste,Corte de pelo,ESTETICA,42.06,Maria Flores,San Miguel,Nuevo,2025-01-17
+257,2026-02-03,8,6.42,46.0,12,WhatsApp,Tarjeta,3,99.68,OK,,Surco,Centro,Bano medicado,Estetica,46.0,Jorge Flores,Villa El Salvador,Regular,2025-12-11
+258,2026-02-22,1,7.31,188.14,5 aprox,WhatsApp,Yape,5,199.04,OK,Sede  6,Callao,Este,Cirugia menor,PROCEDIMIENTO,188.14,Sofia Quispe,Ate,Regular,2025-11-19
+259,2026-06-06, 4 ,23.2,188.14,15,PRESENCIAL,Yape,1,218.59,Promocion,Sede  6,Callao,Este,Cirugia menor,PROCEDIMIENTO,188.14,Ana Gomez,,Premium,2025-01-15
+260,2026-05-23,6,22.3,188.14,10,  Web ,Tarjeta,3,256.9,OK,Sede 2,Independencia,CeNtRo,Cirugia menor,PROCEDIMIENTO,188.14,Rocio Cruz,LiMa,Frecuente,2025-12-20
+261,2026-03-17,2,"43,93",240.03 aprox,0,Web,  Tarjeta ,4,270.61 aprox,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Hospitalizacion,Internamiento,240.03,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+262,2026-01-16,6,8.09,111.09,0,Presencial,Efectivo,4,151.12,OK,Sede 1,  Comas ,Oeste,Radiografia,DiAgNoStIcO,111.09,Jorge Mendoza,Comas,Premium,2025-12-17
+263,2026-01-23,1,41.47,38.23,0,Web,Transferencia,2,121.86,OK,Sede 1,  Comas ,Oeste,DESPARASITACION,Prevencion,38.23,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+264,2026-04-24,5,26.82,111.09,15,WhatsApp,Yape,4,163.07,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Radiografia,DiAgNoStIcO,111.09,Claudia Rojas,  Independencia ,Regular,2025-02-06
+265,2026-02-20,2,12.37,61.97,0,Telefono,Plin,1,75.74,OK,Sede 5,Villa El Salvador,Norte,Vacuna,PrEvEnCiOn,61.97,Valeria Huaman,Ate,Regular,2025-04-08
+266,2026-05-19,7,43.24,240.03,8,TELEFONO,Transferencia,5,312.6,Cliente frecuente,Sede 4,Surco,Este,Hospitalizacion,Internamiento,240.03,Rocio Rojas,Los  Olivos,Nuevo,2025-08-14
+267,2026-06-13,1,27.1,188.14,0,,Tarjeta,5,216.0,,Sede 3,San Juan de Lurigancho,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+268,2026-04-06,5,25.58,49.12,0,WhatsApp,EFECTIVO,2,176.51,promocion,,Surco,Centro,CoNsUlTa,Salud,49.12,Jose Vargas,Callao,Premium,2025-05-07
+269,2026-06-23,8,23.18 aprox,100.11,15,  WhatsApp ,Efectivo,4,174.35,,Sede 1,  Comas ,Oeste,Analisis sangre,Laboratorio,100.11,Diana Mendoza,Independencia,Frecuente,2025-06-16
+270,2026-01-13,3,42.46,188.14,20,App,Tarjeta,3,207.98,Promocion,Sede 2,Independencia,CeNtRo,Cirugia menor,PROCEDIMIENTO,188.14,Rocio Gomez,Ventanilla,Nuevo,2025-05-22
+271,20-06-2026,8,28.22,188.14,12,whatsapp,Tarjeta,2,271.63,Cliente frecuente,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Elena Soto,Lima,Frecuente,2025-03-07
+272,2026-01-07,4,"18,7",188.14,8,Presencial,Tarjeta,2,199.54,,Sede 3,San Juan de Lurigancho,Norte,Cirugia menor,PROCEDIMIENTO,188.14,AnDrE CaMpOs,Independencia,Regular,2025-08-13
+273,2026-02-22,1,44.2,49.12,5,TELEFONO,Plin,1,112.19,,Sede 2,Independencia,CeNtRo,CoNsUlTa,Salud,49.12,Jose Vargas,Independencia,,2025-10-11
+274,16/02/2026,1 aprox,38.58,100.11,20,Web,Transferencia,5,"179,7",Promocion,Sede 4,Surco,Este,Analisis sangre,Laboratorio,100.11,Rocio Gomez,Ventanilla,Nuevo,2025-05-22
+275,2026-03-16,4,28.96,100.11,,Presencial,Transferencia,4,134.42,Cliente frecuente,,Surco,Centro,Analisis sangre,Laboratorio,100.11,Camila Mendoza,san miguel,Regular,2025-02-20
+276,2026-03-11,8,2.96,188.14,5 aprox,App,Tarjeta,4,199.28,,Sede 2,Independencia,CeNtRo,Cirugia menor,PROCEDIMIENTO,188.14,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+277,2026-04-06,5,25.58,49.12,0,WhatsApp,EFECTIVO,2,176.51,promocion,,Surco,Centro,CoNsUlTa,Salud,49.12,Jose Vargas,Callao,Premium,2025-05-07
+278,2026-01-13,8,34.68,240.03,0,presencial,Yape,2,318.9,,Sede  6,Callao,Este,Hospitalizacion,Internamiento,240.03,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+279,2026-06-16,3,27.6,100.11,15,Telefono,Tarjeta,1,117.52,Revisar,Sede 4,Surco,Este,Analisis sangre,Laboratorio,100.11,Sofia Quispe,san juan de lurigancho,,2025-12-06
+280,2026-01-12,7,,46.0,12,App,Tarjeta,4,172.52,,Sede 2,Independencia,CeNtRo,Bano medicado,Estetica,46.0,Fiorella Vargas,,Regular,2025/07/22
+281,2026-05-19,4,"36,34",49.12,0,Telefono,Transferencia,5,159.78,Revisar,Sede 1,  Comas ,Oeste,CoNsUlTa,Salud,49.12,Ana Salazar,Miraflores,Frecuente,2025/07/27
+282,2026-06-17, 3 ,23.22,46.0,0,App,transferencia,4,59.11,,,Surco,Centro,Bano medicado,Estetica,46.0,Fiorella Mendoza,Chorrillos,Nuevo,2025-10-25
+283,2026-06-23, 5 ,23.4,240.03,5,WhatsApp,Transferencia,4,237.48,Cliente frecuente,Sede 4,Surco,Este,Hospitalizacion,Internamiento,240.03,  Andre Vargas ,Callao,Nuevo,2025-12-16
+284,2026-03-07,3,29.91,61.97,8,Telefono,Tarjeta,5,121.52,,Sede 3,San Juan de Lurigancho,Norte,Vacuna,PrEvEnCiOn,61.97,Elena Mendoza,Comas,corporativo,2025-01-11
+285,2026-05-27,3,40.77,49.12,,Telefono,PLIN,1,143.04,Revisar,Sede 3,San Juan de Lurigancho,Norte,CoNsUlTa,Salud,49.12,Victor Soto,Los Olivos,  Corporativo ,2025-11-20
+286,2026-04-08,4,34.77 aprox,38.23,8,Web,,1,100.89,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,DESPARASITACION,Prevencion,38.23,Elena Soto,Lima,Frecuente,2025-03-07
+287,2026-01-19,5,11.22,38.23,0,  WhatsApp ,Tarjeta,3,109.85,Promocion,Sede 2,Independencia,CeNtRo,DESPARASITACION,Prevencion,38.23,  Andre Vargas ,Callao,Nuevo,2025-12-16
+288,2026-06-26,2,5.18,240.03,0,App,Transferencia,1,238.32,,Sede 1,  Comas ,Oeste,Hospitalizacion,Internamiento,240.03,Maria Mendoza,Callao,,2025-08-14
+289,2026-01-21,2,17.86, 100.11 ,12,Presencial,Plin,4,95.47,OK,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Sofia  Soto,SuRcO,Regular,2025-09-07
+290,2026-05-20,5,7.8,42.06,20,Web,Yape,1,,Cliente frecuente,Sede  6,Callao,Este,Corte de pelo,ESTETICA,42.06,Diana Quispe,,corporativo,2025-03-11
+291,2026-01-15,1,38.57,46.0,0,App,Yape,3, 94.81 ,Promocion,Sede 3,San Juan de Lurigancho,Norte,Bano medicado,Estetica,46.0,Valeria Huaman,Ate,Regular,2025-04-08
+292,,4,6.85,42.06,0,WhatsApp,  Tarjeta ,1,77.16,OK,,Surco,Centro,Corte de pelo,ESTETICA,42.06,Andre Campos,La Molina,Regular,2025-12-22
+293,2026-01-07,3,29.48,S/ 100.11,12,WhatsApp,Plin,4,155.04,,Sede 3,San Juan de Lurigancho,Norte,Analisis sangre,Laboratorio,100.11,andre castillo,San Miguel,Regular,2025-05-14
+294,16/02/2026,1 aprox,38.58,100.11,20,Web,Transferencia,5,"179,7",Promocion,Sede 4,Surco,Este,Analisis sangre,Laboratorio,100.11,Rocio Gomez,Ventanilla,Nuevo,2025-05-22
+295,2026-01-19,5,"23,32",61.97,,App,Tarjeta,3 aprox,103.85,ClIeNtE FrEcUeNtE,Sede 3,San Juan de Lurigancho,Norte,Vacuna,PrEvEnCiOn,61.97,Elena Mendoza,Comas,corporativo,2025-01-11
+296,2026-01-08,1 aprox,34.37,S/ 49.12,0,Telefono,Tarjeta,5,93.06,Cliente frecuente,,Surco,Centro,CoNsUlTa,Salud,49.12,Rocio Rojas,Independencia,Corporativo,2025-09-21
+297,2026/02/03,7,32.05,42.06,20,App,Transferencia,4,116.08,Promocion,Sede 4,Surco,Este,Corte de pelo,ESTETICA,42.06,Claudia Flores,Los Olivos,Frecuente,2025-08-09
+298,2026-04-07,7,41.15,240.03,10,Presencial,Plin,4,276.25,OK,Sede 5,Villa El Salvador,Norte,Hospitalizacion,Internamiento,240.03,Rocio Cruz,LiMa,Frecuente,2025-12-20
+299,2026-01-14,7,39.65,111.09,0,,Tarjeta,2,169.41,Promocion,Sede 1,  Comas ,Oeste,Radiografia,DiAgNoStIcO,111.09,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+300,2026-05-06,5,24.25,38.23,0,WhatsApp,yape, 5 ,112.19,Revisar,Sede 1,  Comas ,Oeste,DESPARASITACION,Prevencion,38.23,Jorge Navarro,Los Olivos,Corporativo,2025-10-18
+301,2026-04-26,8,28.47,188.14,0,ApP,PLIN,4,262.03,,Sede 2,Independencia,CeNtRo,Cirugia menor,PROCEDIMIENTO,188.14,Lucia Reyes,Callao,Regular,2025-10-24
+302,2026-04-11,6,35.9,S/ 61.97,10,WhatsApp,Plin,5,152.85,Promocion,Sede 3,San Juan de Lurigancho,Norte,Vacuna,PrEvEnCiOn,61.97,Fiorella Vargas,,Regular,2025/07/22
+303,2026-06-03,3,37.6,100.11,5,WhatsApp,Transferencia,,143.45,Cliente frecuente,Sede 4,Surco,Este,Analisis sangre,Laboratorio,100.11,Jose Vargas,Callao,Premium,2025-05-07
+304,2026-05-20,2,27.89,46.0,20,WhatsApp,Transferencia,3,86.09,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Bano medicado,Estetica,46.0,Elena Mendoza,Surco,Premium,2025-11-23
+305,2026-06-16,6,"7,07",240.03,0,Web,Tarjeta,5,845.72,OK,Sede 3,San Juan de Lurigancho,Norte,Hospitalizacion,Internamiento,240.03,  Andre Vargas ,Callao,Nuevo,2025-12-16
+306,2026-03-18,1,37.32,111.09,10,,Efectivo,1,147.3,Promocion,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Camila Mendoza,san miguel,Regular,2025-02-20
+307,2026-01-20,2,9.47,42.06,0,TeLeFoNo,Tarjeta,5,88.75,,Sede  6,Callao,Este,Corte de pelo,ESTETICA,42.06,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+308,2026-05-09,2,22.05,42.06,20,APP,Efectivo,1,92.12,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Corte de pelo,ESTETICA,42.06,Diana Sayan,CoMaS,Nuevo,17-10-2025
+309,2026-04-14,2,6.21,111.09,0,  Telefono ,Yape,2,"127,24",Promocion,Sede 3,San Juan de Lurigancho,Norte,Radiografia,DiAgNoStIcO,111.09,Ana Salazar,Miraflores,Frecuente,2025/07/27
+310,2026-06-10,6,22.54,61.97 aprox,5,  Presencial ,Transferencia,2,125.1,Cliente frecuente,Sede  6,Callao,Este,Vacuna,PrEvEnCiOn,61.97,Claudia Flores,Chorrillos,Corporativo,2025-07-05
+311, 2026-01-25 ,3,29.77,61.97,10,App,YaPe,4,94.08,Cliente frecuente,Sede 1,  Comas ,Oeste,Vacuna,PrEvEnCiOn,61.97,Lucia Quispe,  San Miguel ,Nuevo,2025-10-03
+312,2026-01-21,2,6.27,61.97,5,Telefono,PLIN,4,68.13,Cliente frecuente,Sede 4,Surco,Este,Vacuna,PrEvEnCiOn,61.97,Sofia  Soto,SuRcO,Regular,2025-09-07
+313,2026-03-07,4,10.94,61.97,12,Web,Plin,4,94.81,OK,Sede 4,Surco,Este,Vacuna,PrEvEnCiOn,61.97,Diana Mendoza,Independencia,Frecuente,2025-06-16
+314,2026-03-26,8,4.14,188.14 aprox,0,Web,Transferencia,2,220.71,OK,Sede 2,Independencia,CeNtRo,Cirugia menor,PROCEDIMIENTO,188.14,Luis Salazar,Chorrillos,Corporativo,2025-06-16
+315,2026-06-27,1,21.79,188.14,20,Presencial,Tarjeta,1,183.63,,,Surco,Centro,Cirugia menor,PROCEDIMIENTO,188.14,MARIA CASTILLO,Ate,Nuevo,2025-08-17
+316,2026-05-20,5, 36.19 ,"46,0",0,WEB,Plin, 2 ,107.39,Cliente frecuente,Sede 4,Surco,Este,Bano medicado,Estetica,46.0,AnDrE CaMpOs,Independencia,Regular,2025-08-13
+317,,4,36.69,188.14,15,Web,Tarjeta,4,220.8,,Sede 4,Surco,Este,Cirugia menor,PROCEDIMIENTO,188.14,Andre Campos,Callao,Corporativo,2025-08-15
+318,2026-03-21,8,,111.09,10,App,Tarjeta,4,221.75,OK,Sede  6,Callao,Este,Radiografia,DiAgNoStIcO,111.09,Valeria Huaman,Surco,Corporativo,2025-02-25
+319,2026-02-21,4,31.76, 42.06 ,5,WeB,Tarjeta,2,68.41,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Corte de pelo,ESTETICA,42.06,Diana Sayan,CoMaS,Nuevo,17-10-2025
+320,2026-02-02,5,41.45,46.0,10,App,Efectivo,3,"135,45",,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,,Ventanilla,Regular,2025-11-05
+321,2026-02-02,7,4.44,42.06,15 aprox,WeB,Plin,,78.67,Revisar,Sede 2,Independencia,CeNtRo,Corte de pelo,ESTETICA,42.06,Luis Salazar,Chorrillos,Corporativo,2025-06-16
+322,2026-01-28,2,42.64,38.23,0,  Telefono ,Plin,4,107.04,Revisar,Sede 4,Surco,Este,DESPARASITACION,Prevencion,38.23,Claudia Flores,Los Olivos,Frecuente,2025-08-09
+323,2026-04-17,5,13.72,240.03,20,Presencial,TRANSFERENCIA,5,259.38,Revisar,Sede 4,Surco,Este,Hospitalizacion,Internamiento,240.03,Jose Navarro,Chorrillos,Frecuente,2025-02-07
+324,2026-02-03,4,12.35,100.11,0,Web,Tarjeta,4 aprox,157.93,,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Andre Campos,Callao,Corporativo,2025-08-15
+325,2026-05-05,1,22.75,240.03,15,App,Yape,5,245.72,OK,Sede 3,San Juan de Lurigancho,Norte,Hospitalizacion,Internamiento,240.03,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+326,2026-06-28,1,29.38,188.14,20,  WhatsApp ,Plin,2 aprox,224.84,,,Surco,Centro,Cirugia menor,PROCEDIMIENTO,188.14,Sofia Reyes,,Regular,2025-09-27
+327,2026-03-23,1,36.29,188.14,0,App,Yape,2,261.65,OK,Sede  6,Callao,Este,Cirugia menor,PROCEDIMIENTO,188.14,,Ventanilla,Regular,2025-11-05
+328,2026-04-25,6,11.2,100.11,0,Telefono,Transferencia,2,164.46,,Sede 4,Surco,Este,Analisis sangre,Laboratorio,100.11,Carlos Rojas,Chorrillos,Frecuente,20-11-2025
+329,2026-05-07,6,3.54,188.14,12,Presencial,Yape,5,240.15,OK,Sede 3,San Juan de Lurigancho,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Fiorella Navarro,Surco,Premium, 2025-10-14 
+330,2026-03-16,,32.66,42.06,0,Presencial,Tarjeta,2,"85,23",Cliente  frecuente,Sede 2,Independencia,CeNtRo,Corte de pelo,ESTETICA,42.06,Ana Gomez,,Premium,2025-01-15
+331,2026-01-03,7,37.63,111.09,0,Web,PlIn,4,236.24,  Revisar ,Sede 2,Independencia,CeNtRo,Radiografia,DiAgNoStIcO,111.09,MARIA CASTILLO,Ate,Nuevo,2025-08-17
+332,2026-06-03,5,"40,02",38.23,15,Web,Plin,2,132.1,Cliente frecuente,,Surco,Centro,DESPARASITACION,Prevencion,38.23,Rocio Cruz,LiMa,Frecuente,2025-12-20
+333,2026-02-01,2,38.01,111.09,20,WhatsApp,Yape,5,127.3,,Sede 3,San Juan de Lurigancho,Norte,Radiografia,DiAgNoStIcO,111.09,Andre Campos,Callao,Corporativo,2025-08-15
+334,2026-04-19,7,"37,26",61.97,0,APP,Efectivo,5,109.53,Revisar,Sede 5,Villa El Salvador,Norte,Vacuna,PrEvEnCiOn,61.97,Fiorella Vargas,,Regular,2025/07/22
+335,2026-03-25,4,2.04,188.14,12,Web,Transferencia,1,197.98,Revisar,Sede  6,Callao,Este,Cirugia menor,PROCEDIMIENTO,188.14,Sofia Quispe,san juan de lurigancho,,2025-12-06
+336,2026-05-24,2,10.61,111.09,15,WhatsApp,Transferencia,5,137.08,Cliente frecuente,Sede  6,Callao,Este,Radiografia,DiAgNoStIcO,111.09,Valeria Rojas,Ventanilla,Frecuente, 2025-07-04 
+337,2026-05-10,3,32.34,240.03,5,Telefono,Transferencia,2,254.22,,,Surco,Centro,Hospitalizacion,Internamiento,240.03,Andre Flores,Miraflores,Regular,2025-03-19
+338,2026-04-15,3,14.95,46.0,0,App,Yape,3,86.08,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+339,2026-02-19,7,"39,2",S/ 240.03,20,WEB,Tarjeta,4,291.69,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Hospitalizacion,Internamiento,240.03,Maria Huaman,Villa El Salvador,Premium,2025-03-02
+340,13/01/2026,6,14.84,240.03,0,App,tarjeta, 3 ,266.91,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Hospitalizacion,Internamiento,240.03,Raul Quispe,Villa El Salvador,Frecuente,2025-11-07
+341,2026-02-03,5,38.97,188.14,0,Telefono,Plin,4,220.06,,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Fiorella Navarro,Surco,Premium, 2025-10-14 
+342,2026-04-05,4,7.64,49.12 aprox,15,Telefono,Plin,2,106.44,,Sede 5,Villa El Salvador,Norte,CoNsUlTa,Salud,49.12,Diana Sayan,CoMaS,Nuevo,17-10-2025
+343,2026-03-21,2,5.26,49.12, 20 ,WhatsApp,Tarjeta,5,75.37,,Sede 2,Independencia,CeNtRo,CoNsUlTa,Salud,49.12,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+344,2026-02-16,4,42.96,188.14,12,Telefono,Transferencia,4,263.65,,Sede  6,Callao,Este,Cirugia menor,PROCEDIMIENTO,188.14,Elena Huaman,Ate,Premium,2025-07-05
+345,,7,35.26,100.11,20,Web,Yape,3,192.49,,Sede 1,  Comas ,Oeste,Analisis sangre,Laboratorio,100.11,  Andre Vargas ,Callao,Nuevo,2025-12-16
+346,2026-01-25,4,37.14,,20,Presencial,Transferencia,2,,Revisar,Sede 2,Independencia,CeNtRo,Radiografia,DiAgNoStIcO,111.09,Jorge Reyes,Independencia,Corporativo,2025-02-18
+347,2026-06-27,7,2.2,240.03,10,PRESENCIAL,Plin,3,252.27,Promocion,Sede 2,Independencia,CeNtRo,Hospitalizacion,Internamiento,240.03,,Ventanilla,Regular,2025-11-05
+348,2026-03-22,1,28.03,,20,Telefono,PlIn,4,79.44,ok,,Surco,Centro,Bano medicado,Estetica,46.0,Carlos Rojas,Chorrillos,Frecuente,20-11-2025
+349, 2026-04-15 ,1, 37.64 ,111.09,15,Presencial,,1,128.49,,Sede 3,San Juan de Lurigancho,Norte,Radiografia,DiAgNoStIcO,111.09,Luis Ramos,Comas,Nuevo,2025-10-23
+350,2026-04-21,1,,46.0,15,Web,Yape,,67.17,OK,Sede  6,Callao,Este,Bano medicado,Estetica,46.0,Camila Mendoza,san miguel,Regular,2025-02-20
+351,2026-02-09,4,7.03,46.0,10,  Web ,Plin,1,97.85,OK,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,Valeria Soto,Ventanilla,CoRpOrAtIvO,2025-08-24
+352,2026-04-22,7,25.91,38.23,0,WhatsApp,Transferencia,4,135.3,Promocion,Sede 5,Villa El Salvador,Norte,DESPARASITACION,Prevencion,38.23,  Andre Vargas ,Callao,Nuevo,2025-12-16
+353,2026-05-23,8, 24.99 ,240.03,20,Web,Plin,5,265.92,,Sede 1,  Comas ,Oeste,Hospitalizacion,Internamiento,240.03,Rocio Cruz,LiMa,Frecuente,2025-12-20
+354,2026-02-06,6,13.57,61.97,20,Web,Plin,2,131.02,Revisar,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,Marco Gomez,VENTANILLA,Corporativo,2025-09-21
+355,18-06-2026, 7 ,21.8,49.12,20,Telefono,Efectivo,4,110.39,OK,,Surco,Centro,CoNsUlTa,Salud,49.12,Valeria Soto,Ventanilla,Frecuente,2025-02-26
+356,2026-04-16,1,39.64,240.03,0,WhatsApp,TaRjEtA,5,250.33,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Hospitalizacion,Internamiento,240.03,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+357,2026-04-02,6,44.43,46.0,20,WhatsApp,Plin, 4 ,105.57,Promocion,,Surco,Centro,Bano medicado,Estetica,46.0,Rocio Rojas,Independencia,Corporativo,2025-09-21
+358,2026-04-19,4,8.86,188.14,12,App,Yape,3,"202,73",Promocion,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Rocio Rojas,Independencia,Corporativo,2025-09-21
+359,2026-03-20,4,3.79,,8,Web,Transferencia,4,212.47,,Sede 2,Independencia,CeNtRo,Cirugia menor,PROCEDIMIENTO,188.14,Lucia Reyes,Callao,Regular,2025-10-24
+360,2026-06-14,1,22.43,111.09,0,Web,yape,2,158.75,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Radiografia,DiAgNoStIcO,111.09,Maria Torres,Independencia,Frecuente,2025-02-11
+361,2026-03-14,3,38.47,188.14,0,Telefono,Yape,5,217.17,,Sede 4,Surco,Este,Cirugia menor,PROCEDIMIENTO,188.14,Claudia Rojas,  Independencia ,Regular,2025-02-06
+362,2026-02-06,6,2.9,100.11,8,Presencial,Tarjeta,3 aprox,,OK,Sede 2,Independencia,CeNtRo,Analisis sangre,Laboratorio,100.11,Elena Huaman,Ate,Premium,2025-07-05
+363,2026-03-25,7,5.48,"38,23",8,App,Efectivo,5,118.95,,,Surco,Centro,DESPARASITACION,Prevencion,38.23,Sofia  Soto,SuRcO,Regular,2025-09-07
+364,2026-03-10,3,3.79 aprox,111.09,20,Telefono,Efectivo,3,129.62,PrOmOcIoN,Sede 1,  Comas ,Oeste,Radiografia,DiAgNoStIcO,111.09,Luis Campos,Miraflores,ReGuLaR,2025-02-25
+365,2026-01-16,4,5.68,42.06,0,Presencial,Transferencia,2,69.05,OK,Sede 5,Villa El Salvador,Norte,Corte de pelo,ESTETICA,42.06,Marco Castillo,SaN MiGuEl,Nuevo,2025-08-05
+366,2026-06-05, 2 , 23.4 ,46.0,15,Telefono,,3,99.68,Revisar,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,Fiorella Mendoza,Chorrillos,Nuevo,2025-10-25
+367,2026-05-17,6,24.95,61.97,0,,Yape,1,106.96,Promocion,Sede 3,San Juan de Lurigancho,Norte,Vacuna,PrEvEnCiOn,61.97,Jose Vargas,Callao,Premium,2025-05-07
+368,2026-06-17,1,23.24,38.23,0,app,Efectivo,2,82.91,,,Surco,Centro,DESPARASITACION,Prevencion,38.23,Luis Mendoza,Miraflores,PREMIUM,2025-06-20
+369,2026-03-15,8,2.44,100.11,12,Web,Yape,4,167.03,,Sede 5,Villa El Salvador,Norte,Analisis sangre,Laboratorio,100.11,Valeria Rojas,Ventanilla,Frecuente, 2025-07-04 
+370,,4,17.11,100.11,0,Presencial,Efectivo,4, 173.23 ,Promocion,,Surco,Centro,Analisis sangre,Laboratorio,100.11,Andre Campos,La Molina,Regular,2025-12-22
+371,2026-02-02,7,17.6,61.97,12,App,Tarjeta,,130.23,Promocion,Sede 4,Surco,Este,Vacuna,PrEvEnCiOn,61.97,Jose Navarro,Chorrillos,Frecuente,2025-02-07
+372,2026-04-21,3,38.43,38.23,0,App,Efectivo,2,101.34 aprox,,Sede 5,Villa El Salvador,Norte,DESPARASITACION,Prevencion,38.23,Valeria Rojas,Chorrillos,Frecuente,
+373,2026-05-15,1,18.12,"49,12",8,Presencial,Plin,4,100.02,Revisar,Sede 2,Independencia,CeNtRo,CoNsUlTa,Salud,49.12,Rocio Cruz,LiMa,Frecuente,2025-12-20
+374,2026-03-05,3,34.9,42.06,15,App,TaRjEtA,3,101.82,Cliente frecuente,Sede  6,Callao,Este,Corte de pelo,ESTETICA,42.06,Diana Sayan,CoMaS,Nuevo,17-10-2025
+375,2026-04-16,8 aprox,21.95,100.11,0,Web,Yape,4,182.02,,Sede 5,Villa El Salvador,Norte,Analisis sangre,Laboratorio,100.11,Elena Salazar,San Miguel,Regular,2025-02-09
+376,2026-02-17,1,36.81,61.97,10,WhatsApp,Tarjeta,3,87.77,Promocion,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,Pedro Torres,San Miguel,Premium,2025-01-12
+377,2026-06-24,7, 33.14 ,240.03 aprox,8,WhatsApp,Yape,2,285.79,Promocion,Sede 5,Villa El Salvador,Norte,Hospitalizacion,Internamiento,240.03,Carlos Rojas,Chorrillos,Frecuente,20-11-2025
+378,2026-04-04,1,7.5,188.14,0,Web,Tarjeta,3,210.48 aprox,,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,  Andre Vargas ,Callao,Nuevo,2025-12-16
+379,2026-02-14,5,33.08,38.23,12,Presencial,Yape,5,"110,22",Cliente frecuente,Sede 2,Independencia,CeNtRo,DESPARASITACION,Prevencion,38.23,Sofia Torres,Miraflores,Corporativo,2025-06-20
+380,2026-01-02,1,38.18,100.11, 0 ,,Tarjeta,1,S/ 114.28,Cliente frecuente,Sede 1,  Comas ,Oeste,Analisis sangre,Laboratorio,100.11,Elena Mendoza,Surco,Premium,2025-11-23
+381,2026-06-03,1,31.51 aprox,111.09, 0 ,WhatsApp,Plin,4 aprox,161.15,Revisar,Sede 4,Surco,Este,Radiografia,DiAgNoStIcO,111.09,Luis Ramos,Comas,Nuevo,2025-10-23
+382,2026-05-05,4,40.35 aprox,188.14,20 aprox,Web,Plin,1,257.01,PrOmOcIoN,Sede 2,Independencia,CeNtRo,Cirugia menor,PROCEDIMIENTO,188.14,Andre Campos,La Molina,Regular,2025-12-22
+383,2026-06-03,6,30.48,111.09,0,Web,  Plin ,1,199.88,Promocion,Sede 4,Surco,Este,Radiografia,DiAgNoStIcO,111.09,Elena Huaman,Ate,Premium,2025-07-05
+384, 2026-04-03 ,3,37.1,46.0,0,App,Yape,5,88.66,Promocion,Sede 3,San Juan de Lurigancho,Norte,Bano medicado,Estetica,46.0,andre castillo,San Miguel,Regular,2025-05-14
+385,2026-04-02,5,10.43,61.97,12,Web,Plin,4,129.86,Cliente  frecuente,Sede  6,Callao,Este,Vacuna,PrEvEnCiOn,61.97,AnDrE CaMpOs,Independencia,Regular,2025-08-13
+386,2026-05-02,5,13.55,46.0,10,Web,Tarjeta,4,127.94,Cliente frecuente,Sede  6,Callao,Este,Bano medicado,Estetica,46.0,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+387,2026-04-18,1,34.54,240.03,10,,EfEcTiVo,3,183.07,,,Surco,Centro,Hospitalizacion,Internamiento,240.03,Pedro Campos,La Molina,CoRpOrAtIvO,2025-01-18
+388, 2026-04-26 ,4,20.35,49.12 aprox,0,APP,Transferencia,2,127.39,OK,Sede 2,Independencia,CeNtRo,CoNsUlTa,Salud,49.12,Jose Cruz,San Miguel,NuEvO,2025-09-12
+389,2026-05-28,6,27.13,61.97,0,Telefono,Transferencia,3,140.09,Promocion,Sede 1,  Comas ,Oeste,Vacuna,PrEvEnCiOn,61.97,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+390,2026-05-12,5,,38.23,15,App,Transferencia,4,93.58,OK,Sede  6,Callao,Este,DESPARASITACION,Prevencion,38.23,Miguel Reyes,VENTANILLA,Frecuente,2025-11-14
+391,,5,"15,06",188.14,0,Presencial,Tarjeta,3,215.81 aprox,OK,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Jorge Navarro,Los Olivos,Corporativo,2025-10-18
+392,2026-02-21,5,21.78,188.14,0,App,Transferencia,1,252.11,,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Rocio Rojas,Independencia,Corporativo,2025-09-21
+393,2026-03-03,7,6.99,61.97,15,App,Plin,4,118.95,,Sede 5,Villa El Salvador,Norte,Vacuna,PrEvEnCiOn,61.97,Ana Navarro,Ventanilla,Nuevo,2025-02-23
+394,2026-02-24,2,8.31,38.23,8,Web,Efectivo,5,110.78,cliente frecuente,Sede  6,Callao,Este,DESPARASITACION,Prevencion,38.23,Valeria Soto,Ventanilla,Frecuente,2025-02-26
+395,2026-02-24,3,7.66,42.06,8,WhatsApp,Tarjeta,1,62.21,Cliente frecuente,Sede 2,Independencia,CeNtRo,Corte de pelo,ESTETICA,42.06,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+396,2026-05-16,7,,111.09,15,TeLeFoNo,Tarjeta,4,173.38,,Sede 5,Villa El Salvador,Norte,Radiografia,DiAgNoStIcO,111.09,Sofia Reyes,,Regular,2025-09-27
+397,2026-02-22,1,15.45,61.97,0,WhatsApp,Yape,5,133.38 aprox,Promocion,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,Andre Flores,Miraflores,Regular,2025-03-19
+398,2026-06-13,4,105.52,"46,0",0,Telefono,Efectivo,2,173.06,,,Surco,Centro,Bano medicado,Estetica,46.0,Elena Mendoza,Surco,Premium,2025-11-23
+399,2026-02-18,1,43.63,61.97,8,Presencial,TaRjEtA,5,155.67,Cliente frecuente,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,Jorge Mendoza,Comas,Premium,2025-12-17
+400,2026-06-10,4,5.2,46.0,8,  WhatsApp ,Tarjeta,4,78.43,Cliente frecuente,,Surco,Centro,Bano medicado,Estetica,46.0,Jorge Salazar,Independencia,Nuevo,2025-03-28
+401,,2,33.23,111.09,0,App,Yape,2,S/ 137.99,Promocion,Sede  6,Callao,Este,Radiografia,DiAgNoStIcO,111.09,Diana Quispe,,corporativo,2025-03-11
+402,2026-01-12,4,36.29,38.23,8,WhatsApp,Plin,4, 102.49 ,Cliente frecuente,Sede 4,Surco,Este,DESPARASITACION,Prevencion,38.23,Valeria Soto,Ventanilla,Frecuente,2025-02-26
+403,,2,24.9,"38,23",5,WhatsApp,EfEcTiVo,2,82.46,OK,Sede 5,Villa El Salvador,Norte,DESPARASITACION,Prevencion,38.23,  Andre Vargas ,Callao,Nuevo,2025-12-16
+404,2026-06-01,4,14.83,49.12,0,Web,Yape,2,112.07,,Sede 4,Surco,Este,CoNsUlTa,Salud,49.12,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+405,2026-01-23,6, 30.92 ,100.11,8,App,,1,177.23,  Promocion ,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Rocio Cruz,LiMa,Frecuente,2025-12-20
+406,2026-04-09,5,10.99,42.06,8,Telefono,Plin,5,92.08,Cliente frecuente,Sede 4,Surco,Este,Corte de pelo,ESTETICA,42.06,Pedro Torres,San Miguel,Premium,2025-01-12
+407,2026-06-27,3,6.99,,20,App,Tarjeta,1,203.17,Promocion,Sede 4,Surco,Este,Cirugia menor,PROCEDIMIENTO,188.14,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+408,2026-03-19,8,4.36,38.23,12,WhatsApp,Yape,4,118.88,OK,Sede 4,Surco,Este,DESPARASITACION,Prevencion,38.23,Sofia Quispe,san juan de lurigancho,,2025-12-06
+409,2026-05-11,1,9.77,S/ 49.12,20 aprox,WhatsApp,Yape,4,56.91,OK,Sede 4,Surco,Este,CoNsUlTa,Salud,49.12,Rocio Cruz,LiMa,Frecuente,2025-12-20
+410,2026-03-15,6,37.47,46.0,10,Telefono,Tarjeta,3,146.99,Promocion,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,  Andre Vargas ,Callao,Nuevo,2025-12-16
+411,2026-02-24,4,28.81,49.12,0,App,Efectivo,2,119.08,Revisar,Sede 1,  Comas ,Oeste,CoNsUlTa,Salud,49.12,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+412,2026-02-22,1,31.87,49.12,20,,Yape,3,58.63,,Sede 3,San Juan de Lurigancho,Norte,CoNsUlTa,Salud,49.12,Fiorella Gomez,,Frecuente,2025-11-20
+413,2026-05-10,8,22.6,46.0, 10 ,Telefono,Efectivo,2,125.13,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,Sofia Torres,Miraflores,Corporativo,2025-06-20
+414,2026-02-20,1,16.23,188.14,12,App,Plin,2,188.11,,Sede 3,San Juan de Lurigancho,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Lucia Quispe,  San Miguel ,Nuevo,2025-10-03
+415,2026-02-10,5,42.6,111.09,0,App,Plin,4,398.8,OK,Sede  6,Callao,Este,Radiografia,DiAgNoStIcO,111.09,Jorge Flores,Villa El Salvador,Regular,2025-12-11
+416,2026-03-19,3,31.19,100.11,10,WhatsApp,Plin,1, 171.21 ,Revisar,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Luis Ramos,Comas,Nuevo,2025-10-23
+417,2026-03-26,7,,100.11,15 aprox,Presencial,Tarjeta,4,159.76,Revisar,Sede 4,Surco,Este,Analisis sangre,Laboratorio,100.11,Rocio Quispe,Callao,Premium,2025-12-07
+418,2026-04-13,3,31.47,61.97,0,App,Transferencia,1,,OK,,Surco,Centro,Vacuna,PrEvEnCiOn,61.97,Jorge Navarro,Los Olivos,Corporativo,2025-10-18
+419,2026-02-02,2,4.35,100.11,0,Presencial,Efectivo, 5 ,105.72,Revisar,Sede 3,San Juan de Lurigancho,Norte,Analisis sangre,Laboratorio,100.11,Elena Salazar,San Miguel,Regular,2025-02-09
+420,2026-05-03,7,44.67,42.06,0,Presencial,Transferencia,4,133.99,,Sede 1,  Comas ,Oeste,Corte de pelo,ESTETICA,42.06,Claudia Rojas,  Independencia ,Regular,2025-02-06
+421,2026-06-05,2,8.61,49.12, 15 ,WhatsApp,,4,51.28,,Sede 3,San Juan de Lurigancho,Norte,CoNsUlTa,Salud,49.12,Jorge Flores,Villa El Salvador,Regular,2025-12-11
+422,2026-04-18,1 aprox,15.14,111.09,0,PRESENCIAL,Yape,5,150.34,Cliente frecuente,Sede 1,  Comas ,Oeste,Radiografia,DiAgNoStIcO,111.09,Jorge Mendoza,Comas,Premium,2025-12-17
+423,2026-06-06,6,12.21,111.09,0,App,Yape,2 aprox,159.03,Cliente frecuente,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,Luis Ramos,Comas,Nuevo,2025-10-23
+424,2026-03-21,6,"30,95","46,0",0,Telefono,Efectivo,4,126.65,Cliente  frecuente,Sede  6,Callao,Este,Bano medicado,Estetica,46.0,Sofia Quispe,Ate,Regular,2025-11-19
+425,2026-05-25,7,13.93, 188.14 ,0,ApP,Plin,4,205.78,OK,Sede 4,Surco,Este,Cirugia menor,PROCEDIMIENTO,188.14,Raul Quispe,Villa El Salvador,Frecuente,2025-11-07
+426,2026-01-15,8,11.06,240.03,5,App,Efectivo,4,272.61,Revisar,Sede 4,Surco,Este,Hospitalizacion,Internamiento,240.03,Marco Castillo,SaN MiGuEl,Nuevo,2025-08-05
+427,2026-06-12,2, 6.47 ,38.23,15,WHATSAPP,Yape,5,S/ 78.81,Promocion,Sede 4,Surco,Este,DESPARASITACION,Prevencion,38.23,AnDrE CaMpOs,Independencia,Regular,2025-08-13
+428,,5,"15,06",188.14,0,Presencial,Tarjeta,3,215.81 aprox,OK,Sede 1,  Comas ,Oeste,Cirugia menor,PROCEDIMIENTO,188.14,Jorge Navarro,Los Olivos,Corporativo,2025-10-18
+429,2026-06-17,2,24.73, 240.03 ,10,Web,Plin, 3 ,242.31,,Sede 5,Villa El Salvador,Norte,Hospitalizacion,Internamiento,240.03,Luis Mendoza,Miraflores,PREMIUM,2025-06-20
+430,2026-06-01,6,40.24,240.03,0,WhatsApp,Transferencia,1,271.65,Revisar,Sede  6,Callao,Este,Hospitalizacion,Internamiento,240.03,Lucia Ramos,Callao,Frecuente,2025-02-17
+431,2026-03-07,2,22.42,42.06,8,Presencial,Tarjeta,3,82.09,,Sede  6,Callao,Este,Corte de pelo,ESTETICA,42.06,Valeria Rojas,Ventanilla,Frecuente, 2025-07-04 
+432,2026-02-26,2,16.65,188.14,0,Web,,1,211.68,Revisar,Sede 5,Villa El Salvador,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Elena Salazar,San Miguel,Regular,2025-02-09
+433,2026-02-13,1,36.08,240.03, 0 ,Presencial,Plin,5,"222,44",OK,,Surco,Centro,Hospitalizacion,Internamiento,240.03,Valeria Soto,Ventanilla,CoRpOrAtIvO,2025-08-24
+434,2026-03-19,4,37.15,111.09,0,WhatsApp,Yape,4,180.36,OK,Sede 5,Villa El Salvador,Norte,Radiografia,DiAgNoStIcO,111.09,Camila Mendoza,san miguel,Regular,2025-02-20
+435, 2026-06-05 ,5,15.4,188.14,15,Telefono,Efectivo,2,218.77,,Sede 5,Villa El Salvador,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Pedro Campos,La Molina,CoRpOrAtIvO,2025-01-18
+436,2026-05-17,7,17.98,240.03,15,WhatsApp,Tarjeta,4,S/ 254.92,Promocion,Sede 3,San Juan de Lurigancho,Norte,Hospitalizacion,Internamiento,240.03,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+437,2026-01-25,7,17.0,111.09,15,App,Transferencia,3,147.25,Revisar,Sede 1,  Comas ,Oeste,Radiografia,DiAgNoStIcO,111.09,Maria Torres,Independencia,Frecuente,2025-02-11
+438,27-04-2026,3,"28,89",S/ 46.0,15,WhatsApp,,2,159.11,Cliente frecuente,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,Valeria Huaman,Ate,Regular,2025-04-08
+439, 2026-04-11 ,,41.13,111.09,10,whatsapp,Efectivo,1,216.52,,Sede 3,San Juan de Lurigancho,Norte,Radiografia,DiAgNoStIcO,111.09,Marco Gomez,VENTANILLA,Corporativo,2025-09-21
+440,2026-06-17,1,15.36,42.06,20,Web,transferencia,1,41.09,Promocion,Sede 3,San Juan de Lurigancho,Norte,Corte de pelo,ESTETICA,42.06,  Carlos Huaman ,Chorrillos,Premium,27-05-2025
+441,2026-04-26,2,7.43,"100,11",10,WhatsApp,Tarjeta,3,156.07,,Sede  6,Callao,Este,Analisis sangre,Laboratorio,100.11,Camila Mendoza,san miguel,Regular,2025-02-20
+442,2026-03-23,1,36.29,188.14,0,App,Yape,2,261.65,OK,Sede  6,Callao,Este,Cirugia menor,PROCEDIMIENTO,188.14,,Ventanilla,Regular,2025-11-05
+443,2026-01-21,,"13,45",38.23,10,  Web ,Plin,4,87.99,,Sede 1,  Comas ,Oeste,DESPARASITACION,Prevencion,38.23,AnDrE CaMpOs,Independencia,Regular,2025-08-13
+444,2026-02-03,2,"41,13",42.06,12,Web,Transferencia,2,99.44,OK,,Surco,Centro,Corte de pelo,ESTETICA,42.06,Jose Navarro,Chorrillos,Frecuente,2025-02-07
+445,2026-04-09,6,12.99,61.97,0,WhatsApp,EFECTIVO,4,94.67,Cliente frecuente,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,Fiorella Navarro,Surco,Premium, 2025-10-14 
+446,2026-06-24,5,17.34,38.23,8,WhatsApp,Plin,3,129.47,Promocion,Sede 5,Villa El Salvador,Norte,DESPARASITACION,Prevencion,38.23,Ana Navarro,Ventanilla,Nuevo,2025-02-23
+447,2026-03-12,6,33.34,46.0,0,Presencial,PlIn,3,149.36,OK,Sede 2,Independencia,CeNtRo,Bano medicado,Estetica,46.0,Jorge Salazar,Independencia,Nuevo,2025-03-28
+448,,4,12.83,S/ 49.12,8,Web,Tarjeta,5,115.15,Cliente frecuente,Sede 2,Independencia,CeNtRo,CoNsUlTa,Salud,49.12,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+449,2026-03-18,,30.1,240.03, 0 ,Web,Plin,5,295.52,Cliente frecuente,Sede 4,Surco,Este,Hospitalizacion,Internamiento,240.03,CARLOS NAVARRO,Chorrillos,Premium,2025-08-07
+450,2026-04-18,5,42.92 aprox,S/ 100.11,10,web,Yape,5,164.48,Promocion,Sede 5,Villa El Salvador,Norte,Analisis sangre,Laboratorio,100.11,Claudia Flores,Chorrillos,Corporativo,2025-07-05
+451,2026-03-24,7,17.66,240.03,20,WhatsApp,Efectivo,4,311.07,Revisar,,Surco,Centro,Hospitalizacion,Internamiento,240.03,Sofia Quispe,Ate,Regular,2025-11-19
+452,25/01/2026,4,2.0,46.0,5,App,TrAnSfErEnCiA,3,109.16,Promocion,Sede 1,  Comas ,Oeste,Bano medicado,Estetica,46.0,Elena Mendoza,Comas,corporativo,2025-01-11
+453,2026-02-18,1,16.34,188.14,8,Presencial,,,175.45,OK,Sede 3,San Juan de Lurigancho,Norte,Cirugia menor,PROCEDIMIENTO,188.14,MARIA CASTILLO,Ate,Nuevo,2025-08-17
+454, 2026-03-16 ,3,"37,08",111.09,20,WhatsApp,Efectivo,3,140.7,Promocion,Sede 4,Surco,Este,Radiografia,DiAgNoStIcO,111.09,Claudia Rojas,  Independencia ,Regular,2025-02-06
+455,08-04-2026,1,4.71,111.09,10,WhatsApp,,5,95.0,Revisar,Sede 4,Surco,Este,Radiografia,DiAgNoStIcO,111.09,Elena Mendoza,Surco,Premium,2025-11-23
+456,2026-02-15,1,14.03,100.11,0,Web,Efectivo,1,115.44,,Sede 5,Villa El Salvador,Norte,Analisis sangre,Laboratorio,100.11,Valeria Huaman,Ate,Regular,2025-04-08
+457,20/04/2026,3,34.8,49.12, 12 ,TeLeFoNo,Plin,4,90.91,,Sede 1,  Comas ,Oeste,CoNsUlTa,Salud,49.12,Sofia Reyes,,Regular,2025-09-27
+458, 2026-01-20 ,4,17.84,49.12,12,App,Efectivo,2,73.1,Cliente frecuente,,Surco,Centro,CoNsUlTa,Salud,49.12,Diana Mendoza,Independencia,Frecuente,2025-06-16
+459,2026-06-25,1,28.74, 240.03 ,0,Presencial,Tarjeta,2,300.43,OK,,Surco,Centro,Hospitalizacion,Internamiento,240.03,Lucia Reyes,,PrEmIuM,2025-03-12
+460,2026-06-17,5,23.21,100.11,0,Web,Transferencia,4,156.5,,Sede 2,Independencia,CeNtRo,Analisis sangre,Laboratorio,100.11,raul mendoza,independencia,Nuevo,2025-02-10
+461,2026-03-28,1,21.17,240.03,0,presencial,Tarjeta,4,243.03,Revisar,Sede 1,  Comas ,Oeste,Hospitalizacion,Internamiento,240.03,Luis Campos,Miraflores,ReGuLaR,2025-02-25
+462,2026-03-10,6,19.15,"100,11",5,App,Transferencia,1,,Cliente frecuente,Sede 3,San Juan de Lurigancho,Norte,Analisis sangre,Laboratorio,100.11,Jose Vargas,Independencia,,2025-10-11
+463,2026-05-19,3,23.95,188.14,20,Telefono,Plin,4,196.91,OK,Sede 3,San Juan de Lurigancho,Norte,Cirugia menor,PROCEDIMIENTO,188.14,MARIA CASTILLO,Ate,Nuevo,2025-08-17
+464,2026-02-10,5,23.02,240.03,8,WhatsApp,Yape,1,258.4,,Sede 2,Independencia,CeNtRo,Hospitalizacion,Internamiento,240.03,Sofia  Soto,SuRcO,Regular,2025-09-07
+465,2026-04-22,6,2.83,240.03,10,Presencial,Plin,4,262.74,Revisar,Sede  6,Callao,Este,Hospitalizacion,Internamiento,240.03,  Andre Vargas ,Callao,Nuevo,2025-12-16
+466,2026-03-21,5, 4.76 ,42.06,10,App,transferencia,2,115.62,Revisar,Sede 2,Independencia,CeNtRo,Corte de pelo,ESTETICA,42.06,Jose Cruz,San Miguel,NuEvO,2025-09-12
+467,2026-03-05,3,24.26,49.12,12,Telefono,Plin,4,123.91,,Sede 2,Independencia,CeNtRo,CoNsUlTa,Salud,49.12,Elena Soto,Lima,Frecuente,2025-03-07
+468,2026-06-09,6,7.03,42.06,8,App,Transferencia,2,"92,02",,Sede 4,Surco,Este,Corte de pelo,ESTETICA,42.06,Luis Mendoza,Miraflores,PREMIUM,2025-06-20
+469,2026-06-08,6,31.46,188.14,15,  App ,TRANSFERENCIA,1,,Revisar,Sede 5,Villa El Salvador,Norte,Cirugia menor,PROCEDIMIENTO,188.14,Ana Gomez,,Premium,2025-01-15
+470,2026-04-28,5,40.14,49.12,0,Telefono,TRANSFERENCIA,4,197.26,OK,Sede 1,  Comas ,Oeste,CoNsUlTa,Salud,49.12,  Carlos Huaman ,Chorrillos,Premium,27-05-2025
+471,2026-02-13,6,37.2 aprox,111.09,12,Presencial,Transferencia,2,163.87,Promocion,,Surco,Centro,Radiografia,DiAgNoStIcO,111.09,raul mendoza,independencia,Nuevo,2025-02-10
+472,2026-04-11,6,37.78,100.11,20,App,Yape,1,189.15,OK,,Surco,Centro,Analisis sangre,Laboratorio,100.11,Lucia Ramos,Callao,Frecuente,2025-02-17
+473,2026-01-09,4,17.3,42.06,8,WhatsApp,Plin,4,92.51,,Sede 1,  Comas ,Oeste,Corte de pelo,ESTETICA,42.06,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+474,24/01/2026,2,39.86,61.97,15,Presencial,Yape,5,142.88,Cliente frecuente,Sede 1,  Comas ,Oeste,Vacuna,PrEvEnCiOn,61.97,MARIA CASTILLO,Ate,Nuevo,2025-08-17
+475,2026-05-04,5,6.32 aprox,61.97 aprox,,Telefono,Efectivo,5,138.66,,,Surco,Centro,Vacuna,PrEvEnCiOn,61.97,Carlos Rojas,Chorrillos,Frecuente,20-11-2025
+476,2026-03-11,6,40.29 aprox,38.23,12,App,Tarjeta,1,157.75,revisar,Sede 1,  Comas ,Oeste,DESPARASITACION,Prevencion,38.23,MARIA CASTILLO,Ate,Nuevo,2025-08-17
+477,2026-06-06,3,39.04,61.97,0,App,Plin,2,116.1,Cliente frecuente,Sede  6,Callao,Este,Vacuna,PrEvEnCiOn,61.97,Carlos Rojas,Chorrillos,Frecuente,20-11-2025
+478,26/02/2026,5,17.5,240.03,0,Presencial,Yape,1 aprox,,,Sede 4,Surco,Este,Hospitalizacion,Internamiento,240.03,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+479,2026/02/27,5, 23.89 ,42.06,0,WhatsApp,Yape,4,89.08,,Sede 5,Villa El Salvador,Norte,Corte de pelo,ESTETICA,42.06,Luis Ramos,Comas,Nuevo,2025-10-23
+480,11/05/2026,4,31.99,100.11,15,WhatsApp,  Tarjeta ,1,154.17,,,Surco,Centro,Analisis sangre,Laboratorio,100.11,Maria Castillo,InDePeNdEnCiA,  Corporativo ,2025-05-14
+481,2026-03-14,1,21.35,38.23,20,Presencial,Efectivo,5,,,Sede 1,  Comas ,Oeste,DESPARASITACION,Prevencion,38.23,Sofia Reyes,,Regular,2025-09-27
+482,2026-02-07,5,13.48,38.23, 0 ,Presencial,Efectivo,1,90.29,,,Surco,Centro,DESPARASITACION,Prevencion,38.23,Ana Navarro,Ventanilla,Nuevo,2025-02-23
+483,2026-03-25,7,"21,17",46.0,10,Web,Yape,1,120.31,Promocion,Sede 5,Villa El Salvador,Norte,Bano medicado,Estetica,46.0,Luis Torres,Los  Olivos,Corporativo,2025/04/10
+484,2026-06-19,4,16.66,49.12 aprox,0,WhatsApp,Transferencia,3,116.22,Revisar,Sede 2,Independencia,CeNtRo,CoNsUlTa,Salud,49.12,Ana Navarro,Ventanilla,Nuevo,2025-02-23
+485,22/06/2026,3 aprox,5.53 aprox,38.23,15,Web,Tarjeta,3,102.68,OK,Sede 5,Villa El Salvador,Norte,DESPARASITACION,Prevencion,38.23,Elena Soto,Lima,Frecuente,2025-03-07
+486,2026-04-25,5, 31.5 ,49.12,12,WhatsApp,Tarjeta,1,116.99,Revisar,Sede 2,Independencia,CeNtRo,CoNsUlTa,Salud,49.12,Raul Quispe,Villa El Salvador,Frecuente,2025-11-07
+487,2026-01-16,5,20.22,38.23,12,Web,Efectivo,5,39.54,Promocion,Sede 3,San Juan de Lurigancho,Norte,DESPARASITACION,Prevencion,38.23,Valeria Huaman,Surco,Corporativo,2025-02-25
+488,2026-03-06,6,20.13,61.97,0,Telefono,Efectivo,5,"135,27",Revisar,Sede 2,Independencia,CeNtRo,Vacuna,PrEvEnCiOn,61.97,Miguel Castillo,Callao,Corporativo,2025-10-02
+489,2026-05-21,2,"2,33",46.0,15,Telefono,Yape,5,83.29,,Sede 2,Independencia,CeNtRo,Bano medicado,Estetica,46.0,Fiorella Gomez,,Frecuente,2025-11-20
+490,2026-05-10,6,10.96,38.23,10,Presencial,Plin,5,S/ 71.52,Cliente frecuente,Sede 4,Surco,Este,DESPARASITACION,Prevencion,38.23,Diana Sayan,CoMaS,Nuevo,17-10-2025
+491,2026-04-17,5,13.64,42.06,15,Web,Yape, 1 , 107.73 ,  OK ,,Surco,Centro,Corte de pelo,ESTETICA,42.06,Sofia  Soto,SuRcO,Regular,2025-09-07
+492,2026-01-08,1 aprox,34.37,S/ 49.12,0,Telefono,Tarjeta,5,93.06,Cliente frecuente,,Surco,Centro,CoNsUlTa,Salud,49.12,Rocio Rojas,Independencia,Corporativo,2025-09-21
+493,2026-01-06,7,2.05,49.12,12,Web,Transferencia,1,64.63,Cliente frecuente,Sede 5,Villa El Salvador,Norte,CoNsUlTa,Salud,49.12,Sofia Quispe,san juan de lurigancho,,2025-12-06
+494,2026-03-19,6 aprox,,S/ 46.0,0,Presencial,Yape,5,128.93,Promocion,Sede 4,Surco,Este,Bano medicado,Estetica,46.0,Marco Gomez,VENTANILLA,Corporativo,2025-09-21
+495,2026-02-10,8,30.49,46.0,0,  Telefono ,  Plin ,3,174.69,,Sede 4,Surco,Este,Bano medicado,Estetica,46.0,Claudia Rojas,  Independencia ,Regular,2025-02-06
+496,2026-02-14,3,11.82,61.97,,APP,Transferencia,5,77.95,OK,Sede 1,  Comas ,Oeste,Vacuna,PrEvEnCiOn,61.97,Andre Campos,La Molina,Regular,2025-12-22
+497,2026-01-03,5,28.5,100.11,8,Presencial,Tarjeta,4,163.31,,Sede 4,Surco,Este,Analisis sangre,Laboratorio,100.11,Jose Cruz,San Miguel,NuEvO,2025-09-12
+498,2026-06-24,5,38.68,49.12, 5 ,WhatsApp,Plin,5,97.29,,Sede 3,San Juan de Lurigancho,Norte,CoNsUlTa,Salud,49.12,Luis Campos,Miraflores,ReGuLaR,2025-02-25
+499,2026-06-13,5,29.47,100.11,10,Web,Plin,2,179.28,Revisar,,Surco,Centro,Analisis sangre,Laboratorio,100.11,Elena Navarro,Villa El Salvador,Premium,2025-03-28
+500,2026-02-05,6,38.02,61.97,20,TeLeFoNo,Tarjeta,,135.23,,Sede 5,Villa El Salvador,Norte,Vacuna,PrEvEnCiOn,61.97,Maria Mendoza,Callao,,2025-08-14

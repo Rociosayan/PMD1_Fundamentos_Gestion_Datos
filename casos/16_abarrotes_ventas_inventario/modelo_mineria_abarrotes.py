@@ -12,33 +12,30 @@ DB_PATH = BASE_DIR / "abarrotes_ventas_inventario.db"
 
 QUERY = """
 SELECT
-    f.id_venta,
-    c.nombre AS cliente,
-    c.distrito AS distrito_cliente,
-    c.segmento,
-    p.nombre AS producto,
-    p.categoria,
-    p.proveedor,
-    t.nombre AS tienda,
-    t.distrito AS distrito_tienda,
-    t.zona,
-    t.tipo_local,
-    f.fecha_operacion,
-    f.cantidad_unidades,
-    f.precio_venta_unitario,
-    f.costo_unitario,
-    f.descuento_pct,
-    f.stock_inicial,
-    f.stock_final,
-    f.merma_unidades,
-    f.canal,
-    f.metodo_pago,
-    f.monto_venta_soles,
-    f.margen_venta_soles
-FROM ventas f
-LEFT JOIN clientes c ON f.id_cliente = c.id_cliente
-LEFT JOIN productos p ON f.id_producto = p.id_producto
-LEFT JOIN tiendas t ON f.id_tienda = t.id_tienda;
+    id_venta,
+    clientes_nombre AS cliente,
+    clientes_distrito AS distrito_cliente,
+    clientes_segmento AS segmento,
+    productos_nombre AS producto,
+    productos_categoria AS categoria,
+    productos_proveedor AS proveedor,
+    tiendas_nombre AS tienda,
+    tiendas_distrito AS distrito_tienda,
+    tiendas_zona AS zona,
+    tiendas_tipo_local AS tipo_local,
+    fecha_operacion,
+    cantidad_unidades,
+    precio_venta_unitario,
+    costo_unitario,
+    descuento_pct,
+    stock_inicial,
+    stock_final,
+    merma_unidades,
+    canal,
+    metodo_pago,
+    monto_venta_soles,
+    margen_venta_soles
+FROM ventas_original;
 """
 
 

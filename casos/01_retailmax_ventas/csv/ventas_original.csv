@@ -1,0 +1,501 @@
+id_venta,fecha_operacion,cantidad,cantidad_productos,precio_unitario,descuento_pct,canal,metodo_pago,calificacion,monto_total,observacion,sucursales_nombre,sucursales_distrito,sucursales_zona,productos_nombre,productos_categoria,productos_precio_unitario,clientes_nombre,clientes_distrito,clientes_segmento,clientes_fecha_registro
+1,2026-06-13,1,5,13.2,0,  App ,Plin,4,18.51 aprox,Revisar,Sucursal 2,VENTANILLA,Oeste,Aceite vegetal,Abarrotes,13.2,Luis Soto,Comas,Nuevo,2025-02-13
+2,2026-02-14,2,,,0,Presencial,Plin,1,23.43,Cliente frecuente,Sucursal 6,Ate,Sur,Papel higienico,Limpieza,10.15,  Carlos Huaman ,callao,Frecuente,2025-03-25
+3,2026-05-09,5,6,6.43,15,Web,Transferencia,4,7.79,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Atun,Conservas,6.43,Diana Paredes,Lima,Frecuente,2025/09/17
+4,2026-02-17,4,5,10.15,0,App,  Efectivo ,5,32.32,Promocion,Sucursal 7,Ventanilla,Centro,Papel higienico,Limpieza,10.15,Jose Navarro,Villa El Salvador,Regular,2025-03-20
+5,2026-06-05,7,11,10.15,5,Presencial,,3,34.17,Cliente frecuente,Sucursal 3,Independencia,Centro,Papel higienico,Limpieza,10.15,Claudia Gomez,Surco,Nuevo, 2025-12-18 
+6,18-04-2026,7,15,14.26,12,App,Tarjeta,2,32.24 aprox,Revisar,Sucursal 7,Ventanilla,Centro,,Bebidas,14.26,Diana Ramos,Independencia,Frecuente,2025-01-09
+7,2026-06-22,2,13,17.52,8,WeB,Yape,2 aprox,25.22,Promocion,Sucursal 2,VENTANILLA,Oeste,Shampoo,Cuidado personal,17.52,Elena Torres,Ventanilla,Frecuente, 2025-03-11 
+8,2026-06-02,5,12,17.52,8,WhatsApp,Plin,4,34.61,,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,Raul Salazar,Los Olivos,Regular,2025-05-11
+9,2026-01-18,8,12,17.52 aprox,0,WhatsApp,Yape,1,46.16,Revisar,Sucursal 6,Ate,Sur,Shampoo,Cuidado personal,17.52,Ana Navarro,Independencia,Frecuente,2025-02-19
+10,2026-02-16,6,8,6.43,10,,tarjeta,1,,Promocion,Sucursal 1,Ventanilla,Sur,Atun,Conservas,6.43,MIGUEL SOTO,Comas,PrEmIuM,2025-08-14
+11,2026-01-24,3,5,3.52,12,  Web ,Transferencia,3,28.35,OK,Sucursal 4,Ventanilla,  Centro ,Galletas,,3.52,Jose Gomez,Callao,Corporativo,2025-12-09
+12,2026-02-12,5,7,13.2 aprox,20,WhatsApp,Efectivo,2,37.02,,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Marco Navarro,Comas,Nuevo,2025-03-21
+13,20/04/2026,3,9,3.52,0,App,Transferencia,1,12.95,OK,Sucursal 1,Ventanilla,Sur,Galletas,,3.52,Camila Mendoza,La Molina,Corporativo,2025-04-19
+14,06-02-2026,6,14,14.26,10,WhatsApp,Yape,,36.19,,Sucursal 3,Independencia,Centro,,Bebidas,14.26,Jose Rojas,San Miguel,Premium,2025-04-02
+15,2026-06-06,7, 8 ,10.15,20,WhatsApp,Transferencia,1,25.39,Revisar,sucursal 5,San Miguel,Centro,Papel higienico,Limpieza,10.15,Luis Soto,Comas,Nuevo,2025-02-13
+16,2026-05-23,8,15,3.52,10,App,Plin,4,21.72,OK,Sucursal 2,VENTANILLA,Oeste,Galletas,,3.52,Marco Navarro,Comas,Nuevo,2025-03-21
+17,2026-06-17,6,5,5.54,15,  WhatsApp ,Tarjeta,3,8.1,,Sucursal 4,Ventanilla,  Centro ,Arroz extra,Abarrotes,5.54,Fiorella Castillo,Lima,Nuevo,2025-01-01
+18,2026-03-09,4,9,10.15,0,Presencial,Transferencia,4,28.45,OK,Sucursal 2,VENTANILLA,Oeste,Papel higienico,Limpieza,10.15,Fiorella Soto,callao,corporativo,2025-06-10
+19,2026-04-01,1,8,17.52,15,Telefono,Efectivo,2,30.77,Promocion,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,,Lima,Premium,2025-11-09
+20,2026-02-15,4,7, 17.52 ,0 aprox,App,Tarjeta,2,48.27,OK,Sucursal 2,VENTANILLA,Oeste,Shampoo,Cuidado personal,17.52,Marco Gomez,Ate,NuEvO,2025-03-15
+21,2026-05-09,8 aprox,14,6.43,20,Web,Plin,2,20.37,Revisar,Sucursal 6,Ate,Sur,Atun,Conservas,6.43,Diana Navarro,La Molina,Premium,2025-06-27
+22,2026-05-27,1,13,10.15,12,Web,Yape,5,14.21,Promocion,Sucursal 6,Ate,Sur,Papel higienico,Limpieza,10.15,Jose Gomez,Callao,Corporativo,2025-12-09
+23,2026-04-28,5 aprox,12,3.52,0,Presencial,Tarjeta,5,23.83,Revisar,Sucursal 7,Ventanilla,Centro,Galletas,,3.52,Luis Ramos,Villa El Salvador,Premium,2025-04-23
+24,2026-05-04,5,11,5.54,8,App,Transferencia,5,27.8,Promocion,Sucursal 1,Ventanilla,Sur,Arroz extra,Abarrotes,5.54,Jose Rojas,San Miguel,Premium,2025-04-02
+25,2026-01-08,6,14,5.54,10,Telefono,Plin,2,17.3,,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,Marco Reyes,Ventanilla,Corporativo,2025-06-26
+26,2026-04-01,8,4,13.2,8,App,Yape,4,,Promocion,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Jorge Reyes,MiRaFlOrEs,Regular,2025-08-22
+27,2026-05-21,4,5,13.2,15,WhatsApp,Efectivo,5,14.82,,Sucursal 2,VENTANILLA,Oeste,Aceite vegetal,Abarrotes,13.2,Fiorella Torres,  Ate ,Nuevo,2025-11-03
+28,2026-06-12,2,3,4.91,0,ApP,Efectivo,1,12.73,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Leche evaporada,Lacteos,4.91,Jose Gomez,Callao,Corporativo,2025-12-09
+29,2026-06-23,4,5,10.15,20,Presencial,Transferencia,,10.18,,Sucursal 6,Ate,Sur,Papel higienico,Limpieza,10.15,Diana Flores,San Juan de Lurigancho,Regular,2025-02-12
+30,2026-01-21,4,3,3.52,12 aprox,Telefono,Yape,4,26.36,OK,Sucursal 6,Ate,Sur,Galletas,,3.52,Fiorella Castillo,Lima,Nuevo,2025-01-01
+31,2026-05-18,5,13,17.52,20,app,Transferencia,5,29.29,,Sucursal 6,Ate,Sur,Shampoo,Cuidado personal,17.52,Marco Reyes,Ventanilla,Corporativo,2025-06-26
+32,2026-06-23,2,6,"18,43",0,PRESENCIAL,Transferencia,1,31.43,OK,Sucursal 7,Ventanilla,Centro,Detergente,limpieza,18.43,Ana Ramos,Independencia,Corporativo,2025-02-06
+33,2026-05-27,5,12,3.52 aprox,8,  App ,Tarjeta,3,"19,03",PrOmOcIoN,Sucursal 7,Ventanilla,Centro,Galletas,,3.52,Fiorella Castillo,Lima,Nuevo,2025-01-01
+34,2026-05-06,5,5,17.52,12,  Web ,Efectivo,5,"27,28",,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,Diego Reyes,Miraflores,Corporativo,2025-01-07
+35,2026-04-04,6,15,,8,App,Tarjeta,5,13.83,,Sucursal 2,VENTANILLA,Oeste,Galletas,,3.52,Victor Quispe,Ate,  Premium ,2025-08-16
+36,2026-01-15,5,3,4.91,0,,Tarjeta,2,10.33,OK,Sucursal 4,Ventanilla,  Centro ,Leche evaporada,Lacteos,4.91,Camila Castillo,Ate,Corporativo,2025-08-21
+37,,4,7,10.15,0,WhatsApp,PLIN,3, 34.88 ,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Papel higienico,Limpieza,10.15,Camila Castillo,Ate,Corporativo,2025-08-21
+38,2026/03/19,2,6, 13.2 ,10,,,1,30.55,Cliente frecuente,sucursal 5,San Miguel,Centro,Aceite vegetal,Abarrotes,13.2,Ana Rojas,LIMA,Corporativo,2025-09-21
+39,2026-06-24,4,13,17.52, 8 ,Presencial,Plin,4,22.99,OK,Sucursal 4,Ventanilla,  Centro ,Shampoo,Cuidado personal,17.52,Lucia Torres,San Juan de Lurigancho,Frecuente,2025-05-14
+40,2026-01-08,5,2,6.43,12,Telefono,PlIn,4,24.02,ok,Sucursal 6,Ate,Sur,Atun,Conservas,6.43,VALERIA NAVARRO,ChOrRiLlOs,Frecuente,2025-05-05
+41,2026/06/04,4,11,17.52,0,Web,Plin,4,32.88,,Sucursal 6,Ate,Sur,Shampoo,Cuidado personal,17.52,Marco Gomez,Ate,NuEvO,2025-03-15
+42,2026-05-14,3,4,10.15,10,WhatsApp,Yape,3,20.9,Revisar,sucursal 5,San Miguel,Centro,Papel higienico,Limpieza,10.15,Fiorella Castillo,Lima,Nuevo,2025-01-01
+43,2026-01-18,2,1,18.43,8,Presencial,Efectivo,4,34.99 aprox,,Sucursal 2,VENTANILLA,Oeste,Detergente,limpieza,18.43,Jose Gomez,Callao,Corporativo,2025-12-09
+44,2026/06/08,2,11 aprox,3.52,0,Web,  Plin ,2, 12.0 ,Revisar,sucursal 5,San Miguel,Centro,Galletas,,3.52,Luis Paredes,Comas,Premium,2025-08-21
+45,2026-05-25,7,11,18.43,15,WHATSAPP,Plin,2,37.85,,Sucursal 7,Ventanilla,Centro,Detergente,limpieza,18.43,Lucia Castillo,San Miguel,corporativo,2025-09-14
+46,2026-06-12,2,3,4.91,0,ApP,Efectivo,1,12.73,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Leche evaporada,Lacteos,4.91,Jose Gomez,Callao,Corporativo,2025-12-09
+47, 2026-04-16 ,1,12 aprox,18.43,20,Telefono,efectivo,2,10.51,,Sucursal 7,Ventanilla,Centro,Detergente,limpieza,18.43,Maria Paredes,La Molina,Regular,2025-12-21
+48,2026-04-25,4,6,17.52,12,WeB,Efectivo,5,15.75,,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,VALERIA NAVARRO,ChOrRiLlOs,Frecuente,2025-05-05
+49,2026-04-19, 3 ,4,17.52,8,Web,Transferencia,4,37.53,Promocion,sucursal 5,San Miguel,Centro,Shampoo,Cuidado personal,17.52,Victor Quispe,Ate,  Premium ,2025-08-16
+50,2026-06-07,1,13,"14,26",0,App,Plin,1,,Cliente frecuente,Sucursal 7,Ventanilla,Centro,,Bebidas,14.26,Diana Flores,Villa El Salvador,Regular,2025-01-26
+51,08-04-2026,6,8, 6.43 ,12,WhatsApp,Transferencia,2,41.63 aprox,Promocion,sucursal 5,San Miguel,Centro,Atun,Conservas,6.43,Ana Rojas,LIMA,Corporativo,2025-09-21
+52,2026-03-19,,11,17.52,20,Web,TaRjEtA,3,36.93,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Shampoo,Cuidado personal,17.52,Diana Navarro,La Molina,Premium,2025-06-27
+53,2026-03-10,5,10,4.91,15,WhatsApp,Yape,3,13.97,Revisar,Sucursal 4,Ventanilla,  Centro ,Leche evaporada,Lacteos,4.91,Claudia Soto,Independencia,PrEmIuM,2025/04/14
+54,2026-01-11,5,11,5.54,8,WhatsApp,Efectivo,2,13.54,Promocion,Sucursal 6,Ate,Sur,Arroz extra,Abarrotes,5.54,Victor Huaman,  Ventanilla ,Frecuente,2025/06/07
+55,2026-02-10, 8 ,3,14.26,12,App,Yape,5,35.18,OK,Sucursal 3,Independencia,Centro,,Bebidas,14.26,carlos soto,SaN MiGuEl,NUEVO,2025-07-22
+56,2026-03-20,8,45.57,10.15,12,PRESENCIAL,Efectivo,2,49.71,OK,Sucursal 1,Ventanilla,Sur,Papel higienico,Limpieza,10.15,Ana Quispe,  Los Olivos ,NuEvO,2025-03-05
+57,2026-01-02,2,3,5.54,0,Presencial,Transferencia,4,19.26,Promocion,Sucursal 6,Ate,Sur,Arroz extra,Abarrotes,5.54,Diego Huaman,San Miguel,FRECUENTE,2025-09-20
+58,2026/01/03,3,4,13.2,0,Telefono,Yape,3,34.53,Revisar,Sucursal 1,Ventanilla,Sur,Aceite vegetal,Abarrotes,13.2,Victor Mendoza,Ventanilla,Regular,2025-08-28
+59,2026-02-08,4,14 aprox,17.52,0,whatsapp,Efectivo,, 33.24 ,,sucursal 5,San Miguel,Centro,Shampoo,Cuidado personal,17.52,Luis Navarro,Comas,Regular,2025-07-04
+60,2026-05-04,6,10,5.54,20,Web,Yape,5,21.76,,Sucursal 4,Ventanilla,  Centro ,Arroz extra,Abarrotes,5.54,RaUl sOtO,SuRcO,,2025-01-01
+61,2026-04-18,7,5,13.2,0,WhatsApp,Efectivo,3,32.66,Revisar,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,jorge cruz,San Juan de Lurigancho,Regular,24/04/2025
+62,2026-06-14,3,13,3.52,0,Telefono,Transferencia,5,22.85,OK,sucursal 5,San Miguel,Centro,Galletas,,3.52,MIGUEL SOTO,Comas,PrEmIuM,2025-08-14
+63,2026-04-24,5,13,5.54,10,Presencial,Transferencia,2,35.62,OK,Sucursal 4,Ventanilla,  Centro ,Arroz extra,Abarrotes,5.54,Fiorella Quispe,Independencia,Premium,2025-10-09
+64,2026/02/03,7,9,,12,Presencial,Plin,1,7.06,OK,Sucursal 4,Ventanilla,  Centro ,Arroz extra,Abarrotes,5.54,Diana Ramos,Independencia,Frecuente,2025-01-09
+65,2026-02-27,4,7 aprox,14.26,12,Web,Plin,3,19.59,,Sucursal 7,Ventanilla,Centro,,Bebidas,14.26,Diego Cruz,SuRcO,Premium,
+66,2026-05-01,4,13,17.52,0,Telefono,  Tarjeta ,2,24.09,Promocion,Sucursal 1,Ventanilla,Sur,Shampoo,Cuidado personal,17.52,Victor Mendoza,Ventanilla,Regular,2025-08-28
+67,2026-06-19,2,2,6.43,,App,Yape,1,12.49,,Sucursal 3,Independencia,Centro,Atun,Conservas,6.43,Victor Mendoza,Ventanilla,Regular,2025-08-28
+68,2026-04-07,4,,6.43,8,Web,  Efectivo , 4 ,0.5,,Sucursal 7,Ventanilla,Centro,Atun,Conservas,6.43,Elena Paredes,CaLlAo,Premium,2025-10-24
+69,2026-02-02,2,12,3.52,0,  App ,  Plin ,2,7.02,Promocion,Sucursal 1,Ventanilla,Sur,Galletas,,3.52,Marco Gomez,Ate,NuEvO,2025-03-15
+70,2026-03-23,2,12, 6.43 ,8,whatsapp,Plin,,11.62,OK,Sucursal 7,Ventanilla,Centro,Atun,Conservas,6.43,Carlos Sayan,Ate,NUEVO,2025-04-26
+71,2026-03-18,3,1,S/ 18.43, 8 ,Web,Transferencia,2,40.45,,Sucursal 2,VENTANILLA,Oeste,Detergente,limpieza,18.43,Jose Gomez,Callao,Corporativo,2025-12-09
+72, 2026-04-24 ,2,12,5.54,0,Presencial,Tarjeta,2,39.05,,Sucursal 3,Independencia,Centro,Arroz extra,Abarrotes,5.54,jorge cruz,San Juan de Lurigancho,Regular,24/04/2025
+73,2026-01-03,1,15,"14,26",10,WhatsApp,PlIn,3 aprox,41.53,Promocion,Sucursal 6,Ate,Sur,,Bebidas,14.26,Andre Navarro,,Premium,20/06/2025
+74,2026-05-04,1,6 aprox,5.54,8,WEB,Transferencia,1,13.18,OK,Sucursal 4,Ventanilla,  Centro ,Arroz extra,Abarrotes,5.54,Diana Navarro,La Molina,Premium,2025-06-27
+75,2026-06-24,8,2,10.15,15,WhatsApp,Yape,1,14.54,revisar,Sucursal 3,Independencia,Centro,Papel higienico,Limpieza,10.15,Elena Vargas,Callao,Corporativo,27/06/2025
+76,2026-05-21,8,8,14.26,0,App,Transferencia,5,23.84,ClIeNtE FrEcUeNtE,Sucursal 3,Independencia,Centro,,Bebidas,14.26,Elena Torres,Ventanilla,Frecuente, 2025-03-11 
+77,2026-04-19,2,1,14.26,0,WhatsApp,Transferencia,1,20.12,Revisar,sucursal 5,San Miguel,Centro,,Bebidas,14.26,Andre Navarro,,Premium,20/06/2025
+78,2026-01-20,7,8,4.91,,Telefono,, 3 ,22.06,OK,Sucursal 7,Ventanilla,Centro,Leche evaporada,Lacteos,4.91,Raul Salazar,Miraflores,Frecuente,01/06/2025
+79,2026-01-16,8,7 aprox,4.91,8 aprox,Web,Yape,5,26.71,,Sucursal 3,Independencia,Centro,Leche evaporada,Lacteos,4.91,Diana Navarro,La Molina,Premium,2025-06-27
+80,2026-05-18,,12,4.91,10,Presencial,,2,17.55,OK,Sucursal 7,Ventanilla,Centro,Leche evaporada,Lacteos,4.91,Sofia Ramos,  San Miguel ,Regular,09-04-2025
+81,2026-01-09,2,7,3.52,0,Presencial,Yape,4,20.71,Promocion,Sucursal 2,VENTANILLA,Oeste,Galletas,,3.52,Andre Mendoza,  Ventanilla ,  Premium ,2025-03-05
+82,2026-04-15,4 aprox,2,"18,43",10,App,Tarjeta,5,32.25,OK,Sucursal 7,Ventanilla,Centro,Detergente,limpieza,18.43,Ana Navarro,Independencia,Frecuente,2025-02-19
+83,2026-03-08,3,6,6.43,12,  App ,Yape,3,17.38,Promocion,Sucursal 6,Ate,Sur,Atun,Conservas,6.43,Rocio Ramos,San Miguel,Premium,2025-11-08
+84,2026-04-15,1,5,13.2,15,Web,Plin,3,13.02,Promocion,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Raul Quispe,Villa El Salvador,Frecuente,2025-08-10
+85,2026-03-15,6,8 aprox,4.91,0,Telefono,Yape,1,30.61,,Sucursal 1,Ventanilla,Sur,Leche evaporada,Lacteos,4.91,Lucia Castillo,San Miguel,corporativo,2025-09-14
+86,2026-05-05,7,5,"5,54",10,Presencial,Efectivo,1,36.32 aprox,,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,Marco Navarro,Comas,Nuevo,2025-03-21
+87,2026-05-06,6,5,"13,2",12,Presencial,Transferencia,2,22.88,,Sucursal 2,VENTANILLA,Oeste,Aceite vegetal,Abarrotes,13.2,Carlos Torres,  Ate ,CoRpOrAtIvO,
+88,18/05/2026,7,2,18.43,15,Presencial,Tarjeta,2,48.75 aprox,OK,sucursal 5,San Miguel,Centro,Detergente,limpieza,18.43,Lucia Huaman,Independencia,Regular,2025-02-10
+89,2026-03-02,1,8,10.15,5,App,Plin,5,11.45,,sucursal 5,San Miguel,Centro,Papel higienico,Limpieza,10.15,Andre Navarro,,Premium,20/06/2025
+90,2026-06-02,5,5,18.43,0,WhatsApp,Yape,2,33.08,,Sucursal 3,Independencia,Centro,Detergente,limpieza,18.43,Lucia Huaman,Independencia,Regular,2025-02-10
+91, 2026-01-09 ,7,13,13.2,20 aprox,WhatsApp,Transferencia,1,14.33,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Rocio Ramos,San Miguel,Premium,2025-11-08
+92,2026-01-02,2,9,14.26,0 aprox,App,Tarjeta,3,22.36,,sucursal 5,San Miguel,Centro,,Bebidas,14.26,Jorge Rojas,Ventanilla,Regular,2025-11-26
+93,2026-04-09,4,13,10.15,0,TELEFONO,Efectivo,1,23.33,   ,Sucursal 3,Independencia,Centro,Papel higienico,Limpieza,10.15,Lucia Castillo,San Miguel,corporativo,2025-09-14
+94,2026-03-05,4,2,14.26,10,App,transferencia,5,S/ 27.65,,Sucursal 3,Independencia,Centro,,Bebidas,14.26,Ana Navarro,Independencia,Frecuente,2025-02-19
+95, 2026-06-14 ,4,15,17.52,15,PRESENCIAL,Efectivo,2,35.27,,Sucursal 1,Ventanilla,Sur,Shampoo,Cuidado personal,17.52,Jorge Reyes,MiRaFlOrEs,Regular,2025-08-22
+96,2026-02-16,5,4,13.2,5,  App ,Tarjeta,1,28.45,OK,Sucursal 3,Independencia,Centro,Aceite vegetal,Abarrotes,13.2,Marco Gomez,Ate,NuEvO,2025-03-15
+97,2026-02-14,3,6,13.2,12,Web,Yape,3,21.82,OK,Sucursal 3,Independencia,Centro,Aceite vegetal,Abarrotes,13.2,Diego Huaman,San Miguel,FRECUENTE,2025-09-20
+98,2026-01-11,4,11,6.43,15,Web,Transferencia,4,S/ 19.82,,Sucursal 1,Ventanilla,Sur,Atun,Conservas,6.43,MIGUEL SOTO,Comas,PrEmIuM,2025-08-14
+99, 2026-03-05 ,3,1,4.91,,,Transferencia,1,3.9,Cliente frecuente,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Fiorella Flores,InDePeNdEnCiA,Nuevo,2025-04-26
+100,2026-02-28,5, 4 ,4.91,0,Telefono,Efectivo,2,25.9,Revisar,Sucursal 1,Ventanilla,Sur,Leche evaporada,Lacteos,4.91,Lucia Torres,San Juan de Lurigancho,Frecuente,2025-05-14
+101,,6,12,S/ 6.43,0,PRESENCIAL,Tarjeta,3,32.9,Promocion,Sucursal 3,Independencia,Centro,Atun,Conservas,6.43,Lucia Castillo,San Miguel,corporativo,2025-09-14
+102,2026-01-01,1,15,14.26,12,Web,Efectivo,1,16.08 aprox,Cliente frecuente,sucursal 5,San Miguel,Centro,,Bebidas,14.26,Luis Navarro,Comas,Regular,2025-07-04
+103,2026-06-23,2,6,"18,43",0,PRESENCIAL,Transferencia,1,31.43,OK,Sucursal 7,Ventanilla,Centro,Detergente,limpieza,18.43,Ana Ramos,Independencia,Corporativo,2025-02-06
+104,2026-04-09,8,13,13.2,8,WhatsApp,  Transferencia ,5,37.1,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Aceite vegetal,Abarrotes,13.2,Ana Rojas,LIMA,Corporativo,2025-09-21
+105, 2026-01-09 ,7,13,13.2,20 aprox,WhatsApp,Transferencia,1,14.33,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Rocio Ramos,San Miguel,Premium,2025-11-08
+106,2026-04-13,5,13,17.52,10,  App ,Yape,1,"41,8",Promocion,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,Fiorella Mendoza,La  Molina,Premium,2025-02-11
+107,2026-03-16,4,14,5.54,20,Telefono,Efectivo,1,6.31,OK,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,Fiorella Torres,  Ate ,Nuevo,2025-11-03
+108,2026-03-21,7,10,14.26,12,Presencial,Plin,5,36.99,Revisar,Sucursal 6,Ate,Sur,,Bebidas,14.26,  Carlos Huaman ,callao,Frecuente,2025-03-25
+109,2026/05/24,3,3,4.91,,Web,  Yape ,4,28.91,ReViSaR,Sucursal 2,VENTANILLA,Oeste,Leche evaporada,Lacteos,4.91,Diana Flores,Villa El Salvador,Regular,2025-01-26
+110,2026-05-23,3,10,3.52,0,  Telefono ,Transferencia,4,17.45,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Galletas,,3.52,Ana Navarro,Independencia,Frecuente,2025-02-19
+111,2026-04-19,2,11,18.43,0,Presencial,Transferencia,1,18.22,,Sucursal 3,Independencia,Centro,Detergente,limpieza,18.43,Jose Navarro,Villa El Salvador,Regular,2025-03-20
+112,2026-02-20,4,5,6.43,20,Presencial,Tarjeta,1, 19.53 ,Promocion,Sucursal 1,Ventanilla,Sur,Atun,Conservas,6.43,Pedro Sayan,COMAS,Corporativo,2025-11-02
+113,2026-01-18,2,4,"4,91",12,Web,Transferencia,1,8.93,Cliente  frecuente,Sucursal 7,Ventanilla,Centro,Leche evaporada,Lacteos,4.91,Jorge Reyes,MiRaFlOrEs,Regular,2025-08-22
+114,28/03/2026,3,14,3.52,12,App,Transferencia,1,21.49,,Sucursal 1,Ventanilla,Sur,Galletas,,3.52,Fiorella Mendoza,La  Molina,Premium,2025-02-11
+115,2026-06-10,6,1,5.54,5,WeB,Yape,4,,,Sucursal 7,Ventanilla,Centro,Arroz extra,Abarrotes,5.54,Elena Paredes,CaLlAo,Premium,2025-10-24
+116,2026-02-12,2,13,18.43,5,WhatsApp,PlIn,4,38.08,,Sucursal 3,Independencia,Centro,Detergente,limpieza,18.43,Miguel Torres,Callao,  Regular ,2025/01/27
+117,2026/03/09,2,5,10.15,0,Web,Plin,2,15.2,OK,Sucursal 2,VENTANILLA,Oeste,Papel higienico,Limpieza,10.15,Diego Reyes,Miraflores,Corporativo,2025-01-07
+118,2026-01-05,6,6 aprox,"10,15",0,,Yape,4, 29.88 ,,Sucursal 6,Ate,Sur,Papel higienico,Limpieza,10.15,Diego Huaman,San Miguel,FRECUENTE,2025-09-20
+119,2026-06-21,8,14,6.43,10,Presencial,YAPE,5,39.42,Revisar,sucursal 5,San Miguel,Centro,Atun,Conservas,6.43,Jose Rojas,San Miguel,Premium,2025-04-02
+120,2026-03-03,4,13,6.43,0,Web,  Transferencia ,4,12.87,Cliente frecuente,Sucursal 3,Independencia,Centro,Atun,Conservas,6.43,Pedro Sayan,COMAS,Corporativo,2025-11-02
+121,2026-03-26,4,15,13.2,0,ApP,Efectivo,1,36.05 aprox,Revisar,Sucursal 6,Ate,Sur,Aceite vegetal,Abarrotes,13.2,Luis Paredes,Comas,Premium,2025-08-21
+122,2026-01-13,5,5 aprox,4.91,0 aprox,Telefono,Plin,5,10.37,,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Victor Huaman,  Ventanilla ,Frecuente,2025/06/07
+123,2026-05-22,8,13,4.91,8,  Web ,Efectivo,1,39.99,,Sucursal 2,VENTANILLA,Oeste,Leche evaporada,Lacteos,4.91,Elena Torres,Ventanilla,Frecuente, 2025-03-11 
+124,2026-05-19,7,11,10.15,12,Presencial,YaPe,5,"16,98",,Sucursal 4,Ventanilla,  Centro ,Papel higienico,Limpieza,10.15,Ana Navarro,Independencia,Frecuente,2025-02-19
+125,2026-04-19,2, 13 ,13.2,0,App,Efectivo,4,36.45,Revisar,sucursal 5,San Miguel,Centro,Aceite vegetal,Abarrotes,13.2,Diana Navarro,La Molina,Premium,2025-06-27
+126,2026-06-08,6,12,"14,26",12,Telefono,Tarjeta,2,,  OK ,sucursal 5,San Miguel,Centro,,Bebidas,14.26,Luis Soto,Comas,Nuevo,2025-02-13
+127,2026-05-21,3,23.86,"18,43",0,TeLeFoNo,Transferencia,3,48.4,OK,Sucursal 4,Ventanilla,  Centro ,Detergente,limpieza,18.43,Marco Navarro,Comas,Nuevo,2025-03-21
+128,2026-05-16,8,13,10.15,20,Telefono,Tarjeta,3,41.84,OK,Sucursal 2,VENTANILLA,Oeste,Papel higienico,Limpieza,10.15,Maria Paredes,La Molina,Regular,2025-12-21
+129,,, 7 ,5.54,5,WhatsApp,Plin,5,30.95,,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,,San Juan de Lurigancho,REGULAR,2025-07-27
+130,2026-06-09,2,12,18.43,5,Web,Yape,1,29.63,,sucursal 5,San Miguel,Centro,Detergente,limpieza,18.43,Jorge Rojas,Ventanilla,Regular,2025-11-26
+131,2026-05-23,2,9,18.43,12,WhatsApp,Efectivo,3,33.29,Revisar,Sucursal 6,Ate,Sur,Detergente,limpieza,18.43,RaUl sOtO,SuRcO,,2025-01-01
+132,2026-05-07,4,6,13.2,15,Telefono,Yape,3,36.04,Cliente frecuente,Sucursal 3,Independencia,Centro,Aceite vegetal,Abarrotes,13.2,  Carlos Huaman ,callao,Frecuente,2025-03-25
+133,,4,11,10.15,5,Presencial,Efectivo,2,19.17,Promocion,Sucursal 3,Independencia,Centro,Papel higienico,Limpieza,10.15,Luis Navarro,Comas,Regular,2025-07-04
+134,2026-03-28,2,2,17.52,8,WhatsApp,Transferencia,5,22.08,Revisar,Sucursal 7,Ventanilla,Centro,Shampoo,Cuidado personal,17.52,Ana Rojas,LIMA,Corporativo,2025-09-21
+135,2026-02-07,7,13,3.52 aprox,12 aprox,TeLeFoNo,Transferencia, 2 ,34.99,Revisar,Sucursal 6,Ate,Sur,Galletas,,3.52,Luis Ramos,Villa El Salvador,Premium,2025-04-23
+136,2026-06-02,,,,0,WhatsApp,Plin,1,33.29,,Sucursal 3,Independencia,Centro,Papel higienico,Limpieza,10.15,Diana Flores,Villa El Salvador,Regular,2025-01-26
+137,07-05-2026,4,13,4.91,0,Presencial,Tarjeta,5,17.25,,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Luis Navarro,Comas,Regular,2025-07-04
+138,2026-01-04,8,12,10.15,20,Presencial,Plin,3,36.21 aprox,,Sucursal 2,VENTANILLA,Oeste,Papel higienico,Limpieza,10.15,Pedro Cruz,La Molina,Premium,2025-02-02
+139,2026-05-02,,7, 18.43 ,0,telefono,Transferencia,1,32.68,,Sucursal 2,VENTANILLA,Oeste,Detergente,limpieza,18.43,Marco Sayan,Miraflores,nuevo,2025-11-08
+140,2026-03-27,3 aprox,2 aprox,4.91,0,Web,Yape,1,18.23 aprox,,Sucursal 4,Ventanilla,  Centro ,Leche evaporada,Lacteos,4.91,Jorge Cruz,Surco,Corporativo,2025/07/13
+141,2026-01-05,7,10,4.91,8,  Web ,Efectivo,4,24.24,,Sucursal 2,VENTANILLA,Oeste,Leche evaporada,Lacteos,4.91,Carlos Torres,  Ate ,CoRpOrAtIvO,
+142,2026-03-13,5,3,6.43,8,Presencial,Plin,2,23.5,OK,Sucursal 7,Ventanilla,Centro,Atun,Conservas,6.43,Marco Reyes,Ventanilla,Corporativo,2025-06-26
+143,2026-04-24,2,7,4.91,5,WHATSAPP,Transferencia,3,0.5,OK,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Ana Navarro,Independencia,Frecuente,2025-02-19
+144,2026-02-05,2,6,5.54,20,Web,Tarjeta,4,10.68,,sucursal 5,San Miguel,Centro,Arroz extra,Abarrotes,5.54,Diana Flores,Villa El Salvador,Regular,2025-01-26
+145,2026-03-14,3,10 aprox,4.91,5,presencial,Transferencia,5,15.08,,Sucursal 3,Independencia,Centro,Leche evaporada,Lacteos,4.91,Carlos Sayan,Ate,NUEVO,2025-04-26
+146, 2026-01-09 ,7,9,5.54,,Presencial,Transferencia,4,18.76,,Sucursal 6,Ate,Sur,Arroz extra,Abarrotes,5.54,Victor Paredes,independencia,Corporativo,11-11-2025
+147,2026-06-16,8,2,10.15,0,whatsapp,Efectivo,5,28.13,,Sucursal 1,Ventanilla,Sur,Papel higienico,Limpieza,10.15,Pedro Sayan,COMAS,Corporativo,2025-11-02
+148,2026-02-28,4,1,13.2,8,WhatsApp,TrAnSfErEnCiA,1,27.48,Revisar,Sucursal 6,Ate,Sur,Aceite vegetal,Abarrotes,13.2,Miguel Torres,Callao,  Regular ,2025/01/27
+149,2026-04-09,3,3,17.52,20,Presencial,Tarjeta,1,19.43,Promocion,sucursal 5,San Miguel,Centro,Shampoo,Cuidado personal,17.52,Raul Salazar,Miraflores,Frecuente,01/06/2025
+150,2026-02-04,3,15,14.26,0,App,Transferencia,5,29.21,Cliente frecuente,sucursal 5,San Miguel,Centro,,Bebidas,14.26,Fiorella Torres,  Ate ,Nuevo,2025-11-03
+151,2026-04-28,5 aprox,12,3.52,0,Presencial,Tarjeta,5,23.83,Revisar,Sucursal 7,Ventanilla,Centro,Galletas,,3.52,Luis Ramos,Villa El Salvador,Premium,2025-04-23
+152,2026-02-03,1,14,5.54,20,Presencial,Tarjeta,5,23.12,Promocion,Sucursal 3,Independencia,Centro,Arroz extra,Abarrotes,5.54,Claudia Gomez,Surco,Nuevo, 2025-12-18 
+153, 2026-03-26 ,1,8,"18,43",0,Web,Plin,3,40.08,,Sucursal 6,Ate,Sur,Detergente,limpieza,18.43,Victor Huaman,  Ventanilla ,Frecuente,2025/06/07
+154,2026-02-14,6,5,4.91,0,App,Plin,5,41.63,Promocion,Sucursal 7,Ventanilla,Centro,Leche evaporada,Lacteos,4.91,Elena Cruz,Ventanilla,CORPORATIVO,2025-12-26
+155,2026-04-23,6,8,3.52, 0 ,App,  Yape ,2,17.36,Cliente frecuente,Sucursal 3,Independencia,Centro,Galletas,,3.52,Diana Flores,Villa El Salvador,Regular,2025-01-26
+156,2026-02-20, 4 ,5,10.15,0,Web,Tarjeta,3,26.16,Cliente frecuente,Sucursal 3,Independencia,Centro,Papel higienico,Limpieza,10.15,Marco Sayan,Miraflores,nuevo,2025-11-08
+157,2026-03-03,2 aprox,14,5.54,8,Presencial,Transferencia,3,35.24,  Cliente frecuente ,Sucursal 1,Ventanilla,Sur,Arroz extra,Abarrotes,5.54,Claudia Soto,Independencia,PrEmIuM,2025/04/14
+158,2026-02-15,7,5,4.91,10,Web,Plin,1,27.91,Cliente frecuente,Sucursal 7,Ventanilla,Centro,Leche evaporada,Lacteos,4.91,Claudia Gomez,Surco,Nuevo, 2025-12-18 
+159,2026-03-07,5,3,6.43,5,Presencial,Tarjeta,3, 17.06 ,Revisar,Sucursal 6,Ate,Sur,Atun,Conservas,6.43,Maria Navarro,Comas,Premium,2025-01-07
+160,2026-04-01,4,4,3.52 aprox,15,App,Plin,5,22.51,,Sucursal 7,Ventanilla,Centro,Galletas,,3.52,Diana Paredes,Lima,Frecuente,2025/09/17
+161,2026-02-12,2,3, 17.52 ,10,TELEFONO,Plin,4,16.91,  OK ,Sucursal 4,Ventanilla,  Centro ,Shampoo,Cuidado personal,17.52,jorge cruz,San Juan de Lurigancho,Regular,24/04/2025
+162,2026-04-18,1,1 aprox,4.91,0,Telefono,Yape,2,14.92,Revisar,sucursal 5,San Miguel,Centro,Leche evaporada,Lacteos,4.91,Fiorella Castillo,Lima,Nuevo,2025-01-01
+163,2026-06-13,3,5,10.15,0,App,Tarjeta,4,33.68,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Papel higienico,Limpieza,10.15,Raul Salazar,Los Olivos,Regular,2025-05-11
+164,2026-01-28,8,15,17.52,0,Telefono,Efectivo,2,39.33,OK,Sucursal 4,Ventanilla,  Centro ,Shampoo,Cuidado personal,17.52,Sofia Ramos,  San Miguel ,Regular,09-04-2025
+165,2026-01-16,8,3,14.26,15,Web,Efectivo,5,23.49,,Sucursal 4,Ventanilla,  Centro ,,Bebidas,14.26,Ana Rojas,LIMA,Corporativo,2025-09-21
+166,2026-03-19,2,4, 5.54 ,20,TELEFONO,,3,6.9,OK,Sucursal 1,Ventanilla,Sur,Arroz extra,Abarrotes,5.54,jorge cruz,San Juan de Lurigancho,Regular,24/04/2025
+167,2026-04-16,2,6,18.43,8 aprox,Web,Yape,5,21.12,,sucursal 5,San Miguel,Centro,Detergente,limpieza,18.43,Luis Ramos,Villa El Salvador,Premium,2025-04-23
+168,2026-02-03,2,10,4.91,8,Telefono,Tarjeta,5,17.36,Cliente frecuente,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Camila Mendoza,La Molina,Corporativo,2025-04-19
+169,2026-03-13,3,6,10.15,0,App,Plin,3,22.78,,Sucursal 2,VENTANILLA,Oeste,Papel higienico,Limpieza,10.15,Diana Navarro,La Molina,Premium,2025-06-27
+170, 2026-06-16 ,1,13, 5.54 ,0,WhatsApp,YaPe,5,27.19,Cliente frecuente,Sucursal 7,Ventanilla,Centro,Arroz extra,Abarrotes,5.54,Miguel Mendoza,Independencia,Corporativo, 2025-10-19 
+171,26/03/2026,1,12,5.54,0,Presencial,Yape,3,20.24,OK,sucursal 5,San Miguel,Centro,Arroz extra,Abarrotes,5.54,Andre Flores,Independencia,Nuevo,2025-03-19
+172,2026-02-01,1,14,14.26,10,Web,Tarjeta,4,"24,58",OK,Sucursal 3,Independencia,Centro,,Bebidas,14.26,Victor Huaman,  Ventanilla ,Frecuente,2025/06/07
+173,2026-02-05, 5 ,9,,12,Web,Efectivo,3,21.71,Promocion,Sucursal 2,VENTANILLA,Oeste,,Bebidas,14.26,Jorge Reyes,MiRaFlOrEs,Regular,2025-08-22
+174,26-03-2026,,2,5.54,8,WhatsApp,Efectivo,2,20.96,Revisar,Sucursal 6,Ate,Sur,Arroz extra,Abarrotes,5.54,Victor Huaman,  Ventanilla ,Frecuente,2025/06/07
+175,2026-03-15,3,6,3.52,20,Presencial,Yape,4,6.43,Revisar,Sucursal 7,Ventanilla,Centro,Galletas,,3.52,Ana Navarro,Independencia,Frecuente,2025-02-19
+176, 2026-04-12 ,6,,5.54,15,WhatsApp,Yape,2,49.94,Revisar,Sucursal 4,Ventanilla,  Centro ,Arroz extra,Abarrotes,5.54,Diana Navarro,La Molina,Premium,2025-06-27
+177,2026-03-05,8,3,6.43,15,Telefono,Tarjeta,5,15.54,Revisar,Sucursal 4,Ventanilla,  Centro ,Atun,Conservas,6.43,Lucia Huaman,Independencia,Regular,2025-02-10
+178,2026-03-25,8,7,5.54,8,Presencial,Tarjeta,2,38.07,Cliente frecuente,Sucursal 1,Ventanilla,Sur,Arroz extra,Abarrotes,5.54,VALERIA NAVARRO,ChOrRiLlOs,Frecuente,2025-05-05
+179,2026-04-20,2,,6.43 aprox,0,Telefono,Tarjeta,1,19.21,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Atun,Conservas,6.43,Elena Torres,Ventanilla,Frecuente, 2025-03-11 
+180,05/02/2026, 1 ,10,6.43,20,Web,Tarjeta,2,13.09,ok,Sucursal 7,Ventanilla,Centro,Atun,Conservas,6.43,carlos soto,SaN MiGuEl,NUEVO,2025-07-22
+181,2026-06-13,1,9,10.15 aprox,8,Telefono,Yape,3,20.36,PrOmOcIoN,Sucursal 3,Independencia,Centro,Papel higienico,Limpieza,10.15,Elena Paredes,CaLlAo,Premium,2025-10-24
+182,2026-04-12,1,7,6.43,5,WhatsApp,Yape,5,S/ 29.57,OK,Sucursal 6,Ate,Sur,Atun,Conservas,6.43,Jose Rojas,San Miguel,Premium,2025-04-02
+183,,3,6,3.52,0,Telefono,Tarjeta,3,S/ 24.13,,Sucursal 3,Independencia,Centro,Galletas,,3.52,Diana Flores,Villa El Salvador,Regular,2025-01-26
+184,2026-06-08,5,7,14.26,15,Telefono,Transferencia,2,42.74,,Sucursal 2,VENTANILLA,Oeste,,Bebidas,14.26,Maria Navarro,Comas,Premium,2025-01-07
+185,2026/05/17,2,9,10.15,20,PRESENCIAL,,3,1.93,,sucursal 5,San Miguel,Centro,Papel higienico,Limpieza,10.15,Carlos Sayan,Ate,NUEVO,2025-04-26
+186,2026-02-03,1,6,5.54,20,Presencial,Yape,4,11.93,OK,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,Victor Huaman,  Ventanilla ,Frecuente,2025/06/07
+187,2026-03-28,1,13,"14,26", 10 ,Presencial,PlIn,2,3.66,Cliente frecuente,sucursal 5,San Miguel,Centro,,Bebidas,14.26,Valeria Flores,MIRAFLORES,Premium,2025-06-13
+188,2026-03-02,8,13,3.52,,WHATSAPP,,5,24.72,Promocion,sucursal 5,San Miguel,Centro,Galletas,,3.52,Pedro Cruz,La Molina,Premium,2025-02-02
+189,2026-06-13,1,5,13.2,0,  App ,Plin,4,18.51 aprox,Revisar,Sucursal 2,VENTANILLA,Oeste,Aceite vegetal,Abarrotes,13.2,Luis Soto,Comas,Nuevo,2025-02-13
+190,2026-06-07,2,15,5.54,0 aprox,Telefono,Yape,4,"10,0",Promocion,Sucursal 1,Ventanilla,Sur,Arroz extra,Abarrotes,5.54,Lucia Castillo,San Miguel,corporativo,2025-09-14
+191,2026-05-28,8,2,5.54 aprox,5,WhatsApp,Plin,4,32.17,Promocion,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,Valeria Gomez,Lima,Regular,2025-11-07
+192,2026-02-10,6,9,4.91,5,WhatsApp,Plin,2,S/ 36.27,Cliente frecuente,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Diego Reyes,Miraflores,Corporativo,2025-01-07
+193,2026-04-21,3,15,14.26,0,WhatsApp,Transferencia,3,20.91 aprox,,Sucursal 7,Ventanilla,Centro,,Bebidas,14.26,Marco Navarro,Comas,Nuevo,2025-03-21
+194,2026-01-01,7,6,S/ 10.15,0 aprox,Web,,3,33.5,Promocion,Sucursal 2,VENTANILLA,Oeste,Papel higienico,Limpieza,10.15,jorge cruz,San Juan de Lurigancho,Regular,24/04/2025
+195,2026-05-11,1,11,13.2,10,Web,  Transferencia ,3,29.95,Revisar,Sucursal 2,VENTANILLA,Oeste,Aceite vegetal,Abarrotes,13.2,Raul Quispe,Villa El Salvador,Frecuente,2025-08-10
+196,2026-05-07,2,14,18.43,8,Presencial,Transferencia,1,14.56,Revisar,Sucursal 6,Ate,Sur,Detergente,limpieza,18.43,Claudia Soto,Independencia,PrEmIuM,2025/04/14
+197,2026-04-26,3,13,5.54,0,App,Plin,3,35.91,OK,Sucursal 4,Ventanilla,  Centro ,Arroz extra,Abarrotes,5.54,Jose Rojas,San Miguel,Premium,2025-04-02
+198,2026-05-01,5,8,14.26,20,App,  Tarjeta ,1,28.79,,Sucursal 7,Ventanilla,Centro,,Bebidas,14.26,Victor Mendoza,Ventanilla,Regular,2025-08-28
+199,27-06-2026,3,6,18.43,15,App,Yape,4,35.49,Cliente frecuente,Sucursal 3,Independencia,Centro,Detergente,limpieza,18.43,Pedro Cruz,La Molina,Premium,2025-02-02
+200,2026-03-24,4,4, 17.52 ,10,,Transferencia,1,21.99,,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,Diana Reyes,Ate,,2025-03-25
+201,2026-05-06,3, 13 ,17.52,10,WhatsApp,Plin,2,11.53,OK,Sucursal 1,Ventanilla,Sur,Shampoo,Cuidado personal,17.52,Elena Cruz,Ventanilla,CORPORATIVO,2025-12-26
+202,2026-05-02,4,15, 4.91 ,5,WhatsApp,YaPe,4,21.75,Cliente frecuente,Sucursal 3,Independencia,Centro,Leche evaporada,Lacteos,4.91,,Lima,Premium,2025-11-09
+203,2026-03-20,3,2,,0 aprox,TeLeFoNo,Tarjeta,3,8.86,Cliente frecuente,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Diana Reyes,Ate,,2025-03-25
+204,2026/05/09,1,5 aprox,"5,54",8,Presencial,PLIN,,25.3,Revisar,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,Diego Cruz,SuRcO,Premium,
+205,2026-04-16,5,9,"5,54", 10 ,Telefono,Tarjeta,2,19.55,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Arroz extra,Abarrotes,5.54,,Lima,Premium,2025-11-09
+206,2026-04-26,8, 14 ,10.15,0,Telefono,Plin,5,26.99,Promocion,sucursal 5,San Miguel,Centro,Papel higienico,Limpieza,10.15,Jose Mendoza,La Molina,Nuevo,2025-07-19
+207,2026-06-07,5,5, 13.2 ,0,App,Transferencia,3,44.53,OK,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Jorge Cruz,Surco,Corporativo,2025/07/13
+208,2026/05/12,7,7,17.52,5,  Telefono ,YaPe,4,25.42,,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,Fiorella Torres,  Ate ,Nuevo,2025-11-03
+209,2026-01-21,4,5,13.2,20,WEB,Transferencia,1,14.07,Cliente frecuente,Sucursal 1,Ventanilla,Sur,Aceite vegetal,Abarrotes,13.2,Marco Reyes,Ventanilla,Corporativo,2025-06-26
+210,2026-01-18,6,7 aprox,14.26,15,App,Tarjeta,5, 35.13 ,,Sucursal 1,Ventanilla,Sur,,Bebidas,14.26,Raul Salazar,Miraflores,Frecuente,01/06/2025
+211,2026-01-23,2,10,4.91,15,App,Tarjeta,5,7.29,Promocion,Sucursal 2,VENTANILLA,Oeste,Leche evaporada,Lacteos,4.91,Andre Navarro,,Premium,20/06/2025
+212,2026-05-06,3, 13 ,17.52,10,WhatsApp,Plin,2,11.53,OK,Sucursal 1,Ventanilla,Sur,Shampoo,Cuidado personal,17.52,Elena Cruz,Ventanilla,CORPORATIVO,2025-12-26
+213,2026-02-05,1,9,18.43,10,PRESENCIAL,Yape,5,34.66,Promocion,Sucursal 2,VENTANILLA,Oeste,Detergente,limpieza,18.43,Lucia Huaman,Independencia,Regular,2025-02-10
+214,2026-02-05,4,,6.43,0,whatsapp,Transferencia,3 aprox,20.3,,Sucursal 7,Ventanilla,Centro,Atun,Conservas,6.43,Victor Quispe,Ate,  Premium ,2025-08-16
+215,2026-01-25,2, 12 ,10.15,10,Presencial,Plin,1 aprox,27.8,OK,Sucursal 7,Ventanilla,Centro,Papel higienico,Limpieza,10.15,Marco Navarro,Comas,Nuevo,2025-03-21
+216,2026-01-07,6,15 aprox,3.52,5,App,Plin,3,36.56,OK,sucursal 5,San Miguel,Centro,Galletas,,3.52,,San Juan de Lurigancho,REGULAR,2025-07-27
+217,2026-03-07,6,10,5.54,0,App,Efectivo,3,24.76,OK,Sucursal 6,Ate,Sur,Arroz extra,Abarrotes,5.54,Diego Huaman,San Miguel,FRECUENTE,2025-09-20
+218,2026-06-07,5,4,6.43,10,Web,Efectivo,1,12.63,Revisar,Sucursal 1,Ventanilla,Sur,Atun,Conservas,6.43,Jose Rojas,San Miguel,Premium,2025-04-02
+219,2026-03-03,6,6,10.15,12,APP,Plin,2,19.3,Cliente frecuente,Sucursal 1,Ventanilla,Sur,Papel higienico,Limpieza,10.15,Raul Quispe,Villa El Salvador,Frecuente,2025-08-10
+220,2026-05-03,8,7,,0,Web,Transferencia,2,29.67,,sucursal 5,San Miguel,Centro,Leche evaporada,Lacteos,4.91,Lucia Mendoza,surco,PrEmIuM,2025-12-14
+221,2026-02-17,2,3,4.91,20,App,TrAnSfErEnCiA,4,S/ 18.79,Promocion,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Raul Salazar,Los Olivos,Regular,2025-05-11
+222,2026-03-15,6,1,5.54,0,Web,yape,5,27.85,OK,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,Luis Soto,Villa El Salvador,Frecuente,2025-01-25
+223,2026-01-20,6,1 aprox,3.52,20,Web,Transferencia,5,,Revisar,Sucursal 2,VENTANILLA,Oeste,Galletas,,3.52,Diana Paredes,Lima,Frecuente,2025/09/17
+224,2026-04-08,1,16.24,"13,2", 0 ,Web,PlIn,2,63.21,Cliente frecuente,Sucursal 3,Independencia,Centro,Aceite vegetal,Abarrotes,13.2,Lucia Torres,San Juan de Lurigancho,Frecuente,2025-05-14
+225,2026-06-23,2,6,"18,43",0,PRESENCIAL,Transferencia,1,31.43,OK,Sucursal 7,Ventanilla,Centro,Detergente,limpieza,18.43,Ana Ramos,Independencia,Corporativo,2025-02-06
+226,2026-02-27,3,7,4.91,5,WhatsApp,Plin,1,9.18 aprox,,sucursal 5,San Miguel,Centro,Leche evaporada,Lacteos,4.91,Carlos Sayan,Ate,NUEVO,2025-04-26
+227,04-04-2026,2,5 aprox,3.52,0,WhatsApp,Yape,4,13.37,,Sucursal 1,Ventanilla,Sur,Galletas,,3.52,Marco Gomez,Ate,NuEvO,2025-03-15
+228,2026-01-19,1,2,6.43 aprox,20,Web,Plin,2,16.83,,sucursal 5,San Miguel,Centro,Atun,Conservas,6.43,Fiorella Flores,InDePeNdEnCiA,Nuevo,2025-04-26
+229,2026-01-28,1,8,13.2,8,Web,Plin,3,27.05,Cliente frecuente,Sucursal 3,Independencia,Centro,Aceite vegetal,Abarrotes,13.2,VALERIA NAVARRO,ChOrRiLlOs,Frecuente,2025-05-05
+230,2026-06-25,6 aprox,4,"3,52",0,Telefono,  Transferencia ,5,25.1,,Sucursal 4,Ventanilla,  Centro ,Galletas,,3.52,Lucia Mendoza,surco,PrEmIuM,2025-12-14
+231, 2026-06-02 ,7,3,18.43,20,Telefono,Efectivo,2,31.16,Promocion,Sucursal 4,Ventanilla,  Centro ,Detergente,limpieza,18.43,Lucia Castillo,San Miguel,corporativo,2025-09-14
+232,2026-04-24,2,5,5.54,15,Presencial,Yape,4,19.58,Promocion,Sucursal 4,Ventanilla,  Centro ,Arroz extra,Abarrotes,5.54,Luis Soto,Villa El Salvador,Frecuente,2025-01-25
+233,2026-06-27,3,3 aprox,5.54,10,whatsapp,,5,15.29,Promocion,Sucursal 3,Independencia,Centro,Arroz extra,Abarrotes,5.54,Diana Navarro,La Molina,Premium,2025-06-27
+234,2026-04-10,8,1,"10,15",0,App,Yape,5,46.3,Promocion,Sucursal 7,Ventanilla,Centro,Papel higienico,Limpieza,10.15,Raul Salazar,Los Olivos,Regular,2025-05-11
+235,2026-02-28,8,1,3.52,5,Telefono,Transferencia,1,17.9,Revisar,Sucursal 4,Ventanilla,  Centro ,Galletas,,3.52,Lucia Torres,San Juan de Lurigancho,Frecuente,2025-05-14
+236,2026-01-14,2,1, 3.52 ,5,Presencial,YAPE,3,2.45,OK,sucursal 5,San Miguel,Centro,Galletas,,3.52,Diego Huaman,San Miguel,FRECUENTE,2025-09-20
+237,2026-02-01,4,14,5.54,15,Web,Transferencia,1,28.53,Revisar,Sucursal 7,Ventanilla,Centro,Arroz extra,Abarrotes,5.54,Diana Reyes,Ate,,2025-03-25
+238,2026-01-09,4,11,13.2,8,Web,Tarjeta,4,15.94,,Sucursal 1,Ventanilla,Sur,Aceite vegetal,Abarrotes,13.2,Jose Gomez,Callao,Corporativo,2025-12-09
+239,2026-01-20,6,3,18.43,0,Web,Tarjeta,5,32.83,,Sucursal 1,Ventanilla,Sur,Detergente,limpieza,18.43,Fiorella Torres,  Ate ,Nuevo,2025-11-03
+240,2026-04-16,2,6,18.43,8 aprox,Web,Yape,5,21.12,,sucursal 5,San Miguel,Centro,Detergente,limpieza,18.43,Luis Ramos,Villa El Salvador,Premium,2025-04-23
+241,2026-06-19,2,2,6.43,,App,Yape,1,12.49,,Sucursal 3,Independencia,Centro,Atun,Conservas,6.43,Victor Mendoza,Ventanilla,Regular,2025-08-28
+242,2026-01-04,2 aprox,6,14.26,0,Web,Plin,5,18.64,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,,Bebidas,14.26,Fiorella Soto,callao,corporativo,2025-06-10
+243,2026-03-02,8, 1 ,13.2,20,WhatsApp,Transferencia,5,29.06,Promocion,Sucursal 3,Independencia,Centro,Aceite vegetal,Abarrotes,13.2,Elena Paredes,CaLlAo,Premium,2025-10-24
+244,2026-04-14,3,7,5.54 aprox, 20 ,App,Yape,2,4.92,,Sucursal 7,Ventanilla,Centro,Arroz extra,Abarrotes,5.54,Luis Soto,Comas,Nuevo,2025-02-13
+245,2026-04-10,3,15, 18.43 ,0,Presencial,Tarjeta,2,36.95,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Detergente,limpieza,18.43,Marco Gomez,Ate,NuEvO,2025-03-15
+246,2026-01-23,4,2,6.43,0,App,Transferencia,,28.03,Cliente frecuente,sucursal 5,San Miguel,Centro,Atun,Conservas,6.43,,Ate,Frecuente,
+247,2026-04-06,8,2,5.54 aprox,10,Telefono,Plin,3,32.4,Promocion,Sucursal 6,Ate,Sur,Arroz extra,Abarrotes,5.54,Jose Navarro,Villa El Salvador,Regular,2025-03-20
+248,2026-01-27,8,4,"6,43",12,WhatsApp,Transferencia,4,26.92,,Sucursal 4,Ventanilla,  Centro ,Atun,Conservas,6.43,Ana Mendoza,Villa El Salvador,Frecuente,2025-10-17
+249,2026-03-24,4,15,10.15,0,WhatsApp,Transferencia,2,13.53,Revisar,Sucursal 4,Ventanilla,  Centro ,Papel higienico,Limpieza,10.15,,San Juan de Lurigancho,REGULAR,2025-07-27
+250,2026-05-17,5,1,14.26,0,Telefono,Tarjeta,,17.14,,sucursal 5,San Miguel,Centro,,Bebidas,14.26,Raul Salazar,Los Olivos,Regular,2025-05-11
+251,20/03/2026,6,6,13.2,,Web,Transferencia,3,32.54,,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Fiorella Mendoza,La  Molina,Premium,2025-02-11
+252,2026-02-24,7,15,5.54,20,Presencial,Efectivo,2,,,Sucursal 1,Ventanilla,Sur,Arroz extra,Abarrotes,5.54,Camila Castillo,Ate,Corporativo,2025-08-21
+253,2026-03-05,1,8,6.43,,WhatsApp,Tarjeta,2,9.41,OK,Sucursal 3,Independencia,Centro,Atun,Conservas,6.43,Elena Torres,Ventanilla,Frecuente, 2025-03-11 
+254,2026-03-11,5,3,4.91,0,WhatsApp,Tarjeta,3,19.82,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Leche evaporada,Lacteos,4.91,Camila Castillo,Ate,Corporativo,2025-08-21
+255,05/02/2026, 1 ,10,6.43,20,Web,Tarjeta,2,13.09,ok,Sucursal 7,Ventanilla,Centro,Atun,Conservas,6.43,carlos soto,SaN MiGuEl,NUEVO,2025-07-22
+256,2026-01-27,3,11,3.52,0,Web,TRANSFERENCIA,2,"28,69",Cliente frecuente,sucursal 5,San Miguel,Centro,Galletas,,3.52,Fiorella Quispe,Independencia,Premium,2025-10-09
+257,2026-06-11,1,9,6.43,0,Presencial,Transferencia,1,16.57,promocion,Sucursal 4,Ventanilla,  Centro ,Atun,Conservas,6.43,Ana Mendoza,Villa El Salvador,Frecuente,2025-10-17
+258,13-03-2026,5,3,13.2,5,Web,Plin,1,33.73,,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Fiorella Soto,callao,corporativo,2025-06-10
+259,2026-04-13,3 aprox,9,17.52,0,Presencial,efectivo,4,27.98,OK,sucursal 5,San Miguel,Centro,Shampoo,Cuidado personal,17.52,Lucia Castillo,San Miguel,corporativo,2025-09-14
+260,01/01/2026,7,11 aprox,5.54,0,Telefono,Yape,4,21.65,,Sucursal 4,Ventanilla,  Centro ,Arroz extra,Abarrotes,5.54,Miguel Torres,Callao,  Regular ,2025/01/27
+261,27-06-2026,5,5,S/ 17.52,12,WhatsApp,Efectivo,5,37.02,,Sucursal 1,Ventanilla,Sur,Shampoo,Cuidado personal,17.52,Lucia Huaman,Independencia,Regular,2025-02-10
+262,04-04-2026,2,5 aprox,3.52,0,WhatsApp,Yape,4,13.37,,Sucursal 1,Ventanilla,Sur,Galletas,,3.52,Marco Gomez,Ate,NuEvO,2025-03-15
+263,2026-05-22,8,13,4.91,8,  Web ,Efectivo,1,39.99,,Sucursal 2,VENTANILLA,Oeste,Leche evaporada,Lacteos,4.91,Elena Torres,Ventanilla,Frecuente, 2025-03-11 
+264,2026-01-19,1,15,5.54,15,Web,Transferencia,2, 20.84 ,Revisar,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,jorge cruz,San Juan de Lurigancho,Regular,24/04/2025
+265,12-03-2026,,3,13.2,0,Web,Yape,5,21.95,,Sucursal 1,Ventanilla,Sur,Aceite vegetal,Abarrotes,13.2,Ana Mendoza,Villa El Salvador,Frecuente,2025-10-17
+266,2026-06-12,2,3,4.91,0,ApP,Efectivo,1,12.73,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Leche evaporada,Lacteos,4.91,Jose Gomez,Callao,Corporativo,2025-12-09
+267,2026-03-01,8,15,6.43,15,WhatsApp,Transferencia,5,27.07,,Sucursal 7,Ventanilla,Centro,Atun,Conservas,6.43,Maria Paredes,La Molina,Regular,2025-12-21
+268, 2026-01-09 ,7,13,13.2,20 aprox,WhatsApp,Transferencia,1,14.33,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Rocio Ramos,San Miguel,Premium,2025-11-08
+269,2026-01-07,5,10,4.91,12,Presencial,Efectivo,3,19.85,Promocion,Sucursal 7,Ventanilla,Centro,Leche evaporada,Lacteos,4.91,Miguel Gomez,San Miguel,Nuevo,2025-04-13
+270,2026-06-06,2,12,4.91,0,App,YAPE,5,10.74,Revisar,sucursal 5,San Miguel,Centro,Leche evaporada,Lacteos,4.91,Maria Paredes,La Molina,Regular,2025-12-21
+271,2026-04-03,4,14,17.52,20,Telefono,Transferencia,4,44.38,Revisar,Sucursal 2,VENTANILLA,Oeste,Shampoo,Cuidado personal,17.52,Rocio Ramos,San Miguel,Premium,2025-11-08
+272,2026-02-04,2,3,6.43,0,Presencial,Efectivo,5,15.35,,Sucursal 3,Independencia,Centro,Atun,Conservas,6.43,Claudia Soto,Independencia,PrEmIuM,2025/04/14
+273, 2026-03-27 ,2,15,18.43,0,App,Tarjeta,2,38.09,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Detergente,limpieza,18.43,Rocio Ramos,San Miguel,Premium,2025-11-08
+274,2026-01-26,4,10,3.52,5,Presencial,Tarjeta,5,3.2,Promocion,Sucursal 3,Independencia,Centro,Galletas,,3.52,Lucia Mendoza,surco,PrEmIuM,2025-12-14
+275,2026-06-25,2,7,3.52,10,WhatsApp,Yape,3,10.47,Promocion,Sucursal 1,Ventanilla,Sur,Galletas,,3.52,Luis Navarro,Comas,Regular,2025-07-04
+276,2026-05-12,1,5,18.43,0 aprox,App,Transferencia,2,9.84,OK,Sucursal 3,Independencia,Centro,Detergente,limpieza,18.43,Diego Reyes,Miraflores,Corporativo,2025-01-07
+277,2026-03-04,3,13,"18,43",8,App,Tarjeta,1,21.28,,sucursal 5,San Miguel,Centro,Detergente,limpieza,18.43,Diego Reyes,Miraflores,Corporativo,2025-01-07
+278,2026-02-06,8,13,18.43,0,ApP,Efectivo,5,39.97,Cliente frecuente,sucursal 5,San Miguel,Centro,Detergente,limpieza,18.43,Ana Rojas,LIMA,Corporativo,2025-09-21
+279,2026-03-12,7,9,17.52,0 aprox,App,Yape,5,31.4,,Sucursal 6,Ate,Sur,Shampoo,Cuidado personal,17.52,Claudia Soto,Callao,Nuevo,2025-11-17
+280,2026-06-19,2,2,6.43,,App,Yape,1,12.49,,Sucursal 3,Independencia,Centro,Atun,Conservas,6.43,Victor Mendoza,Ventanilla,Regular,2025-08-28
+281,12-05-2026,6,15,10.15,15,App,Yape,2,32.41,Promocion,Sucursal 3,Independencia,Centro,Papel higienico,Limpieza,10.15,Pedro Cruz,La Molina,Premium,2025-02-02
+282,2026-05-21,1,14,3.52,20,App,Tarjeta,5,3.0,REVISAR,Sucursal 1,Ventanilla,Sur,Galletas,,3.52,Sofia Ramos,  San Miguel ,Regular,09-04-2025
+283,2026-05-06,3,12,13.2,8,PRESENCIAL,Transferencia,2,42.87,,Sucursal 3,Independencia,Centro,Aceite vegetal,Abarrotes,13.2,Miguel Gomez,San Miguel,Nuevo,2025-04-13
+284,2026-06-19,3,10, 4.91 ,12,App,Efectivo,2,8.94,,Sucursal 1,Ventanilla,Sur,Leche evaporada,Lacteos,4.91,Elena Cruz,Ventanilla,CORPORATIVO,2025-12-26
+285,2026-03-23, 2 ,14,5.54,15,Presencial,Tarjeta,5,30.84,Revisar,sucursal 5,San Miguel,Centro,Arroz extra,Abarrotes,5.54,Diana Flores,Villa El Salvador,Regular,2025-01-26
+286,2026-06-12,1,14,10.15,0,WhatsApp,Yape,4,2.29,,sucursal 5,San Miguel,Centro,Papel higienico,Limpieza,10.15,Fiorella Mendoza,La  Molina,Premium,2025-02-11
+287,2026-05-21,1,4,17.52,10,,Efectivo,3,24.59,OK,sucursal 5,San Miguel,Centro,Shampoo,Cuidado personal,17.52,Lucia Mendoza,surco,PrEmIuM,2025-12-14
+288,2026-01-07,3,11,6.43,0,App,Transferencia, 1 ,9.42,,Sucursal 6,Ate,Sur,Atun,Conservas,6.43,Raul Salazar,Miraflores,Frecuente,01/06/2025
+289,2026-01-17,4,15,13.2,12,Presencial,Plin, 5 ,29.52,OK,Sucursal 6,Ate,Sur,Aceite vegetal,Abarrotes,13.2,Victor Cruz,Comas,Corporativo,2025-08-24
+290,02-06-2026,8,4 aprox,18.43,8,WhatsApp,Transferencia,4,27.76,Cliente frecuente,Sucursal 1,Ventanilla,Sur,Detergente,limpieza,18.43,Pedro Cruz,La Molina,Premium,2025-02-02
+291,2026-05-25,4,13,13.2,8,WhatsApp,Transferencia,1,24.65,revisar,Sucursal 6,Ate,Sur,Aceite vegetal,Abarrotes,13.2,VALERIA NAVARRO,ChOrRiLlOs,Frecuente,2025-05-05
+292,2026-04-15,4,1,17.52,0,Presencial,Plin,3,24.32,Revisar,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,Fiorella Torres,  Ate ,Nuevo,2025-11-03
+293,2026-02-20,8,9,3.52,0 aprox,APP,Tarjeta,4,13.32,Cliente frecuente,Sucursal 6,Ate,Sur,Galletas,,3.52,Raul Salazar,Los Olivos,Regular,2025-05-11
+294,2026-02-23,1,2,,8 aprox,Presencial,Yape,2,15.97,OK,Sucursal 3,Independencia,Centro,Detergente,limpieza,18.43,Claudia Soto,Callao,Nuevo,2025-11-17
+295,28-04-2026,8,4,18.43,20,Presencial,Tarjeta,1,34.47,cliente frecuente,sucursal 5,San Miguel,Centro,Detergente,limpieza,18.43,Fiorella Torres,  Ate ,Nuevo,2025-11-03
+296,2026-03-23,4,14,17.52,5,Presencial,Yape,5,29.54,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Shampoo,Cuidado personal,17.52,VALERIA NAVARRO,ChOrRiLlOs,Frecuente,2025-05-05
+297,2026-02-05,6,4,4.91,0,Web,  Yape ,1,24.35,Promocion,Sucursal 2,VENTANILLA,Oeste,Leche evaporada,Lacteos,4.91,Luis Soto,Villa El Salvador,Frecuente,2025-01-25
+298,2026-02-07,6,11,17.52,12,telefono,Plin,4,25.55,,Sucursal 7,Ventanilla,Centro,Shampoo,Cuidado personal,17.52,Elena Torres,Ventanilla,Frecuente, 2025-03-11 
+299,09-06-2026,1,12,17.52,0,WhatsApp,Transferencia,4,15.73,,Sucursal 7,Ventanilla,Centro,Shampoo,Cuidado personal,17.52,Andre Mendoza,  Ventanilla ,  Premium ,2025-03-05
+300,04/01/2026,5, 7 ,13.2,0,Presencial,Yape,2,26.85,Revisar,Sucursal 1,Ventanilla,Sur,Aceite vegetal,Abarrotes,13.2,Diana Flores,Villa El Salvador,Regular,2025-01-26
+301,2026-05-27,6,14,5.54,0,Presencial,Yape,1,28.05,Promocion,Sucursal 7,Ventanilla,Centro,Arroz extra,Abarrotes,5.54,Miguel Torres,Callao,  Regular ,2025/01/27
+302,2026-03-16,7, 3 ,18.43,8,WEB,Transferencia,3,32.25,Promocion,Sucursal 2,VENTANILLA,Oeste,Detergente,limpieza,18.43,VALERIA NAVARRO,ChOrRiLlOs,Frecuente,2025-05-05
+303,2026-02-17,3,1,13.2,20,  App ,Tarjeta,5,11.2,Revisar,Sucursal 3,Independencia,Centro,Aceite vegetal,Abarrotes,13.2,Fiorella Flores,InDePeNdEnCiA,Nuevo,2025-04-26
+304,2026-06-12, 7 ,4,14.26, 12 ,WhatsApp,Plin,4,,,Sucursal 6,Ate,Sur,,Bebidas,14.26,Marco Navarro,Comas,Nuevo,2025-03-21
+305,2026-03-20,4,13,3.52,5,Web,Transferencia,1,22.4,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Galletas,,3.52,Luis Ramos,Villa El Salvador,Premium,2025-04-23
+306,2026-06-18,4,,3.52,15,Telefono,Efectivo,3,10.55,Promocion,Sucursal 6,Ate,Sur,Galletas,,3.52,Diana Ramos,Independencia,Frecuente,2025-01-09
+307,2026-06-19,6,2,18.43,15,Web,Efectivo,2,35.78,,Sucursal 1,Ventanilla,Sur,Detergente,limpieza,18.43,Valeria Gomez,Lima,Regular,2025-11-07
+308, 2026-03-12 ,7,2,18.43,8,Telefono,Yape,4,,Promocion,Sucursal 2,VENTANILLA,Oeste,Detergente,limpieza,18.43,Elena Vargas,Callao,Corporativo,27/06/2025
+309, 2026-06-17 ,6,5,14.26 aprox,0 aprox,WeB,Transferencia,3,43.09,,Sucursal 6,Ate,Sur,,Bebidas,14.26,Luis Navarro,Comas,Regular,2025-07-04
+310,2026-03-26,8,6,17.52 aprox,10,Telefono,Yape,5,41.23,Revisar,Sucursal 1,Ventanilla,Sur,Shampoo,Cuidado personal,17.52,Ana Campos,Miraflores,Corporativo,2025-10-05
+311, 2026-03-08 ,4,27.75,5.54,5,Presencial,YAPE,1,25.99,,Sucursal 1,Ventanilla,Sur,Arroz extra,Abarrotes,5.54,Maria Navarro,Comas,Premium,2025-01-07
+312,2026-03-20,7,10,3.52,12,PrEsEnCiAl,Tarjeta,2,30.87,Promocion,sucursal 5,San Miguel,Centro,Galletas,,3.52,Diego Huaman,San Miguel,FRECUENTE,2025-09-20
+313,2026-06-21,8,7,5.54,12,,Tarjeta,2,31.63,,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,,San Juan de Lurigancho,REGULAR,2025-07-27
+314,24/04/2026,3,9,10.15,15,WHATSAPP,Yape,1,13.02,Cliente frecuente,sucursal 5,San Miguel,Centro,Papel higienico,Limpieza,10.15,Raul Salazar,Miraflores,Frecuente,01/06/2025
+315,17-03-2026,8,13,18.43,10,TELEFONO,Plin,4,56.02,,Sucursal 4,Ventanilla,  Centro ,Detergente,limpieza,18.43,Claudia Soto,Independencia,PrEmIuM,2025/04/14
+316,2026-02-16, 7 ,7,6.43,8,WhatsApp,Efectivo,1,23.37,,Sucursal 1,Ventanilla,Sur,Atun,Conservas,6.43,Lucia Castillo,San Miguel,corporativo,2025-09-14
+317,2026-06-12, 6 ,14,4.91,0,Presencial,Efectivo,5,34.31 aprox,OK,Sucursal 2,VENTANILLA,Oeste,Leche evaporada,Lacteos,4.91,Andre Mendoza,  Ventanilla ,  Premium ,2025-03-05
+318,2026-05-23,5 aprox,4,5.54,0 aprox,,Plin,3,118.44,,sucursal 5,San Miguel,Centro,Arroz extra,Abarrotes,5.54,Miguel Torres,Callao,  Regular ,2025/01/27
+319,2026-06-14,6,38.78, 18.43 ,5,Telefono,,4,37.52,Promocion,Sucursal 4,Ventanilla,  Centro ,Detergente,limpieza,18.43,Victor Huaman,  Ventanilla ,Frecuente,2025/06/07
+320,2026-06-19,4, 13 ,10.15,0,  Web ,Efectivo,4,27.7,Promocion,Sucursal 2,VENTANILLA,Oeste,Papel higienico,Limpieza,10.15,Diana Flores,San Juan de Lurigancho,Regular,2025-02-12
+321,2026-01-05,6,6,13.2,12,WhatsApp,Yape,1,42.13,,Sucursal 1,Ventanilla,Sur,Aceite vegetal,Abarrotes,13.2,Sofia Ramos,  San Miguel ,Regular,09-04-2025
+322,2026-04-06,4,,17.52,10,Web,Efectivo,5, 39.33 ,Promocion,Sucursal 2,VENTANILLA,Oeste,Shampoo,Cuidado personal,17.52,Raul Salazar,Los Olivos,Regular,2025-05-11
+323,2026-05-23,3,14,5.54,0,Web,  Efectivo ,1,34.44,Revisar,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,Elena Vargas,Callao,Corporativo,27/06/2025
+324,,6,12,13.2,0,  Presencial ,yape,1,26.27,Revisar,Sucursal 6,Ate,Sur,Aceite vegetal,Abarrotes,13.2,Victor Mendoza,Ventanilla,Regular,2025-08-28
+325,2026-01-09,6,9,4.91,0,WhatsApp,Efectivo,3,25.45,PROMOCION,Sucursal 7,Ventanilla,Centro,Leche evaporada,Lacteos,4.91,Elena Cruz,Ventanilla,CORPORATIVO,2025-12-26
+326,2026-02-05,3,3,5.54,0,Telefono,Efectivo,5,23.81,Cliente frecuente,Sucursal 7,Ventanilla,Centro,Arroz extra,Abarrotes,5.54,Ana Navarro,Independencia,Frecuente,2025-02-19
+327,2026-03-17, 2 ,10,14.26,20,Telefono,Efectivo,3,36.76,,Sucursal 7,Ventanilla,Centro,,Bebidas,14.26,RaUl sOtO,SuRcO,,2025-01-01
+328,2026-01-03,,6,6.43,15,App,Efectivo,5,26.01,Promocion,sucursal 5,San Miguel,Centro,Atun,Conservas,6.43,Maria Vargas,  Surco ,Nuevo,2025-07-22
+329,2026-02-25,8,14,13.2,0,Telefono,  Plin ,3,32.93,,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Carlos Torres,  Ate ,CoRpOrAtIvO,
+330,2026-06-11,6,10,S/ 14.26,5,  Telefono ,Yape,1,31.36,OK,Sucursal 7,Ventanilla,Centro,,Bebidas,14.26,,San Juan de Lurigancho,REGULAR,2025-07-27
+331,2026/01/19, 7 ,10,14.26,8,TELEFONO,Transferencia,2,51.12,Revisar,Sucursal 4,Ventanilla,  Centro ,,Bebidas,14.26,Ana Quispe,  Los Olivos ,NuEvO,2025-03-05
+332,2026-04-19,4,6 aprox, 14.26 ,0,WhatsApp,TARJETA,5,24.28,OK,Sucursal 6,Ate,Sur,,Bebidas,14.26,Raul Salazar,Miraflores,Frecuente,01/06/2025
+333,2026-03-16,2,4,17.52,5 aprox,App,EfEcTiVo,3,22.27,OK,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,Miguel Torres,Callao,  Regular ,2025/01/27
+334,2026-05-05,6,9,13.2,0,Web,plin,1,41.15 aprox,OK,Sucursal 7,Ventanilla,Centro,Aceite vegetal,Abarrotes,13.2,Fiorella Castillo,Lima,Nuevo,2025-01-01
+335,2026/01/06,3,11,"5,54",10 aprox,Presencial,Transferencia,1,17.0,,Sucursal 1,Ventanilla,Sur,Arroz extra,Abarrotes,5.54,Luis Navarro,Comas,Regular,2025-07-04
+336,2026-01-12,1,13,18.43,,Web,Transferencia,5,17.69,OK,Sucursal 3,Independencia,Centro,Detergente,limpieza,18.43,Diana Paredes,Lima,Frecuente,2025/09/17
+337,2026-06-19,,9,S/ 18.43,20,Presencial,Plin,3,26.85,OK,Sucursal 6,Ate,Sur,Detergente,limpieza,18.43,Jorge Cruz,Surco,Corporativo,2025/07/13
+338,2026-01-04,3,12.06,14.26, 10 ,TELEFONO,Plin,2,37.88,OK,Sucursal 6,Ate,Sur,,Bebidas,14.26,Ana Quispe,  Los Olivos ,NuEvO,2025-03-05
+339,2026-06-03,5,10,10.15,5,WhatsApp,Tarjeta,3,31.03,,sucursal 5,San Miguel,Centro,Papel higienico,Limpieza,10.15,Ana Mendoza,Villa El Salvador,Frecuente,2025-10-17
+340,2026-05-23,4,3,17.52,10,Web,Efectivo,5,28.11,OK,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,Marco Sayan,Miraflores,nuevo,2025-11-08
+341,2026-06-06,2,12,4.91,0,App,YAPE,5,10.74,Revisar,sucursal 5,San Miguel,Centro,Leche evaporada,Lacteos,4.91,Maria Paredes,La Molina,Regular,2025-12-21
+342,2026/02/01,8,,14.26,12,Presencial,Plin,2,28.92,Cliente frecuente,Sucursal 6,Ate,Sur,,Bebidas,14.26,Andre Flores,Independencia,Nuevo,2025-03-19
+343,2026-06-25,8,2,4.91,0,WHATSAPP,Yape,2,35.83,,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Diego Cruz,SuRcO,Premium,
+344,2026-03-24,8,5,18.43,8,App,Efectivo,1,19.79,Revisar,Sucursal 7,Ventanilla,Centro,Detergente,limpieza,18.43,,Lima,Premium,2025-11-09
+345,2026-06-27,4,1,14.26,20,  WhatsApp ,Transferencia,3,21.42,Promocion,sucursal 5,San Miguel,Centro,,Bebidas,14.26,Ana Navarro,Independencia,Frecuente,2025-02-19
+346,2026-03-17,1,15 aprox,6.43,10,WhatsApp,Yape,2,"25,93",,Sucursal 1,Ventanilla,Sur,Atun,Conservas,6.43,Andre Navarro,,Premium,20/06/2025
+347,2026-02-26, 8 ,1,18.43,10,,Yape,1,35.07,,sucursal 5,San Miguel,Centro,Detergente,limpieza,18.43,Fiorella Torres,  Ate ,Nuevo,2025-11-03
+348,2026-04-26,2,3,3.52,15,Presencial,YAPE,5,15.13,,Sucursal 7,Ventanilla,Centro,Galletas,,3.52,Victor Mendoza,Ventanilla,Regular,2025-08-28
+349,2026-05-12,3,7,18.43,12,WhatsApp,EfEcTiVo,2,14.58,Revisar,Sucursal 6,Ate,Sur,Detergente,limpieza,18.43,Victor Quispe,Ate,  Premium ,2025-08-16
+350,2026-02-13,6,15,4.91,15,WhatsApp,Efectivo,5,11.25,Revisar,Sucursal 7,Ventanilla,Centro,Leche evaporada,Lacteos,4.91,Ana Mendoza,Villa El Salvador,Frecuente,2025-10-17
+351,2026-04-05,3,14,"5,54",0,Telefono,Transferencia,5,8.34,Cliente frecuente,Sucursal 1,Ventanilla,Sur,Arroz extra,Abarrotes,5.54,carlos soto,SaN MiGuEl,NUEVO,2025-07-22
+352,2026-01-16,5,6,4.91,10,PRESENCIAL,Yape,1,27.8,OK,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Raul Salazar,Los Olivos,Regular,2025-05-11
+353,2026-01-16,3,4,14.26,15,TELEFONO,Transferencia,1,21.76,OK,Sucursal 7,Ventanilla,Centro,,Bebidas,14.26,carlos soto,SaN MiGuEl,NUEVO,2025-07-22
+354,2026-03-15,8,2,3.52,0,App,Plin,2,"19,01",Revisar,Sucursal 3,Independencia,Centro,Galletas,,3.52,Marco Gomez,Ate,NuEvO,2025-03-15
+355, 2026-03-13 ,5 aprox,6,14.26,12,Presencial,,2,43.42,Promocion,Sucursal 4,Ventanilla,  Centro ,,Bebidas,14.26,,San Juan de Lurigancho,REGULAR,2025-07-27
+356,2026-04-04,3,2,10.15,12,WhatsApp,Tarjeta,5,30.97,OK,Sucursal 3,Independencia,Centro,Papel higienico,Limpieza,10.15,Camila Castillo,Ate,Corporativo,2025-08-21
+357,2026-04-21,4,1,6.43,20,App,Plin,4,8.8,Cliente frecuente,Sucursal 3,Independencia,Centro,Atun,Conservas,6.43,Lucia Torres,San Juan de Lurigancho,Frecuente,2025-05-14
+358,2026-06-17,2,2,14.26,5,Presencial,,2,20.04,Cliente frecuente,sucursal 5,San Miguel,Centro,,Bebidas,14.26,Diego Reyes,Miraflores,Corporativo,2025-01-07
+359,2026-01-04,8,13 aprox,"13,2",10,App,Efectivo,2,31.69 aprox,Cliente frecuente,Sucursal 7,Ventanilla,Centro,Aceite vegetal,Abarrotes,13.2,carlos soto,SaN MiGuEl,NUEVO,2025-07-22
+360,2026/06/01,5,7,4.91,15,App,Plin, 2 ,16.25,OK,Sucursal 4,Ventanilla,  Centro ,Leche evaporada,Lacteos,4.91,Marco Reyes,Ventanilla,Corporativo,2025-06-26
+361,2026-02-12,6,9,18.43,10,Web,  Efectivo ,2,31.34,Revisar,Sucursal 6,Ate,Sur,Detergente,limpieza,18.43,Carlos Torres,  Ate ,CoRpOrAtIvO,
+362,2026-01-03,8,7 aprox,10.15,12,Presencial,Efectivo,1,"35,0",,Sucursal 1,Ventanilla,Sur,Papel higienico,Limpieza,10.15,Valeria Gomez,Lima,Regular,2025-11-07
+363,2026-04-05,3,14,"5,54",0,Telefono,Transferencia,5,8.34,Cliente frecuente,Sucursal 1,Ventanilla,Sur,Arroz extra,Abarrotes,5.54,carlos soto,SaN MiGuEl,NUEVO,2025-07-22
+364,2026-04-06,7,13,S/ 3.52,15,WhatsApp,Tarjeta,5,23.35,Cliente frecuente,Sucursal 7,Ventanilla,Centro,Galletas,,3.52,Jorge Cruz,Surco,Corporativo,2025/07/13
+365,2026-06-23,3,8,3.52,0,Web,TRANSFERENCIA,1,3.35 aprox,Revisar,Sucursal 6,Ate,Sur,Galletas,,3.52,Claudia Gomez,Surco,Nuevo, 2025-12-18 
+366,2026-06-08,8,12,17.52,8 aprox,WhatsApp,efectivo,2,47.03,,Sucursal 4,Ventanilla,  Centro ,Shampoo,Cuidado personal,17.52,Carlos Torres,  Ate ,CoRpOrAtIvO,
+367,10-01-2026,8,9,4.91,5,App,Yape,1,36.05,Promocion,Sucursal 3,Independencia,Centro,Leche evaporada,Lacteos,4.91,Diana Navarro,La Molina,Premium,2025-06-27
+368,2026-03-22,7,9,10.15,0 aprox,,EfEcTiVo,1,20.54,,Sucursal 1,Ventanilla,Sur,Papel higienico,Limpieza,10.15,Claudia Soto,Independencia,PrEmIuM,2025/04/14
+369,2026-03-09,5,13,18.43,8,App,Transferencia,1 aprox,,,Sucursal 3,Independencia,Centro,Detergente,limpieza,18.43,,Lima,Premium,2025-11-09
+370,2026-03-02,8,13,3.52,,WHATSAPP,,5,24.72,Promocion,sucursal 5,San Miguel,Centro,Galletas,,3.52,Pedro Cruz,La Molina,Premium,2025-02-02
+371,,4,10 aprox,4.91,12,App,YAPE,1, 11.8 ,,Sucursal 3,Independencia,Centro,Leche evaporada,Lacteos,4.91,Carlos Sayan,Ate,NUEVO,2025-04-26
+372,2026-06-10,7,8,18.43,12,WhatsApp,Transferencia,5,39.22,Revisar,Sucursal 6,Ate,Sur,Detergente,limpieza,18.43,Rocio Ramos,San Miguel,Premium,2025-11-08
+373,2026-01-02,5,8,13.2,0,App,Tarjeta,1,26.62,Revisar,sucursal 5,San Miguel,Centro,Aceite vegetal,Abarrotes,13.2,Raul Quispe,Villa El Salvador,Frecuente,2025-08-10
+374,2026-03-07,4,14,14.26,,Web,Efectivo,4,28.82,,Sucursal 6,Ate,Sur,,Bebidas,14.26,Victor Quispe,Ate,  Premium ,2025-08-16
+375,2026-03-21,3,11,4.91,20,Telefono,Yape,5,0.5,Revisar,Sucursal 4,Ventanilla,  Centro ,Leche evaporada,Lacteos,4.91,Diana Flores,Villa El Salvador,Regular,2025-01-26
+376,2026-06-28,2,4,17.52,12,Web,,4,9.13,Promocion,Sucursal 2,VENTANILLA,Oeste,Shampoo,Cuidado personal,17.52,Carlos Torres,  Ate ,CoRpOrAtIvO,
+377,,3,5,13.2,20,Web,Efectivo,2,38.49,,Sucursal 2,VENTANILLA,Oeste,Aceite vegetal,Abarrotes,13.2,Victor Cruz,Comas,Corporativo,2025-08-24
+378,2026-01-24,4,6, 13.2 ,8,WhatsApp,TrAnSfErEnCiA,,43.31,,Sucursal 1,Ventanilla,Sur,Aceite vegetal,Abarrotes,13.2,Ana Ramos,Independencia,Corporativo,2025-02-06
+379,2026-04-27,7,5,3.52,0,WhatsApp,Transferencia,2,"18,47",,Sucursal 2,VENTANILLA,Oeste,Galletas,,3.52,Jose Gomez,Callao,Corporativo,2025-12-09
+380,2026-01-02,,3,14.26,10,PrEsEnCiAl,  Efectivo ,3,S/ 21.67,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,,Bebidas,14.26,Diego Huaman,San Miguel,FRECUENTE,2025-09-20
+381,2026-02-09,1,14,3.52,,Web,Yape,1,19.53,Revisar,sucursal 5,San Miguel,Centro,Galletas,,3.52,Miguel Torres,Callao,  Regular ,2025/01/27
+382,2026-04-14,2,14,18.43,15 aprox,Presencial,TARJETA,4,"33,83",,Sucursal 4,Ventanilla,  Centro ,Detergente,limpieza,18.43,Ana Navarro,Independencia,Frecuente,2025-02-19
+383,2026-05-22,8,3,S/ 6.43, 0 ,Telefono,Efectivo,1,40.14,Revisar,Sucursal 3,Independencia,Centro,Atun,Conservas,6.43,Carlos Torres,  Ate ,CoRpOrAtIvO,
+384,2026-05-17,1,1,S/ 18.43, 0 ,  Web ,Efectivo,5,16.88,,Sucursal 6,Ate,Sur,Detergente,limpieza,18.43,Fiorella Castillo,Lima,Nuevo,2025-01-01
+385,2026-01-11,5,5,3.52,0,Telefono,Yape,1,18.45,ok,Sucursal 2,VENTANILLA,Oeste,Galletas,,3.52,Andre Flores,Independencia,Nuevo,2025-03-19
+386,2026-01-14,1,11,13.2,0,Web,,1,,Promocion,Sucursal 2,VENTANILLA,Oeste,Aceite vegetal,Abarrotes,13.2,Marco Sayan,Miraflores,nuevo,2025-11-08
+387,2026-02-11,6,8,18.43,0,App,Yape,4,34.37,,Sucursal 3,Independencia,Centro,Detergente,limpieza,18.43,Raul Salazar,Los Olivos,Regular,2025-05-11
+388,2026-06-12, 8 ,10,3.52,0,web,Tarjeta,5,30.52,Revisar,Sucursal 3,Independencia,Centro,Galletas,,3.52,Raul Salazar,Miraflores,Frecuente,01/06/2025
+389,2026-06-25,6 aprox, 6 ,5.54,0,Telefono,  Tarjeta ,1,23.42,Cliente frecuente,Sucursal 7,Ventanilla,Centro,Arroz extra,Abarrotes,5.54,Rocio Ramos,San Miguel,Premium,2025-11-08
+390,2026-06-18,4,6,5.54,0,Web,,1,23.87,Cliente frecuente,Sucursal 3,Independencia,Centro,Arroz extra,Abarrotes,5.54,Diana Flores,Villa El Salvador,Regular,2025-01-26
+391,2026-05-26,5,10,S/ 4.91,15,Web,Plin,2,30.0,Cliente frecuente,Sucursal 7,Ventanilla,Centro,Leche evaporada,Lacteos,4.91,Ana Quispe,  Los Olivos ,NuEvO,2025-03-05
+392,2026-04-08,6,8,6.43 aprox,0,App,Plin,4,33.47,  Cliente frecuente ,Sucursal 3,Independencia,Centro,Atun,Conservas,6.43,Andre Navarro,,Premium,20/06/2025
+393,2026-03-23,7 aprox,2,5.54,20,  Presencial ,,5,19.35,OK,Sucursal 7,Ventanilla,Centro,Arroz extra,Abarrotes,5.54,Luis Navarro,Comas,Regular,2025-07-04
+394,2026/06/13,5,15,3.52,20,PrEsEnCiAl,Yape, 2 ,27.32,,Sucursal 2,VENTANILLA,Oeste,Galletas,,3.52,Rocio Ramos,San Miguel,Premium,2025-11-08
+395,2026-05-23,6,11,18.43,10,App,Yape,5,36.05,,Sucursal 7,Ventanilla,Centro,Detergente,limpieza,18.43,Jose Gomez,Callao,Corporativo,2025-12-09
+396,2026-02-28,8,14,18.43,20,App,Yape,2,28.67,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Detergente,limpieza,18.43,Elena Paredes,CaLlAo,Premium,2025-10-24
+397,2026-04-18,6,9,18.43,5,Telefono,  Efectivo ,,28.91,OK,Sucursal 2,VENTANILLA,Oeste,Detergente,limpieza,18.43,Elena Cruz,Ventanilla,CORPORATIVO,2025-12-26
+398,2026-06-10,6,,3.52,10,Presencial,Efectivo,4 aprox,24.29 aprox,OK,Sucursal 6,Ate,Sur,Galletas,,3.52,Diana Navarro,La Molina,Premium,2025-06-27
+399,2026-02-07,1,15,S/ 18.43,10,Presencial,Efectivo,5,24.49,Promocion,Sucursal 7,Ventanilla,Centro,Detergente,limpieza,18.43,Fiorella Flores,InDePeNdEnCiA,Nuevo,2025-04-26
+400,2026-02-07,7,3,4.91,0,,Tarjeta,3,38.24,,sucursal 5,San Miguel,Centro,Leche evaporada,Lacteos,4.91,Valeria Flores,MIRAFLORES,Premium,2025-06-13
+401,2026-03-20,3,13, 3.52 ,10,Telefono,Yape,4,,Promocion,Sucursal 2,VENTANILLA,Oeste,Galletas,,3.52,Valeria Gomez,Lima,Regular,2025-11-07
+402,06-04-2026,7,1,4.91,20,Telefono,Efectivo,4,23.57,Promocion,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Diego Cruz,SuRcO,Premium,
+403,2026-05-09,1, 2 ,13.2 aprox,20,Telefono,Yape, 1 ,20.0,Cliente frecuente,Sucursal 3,Independencia,Centro,Aceite vegetal,Abarrotes,13.2,Andre Mendoza,  Ventanilla ,  Premium ,2025-03-05
+404,2026-03-04,8,4 aprox,4.91,,WhatsApp,Tarjeta,5,55.18,Cliente frecuente,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Pedro Cruz,La Molina,Premium,2025-02-02
+405,2026-06-18,4,8,10.15,0,Telefono,Plin,2,S/ 41.81,Revisar,Sucursal 3,Independencia,Centro,Papel higienico,Limpieza,10.15,Raul Quispe,Villa El Salvador,Frecuente,2025-08-10
+406,2026-04-27,3,14,10.15,10,,Plin,3,23.94,  Promocion ,sucursal 5,San Miguel,Centro,Papel higienico,Limpieza,10.15,jorge cruz,San Juan de Lurigancho,Regular,24/04/2025
+407,2026-02-21,6,5,5.54,8,WhatsApp,PlIn,1,7.56,Revisar,Sucursal 7,Ventanilla,Centro,Arroz extra,Abarrotes,5.54,Claudia Gomez,Surco,Nuevo, 2025-12-18 
+408,2026-06-02,5,5,18.43,0,WhatsApp,Yape,2,33.08,,Sucursal 3,Independencia,Centro,Detergente,limpieza,18.43,Lucia Huaman,Independencia,Regular,2025-02-10
+409,2026-05-20,2,12,10.15,0,Web,Transferencia,3,21.75,Promocion,sucursal 5,San Miguel,Centro,Papel higienico,Limpieza,10.15,Elena Cruz,Ventanilla,CORPORATIVO,2025-12-26
+410,2026-03-16,2,1 aprox,14.26,15,Web,Tarjeta,1,13.79,,Sucursal 4,Ventanilla,  Centro ,,Bebidas,14.26,Victor Quispe,Ate,  Premium ,2025-08-16
+411,2026-02-26,2,5,5.54,0,presencial,Efectivo,4,S/ 30.89,,Sucursal 7,Ventanilla,Centro,Arroz extra,Abarrotes,5.54,Valeria Gomez,Lima,Regular,2025-11-07
+412,2026-02-24,3,9 aprox,18.43,0,Presencial,Transferencia,4,20.12,Revisar,Sucursal 1,Ventanilla,Sur,Detergente,limpieza,18.43,,Independencia,ReGuLaR,17/10/2025
+413,2026-05-10,5,11,3.52,10,WhatsApp,Transferencia,4,0.99,Promocion,Sucursal 1,Ventanilla,Sur,Galletas,,3.52,Diana Flores,Villa El Salvador,Regular,2025-01-26
+414,2026-06-16,3 aprox,13,5.54,0,WhatsApp,Yape,3,4.66,,Sucursal 3,Independencia,Centro,Arroz extra,Abarrotes,5.54,Victor Quispe,Ate,  Premium ,2025-08-16
+415,2026-03-07,7,3 aprox,14.26,8,App,plin,1,50.29,PrOmOcIoN,Sucursal 7,Ventanilla,Centro,,Bebidas,14.26,Lucia Castillo,San Miguel,corporativo,2025-09-14
+416,2026-05-09,8,12,4.91,20,Presencial,  Plin , 2 ,23.46,,sucursal 5,San Miguel,Centro,Leche evaporada,Lacteos,4.91,Victor Paredes,independencia,Corporativo,11-11-2025
+417,2026-04-26,2,13,4.91,10,WhatsApp,Yape,2,21.02,OK,sucursal 5,San Miguel,Centro,Leche evaporada,Lacteos,4.91,Elena Vargas,Callao,Corporativo,27/06/2025
+418,2026-06-11,4,15,13.2,8,Telefono,YaPe,2,"22,01",Revisar,Sucursal 3,Independencia,Centro,Aceite vegetal,Abarrotes,13.2,Ana Navarro,Independencia,Frecuente,2025-02-19
+419,2026-02-11,7,13,14.26,0,App,Tarjeta,3,26.53 aprox,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,,Bebidas,14.26,Rocio Ramos,San Miguel,Premium,2025-11-08
+420,,2, 5 ,14.26,0,Presencial,Tarjeta,2,41.3,Revisar,Sucursal 4,Ventanilla,  Centro ,,Bebidas,14.26,VALERIA NAVARRO,ChOrRiLlOs,Frecuente,2025-05-05
+421,2026-02-15,4,11 aprox,17.52,0,,Yape,3,45.83,Cliente frecuente,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,Marco Navarro,Comas,Nuevo,2025-03-21
+422,17/03/2026,7,10,4.91,8,Presencial,Tarjeta,3 aprox,29.07,,Sucursal 1,Ventanilla,Sur,Leche evaporada,Lacteos,4.91,Miguel Torres,Callao,  Regular ,2025/01/27
+423,2026/05/08,6, 14 ,,15,App,Plin,5,31.16,Revisar,Sucursal 2,VENTANILLA,Oeste,Aceite vegetal,Abarrotes,13.2,Sofia Ramos,  San Miguel ,Regular,09-04-2025
+424,2026-06-12,6,7,17.52,0,  Presencial ,Efectivo,2,29.48,OK,sucursal 5,San Miguel,Centro,Shampoo,Cuidado personal,17.52,Fiorella Torres,  Ate ,Nuevo,2025-11-03
+425,2026-01-06,5,7,18.43,0,Presencial,  Plin ,1,22.19,Promocion,Sucursal 2,VENTANILLA,Oeste,Detergente,limpieza,18.43,Carlos Sayan,Ate,NUEVO,2025-04-26
+426,2026-03-08,7 aprox,14 aprox, 14.26 ,15,Telefono,Tarjeta,1,46.95,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,,Bebidas,14.26,Luis Navarro,Comas,Regular,2025-07-04
+427,2026-05-19,6,11,13.2 aprox,0,Telefono,Tarjeta,5,31.93,OK,Sucursal 1,Ventanilla,Sur,Aceite vegetal,Abarrotes,13.2,Andre Flores,Independencia,Nuevo,2025-03-19
+428,2026-05-08,8,7,10.15,0,Web,Transferencia,4,30.74,Revisar,Sucursal 3,Independencia,Centro,Papel higienico,Limpieza,10.15,Valeria Flores,MIRAFLORES,Premium,2025-06-13
+429,2026-06-02,5,5,18.43,5,WhatsApp,efectivo,1,29.01,OK,Sucursal 7,Ventanilla,Centro,Detergente,limpieza,18.43,Fiorella Torres,  Ate ,Nuevo,2025-11-03
+430,2026-06-19,4,14,4.91,0,Presencial,YAPE, 2 ,9.16,Revisar,Sucursal 1,Ventanilla,Sur,Leche evaporada,Lacteos,4.91,Marco Gomez,Ate,NuEvO,2025-03-15
+431,2026-01-09,5,15,13.2, 0 ,Telefono,Yape,4,29.94,Revisar,Sucursal 7,Ventanilla,Centro,Aceite vegetal,Abarrotes,13.2,Marco Sayan,Miraflores,nuevo,2025-11-08
+432,2026-03-03,3,5,4.91,5,Presencial,Efectivo,5,29.41,Revisar,Sucursal 6,Ate,Sur,Leche evaporada,Lacteos,4.91,Lucia Mendoza,surco,PrEmIuM,2025-12-14
+433,2026-03-17,4,7,13.2,0,WhatsApp,Plin,,20.37,OK,Sucursal 6,Ate,Sur,Aceite vegetal,Abarrotes,13.2,Claudia Soto,Independencia,PrEmIuM,2025/04/14
+434,2026-04-13,4,13,3.52,0,Telefono,Efectivo,2 aprox,24.05,OK,sucursal 5,San Miguel,Centro,Galletas,,3.52,Carlos Torres,  Ate ,CoRpOrAtIvO,
+435,2026-05-14,4,14,6.43,8,App,Plin,5,20.03,Cliente frecuente,Sucursal 1,Ventanilla,Sur,Atun,Conservas,6.43,Victor Mendoza,Ventanilla,Regular,2025-08-28
+436, 2026-05-25 ,5,10,5.54,0,telefono,  Tarjeta ,5,,,Sucursal 6,Ate,Sur,Arroz extra,Abarrotes,5.54,jorge cruz,San Juan de Lurigancho,Regular,24/04/2025
+437,2026-01-09,5,10,6.43,0,app,Transferencia,5,18.7,Revisar,Sucursal 2,VENTANILLA,Oeste,Atun,Conservas,6.43,Luis Navarro,Comas,Regular,2025-07-04
+438,2026-04-18,2,8,13.2,5,WhatsApp,Tarjeta,4,32.13,,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Diana Reyes,Ate,,2025-03-25
+439,2026-02-10,6,13,10.15,0,WhatsApp,Transferencia,,32.65,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Papel higienico,Limpieza,10.15,Andre Navarro,,Premium,20/06/2025
+440,2026-04-02,2,12,17.52,0,App,EFECTIVO,3 aprox,25.6,,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,  Carlos Huaman ,callao,Frecuente,2025-03-25
+441,2026-01-14,2,1,17.52,12,App,Yape,2,14.67,,Sucursal 1,Ventanilla,Sur,Shampoo,Cuidado personal,17.52,Miguel Mendoza,Independencia,Corporativo, 2025-10-19 
+442,2026-06-15,7,10,17.52 aprox,8,Web,Plin,,41.02,,Sucursal 6,Ate,Sur,Shampoo,Cuidado personal,17.52,Diana Flores,San Juan de Lurigancho,Regular,2025-02-12
+443,2026-04-06,8,15,13.2,8,WhatsApp,Tarjeta,1,49.54,OK,Sucursal 6,Ate,Sur,Aceite vegetal,Abarrotes,13.2,Marco Sayan,Miraflores,nuevo,2025-11-08
+444,2026-06-28,3,3,3.52,0,WhatsApp,Yape, 3 ,23.43,Cliente frecuente,Sucursal 3,Independencia,Centro,Galletas,,3.52,Diana Ramos,Independencia,Frecuente,2025-01-09
+445,2026-05-28,8,11,4.91,0,WhatsApp,Tarjeta,3,47.17,Cliente frecuente,Sucursal 4,Ventanilla,  Centro ,Leche evaporada,Lacteos,4.91,Elena Cruz,Ventanilla,CORPORATIVO,2025-12-26
+446,2026-01-10,5, 14 ,3.52,5,WhatsApp,Yape,5,14.16,Revisar,Sucursal 3,Independencia,Centro,Galletas,,3.52,,Lima,Premium,2025-11-09
+447,2026-02-05,4,10,6.43,12,ApP,Efectivo,4,23.29,,sucursal 5,San Miguel,Centro,Atun,Conservas,6.43,Diana Flores,San Juan de Lurigancho,Regular,2025-02-12
+448,2026-01-13,7,11, 17.52 ,12,Telefono,Yape,2 aprox,21.11,Revisar,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,Luis Ramos,Villa El Salvador,Premium,2025-04-23
+449,2026-02-09,3,13,"3,52",20,Telefono,Tarjeta,2,1.24,cliente frecuente,Sucursal 7,Ventanilla,Centro,Galletas,,3.52,Luis Ramos,Villa El Salvador,Premium,2025-04-23
+450,2026-02-21,8,15,13.2,12,ApP,Tarjeta,4,32.84,OK,sucursal 5,San Miguel,Centro,Aceite vegetal,Abarrotes,13.2,Carlos Torres,  Ate ,CoRpOrAtIvO,
+451,2026-02-14,3,11,,12,Presencial,Tarjeta,5,15.81,OK,Sucursal 1,Ventanilla,Sur,Detergente,limpieza,18.43,Jose Mendoza,La Molina,Nuevo,2025-07-19
+452,2026-01-08,3,,10.15,12,App,Yape,5,22.66,Promocion,Sucursal 7,Ventanilla,Centro,Papel higienico,Limpieza,10.15,Elena Paredes,CaLlAo,Premium,2025-10-24
+453,2026-04-01,4,7 aprox,5.54,12,App,  Efectivo ,1,27.4,,sucursal 5,San Miguel,Centro,Arroz extra,Abarrotes,5.54,Jose Mendoza,La Molina,Nuevo,2025-07-19
+454,2026-02-25, 3 ,3,5.54,0,Presencial,Yape,1,10.75,Promocion,Sucursal 4,Ventanilla,  Centro ,Arroz extra,Abarrotes,5.54,Marco Gomez,Ate,NuEvO,2025-03-15
+455,2026-02-01,4,14,17.52,12,App,Plin,4,24.25,Revisar,Sucursal 4,Ventanilla,  Centro ,Shampoo,Cuidado personal,17.52,Miguel Torres,Callao,  Regular ,2025/01/27
+456,2026-02-16,3,6,4.91,20 aprox,TELEFONO,Yape,5,21.56,,sucursal 5,San Miguel,Centro,Leche evaporada,Lacteos,4.91,RaUl sOtO,SuRcO,,2025-01-01
+457,2026-05-27,7,10,S/ 18.43,20,Telefono,TrAnSfErEnCiA,2,45.95,,Sucursal 6,Ate,Sur,Detergente,limpieza,18.43,Fiorella Soto,callao,corporativo,2025-06-10
+458,2026-04-02,6,2,6.43,5,Presencial,TRANSFERENCIA,,24.2,Revisar,Sucursal 3,Independencia,Centro,Atun,Conservas,6.43,Maria Vargas,  Surco ,Nuevo,2025-07-22
+459,2026-06-11,1,9,6.43,0,Presencial,Transferencia,1,16.57,promocion,Sucursal 4,Ventanilla,  Centro ,Atun,Conservas,6.43,Ana Mendoza,Villa El Salvador,Frecuente,2025-10-17
+460,08/01/2026,6 aprox,7,6.43,12,Telefono,Transferencia,1,35.29,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Atun,Conservas,6.43,Sofia Ramos,  San Miguel ,Regular,09-04-2025
+461,2026-01-19,2,15,3.52,10,Presencial,Efectivo,4,22.11,Cliente frecuente,sucursal 5,San Miguel,Centro,Galletas,,3.52,Elena Cruz,Ventanilla,CORPORATIVO,2025-12-26
+462,2026-04-24,3,1,18.43,5,App,Transferencia,1,46.61,,Sucursal 2,VENTANILLA,Oeste,Detergente,limpieza,18.43,Victor Cruz,Comas,Corporativo,2025-08-24
+463,2026-02-11,8,7,13.2,5,WhatsApp,Transferencia,4,25.88,Revisar,Sucursal 7,Ventanilla,Centro,Aceite vegetal,Abarrotes,13.2,Maria Vargas,  Surco ,Nuevo,2025-07-22
+464,2026-01-07,2,9,13.2,5,Telefono,Yape,3, 27.04 ,Promocion,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,jorge cruz,San Juan de Lurigancho,Regular,24/04/2025
+465,2026-02-08,1,5,3.52,8,App,Transferencia,4,25.76,,sucursal 5,San Miguel,Centro,Galletas,,3.52,Diana Reyes,Ate,,2025-03-25
+466,2026-03-01,4,10,10.15,0,Telefono,Yape,1,18.81,Cliente frecuente,Sucursal 2,VENTANILLA,Oeste,Papel higienico,Limpieza,10.15,Luis Navarro,Comas,Regular,2025-07-04
+467,2026-06-06,2,10,10.15,12,  App ,Transferencia,2,18.63,,Sucursal 6,Ate,Sur,Papel higienico,Limpieza,10.15,Victor Mendoza,Ventanilla,Regular,2025-08-28
+468,26-03-2026,4,5,6.43,12 aprox,,Yape,5,22.57,Promocion,sucursal 5,San Miguel,Centro,Atun,Conservas,6.43,Fiorella Castillo,Lima,Nuevo,2025-01-01
+469,2026-04-01,1,7, 5.54 ,12,App,PLIN,5,S/ 9.62,,Sucursal 1,Ventanilla,Sur,Arroz extra,Abarrotes,5.54,Diana Paredes,Lima,Frecuente,2025/09/17
+470,2026/06/24,8,10 aprox,5.54,20,telefono,Plin,4,53.73,Promocion,Sucursal 3,Independencia,Centro,Arroz extra,Abarrotes,5.54,Ana Navarro,Independencia,Frecuente,2025-02-19
+471,2026-04-24,6,4,6.43,8,Presencial,PLIN,5,"25,47",OK,Sucursal 6,Ate,Sur,Atun,Conservas,6.43,Diana Navarro,La Molina,Premium,2025-06-27
+472,2026-01-14,2,8,5.54,20,Telefono,Tarjeta,3,2.85,Revisar,Sucursal 2,VENTANILLA,Oeste,Arroz extra,Abarrotes,5.54,Ana Campos,Miraflores,Corporativo,2025-10-05
+473,2026-04-04,1,10,18.43,0,Web,tarjeta,4,43.85,Promocion,sucursal 5,San Miguel,Centro,Detergente,limpieza,18.43,carlos soto,SaN MiGuEl,NUEVO,2025-07-22
+474,2026-04-12,2,5,17.52,15,WhatsApp,Yape,1,13.0,Promocion,Sucursal 3,Independencia,Centro,Shampoo,Cuidado personal,17.52,Diana Paredes,Lima,Frecuente,2025/09/17
+475,2026-06-26,3,5,18.43,0,Presencial,,5,42.67,   ,Sucursal 2,VENTANILLA,Oeste,Detergente,limpieza,18.43,Elena Torres,Ventanilla,Frecuente, 2025-03-11 
+476,2026-04-03,3,4,5.54 aprox,8,WeB,Yape,5,19.64,Revisar,Sucursal 6,Ate,Sur,Arroz extra,Abarrotes,5.54,Victor Cruz,Comas,Corporativo,2025-08-24
+477,2026-01-26,5,6,S/ 17.52,0,Telefono,yape,2,21.25,,sucursal 5,San Miguel,Centro,Shampoo,Cuidado personal,17.52,Marco Sayan,Miraflores,nuevo,2025-11-08
+478,2026-03-14,8,2,3.52,10,WhAtSaPp,Plin,2,34.5,Cliente frecuente,Sucursal 6,Ate,Sur,Galletas,,3.52,Valeria Gomez,Lima,Regular,2025-11-07
+479,2026-03-03,7,1,13.2,5,Presencial,Efectivo,2, 28.09 ,Promocion,Sucursal 4,Ventanilla,  Centro ,Aceite vegetal,Abarrotes,13.2,Elena Torres,Ventanilla,Frecuente, 2025-03-11 
+480,27/01/2026,2,2,5.54, 0 ,WhatsApp,Yape,1,15.15,OK,Sucursal 3,Independencia,Centro,Arroz extra,Abarrotes,5.54,Luis Soto,Comas,Nuevo,2025-02-13
+481,2026-02-27,8,6,3.52, 5 ,App,Plin,3,26.75,Promocion,Sucursal 6,Ate,Sur,Galletas,,3.52,Fiorella Soto,callao,corporativo,2025-06-10
+482,2026-03-16,7,5 aprox,10.15,5,WeB,Yape,1,30.03,Revisar,Sucursal 7,Ventanilla,Centro,Papel higienico,Limpieza,10.15,MIGUEL SOTO,Comas,PrEmIuM,2025-08-14
+483,2026-02-09,7, 14 ,5.54,0,Web,Efectivo,1,23.45,,Sucursal 7,Ventanilla,Centro,Arroz extra,Abarrotes,5.54,Maria Vargas,  Surco ,Nuevo,2025-07-22
+484,, 7 ,14,17.52,0,WhatsApp,Tarjeta,3,32.43,,Sucursal 2,VENTANILLA,Oeste,Shampoo,Cuidado personal,17.52,Diana Paredes,Lima,Frecuente,2025/09/17
+485,2026-03-08,3,14 aprox,10.15,8,Telefono,TARJETA,3,20.29,,Sucursal 6,Ate,Sur,Papel higienico,Limpieza,10.15,Ana Campos,Miraflores,Corporativo,2025-10-05
+486,2026-02-13,3,12,17.52,0,Presencial,Transferencia,1,35.44 aprox,OK,sucursal 5,San Miguel,Centro,Shampoo,Cuidado personal,17.52,Marco Navarro,Comas,Nuevo,2025-03-21
+487,2026-04-05,6,8,18.43,10,Presencial,Tarjeta,3,29.94,,Sucursal 1,Ventanilla,Sur,Detergente,limpieza,18.43,Andre Navarro,,Premium,20/06/2025
+488,2026-05-19,5,11,10.15,0,Web,Tarjeta,5,39.88,OK,Sucursal 1,Ventanilla,Sur,Papel higienico,Limpieza,10.15,jorge cruz,San Juan de Lurigancho,Regular,24/04/2025
+489,2026-02-22,8,7,10.15,0,WhatsApp,Plin,4,38.23,Cliente frecuente,Sucursal 7,Ventanilla,Centro,Papel higienico,Limpieza,10.15,Diana Flores,Villa El Salvador,Regular,2025-01-26
+490,2026-04-17,1,4,17.52,12,Web,Yape,3,11.05,,Sucursal 6,Ate,Sur,Shampoo,Cuidado personal,17.52,Elena Cruz,Ventanilla,CORPORATIVO,2025-12-26
+491,2026-04-21,8,14,,8,App,Efectivo,2,29.08,,sucursal 5,San Miguel,Centro,Papel higienico,Limpieza,10.15,Andre Mendoza,  Ventanilla ,  Premium ,2025-03-05
+492,2026-04-19,2,8,13.2,15,WhatsApp,Tarjeta,4,18.22,Cliente frecuente,Sucursal 6,Ate,Sur,Aceite vegetal,Abarrotes,13.2,Lucia Huaman,Independencia,Regular,2025-02-10
+493,2026-03-12,8,12,6.43,10,Web,Plin,3,29.26,,sucursal 5,San Miguel,Centro,Atun,Conservas,6.43,Rocio Ramos,San Miguel,Premium,2025-11-08
+494,04/02/2026,5,4,13.2,,Web,Yape,3,20.3,ClIeNtE FrEcUeNtE,Sucursal 1,Ventanilla,Sur,Aceite vegetal,Abarrotes,13.2,Victor Huaman,  Ventanilla ,Frecuente,2025/06/07
+495,2026-04-13,5,6,6.43,0,TeLeFoNo,Transferencia,4,22.34,,sucursal 5,San Miguel,Centro,Atun,Conservas,6.43,,Independencia,ReGuLaR,17/10/2025
+496,2026-02-14,6,10,17.52,0,Presencial,Transferencia,2, 22.37 ,Promocion,Sucursal 7,Ventanilla,Centro,Shampoo,Cuidado personal,17.52,Ana Rojas,LIMA,Corporativo,2025-09-21
+497,2026-06-05,7,5,18.43,12,App,,4,"37,42",Promocion,Sucursal 7,Ventanilla,Centro,Detergente,limpieza,18.43,Elena Torres,Ventanilla,Frecuente, 2025-03-11 
+498,2026-02-25,6, 13 ,S/ 3.52,0,Presencial,Efectivo,2,39.26 aprox,OK,Sucursal 6,Ate,Sur,Galletas,,3.52,Ana Quispe,  Los Olivos ,NuEvO,2025-03-05
+499,2026-04-28,3,8,6.43,8,Presencial,Tarjeta,3,9.82,PROMOCION,Sucursal 1,Ventanilla,Sur,Atun,Conservas,6.43,Victor Paredes,independencia,Corporativo,11-11-2025
+500,2026-04-09,3,2,4.91,5,  Web ,Transferencia,4, 14.72 ,Cliente frecuente,Sucursal 1,Ventanilla,Sur,Leche evaporada,Lacteos,4.91,Fiorella Quispe,Independencia,Premium,2025-10-09

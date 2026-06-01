@@ -2,26 +2,29 @@
 
 ## Enfoque recomendado
 
-Cada grupo elige un caso distinto. Todos los casos tienen la misma dificultad tecnica:
+Cada grupo elige un caso distinto. Todos los casos comparten la misma logica didactica:
 
-1. Base SQLite con 4 tablas relacionadas.
-2. Tabla principal con 500 registros.
-3. Datos sucios controlados.
-4. Consulta SQL con `JOIN`.
-5. Limpieza en Pandas.
-6. Regresion lineal simple.
-7. Guardado de resultados limpios en SQLite.
+1. Base SQLite con una tabla desnormalizada.
+2. Datos repetidos de varias entidades en la misma tabla.
+3. Analisis de redundancia y dependencias.
+4. Diseno de tablas normalizadas por parte del estudiante.
+5. Creacion de claves primarias y foraneas.
+6. Carga de datos desde la tabla original hacia el modelo normalizado.
+7. Validacion con consultas `JOIN`.
+8. Limpieza en Pandas y analisis simple.
 
 ## Como explicar PK y FK
 
-La base no debe ser una sola tabla plana. La estructura ideal es:
+La base de estudiantes debe iniciar como una sola tabla plana. Esa tabla mezcla datos de personas, productos, sedes, operaciones y otras entidades del caso.
 
-- Tabla de personas o clientes: tiene una clave primaria, por ejemplo `id_cliente`.
-- Tabla de productos, servicios o items: tiene una clave primaria, por ejemplo `id_producto`.
-- Tabla de sedes, zonas o locales: tiene una clave primaria, por ejemplo `id_sucursal`.
-- Tabla principal: contiene las operaciones y guarda claves foraneas como `id_cliente`, `id_producto` e `id_sucursal`.
+El estudiante debe decidir que informacion se separa. Por ejemplo:
 
-El estudiante arma su dataset final con SQL:
+- Datos de personas o clientes en una tabla propia.
+- Datos de productos, servicios o items en una tabla propia.
+- Datos de sedes, zonas o locales en una tabla propia.
+- Datos de operaciones en una tabla principal que guarde claves foraneas.
+
+Despues de normalizar, el estudiante reconstruye un reporte con SQL:
 
 ```sql
 SELECT *
@@ -47,35 +50,27 @@ Los estudiantes deben resolver al menos:
 
 Para PMD1 se recomienda una sola variable predictora numerica.
 
-Ejemplos:
-
-- Retail: `cantidad_productos` -> `monto_total`.
-- Restaurante: `tiempo_preparacion_min` -> `total_pedido`.
-- Delivery: `distancia_km` -> `tiempo_entrega_min`.
-- Hotel: `noches_estadia` -> `monto_reserva`.
-- Cultivos: `hectareas` -> `rendimiento_kg`.
-- Industria: `duracion_parada_min` -> `costo_parada_soles`.
-- Abarrotes: `cantidad_unidades` -> `monto_venta_soles`.
-
 El objetivo no es hacer el mejor modelo del mundo, sino demostrar el flujo completo:
 
-SQL -> Pandas -> Limpieza -> Regresion -> Interpretacion -> SQLite.
+tabla original -> normalizacion -> SQL/JOIN -> Pandas -> limpieza -> interpretacion.
 
 ## Entregables sugeridos
 
 - Notebook Colab reproducible.
-- Base SQLite descargada desde GitHub o generada desde el caso.
+- Base SQLite descargada desde GitHub.
+- Diagrama o explicacion del modelo normalizado propuesto.
+- Script SQL que crea tablas normalizadas e inserta datos.
+- Consultas `JOIN` de validacion.
 - Tabla limpia guardada en SQLite.
-- Tabla de predicciones guardada en SQLite.
 - Informe breve con interpretacion de resultados.
 
 ## Evaluacion sugerida
 
 | Criterio | Peso |
 |---|---:|
-| Conexion y consultas SQL con `JOIN` | 20% |
-| Comprension de PK/FK y estructura relacional | 15% |
-| Limpieza de datos con Pandas | 25% |
-| Regresion lineal simple y metricas | 20% |
-| Guardado de tabla limpia/predicciones en SQLite | 10% |
+| Identificacion de redundancia y entidades | 20% |
+| Diseno de PK/FK y estructura normalizada | 25% |
+| Creacion y carga de tablas normalizadas | 20% |
+| Consultas SQL con `JOIN` para validar | 15% |
+| Limpieza de datos con Pandas | 10% |
 | Interpretacion del caso y conclusiones | 10% |

@@ -1,0 +1,501 @@
+id_envio,fecha_operacion,cantidad_paquetes,peso_paquete_kg,tarifa_base,descuento_pct,canal,metodo_pago,calificacion,costo_envio,observacion,sedes_nombre,sedes_distrito,sedes_zona,tipos_envio_nombre,tipos_envio_categoria,tipos_envio_tarifa_base,clientes_nombre,clientes_distrito,clientes_segmento,clientes_fecha_registro
+1, 2026-04-25 ,5,34.69,51.69,10,Web,Transferencia,2,120.31,,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Jorge Ramos,Ate,  Nuevo ,2025-09-20
+2,2026-05-05,5,18.07,118.81,15,Presencial,Transferencia,2,"159,22",Promocion,Sede 5,lima,Oeste,Mudanza pequena,Volumen,118.81,Miguel Navarro,La Molina,Regular,2025-06-17
+3,2026-01-25,1,9.75,118.81,15,App,Tarjeta,2,112.19,,  Sede 2 ,Chorrillos,Sur,Mudanza pequena,Volumen,118.81,Valeria Ramos,Villa El Salvador,Premium,2025/01/15
+4,2026-05-01,4,,118.81, 10 ,App,Transferencia,3,,Revisar,Sede 1,,  Este ,Mudanza pequena,Volumen,118.81,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+5,2026-04-26,7,17.24,S/ 43.99,15,Presencial,Yape,3,113.2,Promocion,Sede 6,Surco,centro,Paquete grande,Regular,43.99,Miguel Quispe,Callao,CORPORATIVO,07-01-2025
+6,2026-02-09,4,25.86,76.22,0,Web,  Transferencia ,3,131.51,Promocion,Sede 4,SaN MiGuEl,  Este ,Express,,76.22,Maria Huaman,  Chorrillos ,Frecuente,2025-12-18
+7,2026-04-21,8,30.29,26.64,5,TeLeFoNo,Efectivo,3,109.95 aprox,Promocion,Sede 5,lima,Oeste,Paquete mediano,Regular,26.64,,San Juan de Lurigancho,Frecuente,2025-04-19
+8,2026-04-23,5,17.8,26.64,5,,Transferencia,4,114.45,,Sede 1,,  Este ,Paquete mediano,Regular,26.64,Diego Sayan,,Nuevo,2025-05-16
+9,2026-02-23,5,22.27,89.36,8,presencial,PlIn,4,155.02,Promocion,Sede 5,lima,Oeste,Refrigerado,EsPeCiAl,89.36,Diana Castillo,,Regular,12/05/2025
+10, 2026-02-19 ,5,24.87,26.64,8,Web,TRANSFERENCIA,3,85.05,,Sede 1,,  Este ,Paquete mediano,Regular,26.64,pedro huaman,Los Olivos,Nuevo,2025-10-17
+11,2026-03-13,2,7.97,76.22,5,Telefono,yape,1,81.13,REVISAR,Sede 5,lima,Oeste,Express,,76.22,Jorge Gomez,Villa El Salvador,Frecuente,2025-09-16
+12,2026-04-05,,24.44,76.22,15,Telefono,Transferencia,3,115.29,,Sede 1,,  Este ,Express,,76.22,Lucia Campos,  Independencia ,Frecuente,2025-05-03
+13,2026-04-26,7,17.24,S/ 43.99,15,Presencial,Yape,3,113.2,Promocion,Sede 6,Surco,centro,Paquete grande,Regular,43.99,Miguel Quispe,Callao,CORPORATIVO,07-01-2025
+14,2026-05-02,2,1.71,43.99,8,APP,Tarjeta,3,199.42,,Sede 1,,  Este ,Paquete grande,Regular,43.99,Diego Gomez,Ventanilla,Corporativo,2025-06-05
+15,2026-01-21,2,11.36,51.69, 20 ,Telefono,  Tarjeta ,2,76.89 aprox,Cliente frecuente,Sede 3,Independencia,Sur,Fragil,  Especial ,51.69,Carlos Soto,Callao,Nuevo,2025-07-25
+16,2026-01-09,2,30.72,89.36,12,App,Plin,2,"131,22",Promocion,Sede 5,lima,Oeste,Refrigerado,EsPeCiAl,89.36,,Ate,Premium,2025-10-09
+17,2026-05-23,4,14.93,8.28,8,Web,Yape,2, 60.32 ,Cliente frecuente,Sede 1,,  Este ,Documento,LIVIANO,8.28,Marco Paredes,  La Molina ,Premium,2025-10-13
+18,13-06-2026,7 aprox,14.88,57.44,8,App,  Tarjeta ,3,112.52,,Sede 3,Independencia,Sur,Courier empresarial,Empresa,57.44,Maria Quispe,San Miguel,Corporativo,2025-10-22
+19,2026-02-07,8,16.55,26.64,0,Telefono,  Yape ,1,,OK,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,Elena Rojas,CHORRILLOS,PrEmIuM,2025-08-03
+20,2026-03-03,5,14.13,"43,99",10,WhatsApp,Transferencia,3,80.76,Ok,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,Fiorella Ramos,Surco,Regular, 2025-06-26 
+21,2026-04-28,7,9.62,43.99,0,Telefono,Efectivo,2,101.53,Revisar,Sede 4,SaN MiGuEl,  Este ,Paquete grande,Regular,43.99,Raul Navarro,SURCO,PREMIUM,2025-05-27
+22,2026-06-15,1,26.74,51.69,0,App,,4,104.09,Cliente frecuente,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Carlos Quispe,San Miguel,CORPORATIVO,2025-04-17
+23,2026-03-18,1,30.6,14.68,0,App,Tarjeta,2,87.4,Promocion,Sede 5,lima,Oeste,Paquete pequeno,Liviano,14.68,Andre Mendoza,Ate,Frecuente,2025/10/26
+24,2026-03-09,3,19.75,118.81,8,Presencial,Plin,3,"140,39",Promocion,Sede 6,Surco,centro,Mudanza pequena,Volumen,118.81,Fiorella Paredes,La  Molina,Corporativo,2025-09-26
+25,2026-06-26,5,2.7, 76.22 ,0,Telefono,,3,117.76,Revisar,Sede 5,lima,Oeste,Express,,76.22,Diego Sayan,,Nuevo,2025-05-16
+26,2026-04-26,4,21.51,118.81,10,App,Tarjeta,2,167.22,Promocion,Sede 5,lima,Oeste,Mudanza pequena,Volumen,118.81,Claudia Rojas,San Juan de Lurigancho,Corporativo,06/01/2025
+27,2026-04-27,3,12.26,89.36,8,App,Plin,1,105.61,Cliente frecuente,Sede 6,Surco,centro,Refrigerado,EsPeCiAl,89.36,Fiorella Gomez,Lima,Corporativo,16-04-2025
+28,2026-03-20,6,23.65,51.69,0,Telefono,Efectivo, 1 ,108.27,,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Sofia Ramos,Ventanilla,Frecuente, 2025-01-03 
+29,2026-05-18,1,20.17,89.36,0,App,Efectivo,1 aprox,138.07,Revisar,Sede 6,Surco,centro,Refrigerado,EsPeCiAl,89.36,Elena Rojas,CHORRILLOS,PrEmIuM,2025-08-03
+30,2026-03-05,6,15.61,118.81,0,App,TaRjEtA,1 aprox,177.27,Cliente frecuente,Sede 1,,  Este ,Mudanza pequena,Volumen,118.81,Miguel Reyes,Surco,Premium,2025/01/09
+31,2026-06-13,7,19.98,89.36 aprox,5,,Efectivo,3,150.06,  OK ,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Miguel Mendoza,Comas,Corporativo,2025-06-02
+32,2026-02-07,8,,8.28,20,App,Plin,2,60.41,,Sede 4,SaN MiGuEl,  Este ,Documento,LIVIANO,8.28,Fiorella Huaman,Ventanilla,Premium,2025-05-05
+33,2026/06/15,2,30.07,89.36,0,  WhatsApp ,PLIN,1,130.38,Promocion,Sede 6,Surco,centro,Refrigerado,EsPeCiAl,89.36,Lucia Campos,  Independencia ,Frecuente,2025-05-03
+34,2026-01-01,6,14.91,51.69,0,  Web ,Tarjeta,5,102.15 aprox,,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Fiorella Mendoza,Los Olivos,Premium,2025-12-22
+35,2026-02-01,8,10.31 aprox,89.36,0,Presencial,Plin,4,124.12,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,Miguel Navarro,La Molina,Regular,2025-06-17
+36,2026-04-26,7,17.24,S/ 43.99,15,Presencial,Yape,3,113.2,Promocion,Sede 6,Surco,centro,Paquete grande,Regular,43.99,Miguel Quispe,Callao,CORPORATIVO,07-01-2025
+37,2026-02-18,,1.87,76.22,20,Telefono,Yape,4,83.3,Promocion,Sede 3,Independencia,Sur,Express,,76.22,Diego Huaman,miraflores,Nuevo,2025-07-07
+38,2026-05-19,8,2.05,89.36,5,Telefono,YaPe,4, 127.44 ,Cliente frecuente,Sede 7,Comas,este,Refrigerado,EsPeCiAl,89.36,Marco Paredes,  La Molina ,Premium,2025-10-13
+39,2026-04-01,6,22.84,8.28,15,Presencial,Yape,5,96.0,Revisar,Sede 7,Comas,este,Documento,LIVIANO,8.28,Fiorella Huaman,Ventanilla,Premium,2025-05-05
+40,2026-02-15,7,19.22,76.22,12,Web,Transferencia,3,"136,71",,Sede 7,Comas,este,Express,,76.22,Claudia Ramos,Lima,Corporativo,2025-05-04
+41,2026-01-19,8,17.43,89.36,15,Presencial,Yape,5,142.09,Promocion,Sede 6,Surco,centro,Refrigerado,EsPeCiAl,89.36,Miguel Reyes,Surco,Premium,2025/01/09
+42,2026-02-20,3,32.37,14.68,12,Web,Efectivo,5,97.93,Revisar,Sede 5,lima,Oeste,Paquete pequeno,Liviano,14.68,Fiorella Gomez,Lima,Corporativo,16-04-2025
+43,2026-01-28,7,11.28,118.81,,  Telefono ,Yape,2,169.6 aprox,Revisar,  Sede 2 ,Chorrillos,Sur,Mudanza pequena,Volumen,118.81,Lucia Campos,  Independencia ,Frecuente,2025-05-03
+44,2026-03-15,2,33.19,57.44,20,App,YaPe,4,S/ 109.25,OK,Sede 4,SaN MiGuEl,  Este ,Courier empresarial,Empresa,57.44,Luis Gomez,Ate,Corporativo,2025/09/13
+45,27-03-2026,8,17.28,26.64,5,Presencial,Efectivo,3,99.07,OK,Sede 6,Surco,centro,Paquete mediano,Regular,26.64,Jorge Gomez,Villa El Salvador,Frecuente,2025-09-16
+46,2026-06-01,1,"17,04",26.64,0,App,Yape,2,57.74,OK,Sede 5,lima,Oeste,Paquete mediano,Regular,26.64,Sofia Gomez,Ventanilla,FRECUENTE,2025-06-17
+47,2026-01-12,7,10.97,118.81, 0 ,App,efectivo,5,"173,37",Cliente frecuente,Sede 3,Independencia,Sur,Mudanza pequena,Volumen,118.81,Victor Navarro,San Miguel,Premium,2025-07-05
+48,2026-04-14,4,13.45,57.44,8,Web,  Transferencia ,1,81.99,,Sede 3,Independencia,Sur,Courier empresarial,Empresa,57.44,Maria Quispe,San Miguel,Corporativo,2025-10-22
+49,2026-03-10,1,29.91,26.64,0,WhatsApp,Plin,1,78.23,Cliente frecuente,Sede 4,SaN MiGuEl,  Este ,Paquete mediano,Regular,26.64,Diego Soto,Miraflores,Corporativo, 2025-08-06 
+50,2026-05-14,4,1.41,76.22,10,Presencial,Plin,3,96.59,Cliente frecuente,Sede 1,,  Este ,Express,,76.22,Victor Flores,Independencia,Corporativo,2025-05-05
+51,2026-05-04,,33.8,43.99,0,App,Plin,4,121.92,,  Sede 2 ,Chorrillos,Sur,Paquete grande,Regular,43.99,Claudia Rojas,San Juan de Lurigancho,Corporativo,06/01/2025
+52,2026-02-24,8,10.73,43.99,12,App,PLIN,5,"114,05",OK,  Sede 2 ,Chorrillos,Sur,Paquete grande,Regular,43.99,VALERIA QUISPE,Callao,Nuevo,2025-06-04
+53,2026-06-24,3,21.15 aprox,26.64,15,,transferencia,5,66.57,,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,Fiorella Paredes,La  Molina,Corporativo,2025-09-26
+54,2026-01-06,1, 30.93 ,76.22,5,Web,Yape,4,142.16,Promocion,  Sede 2 ,Chorrillos,Sur,Express,,76.22,Claudia Soto,,Nuevo,2025-04-25
+55,2026-01-22,5,28.38 aprox,76.22,8,Presencial,Efectivo,2,150.72,,Sede 5,lima,Oeste,Express,,76.22,Raul Reyes,,Corporativo,2025-11-16
+56,2026-01-06,1, 30.93 ,76.22,5,Web,Yape,4,142.16,Promocion,  Sede 2 ,Chorrillos,Sur,Express,,76.22,Claudia Soto,,Nuevo,2025-04-25
+57,2026-02-05,8,"32,73",89.36,12,Web,Efectivo,5,177.89,  Revisar ,Sede 7,Comas,este,Refrigerado,EsPeCiAl,89.36,Diego Gomez,Ventanilla,Corporativo,2025-06-05
+58,2026-03-18,4,24.13,14.68,12,Telefono,Plin,4,77.69,OK,Sede 3,Independencia,Sur,Paquete pequeno,Liviano,14.68,Lucia Campos,  Independencia ,Frecuente,2025-05-03
+59,2026-06-11,4,11.61,43.99,12,Presencial,Efectivo,4,103.1,Cliente frecuente,Sede 6,Surco,centro,Paquete grande,Regular,43.99,Marco Paredes,  La Molina ,Premium,2025-10-13
+60,2026-01-12,,20.97,118.81,12,WhatsApp,Transferencia,4,169.73,Revisar,Sede 6,Surco,centro,Mudanza pequena,Volumen,118.81,Miguel Flores,San Juan de Lurigancho,Frecuente,2025-01-16
+61,2026-02-28,6, 34.94 ,57.44,12,WhatsApp,Efectivo,3,128.21,Promocion,Sede 3,Independencia,Sur,Courier empresarial,Empresa,57.44,Elena Paredes,Los Olivos,Corporativo,2025-02-27
+62,2026-02-03,3,16.74,57.44,0,  Presencial ,Yape,5,105.15,Cliente frecuente,Sede 1,,  Este ,Courier empresarial,Empresa,57.44,Victor Castillo,Comas,Premium,2025-09-06
+63,09/01/2026,5,1.26,118.81,8,Telefono,Tarjeta,2,116.99,,Sede 4,SaN MiGuEl,  Este ,Mudanza pequena,Volumen,118.81,Carlos Flores,Chorrillos,Regular,2025-11-05
+64,2026-03-24,6,8.15,57.44,10,Presencial,Plin,1,125.03,Promocion,Sede 7,Comas,este,Courier empresarial,Empresa,57.44,Luis Rojas,San  Juan  de  Lurigancho,nuevo,2025/10/18
+65,2026-02-22,2,24.67,43.99,12,Telefono,Yape,5,88.24 aprox,,Sede 3,Independencia,Sur,Paquete grande,Regular,43.99,Victor Castillo,Comas,Premium,2025-09-06
+66,2026-06-02,4,18.98,118.81,12,Web,Tarjeta,3,159.37,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Mudanza pequena,Volumen,118.81,Raul Salazar,Lima,Premium,2025-03-04
+67,2026-04-26,1,30.47,26.64,0,APP,Plin,,66.97,,  Sede 2 ,Chorrillos,Sur,Paquete mediano,Regular,26.64,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+68,,1,13.2,89.36,12,Presencial,Plin,4,105.95,,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,,San Juan de Lurigancho,Frecuente,2025-04-19
+69,2026-05-16,4,1.18,118.81,0,App,Tarjeta,1,119.11,ReViSaR,Sede 3,Independencia,Sur,Mudanza pequena,Volumen,118.81,Jorge Mendoza,Independencia,Frecuente,2025-12-13
+70, 2026-04-05 ,8, 16.22 ,118.81,8,App,Transferencia,4,153.34,revisar,Sede 7,Comas,este,Mudanza pequena,Volumen,118.81,Raul Sayan,Ventanilla,Corporativo,2025-08-09
+71,2026-04-17,1,"12,39",89.36,0,Presencial,Transferencia,1,86.81,,Sede 5,lima,Oeste,Refrigerado,EsPeCiAl,89.36,Victor Sayan,Chorrillos,,2025-09-16
+72,2026-03-24,2,23.13,57.44,0,App,Yape,1,"113,94",OK,Sede 1,,  Este ,Courier empresarial,Empresa,57.44,Fiorella Soto,Lima,FrEcUeNtE,2025-11-19
+73,2026-02-07,8,12.61,89.36,0,Web,Yape,3,129.33,Revisar,Sede 4,SaN MiGuEl,  Este ,Refrigerado,EsPeCiAl,89.36,Claudia Soto,,Nuevo,2025-04-25
+74,2026-03-27,3,,51.69,10,App,Transferencia,1,96.33,Promocion,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Raul Salazar,Lima,Premium,2025-03-04
+75,2026-04-23,1,27.9,118.81,12,Web,Tarjeta,1,150.52,Promocion,Sede 5,lima,Oeste,Mudanza pequena,Volumen,118.81,Luis Rojas,San  Juan  de  Lurigancho,nuevo,2025/10/18
+76,2026-01-18,4,34.11,76.22,8,Presencial,Efectivo,5,137.8,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Express,,76.22,Jorge Gomez,Villa El Salvador,Frecuente,2025-09-16
+77,19/02/2026,3, 14.44 ,14.68,,WeB,  Transferencia ,4,64.01,Cliente frecuente,Sede 4,SaN MiGuEl,  Este ,Paquete pequeno,Liviano,14.68,Raul Navarro,SURCO,PREMIUM,2025-05-27
+78,2026-03-09,7, 17.43 ,S/ 8.28,20,Web,Yape,5,78.72,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Documento,LIVIANO,8.28,VALERIA QUISPE,Callao,Nuevo,2025-06-04
+79,2026-06-11,4,11.61,43.99,12,Presencial,Efectivo,4,103.1,Cliente frecuente,Sede 6,Surco,centro,Paquete grande,Regular,43.99,Marco Paredes,  La Molina ,Premium,2025-10-13
+80,2026/04/01,8,4.61,26.64,0,Telefono,Transferencia,3,67.91,Revisar,  Sede 2 ,Chorrillos,Sur,Paquete mediano,Regular,26.64,,Ate,Premium,2025-10-09
+81,2026/04/08,5,26.91,118.81,,Telefono,Tarjeta,1,"182,45",,Sede 5,lima,Oeste,Mudanza pequena,Volumen,118.81,Miguel Vargas,Ventanilla,Corporativo,2025-06-06
+82,2026-01-25,,2.15,26.64,0,Telefono,Yape,2,64.73,Cliente frecuente,Sede 5,lima,Oeste,Paquete mediano,Regular,26.64,Jorge Castillo,San Miguel,Premium,2025-08-27
+83,2026-06-10,8,25.86,118.81,0,whatsapp,Transferencia,4,198.94,Revisar,Sede 4,SaN MiGuEl,  Este ,Mudanza pequena,Volumen,118.81,Andre Gomez,ATE,Premium,2025-12-21
+84,2026-05-17,6,24.7,8.28,0,App,Yape,5,89.53,,Sede 7,Comas,este,Documento,LIVIANO,8.28,Carlos Huaman,Chorrillos,Premium,2025-10-20
+85,2026-04-06, 5 ,34.15,89.36,8,  Telefono ,Tarjeta,5,152.03,,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Pedro Navarro,Surco,  Premium ,
+86,2026-06-09,3,1.9,51.69,15,PRESENCIAL,Yape,1,66.63,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Diego Sayan,,Nuevo,2025-05-16
+87, 2026-02-04 ,7,3.04, 8.28 ,5,Web,Tarjeta,5,67.26 aprox,,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,Raul Navarro,SURCO,PREMIUM,2025-05-27
+88,2026-02-15,6,"12,28",8.28,20 aprox,WhatsApp,Plin,2,61.51,Cliente frecuente,Sede 1,,  Este ,Documento,LIVIANO,8.28,Fiorella Gomez,Lima,Corporativo,16-04-2025
+89,2026-06-22,3,6.63,43.99,5,WhatsApp,PlIn,4,74.68,Promocion,Sede 6,Surco,centro,Paquete grande,Regular,43.99,Marco Paredes,  La Molina ,Premium,2025-10-13
+90,06-01-2026,6,10.74,43.99,8,Presencial,Efectivo,5,95.0,Cliente frecuente,Sede 1,,  Este ,Paquete grande,Regular,43.99,Victor Flores,Independencia,Corporativo,2025-05-05
+91,2026-04-20,8,8.13,51.69,0,WeB,  Tarjeta ,5,"106,83",,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+92,2026-02-17,5,34.74,89.36,0,Telefono,Yape,,139.55,Cliente frecuente,Sede 6,Surco,centro,Refrigerado,EsPeCiAl,89.36,Victor Sayan,Chorrillos,,2025-09-16
+93,2026-06-01,1,"17,04",26.64,0,App,Yape,2,57.74,OK,Sede 5,lima,Oeste,Paquete mediano,Regular,26.64,Sofia Gomez,Ventanilla,FRECUENTE,2025-06-17
+94,2026-05-04,3,26.36,76.22,12,Web,Efectivo,5,131.72,,  Sede 2 ,Chorrillos,Sur,Express,,76.22,Claudia Soto,,Nuevo,2025-04-25
+95,01-06-2026,7,24.34,118.81,20,Web,Plin,5,"182,42",,Sede 1,,  Este ,Mudanza pequena,Volumen,118.81,Elena Salazar,SURCO,Frecuente,2025-09-18
+96,2026/01/17,2,11.72,118.81,12,Telefono,Transferencia,2,145.04,Revisar,Sede 7,Comas,este,Mudanza pequena,Volumen,118.81,Jose Huaman,  Ventanilla ,Regular,2025-03-18
+97,2026-06-14,8,18.9,57.44,12,  Presencial ,Plin,1,129.63,Revisar,Sede 6,Surco,centro,Courier empresarial,Empresa,57.44,Elena Reyes,San Juan de Lurigancho,Corporativo,2025-11-19
+98,2026-03-28,5,9.93,14.68,5,WhatsApp,Transferencia,2,42.87,Revisar,Sede 6,Surco,centro,Paquete pequeno,Liviano,14.68,Diego Sayan,,Nuevo,2025-05-16
+99, 2026-04-12 ,3,3.75,8.28,0,WeB,Tarjeta,5,S/ 35.92,Revisar,Sede 6,Surco,centro,Documento,LIVIANO,8.28,Maria Huaman,  Chorrillos ,Frecuente,2025-12-18
+100,2026-02-03,8,17.9,,8,Web,Transferencia,4,119.79,,Sede 1,,  Este ,Fragil,  Especial ,51.69,Pedro Navarro,Surco,  Premium ,
+101,2026-06-22,4,30.01,76.22,0,Web,Efectivo,2,121.75,,Sede 3,Independencia,Sur,Express,,76.22,Sofia Gomez,Ventanilla,FRECUENTE,2025-06-17
+102,2026-03-19,4,30.68,89.36,0,APP,Yape,5,157.46,,Sede 3,Independencia,Sur,Refrigerado,EsPeCiAl,89.36,Miguel Mendoza,Comas,Corporativo,2025-06-02
+103,2026-02-20,8,14.28,S/ 26.64,0,Web,Plin,5,107.73,OK,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,Diana Castillo,,Regular,12/05/2025
+104,2026-04-08,5,"3,91",8.28,0,WhatsApp,Tarjeta,4,61.11,Promocion,Sede 3,Independencia,Sur,Documento,LIVIANO,8.28,Miguel Navarro,La Molina,Regular,2025-06-17
+105,2026-02-04,8,9.97,43.99,10,Presencial,Tarjeta,3,103.82,,Sede 4,SaN MiGuEl,  Este ,Paquete grande,Regular,43.99,Diego Sayan,,Nuevo,2025-05-16
+106,2026-06-10,5,21.98,76.22,15,App,Yape,5,126.94,,Sede 4,SaN MiGuEl,  Este ,Express,,76.22,ELENA CRUZ,Ventanilla,Corporativo,2025-10-03
+107,06/05/2026,3,18.35,51.69,10,WhatsApp,Efectivo,1,78.19,,Sede 7,Comas,este,Fragil,  Especial ,51.69,Fiorella Soto,Lima,FrEcUeNtE,2025-11-19
+108, 2026-05-17 ,7,12.8,118.81,0,Presencial,Yape,1,175.88 aprox,Revisar,Sede 7,Comas,este,Mudanza pequena,Volumen,118.81,Valeria Reyes,Chorrillos,Frecuente,2025-10-05
+109,2026-01-24,2,9.28,118.81,5,Presencial,TRANSFERENCIA,5,119.89,Cliente frecuente,Sede 6,Surco,centro,Mudanza pequena,Volumen,118.81,Carlos Huaman,Chorrillos,Premium,2025-10-20
+110,2026-05-07,5,23.29,51.69,5,Presencial,Yape,2,126.73,Promocion,Sede 4,SaN MiGuEl,  Este ,Fragil,  Especial ,51.69,Raul Sayan,Ventanilla,Corporativo,2025-08-09
+111,2026-04-21,,17.09 aprox,51.69,12,Presencial,Yape,3,112.34,,Sede 4,SaN MiGuEl,  Este ,Fragil,  Especial ,51.69,Ana Campos,Villa El Salvador,Premium,2025-11-12
+112,2026-01-16, 3 ,0.95,S/ 118.81,20,App,Tarjeta,1,109.73,Cliente frecuente,Sede 1,,  Este ,Mudanza pequena,Volumen,118.81,Fiorella Soto,Lima,FrEcUeNtE,2025-11-19
+113,,6,13.81,43.99,5,Telefono,Transferencia,5,90.28,Promocion,Sede 1,,  Este ,Paquete grande,Regular,43.99,Sofia Gomez,Ventanilla,FRECUENTE,2025-06-17
+114,2026-02-01,8,6.4,51.69,5,App,Efectivo,3,89.94,,Sede 1,,  Este ,Fragil,  Especial ,51.69,Fiorella Soto,Lima,FrEcUeNtE,2025-11-19
+115,2026-04-21, 6 ,14.61,76.22,5,App,Plin,1,103.29,OK,Sede 6,Surco,centro,Express,,76.22,Andre Gomez,ATE,Premium,2025-12-21
+116,2026-01-25,4,27.39,43.99,8,App,Plin,1,103.5,revisar,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,Carlos Huaman,Chorrillos,Premium,2025-10-20
+117,2026-03-06,2, 3.22 ,S/ 57.44,0,Telefono,Efectivo,3,78.95,,  Sede 2 ,Chorrillos,Sur,Courier empresarial,Empresa,57.44,Miguel Flores,La Molina,CoRpOrAtIvO,2025-10-23
+118,2026-01-16,3,6.38,51.69,15,App,Tarjeta,,61.99,,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Miguel Reyes,Surco,Premium,2025/01/09
+119,2026-03-12,2,6.67,8.28, 5 ,Telefono,TrAnSfErEnCiA,5,51.09,Revisar,Sede 4,SaN MiGuEl,  Este ,Documento,LIVIANO,8.28,Pedro Navarro,Surco,  Premium ,
+120,2026-06-09,5,,43.99,20,Telefono,,5,114.26,Promocion,  Sede 2 ,Chorrillos,Sur,Paquete grande,Regular,43.99,Diego Soto,Miraflores,Corporativo, 2025-08-06 
+121,2026-05-28,5,11.7,8.28,15,Telefono,yape,3,36.7,promocion,Sede 3,Independencia,Sur,Documento,LIVIANO,8.28,Andre Mendoza,Ate,Frecuente,2025/10/26
+122, 2026-02-22 ,7,2.79,8.28,0,App,Plin,3,"55,15",Revisar,Sede 3,Independencia,Sur,Documento,LIVIANO,8.28,Andre Gomez,ATE,Premium,2025-12-21
+123,2026-02-03,6,25.28, 26.64 , 0 ,App,Yape,1,106.59 aprox,Revisar,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Elena Salazar,SURCO,Frecuente,2025-09-18
+124,2026-06-09,5,19.09,89.36,12,WhatsApp,Efectivo,5,143.11,Cliente  frecuente,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,,San Juan de Lurigancho,Frecuente,2025-04-19
+125,2026-02-18,6,20.84,43.99,12,Presencial,tarjeta,1,100.65,Promocion,Sede 1,,  Este ,Paquete grande,Regular,43.99,VALERIA QUISPE,Callao,Nuevo,2025-06-04
+126,18-02-2026,1,32.58,118.81,8,Presencial,,4,151.62,Cliente frecuente,Sede 3,Independencia,Sur,Mudanza pequena,Volumen,118.81,Lucia Campos,  Independencia ,Frecuente,2025-05-03
+127,2026-06-12,1,32.03,26.64,0,WhatsApp,Transferencia,3,79.0,,Sede 5,lima,Oeste,Paquete mediano,Regular,26.64,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+128,28/04/2026,1,,118.81,10,Presencial,Yape,5,109.71,Cliente frecuente,Sede 6,Surco,centro,Mudanza pequena,Volumen,118.81,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+129,2026-01-05,8,12.86, 8.28 ,0,APP,Plin,1,79.45,Revisar,  Sede 2 ,Chorrillos,Sur,Documento,LIVIANO,8.28,Diego Gomez,Ventanilla,Corporativo,2025-06-05
+130,2026-03-02,3,16.2,76.22,0,Telefono,  Efectivo ,5,108.86,ReViSaR,Sede 5,lima,Oeste,Express,,76.22,Andre Gomez,ATE,Premium,2025-12-21
+131,2026-06-15,3,"8,76",118.81,8,Presencial,Transferencia,1,132.0,,  Sede 2 ,Chorrillos,Sur,Mudanza pequena,Volumen,118.81,Pedro Salazar,Ventanilla,Nuevo,2025-02-01
+132,,1,34.29,76.22,8,  Presencial ,Tarjeta,5,124.31,promocion,Sede 4,SaN MiGuEl,  Este ,Express,,76.22,Marco Reyes,MIRAFLORES,Regular,2025-02-28
+133,2026-02-09,8,11.65,14.68,0,WhatsApp,Efectivo,1,69.24,OK,Sede 1,,  Este ,Paquete pequeno,Liviano,14.68,Luis Rojas,San  Juan  de  Lurigancho,nuevo,2025/10/18
+134,2026-01-08,2,18.89,51.69,0,Presencial,Yape,3,105.91,Revisar,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Diana Castillo,,Regular,12/05/2025
+135,2026-02-19,2,29.19,14.68,0,App,,3,87.95 aprox,,  Sede 2 ,Chorrillos,Sur,Paquete pequeno,Liviano,14.68,Fiorella Gomez,Chorrillos,Regular,2025-08-09
+136,2026-05-13,4,31.35,8.28,0,PRESENCIAL,Plin,5,75.68,Promocion,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,Ana Rojas,Chorrillos,Nuevo,2025-04-09
+137,2026-06-15,4,27.08,118.81,10,Presencial,Efectivo,1,150.75,OK,  Sede 2 ,Chorrillos,Sur,Mudanza pequena,Volumen,118.81,Fiorella Huaman,Ventanilla,Premium,2025-05-05
+138,08/04/2026,8 aprox,28.24,8.28,5,web,Tarjeta,2,96.54,Cliente frecuente,Sede 6,Surco,centro,Documento,LIVIANO,8.28,Valeria Torres,Chorrillos,Corporativo,2025-09-22
+139,2026-06-15,8,21.11,26.64,5,App,Yape, 4 ,91.25,OK,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,Diego Sayan,,Nuevo,2025-05-16
+140,2026-04-17,1,12.54,118.81,0,Presencial,,1,,Revisar,Sede 1,,  Este ,Mudanza pequena,Volumen,118.81,Victor Reyes,Callao,,2025-05-11
+141,2026-03-01,2,12.17,51.69,8,WhatsApp,Yape,3,66.35,Revisar,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Claudia Rojas,San Juan de Lurigancho,Corporativo,06/01/2025
+142,2026-02-24,6,19.66,51.69,5,Presencial,Plin,4,95.39,Promocion,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Miguel  Cruz,Surco,Regular,15/12/2025
+143,2026-02-23,5,14.39,89.36,10 aprox,App,Tarjeta,1,141.67,Revisar,Sede 7,Comas,este,Refrigerado,EsPeCiAl,89.36,Raul Navarro,SURCO,PREMIUM,2025-05-27
+144,2026-05-01,3,19.84,89.36,20,WhatsApp,Efectivo,2,132.5,Revisar,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,Victor Castillo,Comas,Premium,2025-09-06
+145,2026-06-15,8,21.11,26.64,5,App,Yape, 4 ,91.25,OK,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,Diego Sayan,,Nuevo,2025-05-16
+146,2026-01-01,8,20.0,57.44,12,Telefono,Efectivo,4,121.89,Revisar,  Sede 2 ,Chorrillos,Sur,Courier empresarial,Empresa,57.44,Valeria Reyes,Chorrillos,Frecuente,2025-10-05
+147,2026-02-06,6,31.38,89.36,0,,Tarjeta,1,146.96,,Sede 4,SaN MiGuEl,  Este ,Refrigerado,EsPeCiAl,89.36,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+148,2026-02-07,1,1.25,51.69,20 aprox,WhatsApp,Tarjeta,2,55.87,OK,Sede 1,,  Este ,Fragil,  Especial ,51.69,Diego Huaman,miraflores,Nuevo,2025-07-07
+149,2026-03-07,1,30.82,14.68,20,WhatsApp,Plin,3,70.43,,Sede 5,lima,Oeste,Paquete pequeno,Liviano,14.68,Sofia Ramos,Ventanilla,Frecuente, 2025-01-03 
+150,2026-02-01,6,22.62,57.44,12,Web,Yape,5,130.19,Cliente frecuente,Sede 5,lima,Oeste,Courier empresarial,Empresa,57.44,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+151,08/02/2026,2,95.45,8.28,0,WhatsApp,Plin,4,,Promocion,Sede 3,Independencia,Sur,Documento,LIVIANO,8.28,Victor Flores,Independencia,Corporativo,2025-05-05
+152,,2,34.84,14.68,5,App,Efectivo,5,90.18,Promocion,Sede 3,Independencia,Sur,Paquete pequeno,Liviano,14.68,Victor Sayan,Chorrillos,,2025-09-16
+153,2026-02-12,2,3.21,89.36,5,App,Efectivo,2,85.82,Revisar,Sede 5,lima,Oeste,Refrigerado,EsPeCiAl,89.36,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+154,2026-02-07,7,13.22,76.22 aprox,12,Presencial,Plin, 5 ,126.72,Revisar,Sede 7,Comas,este,Express,,76.22,Luis Gomez,Ate,Corporativo,2025/09/13
+155,2026-03-19,7 aprox,2.34,8.28,12,WhatsApp,Yape,1,S/ 35.69,Cliente frecuente,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,ELENA CRUZ,Ventanilla,Corporativo,2025-10-03
+156,2026-03-04,4,19.76,S/ 8.28,0,Presencial,Transferencia,4,57.72,Cliente frecuente,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,DIEGO SALAZAR,LoS OlIvOs,,2025-02-13
+157,2026-03-16,8,32.84,89.36,20,App,Tarjeta,4,160.37,  Promocion ,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Jose Huaman,  Ventanilla ,Regular,2025-03-18
+158,2026-03-04,8,33.94,89.36,12,WhatsApp,Efectivo,3,195.59,Promocion,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,Fiorella Mendoza,Los Olivos,Premium,2025-12-22
+159,2026-06-06,1,11.88,43.99,0,App,Tarjeta,2,69.55,Revisar,Sede 7,Comas,este,Paquete grande,Regular,43.99,Fiorella Ramos,Surco,Regular, 2025-06-26 
+160,2026-05-13,5,15.49,51.69,0,WhatsApp,Plin,1,107.47,OK,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Raul Salazar,Lima,Premium,2025-03-04
+161,2026-04-09,4,15.22,76.22,5,Presencial,Yape,2,108.13,Revisar,Sede 1,,  Este ,Express,,76.22,VALERIA QUISPE,Callao,Nuevo,2025-06-04
+162,2026-06-04,5, 33.22 ,26.64,12,Web,,4,"122,9",Revisar,  Sede 2 ,Chorrillos,Sur,Paquete mediano,Regular,26.64,Ana Vargas,San Miguel,  Corporativo ,2025-06-15
+163,2026-06-14,2,10.88,26.64,0,App,Tarjeta,3,67.47,Promocion,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Ana Navarro,San Miguel,Regular, 2025-12-17 
+164,2026-03-12,1,8.83 aprox,51.69 aprox,0,Presencial,tarjeta,1,65.32,Revisar,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Claudia Rojas,San Juan de Lurigancho,Corporativo,06/01/2025
+165,2026-05-28,8,130.6,43.99,0,App,Transferencia,3,296.73,Promocion,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,Miguel Flores,La Molina,CoRpOrAtIvO,2025-10-23
+166,2026-05-20,5,8.31,"118,81",8,WhatsApp,Plin,1 aprox,150.06,,Sede 5,lima,Oeste,Mudanza pequena,Volumen,118.81,Maria Huaman,  Chorrillos ,Frecuente,2025-12-18
+167,2026-06-12,2,5.64,"76,22",8,Presencial,Tarjeta,1,124.68,Cliente frecuente,Sede 1,,  Este ,Express,,76.22,Marco Paredes,  La Molina ,Premium,2025-10-13
+168,2026-05-02, 8 ,3.32,51.69,0,Presencial,Yape,5,83.19,,Sede 1,,  Este ,Fragil,  Especial ,51.69,Ana Rojas,Chorrillos,Nuevo,2025-04-09
+169,2026-06-09,2, 34.52 ,S/ 43.99,5,Presencial,Tarjeta,4,105.66,,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,Lucia Campos,  Independencia ,Frecuente,2025-05-03
+170,2026-04-12,5,26.09,14.68,15,Web,Yape,5,85.77,PROMOCION,Sede 6,Surco,centro,Paquete pequeno,Liviano,14.68,Victor Sayan,Chorrillos,,2025-09-16
+171,2026-05-20,8,4.04,14.68,0,WhatsApp,PLIN,3,82.63,,Sede 3,Independencia,Sur,Paquete pequeno,Liviano,14.68,Camila Quispe,Independencia,Nuevo,2025-08-16
+172,2026-03-05,3,11.44,43.99, 20 ,Presencial,efectivo,4,83.52,,Sede 6,Surco,centro,Paquete grande,Regular,43.99,Andre Gomez,ATE,Premium,2025-12-21
+173,2026-03-04,3,29.65,43.99,15,App,Tarjeta,1,121.4,,Sede 3,Independencia,Sur,Paquete grande,Regular,43.99,Andre Mendoza,Ate,Frecuente,2025/10/26
+174,2026-02-05,4,19.81,14.68,12,Telefono,Efectivo,3,81.25,cliente frecuente,Sede 7,Comas,este,Paquete pequeno,Liviano,14.68,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+175, 2026-01-01 ,3,9.45,57.44,0,Presencial,Transferencia,3, 79.05 ,,Sede 3,Independencia,Sur,Courier empresarial,Empresa,57.44,Sofia Ramos,Ventanilla,Frecuente, 2025-01-03 
+176,2026-03-26,4,28.87,43.99,0,Telefono,Yape,4,104.25 aprox,Promocion,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,Claudia Mendoza,Villa El Salvador,Corporativo,2025-09-03
+177,,6,30.74,26.64, 0 ,Presencial,EfEcTiVo,5,103.13,Promocion,Sede 1,,  Este ,Paquete mediano,Regular,26.64,Carlos Soto,Callao,Nuevo,2025-07-25
+178,2026-03-03,6,32.04,43.99,0,Presencial,Efectivo,1,141.15,  Promocion ,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,Camila Quispe,Independencia,Nuevo,2025-08-16
+179,2026-06-04,3,4.43,8.28,5,Presencial,Transferencia,5, 24.97 ,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Documento,LIVIANO,8.28,Diana Torres,Callao,Premium,2025-04-06
+180,2026-05-19,,25.01,76.22,0,WhatsApp,Efectivo,2,111.06,,  Sede 2 ,Chorrillos,Sur,Express,,76.22,Sofia Gomez,Ventanilla,FRECUENTE,2025-06-17
+181,2026-05-28, 2 ,22.98,89.36,12,  WhatsApp ,Efectivo,4,130.29,,Sede 4,SaN MiGuEl,  Este ,Refrigerado,EsPeCiAl,89.36,ELENA CRUZ,Ventanilla,Corporativo,2025-10-03
+182,2026-02-04,3,21.91,76.22 aprox,0,web,Tarjeta,5,114.0,OK,Sede 3,Independencia,Sur,Express,,76.22,Victor Castillo,Comas,Premium,2025-09-06
+183,2026-06-15, 7 ,11.45,8.28,10,Web,Yape,4,67.56,,Sede 4,SaN MiGuEl,  Este ,Documento,LIVIANO,8.28,Diego Huaman,miraflores,Nuevo,2025-07-07
+184,2026-01-25,6,15.98,14.68,5,Telefono,Plin,4,73.72,,Sede 5,lima,Oeste,Paquete pequeno,Liviano,14.68,Claudia Rojas,San Juan de Lurigancho,Corporativo,06/01/2025
+185,2026-01-26,3,8.22,8.28,0,Web,Transferencia,3,40.39,OK,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,Valeria Torres,Chorrillos,Corporativo,2025-09-22
+186,2026-04-24,7, 12.91 ,14.68,5,Presencial,TrAnSfErEnCiA,5,74.93,Revisar,Sede 3,Independencia,Sur,Paquete pequeno,Liviano,14.68,Carlos Huaman,Chorrillos,Premium,2025-10-20
+187,25-01-2026,2,27.76,57.44,0,App,Transferencia,4,115.81,,Sede 5,lima,Oeste,Courier empresarial,Empresa,57.44,Carlos Quispe,San Miguel,CORPORATIVO,2025-04-17
+188,2026-04-11,1,5.41,76.22,8,Presencial,transferencia,5,78.53,OK,Sede 6,Surco,centro,Express,,76.22,Victor Flores,Independencia,Corporativo,2025-05-05
+189,2026-01-01,2,21.58,8.28,8,App,Transferencia,4,60.04,,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,Raul Reyes,,Corporativo,2025-11-16
+190,2026-03-07,7,31.38,43.99, 0 ,,PLIN,4,143.34,Revisar,Sede 1,,  Este ,Paquete grande,Regular,43.99,Luis Rojas,San  Juan  de  Lurigancho,nuevo,2025/10/18
+191,2026-03-12,,14.54,8.28,15,App,Tarjeta,4,93.65 aprox,Promocion,Sede 7,Comas,este,Documento,LIVIANO,8.28,Miguel Cruz,Callao,Premium,2025-08-03
+192,2026/05/22,5, 3.9 ,118.81,0,Telefono,Yape,5,153.4,Revisar,Sede 7,Comas,este,Mudanza pequena,Volumen,118.81,Ana Soto,San Miguel,Regular,2025-08-22
+193,2026-01-13,5,24.52,"8,28",0,App,Plin,2,66.09,Revisar,Sede 1,,  Este ,Documento,LIVIANO,8.28,Victor Flores,Independencia,Corporativo,2025-05-05
+194,2026-04-01,7,21.89,76.22,10,Telefono,Efectivo,1,135.58,,Sede 4,SaN MiGuEl,  Este ,Express,,76.22,Elena Paredes,Los Olivos,Corporativo,2025-02-27
+195,2026-06-28,3,19.26,118.81, 10 ,ApP,Yape,3,128.27,,Sede 3,Independencia,Sur,Mudanza pequena,Volumen,118.81,Miguel Cruz,Callao,Premium,2025-08-03
+196,2026-06-28,6,20.15,118.81,15,  WhatsApp ,Yape,2,164.58,Cliente frecuente,Sede 5,lima,Oeste,Mudanza pequena,Volumen,118.81,ELENA CRUZ,Ventanilla,Corporativo,2025-10-03
+197, 2026-01-16 ,3,24.48,118.81,15,Web,Efectivo,5,167.15,Revisar,Sede 5,lima,Oeste,Mudanza pequena,Volumen,118.81,Victor Flores,Independencia,Corporativo,2025-05-05
+198,2026-03-21,7,31.7,51.69,8,WhatsApp,Yape,2,134.87,Cliente frecuente,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+199,2026-01-28,7, 14.88 ,118.81,0,App,  Tarjeta ,3,171.36,Cliente frecuente,Sede 3,Independencia,Sur,Mudanza pequena,Volumen,118.81,Carlos Soto,Callao,Nuevo,2025-07-25
+200,2026-01-21,7,6.69,8.28,0,Telefono,Tarjeta,2 aprox,73.93,Cliente frecuente,Sede 7,Comas,este,Documento,LIVIANO,8.28,Jorge Mendoza,Independencia,Frecuente,2025-12-13
+201,2026-01-16,5,15.62, 51.69 ,5,Telefono,Transferencia,5,107.01,,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Diego Sayan,,Nuevo,2025-05-16
+202,2026-01-03,7,1.29,118.81,0,WhatsApp,Tarjeta,1,152.19,OK,Sede 4,SaN MiGuEl,  Este ,Mudanza pequena,Volumen,118.81,Sofia Ramos,Ventanilla,Frecuente, 2025-01-03 
+203,2026-01-13,7,11.4,89.36,20,WEB,Plin,2,104.26,OK,Sede 7,Comas,este,Refrigerado,EsPeCiAl,89.36,,Ate,Premium,2025-10-09
+204,2026-03-15,1,2.58,89.36,8,WhatsApp,Tarjeta,5,82.34,ReViSaR,Sede 4,SaN MiGuEl,  Este ,Refrigerado,EsPeCiAl,89.36,Victor Navarro,San Miguel,Premium,2025-07-05
+205,2026-05-14,2,17.92,14.68,15,Presencial,Yape,4,61.49,Revisar,Sede 5,lima,Oeste,Paquete pequeno,Liviano,14.68,,San Juan de Lurigancho,Frecuente,2025-04-19
+206,2026-05-02,8,15.48,51.69,0,Presencial,Efectivo,1,113.65 aprox,,Sede 4,SaN MiGuEl,  Este ,Fragil,  Especial ,51.69,Pedro Salazar,Ventanilla,Nuevo,2025-02-01
+207,2026-03-26,7,4.19,89.36,12,WhatsApp,Yape,2,122.38,,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,Miguel Flores,San Juan de Lurigancho,Frecuente,2025-01-16
+208,2026-01-05,1,27.39,14.68,20,Presencial,Yape,2,55.39,Cliente frecuente,Sede 3,Independencia,Sur,Paquete pequeno,Liviano,14.68,Victor Castillo,Comas,Premium,2025-09-06
+209,2026-03-17,8, 17.45 ,26.64,12,Web,Transferencia,,,,Sede 1,,  Este ,Paquete mediano,Regular,26.64,Ana Vargas,San Miguel,  Corporativo ,2025-06-15
+210,,7,2.46,51.69, 10 ,App,Plin,2,81.17,OK,Sede 3,Independencia,Sur,Fragil,  Especial ,51.69,Fiorella Gomez,Chorrillos,Regular,2025-08-09
+211,2026-02-27,5,5.58,43.99,20,Presencial,Efectivo,4,63.0,Promocion,Sede 1,,  Este ,Paquete grande,Regular,43.99,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+212,2026-06-05,4,8.91,14.68,15,WhatsApp,Transferencia,1,39.31,  OK ,Sede 4,SaN MiGuEl,  Este ,Paquete pequeno,Liviano,14.68,Carlos Flores,Chorrillos,Regular,2025-11-05
+213,2026-05-28,2,31.72,43.99,0,App,Plin,5,102.79,Promocion,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,Fiorella Paredes,La  Molina,Corporativo,2025-09-26
+214,17-03-2026,7,2.21,S/ 57.44,0,Web,Plin,2,112.06,Revisar,Sede 7,Comas,este,Courier empresarial,Empresa,57.44,Luis Torres,Ate,Premium,2025-06-12
+215,2026-06-22,8,7.08,89.36,0,WhatsApp,Yape,2,125.56,Promocion,Sede 7,Comas,este,Refrigerado,EsPeCiAl,89.36,Fiorella Gomez,Chorrillos,Regular,2025-08-09
+216,2026-01-16,5,25.61,8.28,15,  Presencial ,efectivo,5,77.48,,Sede 7,Comas,este,Documento,LIVIANO,8.28,Pedro Salazar,Ventanilla,Nuevo,2025-02-01
+217,2026-04-13,2,18.03,118.81,5,  Web ,Tarjeta,4,157.59,Revisar,Sede 1,,  Este ,Mudanza pequena,Volumen,118.81,Carlos Huaman,Chorrillos,Premium,2025-10-20
+218,2026-02-08,1,1.34,57.44,0,Telefono,Plin,4,72.79,Promocion,Sede 7,Comas,este,Courier empresarial,Empresa,57.44,Miguel Quispe,Callao,CORPORATIVO,07-01-2025
+219,2026-04-27,5,6.45 aprox,76.22,10,Web,Plin,4,121.81,,Sede 7,Comas,este,Express,,76.22,Victor Flores,Independencia,Corporativo,2025-05-05
+220,2026-03-07,,31.35,57.44,10,Telefono,Transferencia,3,S/ 142.01,,Sede 7,Comas,este,Courier empresarial,Empresa,57.44,Ana Campos,Villa El Salvador,Premium,2025-11-12
+221,2026-05-13,1,27.79, 14.68 ,0,Telefono,Tarjeta,1,44.69,Revisar,  Sede 2 ,Chorrillos,Sur,Paquete pequeno,Liviano,14.68,Miguel Flores,San Juan de Lurigancho,Frecuente,2025-01-16
+222,06/03/2026,6,20.59, 89.36 ,8,App,Efectivo,3,144.89,,Sede 7,Comas,este,Refrigerado,EsPeCiAl,89.36,Victor Sayan,Chorrillos,,2025-09-16
+223,2026-05-28,8,9.84,57.44,20,Telefono,Yape,4,S/ 87.99,,Sede 1,,  Este ,Courier empresarial,Empresa,57.44,Ana Campos,Villa El Salvador,Premium,2025-11-12
+224,,7,"28,47",14.68,8,  App ,Yape,1,102.8,Revisar,Sede 5,lima,Oeste,Paquete pequeno,Liviano,14.68,Fiorella Mendoza,Los Olivos,Premium,2025-12-22
+225,2026-04-05,,15.31,43.99,0,Presencial,Tarjeta,3,66.43,Cliente frecuente,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,,Lima,frecuente,2025-05-06
+226,2026-05-21,8,12.42,57.44 aprox,5,Presencial,Transferencia,5,104.74,Cliente frecuente,Sede 5,lima,Oeste,Courier empresarial,Empresa,57.44,Andre Mendoza,Ate,Frecuente,2025/10/26
+227,2026-05-13,5,28.76,76.22,20,  Web ,Efectivo,1,146.07,ClIeNtE FrEcUeNtE,Sede 3,Independencia,Sur,Express,,76.22,Luis Gomez,Ate,Corporativo,2025/09/13
+228,2026-01-20,2,25.26,51.69,0,Web,TRANSFERENCIA, 3 , 95.36 ,Promocion,Sede 1,,  Este ,Fragil,  Especial ,51.69,Miguel Flores,San Juan de Lurigancho,Frecuente,2025-01-16
+229,2026-05-26,4,31.06,76.22,12,Telefono,Transferencia,4,120.66,,  Sede 2 ,Chorrillos,Sur,Express,,76.22,ELENA CRUZ,Ventanilla,Corporativo,2025-10-03
+230,2026-04-03,7,,S/ 26.64,0,WhatsApp,TrAnSfErEnCiA,3,88.88,,  Sede 2 ,Chorrillos,Sur,Paquete mediano,Regular,26.64,Maria Paredes,Surco,CORPORATIVO,2025-09-19
+231,2026/05/14,4,18.22, 26.64 ,8,Presencial,Efectivo,3,318.38,Revisar,  Sede 2 ,Chorrillos,Sur,Paquete mediano,Regular,26.64,Luis Rojas,San  Juan  de  Lurigancho,nuevo,2025/10/18
+232,2026-02-11,6,31.76,43.99,10,App,Efectivo,1,106.39,Revisar,Sede 6,Surco,centro,Paquete grande,Regular,43.99,Andre Mendoza,Ate,Frecuente,2025/10/26
+233,2026-01-24, 5 ,11.56 aprox,57.44, 0 ,Web,Plin,5,83.06,,  Sede 2 ,Chorrillos,Sur,Courier empresarial,Empresa,57.44,Carlos Flores,Chorrillos,Regular,2025-11-05
+234,01/04/2026,6,14.35,8.28,15,WHATSAPP,Efectivo,2,50.73,Revisar,Sede 3,Independencia,Sur,Documento,LIVIANO,8.28,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+235,2026-02-26,7,27.33,89.36,10,App,Tarjeta,5,144.6,Promocion,Sede 5,lima,Oeste,Refrigerado,EsPeCiAl,89.36,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+236,,3,20.34,S/ 43.99,10,Web,Yape,3,99.3,Cliente frecuente,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,Miguel Mendoza,Comas,Corporativo,2025-06-02
+237,2026-04-04,1,1.06,14.68,8,ApP,Plin,2,11.94,ReViSaR,  Sede 2 ,Chorrillos,Sur,Paquete pequeno,Liviano,14.68,Elena Rojas,CHORRILLOS,PrEmIuM,2025-08-03
+238,2026-02-24,3,31.09,14.68,15,Telefono,Efectivo,2,82.09,,Sede 4,SaN MiGuEl,  Este ,Paquete pequeno,Liviano,14.68,Claudia Rojas,San Juan de Lurigancho,Corporativo,06/01/2025
+239,2026-03-25,3,11.53,51.69,10,Web,Transferencia,3,98.27,,Sede 1,,  Este ,Fragil,  Especial ,51.69,Ana Navarro,San Miguel,Regular, 2025-12-17 
+240, 2026-05-19 ,5,32.98,51.69,0,Telefono,Yape,5,123.39,,Sede 1,,  Este ,Fragil,  Especial ,51.69,Raul Sayan,Ventanilla,Corporativo,2025-08-09
+241,2026-05-17,3,26.77, 57.44 ,15,App,Plin,5,117.4,,Sede 4,SaN MiGuEl,  Este ,Courier empresarial,Empresa,57.44,Miguel Mendoza,Comas,Corporativo,2025-06-02
+242,2026-02-02,3,,89.36 aprox,0,Presencial,,4,133.33,   ,Sede 7,Comas,este,Refrigerado,EsPeCiAl,89.36,Claudia Ramos,Lima,Corporativo,2025-05-04
+243,2026-02-10,4,19.9,118.81,0,WhatsApp,Yape,4,151.57,Cliente frecuente,Sede 7,Comas,este,Mudanza pequena,Volumen,118.81,Ana Vargas,San Miguel,  Corporativo ,2025-06-15
+244,2026-05-11, 4 ,2.77,89.36,10,Web,Efectivo,3,96.4,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,Miguel Flores,La Molina,CoRpOrAtIvO,2025-10-23
+245,2026-04-21,5,21.79, 51.69 ,10,App,Efectivo,3,127.97,Revisar,Sede 7,Comas,este,Fragil,  Especial ,51.69,Camila Quispe,Independencia,Nuevo,2025-08-16
+246,2026-01-27,,3.73,57.44,10,Web,Yape,2,84.74,OK,Sede 4,SaN MiGuEl,  Este ,Courier empresarial,Empresa,57.44,Victor Reyes,Callao,,2025-05-11
+247,2026-02-23,4,32.33,26.64,8,Telefono,Efectivo,3,96.75,Cliente frecuente,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Ana Campos,Villa El Salvador,Premium,2025-11-12
+248,2026-04-21,3,31.01,89.36,15,WhatsApp,,3,151.75,,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Diego Sayan,,Nuevo,2025-05-16
+249,2026-02-04,2,33.85,89.36,0,Web,Tarjeta,4,S/ 140.96,,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,,Ate,Premium,2025-10-09
+250,2026-02-19,3,13.74,14.68,5,Web,Efectivo,3,S/ 64.81,Promocion,Sede 1,,  Este ,Paquete pequeno,Liviano,14.68,Luis Paredes,ate,Corporativo,2025-01-22
+251,2026-05-18,7,31.72,14.68,20,Telefono,Plin,4,107.85,Promocion,Sede 4,SaN MiGuEl,  Este ,Paquete pequeno,Liviano,14.68,Victor Castillo,Comas,Premium,2025-09-06
+252,06/05/2026,3,3.3,8.28,0,App,Tarjeta,3,101.47,,Sede 1,,  Este ,Documento,LIVIANO,8.28,pedro huaman,Los Olivos,Nuevo,2025-10-17
+253,2026-04-07,5,5.28,14.68,0,WhAtSaPp,Tarjeta,4,59.96,OK,Sede 6,Surco,centro,Paquete pequeno,Liviano,14.68,Jose Huaman,  Ventanilla ,Regular,2025-03-18
+254,2026-02-08,5,0.56,118.81,8,WhatsApp,,5,124.06,OK,Sede 5,lima,Oeste,Mudanza pequena,Volumen,118.81,Miguel Flores,San Juan de Lurigancho,Frecuente,2025-01-16
+255,2026-03-22, 3 ,15.29,51.69,0,,Tarjeta,1, 79.5 ,OK,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Fiorella Paredes,La  Molina,Corporativo,2025-09-26
+256,2026-01-25,1 aprox,1.84,89.36,10,Presencial,Tarjeta,5,98.83,Cliente frecuente,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Victor Reyes,Callao,,2025-05-11
+257,2026-02-06,6,31.38,89.36,0,,Tarjeta,1,146.96,,Sede 4,SaN MiGuEl,  Este ,Refrigerado,EsPeCiAl,89.36,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+258,2026-04-24, 8 ,11.66,8.28,12,Presencial,Transferencia,1,75.87,,Sede 1,,  Este ,Documento,LIVIANO,8.28,Elena Rojas,CHORRILLOS,PrEmIuM,2025-08-03
+259,2026-06-23,6,11.32,89.36,8,Presencial,YAPE,3,133.23,OK,Sede 4,SaN MiGuEl,  Este ,Refrigerado,EsPeCiAl,89.36,Maria Huaman,  Chorrillos ,Frecuente,2025-12-18
+260,2026-06-19,1,1.26,26.64,5,Telefono,Efectivo,3,45.2,OK,  Sede 2 ,Chorrillos,Sur,Paquete mediano,Regular,26.64,Fiorella Mendoza,Los Olivos,Premium,2025-12-22
+261,13-04-2026,4,4.12,14.68,,Telefono,TrAnSfErEnCiA,1,65.82,Cliente frecuente,Sede 6,Surco,centro,Paquete pequeno,Liviano,14.68,Luis Paredes,ate,Corporativo,2025-01-22
+262,2026/02/26,8,25.07 aprox,43.99,0,App,Efectivo,3,115.5,OK,Sede 7,Comas,este,Paquete grande,Regular,43.99,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+263,2026-04-13,,26.4,57.44,15,Web,TRANSFERENCIA,1,148.2,OK,Sede 3,Independencia,Sur,Courier empresarial,Empresa,57.44,Diego Huaman,miraflores,Nuevo,2025-07-07
+264,2026-01-13,1,23.53,,15,WhatsApp,plin,5,103.4,OK,Sede 5,lima,Oeste,Courier empresarial,Empresa,57.44,,Ate,Premium,2025-10-09
+265,2026-05-16,2,5.92,26.64,5,Web,Yape,3,,,Sede 1,,  Este ,Paquete mediano,Regular,26.64,Miguel Flores,La Molina,CoRpOrAtIvO,2025-10-23
+266,2026-01-23,3,29.44,8.28,10,presencial,Efectivo,1,83.63,OK,  Sede 2 ,Chorrillos,Sur,Documento,LIVIANO,8.28,Raul Navarro,SURCO,PREMIUM,2025-05-27
+267,2026-06-13,7,12.28,26.64,0,WhatsApp,Transferencia,4 aprox,82.62,Cliente frecuente,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Carlos Soto,Callao,Nuevo,2025-07-25
+268,2026-05-23,6,17.66,8.28,10,App,Plin,2,49.49,Revisar,Sede 7,Comas,este,Documento,LIVIANO,8.28,Miguel Mendoza,Comas,Corporativo,2025-06-02
+269,2026-05-11,3 aprox,0.21,57.44,0,Telefono,Efectivo,5,74.6,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Courier empresarial,Empresa,57.44,Elena Salazar,SURCO,Frecuente,2025-09-18
+270,2026-06-10,1,18.67 aprox,51.69,0,Presencial,TARJETA,1,83.16,,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Fiorella Huaman,Ventanilla,Premium,2025-05-05
+271,2026-01-03,1,26.8,"26,64",0,Presencial,Yape,3,90.33,Promocion,Sede 7,Comas,este,Paquete mediano,Regular,26.64,pedro huaman,Los Olivos,Nuevo,2025-10-17
+272,2026-05-23,2,"12,46","51,69",0,Telefono,Plin,1,94.31,OK,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Raul Salazar,Lima,Premium,2025-03-04
+273,2026-01-01,6,14.91,51.69,0,  Web ,Tarjeta,5,102.15 aprox,,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Fiorella Mendoza,Los Olivos,Premium,2025-12-22
+274,2026-05-07,5,17.37,51.69,0,Telefono,Yape,3,115.88,Revisar,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+275,2026-02-02,6,9.84,51.69,10,Presencial,yape,4,83.98,,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Luis Paredes,ate,Corporativo,2025-01-22
+276,2026-04-21,6,10.43,14.68,8,Telefono,Plin,5,101.73,OK,Sede 6,Surco,centro,Paquete pequeno,Liviano,14.68,Lucia Campos,  Independencia ,Frecuente,2025-05-03
+277,2026-04-03,1, 32.67 ,"43,99",0,WhatsApp,Tarjeta,4,109.2,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Paquete grande,Regular,43.99,Claudia Soto,,Nuevo,2025-04-25
+278,2026-02-01,1 aprox,23.43,,12 aprox,App,Efectivo,2,125.27,Promocion,Sede 5,lima,Oeste,Mudanza pequena,Volumen,118.81,Ana Campos,Villa El Salvador,Premium,2025-11-12
+279,2026-01-03,,26.0,8.28,5,PrEsEnCiAl,Plin,3,76.32,OK,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,Carlos Flores,Chorrillos,Regular,2025-11-05
+280,2026-03-19,5,15.34,118.81,15,Web,Efectivo,2,143.07,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Mudanza pequena,Volumen,118.81,Elena Rojas,CHORRILLOS,PrEmIuM,2025-08-03
+281,2026-01-10,1,29.75,57.44,15,APP,Yape,5,109.16 aprox,Promocion,Sede 6,Surco,centro,Courier empresarial,Empresa,57.44,Ana Vargas,San Miguel,  Corporativo ,2025-06-15
+282,2026-06-02,8,32.96,26.64,0,WhAtSaPp,Yape,1,115.17,Revisar,Sede 4,SaN MiGuEl,  Este ,Paquete mediano,Regular,26.64,Ana Rojas,Chorrillos,Nuevo,2025-04-09
+283,2026-01-12,2,16.7 aprox,76.22,0,Web,Yape,4,122.16,,  Sede 2 ,Chorrillos,Sur,Express,,76.22,Jorge Mendoza,Independencia,Frecuente,2025-12-13
+284,2026-02-05,1,"12,83",118.81,20,  Telefono ,efectivo,5,123.49,,Sede 4,SaN MiGuEl,  Este ,Mudanza pequena,Volumen,118.81,pedro huaman,Los Olivos,Nuevo,2025-10-17
+285,2026-03-22,4,4.76,51.69,15,,Transferencia,3,59.86,CLIENTE FRECUENTE,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Elena Salazar,SURCO,Frecuente,2025-09-18
+286,2026-05-20,6,6.12,14.68,0,,Tarjeta,4,"78,13",,  Sede 2 ,Chorrillos,Sur,Paquete pequeno,Liviano,14.68,,Lima,frecuente,2025-05-06
+287,2026-03-06,3,1.5 aprox,43.99,0,Presencial,Transferencia,3,69.88,Cliente frecuente,Sede 4,SaN MiGuEl,  Este ,Paquete grande,Regular,43.99,Jorge Mendoza,Independencia,Frecuente,2025-12-13
+288,2026-02-09,5,1.83,76.22,20,Web,Tarjeta,5,100.31,OK,Sede 7,Comas,este,Express,,76.22,Maria Campos,Independencia,corporativo,2025-09-14
+289,2026-03-07,5,30.03,51.69,0,Web,Yape,3,134.93,Revisar,Sede 4,SaN MiGuEl,  Este ,Fragil,  Especial ,51.69,Miguel Mendoza,Comas,Corporativo,2025-06-02
+290,2026-05-01,5,29.11,51.69,0,Web,Yape,5,116.66,Promocion,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Fiorella Gomez,Chorrillos,Regular,2025-08-09
+291,2026-05-06, 6 ,6.19,118.81,8,App,Yape,2,161.93,Cliente frecuente,Sede 7,Comas,este,Mudanza pequena,Volumen,118.81,,San Juan de Lurigancho,Frecuente,2025-04-19
+292,2026-02-15,1,28.15,43.99,12,Web,Plin,2,273.83,Promocion,Sede 7,Comas,este,Paquete grande,Regular,43.99,Victor Flores,Independencia,Corporativo,2025-05-05
+293,2026-02-07,2,2.43,8.28,15,Telefono,Tarjeta,4,20.2,Revisar,Sede 3,Independencia,Sur,Documento,LIVIANO,8.28,Claudia Ramos,Lima,Corporativo,2025-05-04
+294,2026-04-13,5,10.02,14.68,20,WhatsApp,Yape,2,70.97,Revisar,Sede 5,lima,Oeste,Paquete pequeno,Liviano,14.68,Claudia Soto,,Nuevo,2025-04-25
+295,2026-05-12,2, 34.59 ,118.81,0,Telefono,Efectivo,2,173.45,Revisar,Sede 1,,  Este ,Mudanza pequena,Volumen,118.81,Diana Torres,Callao,Premium,2025-04-06
+296,2026-01-20,2,"31,4",8.28,10,WhatsApp,yape,5,78.87,,Sede 4,SaN MiGuEl,  Este ,Documento,LIVIANO,8.28,Miguel Mendoza,Comas,Corporativo,2025-06-02
+297,2026-05-22,7,19.17,S/ 43.99,8,,Yape,2,114.21,,Sede 4,SaN MiGuEl,  Este ,Paquete grande,Regular,43.99,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+298,2026-01-07, 5 ,29.81,26.64,5 aprox,Telefono,Efectivo,4,96.15,Cliente frecuente,Sede 1,,  Este ,Paquete mediano,Regular,26.64,Lucia Campos,  Independencia ,Frecuente,2025-05-03
+299,2026-06-22,7 aprox,6.58,57.44,5,WhatsApp,Tarjeta,2,90.17,ReViSaR,  Sede 2 ,Chorrillos,Sur,Courier empresarial,Empresa,57.44,Fiorella Mendoza,Los Olivos,Premium,2025-12-22
+300,2026-03-19,3,1.14,8.28,20,App,Tarjeta,1,12.13,Cliente frecuente,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,Maria Huaman,  Chorrillos ,Frecuente,2025-12-18
+301,2026-02-27,1,1.92,14.68,0 aprox,Presencial,Tarjeta,3,52.16,OK,Sede 6,Surco,centro,Paquete pequeno,Liviano,14.68,Miguel Cruz,Callao,Premium,2025-08-03
+302,2026-03-02,6,8.07,8.28,5,Presencial,Yape,1,77.29,Revisar,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,Miguel Quispe,Callao,CORPORATIVO,07-01-2025
+303,2026-03-12,8,2.78,8.28,8,App,Plin,2,53.28,Cliente frecuente,Sede 4,SaN MiGuEl,  Este ,Documento,LIVIANO,8.28,Maria Paredes,Surco,CORPORATIVO,2025-09-19
+304,2026-02-14,1,2.97,"76,22",5,Presencial,Tarjeta,2,79.91,Revisar,Sede 5,lima,Oeste,Express,,76.22,Raul Reyes,,Corporativo,2025-11-16
+305,01/04/2026,6,14.35,8.28,15,WHATSAPP,Efectivo,2,50.73,Revisar,Sede 3,Independencia,Sur,Documento,LIVIANO,8.28,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+306,2026-05-16,7,1.4,76.22,0,Presencial,Plin,4,S/ 112.66,Revisar,Sede 5,lima,Oeste,Express,,76.22,Lucia Campos,  Independencia ,Frecuente,2025-05-03
+307,2026-05-12,5 aprox,14.31,76.22,20,WhatsApp,Plin,5 aprox,118.74,Revisar,Sede 3,Independencia,Sur,Express,,76.22,Diana Castillo,,Regular,12/05/2025
+308,2026-05-17,3,26.77, 57.44 ,15,App,Plin,5,117.4,,Sede 4,SaN MiGuEl,  Este ,Courier empresarial,Empresa,57.44,Miguel Mendoza,Comas,Corporativo,2025-06-02
+309,2026-06-04,,13.86 aprox,S/ 51.69,0,App,Transferencia,4,106.72,,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Sofia Gomez,Ventanilla,FRECUENTE,2025-06-17
+310,2026-06-23,1,24.24,14.68,20,App,TARJETA,1,51.8,,Sede 1,,  Este ,Paquete pequeno,Liviano,14.68,Luis Paredes,ate,Corporativo,2025-01-22
+311,2026-02-03,2,"6,07",,0,,  Transferencia , 3 ,41.27,Cliente frecuente,Sede 4,SaN MiGuEl,  Este ,Paquete mediano,Regular,26.64,Maria Huaman,  Chorrillos ,Frecuente,2025-12-18
+312,2026-04-10,2,"34,81", 8.28 ,0,,Yape,5,62.36,Promocion,Sede 4,SaN MiGuEl,  Este ,Documento,LIVIANO,8.28,Sofia Ramos,Ventanilla,Frecuente, 2025-01-03 
+313,2026-05-03,8,9.76,118.81,0,Web,,3,136.91,Revisar,Sede 1,,  Este ,Mudanza pequena,Volumen,118.81,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+314,2026-04-19,4,1.28,57.44,0,Presencial,Efectivo,5,89.52,   ,  Sede 2 ,Chorrillos,Sur,Courier empresarial,Empresa,57.44,Miguel Flores,La Molina,CoRpOrAtIvO,2025-10-23
+315,2026-03-25,8,7.63,76.22,10,Web,Plin,5,130.99,Cliente frecuente,Sede 5,lima,Oeste,Express,,76.22,VALERIA QUISPE,Callao,Nuevo,2025-06-04
+316,2026-05-14,7,10.28,76.22,0,WhatsApp,Yape,5,125.84,,Sede 5,lima,Oeste,Express,,76.22,Jorge Castillo,San Miguel,Premium,2025-08-27
+317,2026-01-28,4,24.97,89.36, 5 ,WhatsApp,Tarjeta,4,139.0,,Sede 5,lima,Oeste,Refrigerado,EsPeCiAl,89.36,,Lima,frecuente,2025-05-06
+318,2026-05-26,5,14.3,118.81,8,Presencial,tarjeta,3,164.8,OK,Sede 1,,  Este ,Mudanza pequena,Volumen,118.81,Maria Huaman,  Chorrillos ,Frecuente,2025-12-18
+319,2026-04-15,5,16.44,51.69,20,App,Efectivo,4,76.03,,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Sofia Gomez,Ventanilla,FRECUENTE,2025-06-17
+320,2026-02-23,1,6.41,26.64,0,Telefono,Plin,3,52.21,Revisar,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Fiorella Ramos,Surco,Regular, 2025-06-26 
+321,20/01/2026,6,9.77,57.44,5,App,Efectivo,1,93.23,Promocion,Sede 4,SaN MiGuEl,  Este ,Courier empresarial,Empresa,57.44,VALERIA QUISPE,Callao,Nuevo,2025-06-04
+322,2026/02/15,6,2.63,51.69,12,Presencial,YaPe,1,82.63,,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Fiorella Paredes,La  Molina,Corporativo,2025-09-26
+323,2026-02-08, 1 ,23.64,26.64,12,Web,,5,78.15,Cliente frecuente,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,Miguel Navarro,La Molina,Regular,2025-06-17
+324,2026-05-13,5,15.49,51.69,0,WhatsApp,Plin,1,107.47,OK,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Raul Salazar,Lima,Premium,2025-03-04
+325,,5,32.84,8.28 aprox,,App,Tarjeta,2,78.46,,Sede 1,,  Este ,Documento,LIVIANO,8.28,Carlos Flores,Chorrillos,Regular,2025-11-05
+326,2026-01-15,1,17.5,89.36,5,App,,5,,Revisar,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Luis Rojas,San  Juan  de  Lurigancho,nuevo,2025/10/18
+327,2026-01-16,3,6.38,51.69,15,App,Tarjeta,,61.99,,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Miguel Reyes,Surco,Premium,2025/01/09
+328,2026-05-04,6,8.32,26.64,8,Presencial,Transferencia,5,"63,58",Promocion,Sede 6,Surco,centro,Paquete mediano,Regular,26.64,Raul Sayan,Ventanilla,Corporativo,2025-08-09
+329,2026-01-10,5,30.74,43.99,,Web,Transferencia,1,120.79,Cliente frecuente,Sede 1,,  Este ,Paquete grande,Regular,43.99,Fiorella Soto,Lima,FrEcUeNtE,2025-11-19
+330,2026-01-06,7,17.74,43.99,8,App,Efectivo,5,101.87,Revisar,Sede 6,Surco,centro,Paquete grande,Regular,43.99,Jose Huaman,  Ventanilla ,Regular,2025-03-18
+331,2026-03-03,1,13.28 aprox,8.28,10,App,efectivo,1,,Promocion,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,VALERIA QUISPE,Callao,Nuevo,2025-06-04
+332,2026-04-28,1,30.16,51.69,5,  Telefono ,Efectivo,5 aprox,103.42 aprox,,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Fiorella Gomez,Chorrillos,Regular,2025-08-09
+333,2026-01-04,8,21.63,89.36,0,Telefono,Efectivo,1,579.71,Promocion,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Jorge Gomez,Villa El Salvador,Frecuente,2025-09-16
+334,2026-02-24,2,19.96,8.28,0,App,Transferencia,2,68.29,Promocion,Sede 7,Comas,este,Documento,LIVIANO,8.28,pedro huaman,Los Olivos,Nuevo,2025-10-17
+335,2026-01-05,3,3.68,8.28,8,Web,Yape,1,30.22,Revisar,  Sede 2 ,Chorrillos,Sur,Documento,LIVIANO,8.28,,Lima,frecuente,2025-05-06
+336,2026-04-07,7, 3.08 ,14.68,8,Presencial,,2,69.74,OK,Sede 4,SaN MiGuEl,  Este ,Paquete pequeno,Liviano,14.68,Victor Reyes,Callao,,2025-05-11
+337,2026-06-04,3,,118.81,15,Web,TrAnSfErEnCiA,3,638.23,,Sede 5,lima,Oeste,Mudanza pequena,Volumen,118.81,Carlos Huaman,Chorrillos,Premium,2025-10-20
+338, 2026-02-22 ,7,2.79,8.28,0,App,Plin,3,"55,15",Revisar,Sede 3,Independencia,Sur,Documento,LIVIANO,8.28,Andre Gomez,ATE,Premium,2025-12-21
+339,2026-06-26,6,10.97,14.68,0,Presencial,Transferencia,5,74.49,,Sede 1,,  Este ,Paquete pequeno,Liviano,14.68,Jorge Castillo,San Miguel,Premium,2025-08-27
+340,2026/05/23,7,28.58,26.64,20,WhatsApp,Efectivo,3,108.45,Promocion,Sede 4,SaN MiGuEl,  Este ,Paquete mediano,Regular,26.64,Claudia Soto,,Nuevo,2025-04-25
+341,2026-04-09,4,15.22,76.22,5,Presencial,Yape,2,108.13,Revisar,Sede 1,,  Este ,Express,,76.22,VALERIA QUISPE,Callao,Nuevo,2025-06-04
+342,2026-01-13,8,28.39,8.28,0,App,Efectivo,4,94.88 aprox,OK,Sede 3,Independencia,Sur,Documento,LIVIANO,8.28,Claudia Rojas,San Juan de Lurigancho,Corporativo,06/01/2025
+343,16/06/2026,8,23.03,8.28,5,WhatsApp,  Yape ,2,88.25,OK,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,Claudia Ramos,Lima,Corporativo,2025-05-04
+344,2026-01-21,3,25.91,26.64,10 aprox,Web,Efectivo,1 aprox,,Revisar,Sede 5,lima,Oeste,Paquete mediano,Regular,26.64,Miguel  Cruz,Surco,Regular,15/12/2025
+345,2026-02-11,3,27.31,118.81,8,App,Plin,4,S/ 168.99,Revisar,Sede 6,Surco,centro,Mudanza pequena,Volumen,118.81,Fiorella Gomez,Chorrillos,Regular,2025-08-09
+346,2026-01-28,5,21.86,43.99,8,App,,2,105.02,,Sede 3,Independencia,Sur,Paquete grande,Regular,43.99,Andre Gomez,ATE,Premium,2025-12-21
+347,2026-04-21,5 aprox,14.8, 8.28 ,0,ApP,TARJETA,4,,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Documento,LIVIANO,8.28,Miguel Flores,La Molina,CoRpOrAtIvO,2025-10-23
+348,2026-06-01,6,8.73,26.64,0,Telefono,,1,77.52,Promocion,Sede 1,,  Este ,Paquete mediano,Regular,26.64,Fiorella Huaman,Ventanilla,Premium,2025-05-05
+349,2026-05-15,2,1.04 aprox,43.99,0 aprox,Presencial,Plin,3,41.66,,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,Andre Gomez,ATE,Premium,2025-12-21
+350,2026-01-11,2,20.16,26.64 aprox,8,Presencial,Efectivo,,96.18,Cliente frecuente,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Diana Torres,Callao,Premium,2025-04-06
+351,2026/04/05,6,8.64,89.36,,  Web ,Plin,1,133.66,Promocion,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,Elena Paredes,Los Olivos,Corporativo,2025-02-27
+352,2026-03-14,7,26.87,51.69,15,App,YAPE,3,126.54,OK,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Luis Torres,Ate,Premium,2025-06-12
+353,2026-06-12,7 aprox,31.18,8.28,20,Presencial,Yape,5,107.95,Cliente frecuente,Sede 4,SaN MiGuEl,  Este ,Documento,LIVIANO,8.28,Carlos Flores,Chorrillos,Regular,2025-11-05
+354,2026-01-07,2,33.14,118.81,20,App,Tarjeta,3,170.62,,Sede 3,Independencia,Sur,Mudanza pequena,Volumen,118.81,Miguel Quispe,Callao,CORPORATIVO,07-01-2025
+355,2026-06-16,6,5.89,8.28,0,  WhatsApp ,PlIn,5,60.65 aprox,,Sede 7,Comas,este,Documento,LIVIANO,8.28,Miguel Navarro,La Molina,Regular,2025-06-17
+356,2026-04-07, 7 ,29.59,118.81,5,Presencial,Plin,4,179.55,OK,  Sede 2 ,Chorrillos,Sur,Mudanza pequena,Volumen,118.81,Miguel Flores,San Juan de Lurigancho,Frecuente,2025-01-16
+357,2026-05-18,3,11.14,26.64,0,Presencial,Efectivo,2,50.77 aprox,,Sede 6,Surco,centro,Paquete mediano,Regular,26.64,Raul Navarro,SURCO,PREMIUM,2025-05-27
+358,2026-04-19,7,"16,09","26,64",0 aprox,WhatsApp,Transferencia,2,99.41,,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Jorge Ramos,Ate,  Nuevo ,2025-09-20
+359,2026-04-22,4,24.87,26.64,0,Presencial,YaPe,2,96.6,,Sede 6,Surco,centro,Paquete mediano,Regular,26.64,Elena Paredes,Los Olivos,Corporativo,2025-02-27
+360,2026-03-27,4,19.7,57.44,0,Telefono,Plin,3,115.7,Revisar,Sede 7,Comas,este,Courier empresarial,Empresa,57.44,Claudia Ramos,Lima,Corporativo,2025-05-04
+361,2026-06-18, 2 ,8.43,,10,,Transferencia,1,57.18,,Sede 6,Surco,centro,Paquete mediano,Regular,26.64,Victor Flores,Independencia,Corporativo,2025-05-05
+362,2026/05/14,5,10.26,"14,68",15,App,Transferencia,3,50.91,PrOmOcIoN,Sede 3,Independencia,Sur,Paquete pequeno,Liviano,14.68,Valeria Reyes,Chorrillos,Frecuente,2025-10-05
+363,2026-05-20,4,65.5,76.22,0,WhatsApp,,3,209.62,Revisar,Sede 4,SaN MiGuEl,  Este ,Express,,76.22,Maria Paredes,Surco,CORPORATIVO,2025-09-19
+364,2026-03-15,3,,14.68,15,app,Transferencia,3,59.79,,Sede 5,lima,Oeste,Paquete pequeno,Liviano,14.68,Andre Mendoza,Ate,Frecuente,2025/10/26
+365,2026-06-26,5,21.12,89.36,10,WhatsApp,Plin,2,156.47,,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,Fiorella Soto,Lima,FrEcUeNtE,2025-11-19
+366,2026-06-08,3,4.22,76.22,5,WhatsApp,Tarjeta,5,93.42,Revisar,Sede 1,,  Este ,Express,,76.22,Claudia Mendoza,Villa El Salvador,Corporativo,2025-09-03
+367,2026-03-18,6, 0.21 ,118.81,20,Web,Efectivo,1,118.19,Promocion,Sede 7,Comas,este,Mudanza pequena,Volumen,118.81,Fiorella Paredes,La  Molina,Corporativo,2025-09-26
+368,2026-01-17,5,6.36,89.36,12,Presencial,Plin,1,127.26,,Sede 7,Comas,este,Refrigerado,EsPeCiAl,89.36,Luis Torres,Ate,Premium,2025-06-12
+369,2026-01-01,8,20.0,57.44,12,Telefono,Efectivo,4,121.89,Revisar,  Sede 2 ,Chorrillos,Sur,Courier empresarial,Empresa,57.44,Valeria Reyes,Chorrillos,Frecuente,2025-10-05
+370,2026-03-25,7,30.92,26.64,12,Presencial,Efectivo,2,119.47,,Sede 1,,  Este ,Paquete mediano,Regular,26.64,Andre Mendoza,Ate,Frecuente,2025/10/26
+371,2026-06-08,3, 23.05 ,51.69,15,Presencial,  Yape ,4,91.04,,Sede 3,Independencia,Sur,Fragil,  Especial ,51.69,Carlos Quispe,San Miguel,CORPORATIVO,2025-04-17
+372,2026-02-03,1,124.82,14.68,0,Web,,3,246.81,,Sede 1,,  Este ,Paquete pequeno,Liviano,14.68,,Ate,Premium,2025-10-09
+373,2026-05-09,7,21.69,26.64,8,Telefono,PlIn,5,102.24,,Sede 4,SaN MiGuEl,  Este ,Paquete mediano,Regular,26.64,Valeria Torres,Chorrillos,Corporativo,2025-09-22
+374,2026-01-02,4,11.29,14.68,0,Telefono,Tarjeta,4,56.16,Revisar,Sede 3,Independencia,Sur,Paquete pequeno,Liviano,14.68,Diana Torres,Callao,Premium,2025-04-06
+375,2026-03-25,2,6.4,14.68,5,Telefono,Plin,2,12.93,OK,Sede 6,Surco,centro,Paquete pequeno,Liviano,14.68,Jose Huaman,  Ventanilla ,Regular,2025-03-18
+376,2026-02-03,1 aprox,8.67,43.99,20,APP,Plin,3,,Revisar,Sede 1,,  Este ,Paquete grande,Regular,43.99,Luis Torres,Ate,Premium,2025-06-12
+377,2026-03-13,3,23.4,8.28,8,WeB,Yape,5,65.27,OK,Sede 1,,  Este ,Documento,LIVIANO,8.28,Miguel Quispe,Callao,CORPORATIVO,07-01-2025
+378,2026-02-02,4,,"51,69",0,Telefono,TaRjEtA,4,108.73,Revisar,Sede 4,SaN MiGuEl,  Este ,Fragil,  Especial ,51.69,Maria Huaman,  Chorrillos ,Frecuente,2025-12-18
+379,2026-01-17,1,18.73,89.36,10,App,efectivo,1,103.18,,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,Sofia Gomez,Ventanilla,FRECUENTE,2025-06-17
+380,2026-05-20,6,6.12,14.68,0,,Tarjeta,4,"78,13",,  Sede 2 ,Chorrillos,Sur,Paquete pequeno,Liviano,14.68,,Lima,frecuente,2025-05-06
+381,2026-01-17,5,8.05,14.68,0,Presencial,Yape,3,63.7,Promocion,Sede 1,,  Este ,Paquete pequeno,Liviano,14.68,Pedro Salazar,Ventanilla,Nuevo,2025-02-01
+382,2026-03-01,2,33.01,57.44,0 aprox,WhatsApp,Yape,2,101.43,,Sede 3,Independencia,Sur,Courier empresarial,Empresa,57.44,Fiorella Paredes,La  Molina,Corporativo,2025-09-26
+383,2026-03-20,1,16.95,S/ 118.81,5,Web,Efectivo,1,168.07,,Sede 3,Independencia,Sur,Mudanza pequena,Volumen,118.81,Elena Salazar,SURCO,Frecuente,2025-09-18
+384,2026-06-26,3,34.38,57.44,20,WhatsApp,Plin,1,112.27,,Sede 6,Surco,centro,Courier empresarial,Empresa,57.44,Pedro Navarro,Surco,  Premium ,
+385, 2026-05-08 ,4,13.48,76.22,10,App,Efectivo,3,83.2,OK,Sede 1,,  Este ,Express,,76.22,VALERIA QUISPE,Callao,Nuevo,2025-06-04
+386,2026-04-26,1,10.51,57.44,0,App,,1,88.78,Promocion,Sede 7,Comas,este,Courier empresarial,Empresa,57.44,Fiorella Ramos,Surco,Regular, 2025-06-26 
+387,2026-04-06,8,25.17 aprox, 26.64 ,15 aprox,Web,Transferencia,3,88.77,Cliente  frecuente,Sede 5,lima,Oeste,Paquete mediano,Regular,26.64,Marco Reyes,MIRAFLORES,Regular,2025-02-28
+388,2026-03-16,4,12.66, 89.36 ,15 aprox,WhatsApp,  Yape ,1,116.66,OK,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Luis Gomez,Ate,Corporativo,2025/09/13
+389,2026-04-02, 5 ,34.97,14.68,20,Telefono,Transferencia,2,94.3,Revisar,Sede 7,Comas,este,Paquete pequeno,Liviano,14.68,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+390,2026-01-22,7,17.08,S/ 26.64,8,Presencial,efectivo,2,104.84,Promocion,Sede 5,lima,Oeste,Paquete mediano,Regular,26.64,Andre Mendoza,Ate,Frecuente,2025/10/26
+391,01-02-2026,3,33.21,89.36,,TELEFONO,Transferencia,5,648.51,Revisar,Sede 5,lima,Oeste,Refrigerado,EsPeCiAl,89.36,Miguel Cruz,Callao,Premium,2025-08-03
+392,2026-03-11, 8 ,14.5,14.68,0,WhatsApp,Yape,1, 101.6 ,ok,Sede 6,Surco,centro,Paquete pequeno,Liviano,14.68,Jorge Mendoza,Independencia,Frecuente,2025-12-13
+393, 2026-01-04 , 6 ,1.28,57.44,0,Presencial,Efectivo,2,93.45,Cliente frecuente,Sede 7,Comas,este,Courier empresarial,Empresa,57.44,Victor Reyes,Callao,,2025-05-11
+394,2026-05-19,5,33.75,26.64,20,App,Yape,5,84.86,Promocion,Sede 6,Surco,centro,Paquete mediano,Regular,26.64,Sofia Reyes,San Juan de Lurigancho,Frecuente,2025-02-13
+395,08-01-2026,4,18.07,26.64,8 aprox,WhatsApp,Plin,3,88.81,,Sede 1,,  Este ,Paquete mediano,Regular,26.64,Diego Sayan,,Nuevo,2025-05-16
+396,2026-03-23,2,26.92, 76.22 ,5,App,Yape,2,116.45,,  Sede 2 ,Chorrillos,Sur,Express,,76.22,Jorge Gomez,Villa El Salvador,Frecuente,2025-09-16
+397,2026-02-18,3,32.88,26.64,0,WhatsApp,Tarjeta,5,85.09,Cliente frecuente,Sede 5,lima,Oeste,Paquete mediano,Regular,26.64,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+398,2026-03-17,8 aprox,17.65,51.69,20,Presencial,Transferencia,4,341.83,Cliente frecuente,Sede 4,SaN MiGuEl,  Este ,Fragil,  Especial ,51.69,Victor Reyes,Callao,,2025-05-11
+399,2026-02-10,7,3.18,8.28,5,Presencial,,3,78.01,Revisar,  Sede 2 ,Chorrillos,Sur,Documento,LIVIANO,8.28,Claudia Soto,,Nuevo,2025-04-25
+400,,7,32.95,118.81,15,Presencial,Plin,4,207.8,Cliente frecuente,Sede 4,SaN MiGuEl,  Este ,Mudanza pequena,Volumen,118.81,,Ate,Premium,2025-10-09
+401, 2026-02-09 ,3,31.88,76.22,15,Web,Transferencia,1,109.31,ok,Sede 4,SaN MiGuEl,  Este ,Express,,76.22,Miguel Paredes,Miraflores,Premium,2025-06-28
+402,2026-05-19,2 aprox,24.87, 26.64 ,12,Presencial,yape,5,103.24,,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,Claudia Mendoza,Villa El Salvador,Corporativo,2025-09-03
+403,2026-03-07,1,34.96,118.81,15,App,Plin,5,162.54,,  Sede 2 ,Chorrillos,Sur,Mudanza pequena,Volumen,118.81,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+404,2026-03-16,5,13.68,,0,Web,PlIn,4,92.66,Revisar,Sede 4,SaN MiGuEl,  Este ,Paquete grande,Regular,43.99,Lucia Campos,  Independencia ,Frecuente,2025-05-03
+405,2026-01-05,1,27.39,14.68,20,Presencial,Yape,2,55.39,Cliente frecuente,Sede 3,Independencia,Sur,Paquete pequeno,Liviano,14.68,Victor Castillo,Comas,Premium,2025-09-06
+406,2026-02-26,1,15.63,76.22,0,,Efectivo,3,335.73,OK,  Sede 2 ,Chorrillos,Sur,Express,,76.22,Andre Gomez,ATE,Premium,2025-12-21
+407,2026-03-10, 3 ,20.46,76.22, 0 ,WhatsApp,Efectivo,2,133.4,Revisar,Sede 7,Comas,este,Express,,76.22,Raul Sayan,Ventanilla,Corporativo,2025-08-09
+408,,1,17.55,43.99,0,Telefono,Tarjeta,1,88.56,Cliente frecuente,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,Jose Huaman,  Ventanilla ,Regular,2025-03-18
+409,2026-03-23,,20.0 aprox,14.68,0,Presencial,Efectivo,2,68.02,Cliente frecuente,  Sede 2 ,Chorrillos,Sur,Paquete pequeno,Liviano,14.68,Fiorella Mendoza,Los Olivos,Premium,2025-12-22
+410,2026-03-28,1,17.37,14.68, 8 ,Web,Plin,4,65.57,OK,Sede 6,Surco,centro,Paquete pequeno,Liviano,14.68,Maria Paredes,Surco,CORPORATIVO,2025-09-19
+411,,7,"28,47",14.68,8,  App ,Yape,1,102.8,Revisar,Sede 5,lima,Oeste,Paquete pequeno,Liviano,14.68,Fiorella Mendoza,Los Olivos,Premium,2025-12-22
+412,2026-02-17,4,13.15,118.81,12,app,Plin,2,145.82,Promocion,Sede 1,,  Este ,Mudanza pequena,Volumen,118.81,Marco Paredes,  La Molina ,Premium,2025-10-13
+413,2026-03-22,5,25.91,8.28,20,WhatsApp,EfEcTiVo,4 aprox,80.88,,  Sede 2 ,Chorrillos,Sur,Documento,LIVIANO,8.28,Luis Torres,Ate,Premium,2025-06-12
+414,2026-05-20,5,32.42,51.69,0,Web,Yape,2,117.72,,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Fiorella Ramos,Surco,Regular, 2025-06-26 
+415,2026-04-05,3,27.31,26.64, 20 ,App,Efectivo,3,88.94,,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,DIEGO SALAZAR,LoS OlIvOs,,2025-02-13
+416,2026-02-26,6,11.26,14.68,15,web,EfEcTiVo,2,82.0,OK,Sede 7,Comas,este,Paquete pequeno,Liviano,14.68,ELENA CRUZ,Ventanilla,Corporativo,2025-10-03
+417,2026-01-26,3,16.01,S/ 51.69,12,WhatsApp,Transferencia,5 aprox,107.2,Cliente frecuente,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Jorge Castillo,San Miguel,Premium,2025-08-27
+418,2026-03-20,,24.42,26.64,12,Telefono,Plin,1,69.41,,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Maria Paredes,Surco,CORPORATIVO,2025-09-19
+419,2026/02/04,3,34.99,89.36,,Presencial,Transferencia,5,153.71,OK,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,Jorge Castillo,San Miguel,Premium,2025-08-27
+420,02/02/2026,2,4.49, 26.64 ,10,WhatsApp,Yape,1,304.89,,  Sede 2 ,Chorrillos,Sur,Paquete mediano,Regular,26.64,,Ate,Premium,2025-10-09
+421,2026-03-10,6,8.01,57.44,12,Telefono,Efectivo,1,91.42,,Sede 3,Independencia,Sur,Courier empresarial,Empresa,57.44,Fiorella Gomez,Chorrillos,Regular,2025-08-09
+422,17/05/2026,5,30.78,76.22,20,Telefono,Plin,2,126.87,Promocion,  Sede 2 ,Chorrillos,Sur,Express,,76.22,Luis Gomez,Ate,Corporativo,2025/09/13
+423,2026-02-01,8,18.8 aprox,26.64,8,Telefono,Tarjeta,1,111.81,Promocion,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,Fiorella Huaman,Ventanilla,Premium,2025-05-05
+424,2026-05-05,7,28.77,14.68,12,  Web ,Yape,4,108.46,,Sede 7,Comas,este,Paquete pequeno,Liviano,14.68,Carlos Soto,Callao,Nuevo,2025-07-25
+425,2026-05-21,2,5.78,51.69,0,Web,Tarjeta,4,60.91,,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Valeria Ramos,Villa El Salvador,Premium,2025/01/15
+426,17/04/2026,4,31.56 aprox,43.99,5,WhatsApp,Transferencia,1, 106.39 ,,Sede 4,SaN MiGuEl,  Este ,Paquete grande,Regular,43.99,Valeria Paredes,LoS OlIvOs,Corporativo,2025-04-15
+427,2026-03-13,3,31.1,,20,Web,Efectivo,3,106.76,,  Sede 2 ,Chorrillos,Sur,Courier empresarial,Empresa,57.44,Jorge Gomez,Villa El Salvador,Frecuente,2025-09-16
+428,2026-02-09,2,10.46,26.64,12,Presencial,Efectivo,2,212.46,Cliente frecuente,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Miguel Mendoza,Comas,Corporativo,2025-06-02
+429,2026-03-28,3,24.18,76.22,10,Web,,4,"133,11",Cliente frecuente,Sede 6,Surco,centro,Express,,76.22,Victor Reyes,Callao,,2025-05-11
+430,,7,"28,47",14.68,8,  App ,Yape,1,102.8,Revisar,Sede 5,lima,Oeste,Paquete pequeno,Liviano,14.68,Fiorella Mendoza,Los Olivos,Premium,2025-12-22
+431,2026-04-25,5,28.79,"8,28", 12 ,Presencial,PLIN,4,93.12,Revisar,Sede 7,Comas,este,Documento,LIVIANO,8.28,Victor Navarro,San Miguel,Premium,2025-07-05
+432,2026-01-24,2,9.28,118.81,5,Presencial,TRANSFERENCIA,5,119.89,Cliente frecuente,Sede 6,Surco,centro,Mudanza pequena,Volumen,118.81,Carlos Huaman,Chorrillos,Premium,2025-10-20
+433,2026-05-17,1,41.83,89.36,0 aprox,Presencial,Transferencia,2,S/ 161.99,,Sede 3,Independencia,Sur,Refrigerado,EsPeCiAl,89.36,Diego Huaman,miraflores,Nuevo,2025-07-07
+434,2026-06-18,8,21.06,89.36,8,telefono,,1,184.47,,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Carlos Soto,Callao,Nuevo,2025-07-25
+435, 2026-02-22 ,2,,57.44,5,Web,Tarjeta,5,111.01,OK,Sede 4,SaN MiGuEl,  Este ,Courier empresarial,Empresa,57.44,Ana Vargas,San Miguel,  Corporativo ,2025-06-15
+436,2026-01-17,4,14.84 aprox,51.69,15,WhAtSaPp,PlIn,1,86.79,PROMOCION,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Jorge Castillo,San Miguel,Premium,2025-08-27
+437,2026-02-18,5,31.73,89.36, 5 ,WhAtSaPp,Efectivo,1,139.65,,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Diana Castillo,,Regular,12/05/2025
+438,2026-04-21,3,34.61,26.64,20,Telefono,Yape,4, 104.0 ,,Sede 6,Surco,centro,Paquete mediano,Regular,26.64,,San Juan de Lurigancho,Frecuente,2025-04-19
+439,2026-02-13,8,27.96,118.81, 0 ,WhatsApp,Transferencia,5,190.57,Promocion,Sede 5,lima,Oeste,Mudanza pequena,Volumen,118.81,Marco Reyes,MIRAFLORES,Regular,2025-02-28
+440,2026-04-24,1,10.12,51.69,0,app,Tarjeta,3,80.04,OK,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Miguel Flores,La Molina,CoRpOrAtIvO,2025-10-23
+441,,4,12.66,43.99,8,Presencial,yape,1,73.87,Promocion,Sede 1,,  Este ,Paquete grande,Regular,43.99,Maria Paredes,Surco,CORPORATIVO,2025-09-19
+442,,8, 12.61 , 26.64 , 20 ,Telefono,Tarjeta,5,96.9,Promocion,Sede 6,Surco,centro,Paquete mediano,Regular,26.64,Claudia Ramos,Lima,Corporativo,2025-05-04
+443,2026-06-20,2,5.22,26.64,5,WhatsApp,YaPe,3,47.61,Promocion,Sede 1,,  Este ,Paquete mediano,Regular,26.64,Fiorella Paredes,La  Molina,Corporativo,2025-09-26
+444,2026-05-21,8,12.42,57.44 aprox,5,Presencial,Transferencia,5,104.74,Cliente frecuente,Sede 5,lima,Oeste,Courier empresarial,Empresa,57.44,Andre Mendoza,Ate,Frecuente,2025/10/26
+445,2026-05-04,7,13.18,43.99,0,App,Yape,5,97.46,,Sede 5,lima,Oeste,Paquete grande,Regular,43.99,Camila Quispe,Independencia,Nuevo,2025-08-16
+446,2026-01-13,8,27.05,8.28,0,WhatsApp,Plin,3,92.93,Promocion,  Sede 2 ,Chorrillos,Sur,Documento,LIVIANO,8.28,Ana Vargas,San Miguel,  Corporativo ,2025-06-15
+447,2026-06-09,4,22.0,43.99,12 aprox,WhatsApp,Yape,5,98.66,Promocion,Sede 3,Independencia,Sur,Paquete grande,Regular,43.99,Miguel Flores,San Juan de Lurigancho,Frecuente,2025-01-16
+448,2026-04-09,7,8.31,26.64,0,Telefono,Tarjeta,1,87.27,Promocion,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,Victor Reyes,Callao,,2025-05-11
+449, 2026-03-11 ,6,29.35,51.69,12 aprox,Telefono,Yape,4,122.85,OK,Sede 5,lima,Oeste,Fragil,  Especial ,51.69,Jorge Mendoza,Independencia,Frecuente,2025-12-13
+450,2026-02-02,3,15.44,26.64,12,Web,EfEcTiVo,2,88.09,,Sede 4,SaN MiGuEl,  Este ,Paquete mediano,Regular,26.64,Carlos Soto,Callao,Nuevo,2025-07-25
+451,2026-05-19, 4 ,20.93,"8,28",20,WhatsApp,Efectivo,1,52.42,,Sede 4,SaN MiGuEl,  Este ,Documento,LIVIANO,8.28,,San Juan de Lurigancho,Frecuente,2025-04-19
+452,10-03-2026,5,"3,26",51.69 aprox,12,Presencial,,2,96.81,,Sede 7,Comas,este,Fragil,  Especial ,51.69,Valeria Torres,Chorrillos,Corporativo,2025-09-22
+453,2026-02-17,7,17.48,76.22,5,  Web ,Transferencia,4,140.29 aprox,Promocion,Sede 5,lima,Oeste,Express,,76.22,Miguel Reyes,Surco,Premium,2025/01/09
+454,2026-04-15,5,16.44,51.69,20,App,Efectivo,4,76.03,,  Sede 2 ,Chorrillos,Sur,Fragil,  Especial ,51.69,Sofia Gomez,Ventanilla,FRECUENTE,2025-06-17
+455,2026-03-21,2,18.83,89.36,0,Web,Yape,1,120.26,Ok,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Luis Paredes,ate,Corporativo,2025-01-22
+456,2026-04-21,7,31.83,14.68,10,Presencial,Efectivo,3,115.84,Revisar,Sede 5,lima,Oeste,Paquete pequeno,Liviano,14.68,Victor Castillo,Comas,Premium,2025-09-06
+457,2026-02-20,8,26.96,8.28,20,Web,Tarjeta,4,93.54,Promocion,Sede 5,lima,Oeste,Documento,LIVIANO,8.28,Fiorella Mendoza,Los Olivos,Premium,2025-12-22
+458,2026-03-19,6,10.68,118.81,12,WhatsApp,Efectivo,3,137.97,Promocion,Sede 3,Independencia,Sur,Mudanza pequena,Volumen,118.81,Victor Sayan,Chorrillos,,2025-09-16
+459,2026-04-18,3,28.44,89.36,10,Telefono,yape,4,156.54,Promocion,Sede 3,Independencia,Sur,Refrigerado,EsPeCiAl,89.36,VALERIA QUISPE,Callao,Nuevo,2025-06-04
+460,2026/05/01,7,5.17, 89.36 ,20,Presencial,Efectivo,3,124.62,Revisar,Sede 5,lima,Oeste,Refrigerado,EsPeCiAl,89.36,Elena Paredes,Los Olivos,Corporativo,2025-02-27
+461, 2026-05-26 ,2,14.54,57.44,0,Presencial,TRANSFERENCIA,3,113.52,OK,Sede 5,lima,Oeste,Courier empresarial,Empresa,57.44,Valeria Ramos,Villa El Salvador,Premium,2025/01/15
+462,2026-02-25,8,14.45,26.64,0,App,Yape,5,100.05,,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Luis Gomez,Ate,Corporativo,2025/09/13
+463,2026-05-02,7,2.18,51.69,20,Web,Yape,5,92.24,,Sede 7,Comas,este,Fragil,  Especial ,51.69,Miguel Flores,La Molina,CoRpOrAtIvO,2025-10-23
+464,2026-04-04,5,2.7,8.28,0,WhatsApp,Efectivo,2,52.24,Revisar,Sede 7,Comas,este,Documento,LIVIANO,8.28,Sofia Gomez,Ventanilla,FRECUENTE,2025-06-17
+465,18-02-2026,1,32.58,118.81,8,Presencial,,4,151.62,Cliente frecuente,Sede 3,Independencia,Sur,Mudanza pequena,Volumen,118.81,Lucia Campos,  Independencia ,Frecuente,2025-05-03
+466,2026-01-13,6 aprox,7.25,51.69 aprox,0,WhatsApp,TaRjEtA,1,90.22,Cliente frecuente,Sede 6,Surco,centro,Fragil,  Especial ,51.69,Diana Torres,Callao,Premium,2025-04-06
+467,2026-05-24,6,24.11,76.22,0,PrEsEnCiAl,Yape,4,157.3,Promocion,Sede 6,Surco,centro,Express,,76.22,Miguel Mendoza,Comas,Corporativo,2025-06-02
+468,2026-06-01,2,27.66,118.81,10,WhatsApp,  Plin ,3,135.15,,Sede 6,Surco,centro,Mudanza pequena,Volumen,118.81,Diego Sayan,,Nuevo,2025-05-16
+469,2026-02-18,1,12.47,26.64,0,Telefono,Efectivo,,37.47,Cliente frecuente,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Ana Rojas,Chorrillos,Nuevo,2025-04-09
+470,09/04/2026,7,32.83,14.68,0,App,Tarjeta,5,92.96,Promocion,Sede 7,Comas,este,Paquete pequeno,Liviano,14.68,Jorge Ramos,Ate,  Nuevo ,2025-09-20
+471,2026-04-04,2,9.97 aprox,76.22,0,WhatsApp,Tarjeta,5,100.0,OK,Sede 1,,  Este ,Express,,76.22,Miguel Cruz,Callao,Premium,2025-08-03
+472,2026-06-23,3,21.62,, 5 ,Telefono,Plin,5,113.34 aprox,,Sede 6,Surco,centro,Courier empresarial,Empresa,57.44,Fiorella Gomez,Chorrillos,Regular,2025-08-09
+473,2026-04-13,7,9.27,26.64,5,Web,tarjeta,1,66.92,,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Sofia Reyes,San Juan de Lurigancho,Frecuente,2025-02-13
+474,2026/06/22,8,28.38,26.64,20,WEB,Yape,2,125.43,Revisar,Sede 7,Comas,este,Paquete mediano,Regular,26.64,Luis Paredes,ate,Corporativo,2025-01-22
+475,2026-04-05,3,25.12,8.28,10,  Web ,Efectivo,2,62.83,OK,Sede 1,,  Este ,Documento,LIVIANO,8.28,Victor Flores,Independencia,Corporativo,2025-05-05
+476,2026-05-09,4,,89.36,15,  Telefono ,Yape,4,"100,05",OK,Sede 1,,  Este ,Refrigerado,EsPeCiAl,89.36,Victor Reyes,Callao,,2025-05-11
+477,2026-02-12,1,4.67,8.28,15,whatsapp,Transferencia,5,,OK,Sede 6,Surco,centro,Documento,LIVIANO,8.28,DIEGO SALAZAR,LoS OlIvOs,,2025-02-13
+478,2026-04-17,6,24.67,S/ 57.44,0,Telefono,Yape,1,144.76,OK,Sede 1,,  Este ,Courier empresarial,Empresa,57.44,Sofia Vargas,San Juan de Lurigancho,Nuevo,2025-02-06
+479,2026-01-24,4,31.08,76.22,20,WhatsApp,Tarjeta,1,139.48,OK,Sede 6,Surco,centro,Express,,76.22,Fiorella Mendoza,Los Olivos,Premium,2025-12-22
+480,2026-01-21,2,26.61, 89.36 ,5,Web,Plin, 3 ,137.29,Cliente frecuente,Sede 3,Independencia,Sur,Refrigerado,EsPeCiAl,89.36,Miguel Paredes,Miraflores,Premium,2025-06-28
+481,2026-02-27,1,34.21,14.68,5,App,Transferencia,5,70.93,Promocion,Sede 4,SaN MiGuEl,  Este ,Paquete pequeno,Liviano,14.68,Diana Castillo,,Regular,12/05/2025
+482, 2026-02-18 ,7, 31.61 ,118.81,12,Web,Efectivo,4,200.68,Promocion,Sede 3,Independencia,Sur,Mudanza pequena,Volumen,118.81,Miguel Paredes,Miraflores,Premium,2025-06-28
+483,2026-04-12,7, 31.04 ,118.81,0,Presencial,Tarjeta,4,182.9,Revisar,Sede 6,Surco,centro,Mudanza pequena,Volumen,118.81,Ana Campos,Villa El Salvador,Premium,2025-11-12
+484,2026-02-21,1,10.29 aprox,51.69,15,Web,  Transferencia ,1,71.3,,Sede 7,Comas,este,Fragil,  Especial ,51.69,Ana Soto,San Miguel,Regular,2025-08-22
+485,2026-04-16,3,,51.69,20,PRESENCIAL,TaRjEtA,2,87.52,,Sede 4,SaN MiGuEl,  Este ,Fragil,  Especial ,51.69,,Lima,frecuente,2025-05-06
+486,2026-01-05,7,9.61,26.64,12,Telefono,Plin,5,84.11,Promocion,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,Raul Reyes,,Corporativo,2025-11-16
+487,2026-03-18,7,"17,96",26.64,8,PRESENCIAL,Plin,3,107.25,REVISAR,Sede 3,Independencia,Sur,Paquete mediano,Regular,26.64,Miguel Cruz,Callao,Premium,2025-08-03
+488,2026-05-13,8,5.38,76.22,8,Web,Efectivo,1,111.18,OK,Sede 7,Comas,este,Express,,76.22,Carlos Soto,Callao,Nuevo,2025-07-25
+489,20/03/2026,1,18.88 aprox,43.99 aprox,12,App,Efectivo,3,79.53,Cliente frecuente,Sede 4,SaN MiGuEl,  Este ,Paquete grande,Regular,43.99,Diego Soto,Miraflores,Corporativo, 2025-08-06 
+490,2026-02-23,8,8.4,8.28,0,WhatsApp,,2,63.37,  Cliente frecuente ,Sede 7,Comas,este,Documento,LIVIANO,8.28,Raul Salazar,Lima,Premium,2025-03-04
+491,2026-04-09,8,18.56,57.44,,Presencial,Transferencia,1,141.46,OK,Sede 3,Independencia,Sur,Courier empresarial,Empresa,57.44,Jose Huaman,  Ventanilla ,Regular,2025-03-18
+492,08/05/2026,7, 6.77 ,76.22,8,App,TARJETA,3,111.45,,Sede 3,Independencia,Sur,Express,,76.22,Jorge Gomez,Villa El Salvador,Frecuente,2025-09-16
+493,2026-02-20,8,21.28,57.44,12,Telefono,Yape, 2 ,103.79,Promocion,Sede 4,SaN MiGuEl,  Este ,Courier empresarial,Empresa,57.44,,Ate,Premium,2025-10-09
+494, 2026-02-25 ,7,10.16,118.81,10,Telefono,Tarjeta,4,,Promocion,Sede 3,Independencia,Sur,Mudanza pequena,Volumen,118.81,Diana Torres,Callao,Premium,2025-04-06
+495,,8,24.73,43.99,,  Presencial ,Yape,2,115.97,cliente frecuente,Sede 3,Independencia,Sur,Paquete grande,Regular,43.99,Ana Campos,Villa El Salvador,Premium,2025-11-12
+496,2026-03-19,3,17.4,76.22,12,Web,Yape,3,106.65,Cliente frecuente,Sede 4,SaN MiGuEl,  Este ,Express,,76.22,Miguel Cruz,Callao,Premium,2025-08-03
+497,2026-04-10,5, 11.55 ,26.64,10,WhatsApp,Plin,3,69.58,OK,  Sede 2 ,Chorrillos,Sur,Paquete mediano,Regular,26.64,VALERIA QUISPE,Callao,Nuevo,2025-06-04
+498,27-06-2026,1,111.08,89.36,0,Web,Efectivo, 4 ,267.19,OK,  Sede 2 ,Chorrillos,Sur,Refrigerado,EsPeCiAl,89.36,Elena Salazar,SURCO,Frecuente,2025-09-18
+499,2026-02-24,3,10.32,89.36,0,Telefono,PlIn,3,123.43,   ,Sede 5,lima,Oeste,Refrigerado,EsPeCiAl,89.36,ELENA CRUZ,Ventanilla,Corporativo,2025-10-03
+500,2026-01-05,4,27.3,43.99,12,Web,Yape,5,"115,56",PrOmOcIoN,Sede 6,Surco,centro,Paquete grande,Regular,43.99,Miguel Cruz,Callao,Premium,2025-08-03

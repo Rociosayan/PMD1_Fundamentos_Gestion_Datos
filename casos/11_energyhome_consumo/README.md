@@ -1,52 +1,34 @@
-# EnergyHome - Consumo electrico
+# Caso 11 - Energyhome Consumo
 
-## Contexto
-Una empresa local analiza consumo electrico mensual de hogares.
+## Enfoque del caso
 
-## Tablas
-- `hogares`: datos de hogars.
-- `tarifas`: catalogo de tarifas.
-- `distritos`: sedes, zonas o puntos de operacion.
-- `consumos`: tabla principal con 500 registros y claves foraneas.
+Este caso entrega una sola tabla desnormalizada para que el estudiante identifique datos repetidos y proponga el modelo normalizado.
+
+La base no incluye tablas normalizadas, claves foraneas ni una solucion relacional ya construida.
+
+## Archivo SQLite
+
+- `energyhome_consumo.db`
+
+## Tabla disponible
+
+- `consumos_original`: tabla de partida con 500 registros. Mezcla datos de la operacion principal con datos descriptivos de clientes, productos, sedes, categorias u otras entidades del caso.
 
 ## Reto PMD1
-Predecir el consumo electrico segun el numero de habitantes.
+
+1. Explorar la tabla original.
+2. Detectar patrones repetidos y dependencias entre columnas.
+3. Proponer entidades, claves primarias y claves foraneas.
+4. Crear las tablas normalizadas en SQLite.
+5. Insertar los datos desde `consumos_original` hacia las nuevas tablas.
+6. Reconstruir un reporte con `JOIN` para validar que no se perdio informacion.
+7. Limpiar datos con Pandas y preparar un dataset analitico.
 
 Variable objetivo sugerida: `consumo_kwh`.
 Variable predictora basica sugerida: `numero_habitantes`.
 
-## Suciedad incluida
-- Espacios en blanco al inicio/final.
-- Mayusculas y minusculas inconsistentes.
-- Valores nulos.
-- Fechas con formatos mezclados.
-- Numeros guardados como texto, con coma decimal o simbolo `S/`.
-- Duplicados parciales en la tabla principal.
-- Algunos valores extremos.
+## Archivo CSV
 
-## Consulta base para Pandas
+La carpeta `csv/` contiene solo la tabla original:
 
-```sql
-SELECT
-    f.id_consumo,
-    p.nombre AS hogar,
-    p.distrito AS distrito_hogar,
-    p.segmento,
-    i.nombre AS tarifa,
-    i.categoria,
-    l.nombre AS distrito,
-    l.zona,
-    f.fecha_operacion,
-    f.electrodomesticos,
-    f.numero_habitantes,
-    f.tarifa_base,
-    f.descuento_pct,
-    f.canal,
-    f.metodo_pago,
-    f.calificacion,
-    f.consumo_kwh
-FROM consumos f
-LEFT JOIN hogares p ON f.id_hogar = p.id_hogar
-LEFT JOIN tarifas i ON f.id_tarifa = i.id_tarifa
-LEFT JOIN distritos l ON f.id_distrito = l.id_distrito;
-```
+- `consumos_original.csv`

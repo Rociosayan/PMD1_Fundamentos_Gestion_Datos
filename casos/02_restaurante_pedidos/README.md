@@ -1,52 +1,34 @@
-# Restaurante - Pedidos y consumo
+# Caso 02 - Restaurante Pedidos
 
-## Contexto
-Un restaurante de menu y platos a la carta analiza pedidos diarios.
+## Enfoque del caso
 
-## Tablas
-- `clientes`: datos de clientes.
-- `platos`: catalogo de platos.
-- `locales`: sedes, zonas o puntos de operacion.
-- `pedidos`: tabla principal con 500 registros y claves foraneas.
+Este caso entrega una sola tabla desnormalizada para que el estudiante identifique datos repetidos y proponga el modelo normalizado.
+
+La base no incluye tablas normalizadas, claves foraneas ni una solucion relacional ya construida.
+
+## Archivo SQLite
+
+- `restaurante_pedidos.db`
+
+## Tabla disponible
+
+- `pedidos_original`: tabla de partida con 500 registros. Mezcla datos de la operacion principal con datos descriptivos de clientes, productos, sedes, categorias u otras entidades del caso.
 
 ## Reto PMD1
-Predecir el total del pedido usando el tiempo de preparacion o la cantidad de platos.
+
+1. Explorar la tabla original.
+2. Detectar patrones repetidos y dependencias entre columnas.
+3. Proponer entidades, claves primarias y claves foraneas.
+4. Crear las tablas normalizadas en SQLite.
+5. Insertar los datos desde `pedidos_original` hacia las nuevas tablas.
+6. Reconstruir un reporte con `JOIN` para validar que no se perdio informacion.
+7. Limpiar datos con Pandas y preparar un dataset analitico.
 
 Variable objetivo sugerida: `total_pedido`.
 Variable predictora basica sugerida: `tiempo_preparacion_min`.
 
-## Suciedad incluida
-- Espacios en blanco al inicio/final.
-- Mayusculas y minusculas inconsistentes.
-- Valores nulos.
-- Fechas con formatos mezclados.
-- Numeros guardados como texto, con coma decimal o simbolo `S/`.
-- Duplicados parciales en la tabla principal.
-- Algunos valores extremos.
+## Archivo CSV
 
-## Consulta base para Pandas
+La carpeta `csv/` contiene solo la tabla original:
 
-```sql
-SELECT
-    f.id_pedido,
-    p.nombre AS cliente,
-    p.distrito AS distrito_cliente,
-    p.segmento,
-    i.nombre AS plato,
-    i.categoria,
-    l.nombre AS local,
-    l.zona,
-    f.fecha_operacion,
-    f.cantidad_platos,
-    f.tiempo_preparacion_min,
-    f.precio_plato,
-    f.descuento_pct,
-    f.canal,
-    f.metodo_pago,
-    f.calificacion,
-    f.total_pedido
-FROM pedidos f
-LEFT JOIN clientes p ON f.id_cliente = p.id_cliente
-LEFT JOIN platos i ON f.id_plato = i.id_plato
-LEFT JOIN locales l ON f.id_local = l.id_local;
-```
+- `pedidos_original.csv`

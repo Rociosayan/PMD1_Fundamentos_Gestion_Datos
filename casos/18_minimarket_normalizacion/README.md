@@ -1,38 +1,34 @@
-# Caso 18 - MiniMarket C2: normalizacion y SQL basico
+# Caso 18 - Minimarket Normalizacion
 
-Este caso fue preparado para el Laboratorio Calificado 2 del curso Fundamentos de Gestion de Datos.
+## Enfoque del caso
 
-La empresa ficticia MiniMarket C2 registra ventas de productos de abarrotes, bebidas, limpieza y cuidado personal. La base permite comparar una tabla desnormalizada con un modelo organizado en tablas relacionadas.
+Este caso entrega una sola tabla desnormalizada para que el estudiante identifique datos repetidos y proponga el modelo normalizado.
 
-## Base de datos
+La base no incluye tablas normalizadas, claves foraneas ni una solucion relacional ya construida.
 
-- Archivo SQLite: `minimarket_normalizacion.db`
-- Enlace directo para Colab:
+## Archivo SQLite
 
-```text
-https://raw.githubusercontent.com/Rociosayan/PMD1_Fundamentos_Gestion_Datos/main/casos/18_minimarket_normalizacion/minimarket_normalizacion.db
-```
+- `minimarket_normalizacion.db`
 
-## Tablas
+## Tabla disponible
 
-- `ventas_original`: tabla desnormalizada con datos repetidos de clientes, productos, categorias y locales.
-- `categorias`: categorias de producto.
-- `productos`: productos con precio unitario y relacion hacia categoria.
-- `clientes`: clientes del minimarket.
-- `locales`: locales de venta.
-- `ventas`: transacciones normalizadas con claves hacia clientes, productos y locales.
+- `ventas_original`: tabla de partida con 12 registros. Mezcla datos de la operacion principal con datos descriptivos de clientes, productos, sedes, categorias u otras entidades del caso.
 
-## Uso didactico
+## Reto PMD1
 
-La base esta pensada para actividades de:
+1. Explorar la tabla original.
+2. Detectar patrones repetidos y dependencias entre columnas.
+3. Proponer entidades, claves primarias y claves foraneas.
+4. Crear las tablas normalizadas en SQLite.
+5. Insertar los datos desde `ventas_original` hacia las nuevas tablas.
+6. Reconstruir un reporte con `JOIN` para validar que no se perdio informacion.
+7. Limpiar datos con Pandas y preparar un dataset analitico.
 
-- Reconocimiento de tablas y campos.
-- Identificacion de datos repetidos en `ventas_original`.
-- Interpretacion de claves primarias y claves foraneas.
-- Consultas con `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`, `COUNT`, `SUM`, `AVG`.
-- Consultas con `INNER JOIN` y `LEFT JOIN`.
-- Interpretacion de resultados de ventas por producto, categoria, cliente y local.
+Variable objetivo sugerida: `total_venta`.
+Variable predictora basica sugerida: `cantidad`.
 
-## Nota para el laboratorio
+## Archivo CSV
 
-El estudiante no debe crear la base desde cero. El notebook debe descargar el archivo `.db` desde GitHub y conectarse con SQLite para interpretar consultas.
+La carpeta `csv/` contiene solo la tabla original:
+
+- `ventas_original.csv`

@@ -1,0 +1,501 @@
+id_registro,fecha_operacion,clases_tomadas,asistencias_mes,tarifa_plan,descuento_pct,canal,metodo_pago,calificacion,pago_mensual,observacion,sedes_nombre,sedes_distrito,sedes_zona,planes_nombre,planes_categoria,planes_tarifa_plan,socios_nombre,socios_distrito,socios_segmento,socios_fecha_registro
+1,2026-02-25,,28,117.96,12,Telefono,Plin,3,193.05,Revisar,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Marco Cruz,Lima,Regular,2025-05-24
+2,2026-02-26,2,4,196.44,8,Telefono,Efectivo,5,193.4,ClIeNtE FrEcUeNtE,Sede 4,Comas,Oeste,Plan familiar,Familiar,196.44,Carlos Soto,  Independencia ,Frecuente,2025-12-23
+3,2026-04-14,8,17,210.83,0,App,Tarjeta, 3 ,265.51,,Sede 3,Miraflores,Centro,Personalizado,Premium,210.83,Marco Flores,Chorrillos,Regular,2025-10-01
+4,2026-03-02,2,10,127.31,0,Telefono,Plin,4,166.83,Promocion,Sede 6,Surco,Este,Cross training,Especial,127.31,Andre Torres,villa el salvador,REGULAR,2025-11-16
+5,2026-01-28,8,13,88.04,15,Telefono,EfEcTiVo,1,118.11,Cliente  frecuente,Sede 6,Surco,Este,Yoga,Especial,88.04,Lucia Paredes,AtE,ReGuLaR, 2025-08-01 
+6,2026-05-25,1,8,137.44,15 aprox,Web,TRANSFERENCIA,2,177.97,,Sede 4,Comas,Oeste,Plan premium,Mensual,137.44,  Miguel Sayan ,San Juan de Lurigancho,Corporativo,2025-02-23
+7,2026-02-02,4,8,210.83,12,  Web ,Yape,3,229.96,Revisar,Sede 3,Miraflores,Centro,Personalizado,Premium,210.83,Diego Quispe,Ventanilla,corporativo,2025-01-07
+8,2026-06-05,1,27,71.82,8,WhatsApp,Tarjeta,1,142.33,revisar,Sede 2,Callao,Oeste,Plan basico,Mensual,71.82,Maria Cruz,Chorrillos,Premium,2025-10-28
+9,2026-04-12,2,4,127.31,10,Telefono,TARJETA,5,150.67,,Sede 4,Comas,Oeste,Cross training,Especial,127.31,Andre Torres,Ventanilla,Corporativo,2025-11-11
+10,2026-04-27,1,26,71.82,0,Telefono,,2,,,Sede 6,Surco,Este,Plan basico,Mensual,71.82,Ana Torres,,Regular,2025-10-09
+11,2026-02-14,4,6, 127.31 ,5,App,Plin,1,156.74,OK,Sede 3,Miraflores,Centro,Cross training,Especial,127.31,Jose Vargas,Ate,Regular,2025/08/04
+12, 2026-04-09 ,8,12,127.31,8,Web,Tarjeta,3,197.84,,Sede 3,Miraflores,Centro,Cross training,Especial,127.31,Maria Cruz,ate,Frecuente,2025-05-12
+13,2026-01-05,8,23,127.31,0,Presencial,Plin,5,197.43,OK,Sede 2,Callao,Oeste,Cross training,Especial,127.31,Ana Torres,,Regular,2025-10-09
+14,2026-04-03,2,19,137.44,12,Web,Plin,2,154.53,Promocion,Sede 1,Ate,Este,Plan premium,Mensual,137.44,Camila Navarro,Miraflores,Frecuente,2025-09-14
+15,2026-03-12,4,25,196.44,,WhatsApp,Efectivo,4,273.2,Revisar,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Andre Cruz,Surco,premium,2025/02/04
+16,2026-02-23,1,28,117.96 aprox,20,App,,5,216.62,,Sede 5,Villa El Salvador,Centro,,MeNsUaL,117.96,Luis Castillo,Callao,Nuevo,02/05/2025
+17,2026-02-07, 1 ,22,210.83,0 aprox,Presencial,Plin,2,266.24,Cliente frecuente,Sede 1,Ate,Este,Personalizado,Premium,210.83,,Los Olivos,Corporativo,2025-06-19
+18,2026-01-21,3,14,210.83,12,App,Plin,5,254.29,OK,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Carlos Rojas,CHORRILLOS,Regular,2025-10-08
+19,2026-06-08,4,2,196.44,0,Web,Efectivo,5,190.93,Revisar,Sede 5,Villa El Salvador,Centro,Plan familiar,Familiar,196.44,Valeria Soto,INDEPENDENCIA,Premium,2025-11-25
+20,2026-01-13,8, 18 ,127.31,12,Telefono,Yape,1,203.17,,Sede 1,Ate,Este,Cross training,Especial,127.31,Carlos Rojas,CHORRILLOS,Regular,2025-10-08
+21,2026-04-08,7,28,98.26,12,Presencial,Efectivo,1,,,Sede 5,Villa El Salvador,Centro,FuNcIoNaL,Especial,98.26,Valeria Soto,INDEPENDENCIA,Premium,2025-11-25
+22,2026-05-24,4,17,127.31,15,Web,,3,170.95,Promocion,Sede 1,Ate,Este,Cross training,Especial,127.31,Camila Flores,lima,Corporativo,2025-03-22
+23,2026-04-11,2,19,127.31,,WhatsApp,Transferencia,5,191.01 aprox,,Sede 5,Villa El Salvador,Centro,Cross training,Especial,127.31,Lucia Rojas,Surco,Frecuente,2025-09-17
+24, 2026-03-28 ,3,,196.44,0,Presencial,  Transferencia ,2,,Revisar,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Carlos Vargas,Los Olivos,Regular,02-09-2025
+25,,4,14,210.83,0,Web,Efectivo,3,262.13,OK,Sede 7,Ventanilla,,Personalizado,Premium,210.83,Maria Cruz,ate,Frecuente,2025-05-12
+26,2026-01-05,8,23,127.31,0,Presencial,Plin,5,197.43,OK,Sede 2,Callao,Oeste,Cross training,Especial,127.31,Ana Torres,,Regular,2025-10-09
+27,2026-01-19,3,5,210.83,0 aprox,Web,Efectivo,2,231.14,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Andre Cruz,Surco,premium,2025/02/04
+28,2026-03-23,3,17,137.44,12,Presencial,Tarjeta,5,192.03,OK,Sede 6,Surco,Este,Plan premium,Mensual,137.44,Lucia Navarro,Miraflores,Regular,2025-07-10
+29,2026-02-04,1,7,55.86,12,WhatsApp,EFECTIVO,4,306.08,,Sede 1,Ate,Este,Plan estudiante,,55.86,,,Premium,2025-08-18
+30,2026-05-11,7,13,98.26,12,WhatsApp,Tarjeta,1,160.03,,Sede 4,Comas,Oeste,FuNcIoNaL,Especial,98.26,Lucia Soto,Villa El Salvador,Frecuente,2025-12-01
+31,2026-06-27,7,12,196.44,10,  Telefono ,Yape, 5 ,236.11,Cliente frecuente,Sede 3,Miraflores,Centro,Plan familiar,Familiar,196.44,Fiorella Campos,Los Olivos,Nuevo,2025-06-13
+32,2026-06-18,3,17,117.96,0,Web,Efectivo,3,179.8,ClIeNtE FrEcUeNtE,Sede 6,Surco,Este,,MeNsUaL,117.96,Camila Salazar,San Miguel,Nuevo,2025-02-16
+33,2026-03-07,5,28,98.26,5,App,Efectivo,2,185.89,,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,Rocio Sayan,Chorrillos,Frecuente,2025-03-01
+34,2026-05-17,5,22,71.82,15,Presencial,Efectivo,3,154.59,Promocion,Sede 6,Surco,Este,Plan basico,Mensual,71.82,Maria Cruz,Chorrillos,Premium,2025-10-28
+35,2026-01-14,8,,117.96,0,Telefono,transferencia,1,201.59,,Sede 7,Ventanilla,,,MeNsUaL,117.96,Raul Flores,  San Juan de Lurigancho ,Corporativo,2025-06-20
+36,02-04-2026,6,21,71.82,12,WhatsApp,Transferencia,5,157.43,Promocion,Sede 6,Surco,Este,Plan basico,Mensual,71.82,Lucia Paredes,AtE,ReGuLaR, 2025-08-01 
+37,2026-04-23,6,14,,8,Telefono,Yape,3,169.79,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Yoga,Especial,88.04,Camila Flores,lima,Corporativo,2025-03-22
+38,2026-02-23,5,3,71.82,20,WhatsApp,Tarjeta,3,127.16,cliente frecuente,Sede 4,Comas,Oeste,Plan basico,Mensual,71.82,Elena Rojas,Villa El Salvador,Regular,2025-07-22
+39,2026-04-08,1,16,117.96,20,WhatsApp,TrAnSfErEnCiA,2,180.15,Cliente frecuente,Sede 3,Miraflores,Centro,,MeNsUaL,117.96,Raul Flores,  San Juan de Lurigancho ,Corporativo,2025-06-20
+40, 2026-06-01 ,4,1,71.82,,Telefono,YaPe,1,93.34,Revisar,Sede 3,Miraflores,Centro,Plan basico,Mensual,71.82,Carlos Rojas,CHORRILLOS,Regular,2025-10-08
+41,2026-02-26,7,11,71.82,10,Telefono,Tarjeta,1,S/ 130.6,,Sede 3,Miraflores,Centro,Plan basico,Mensual,71.82,Jorge Cruz,Independencia,Frecuente,2025-06-06
+42,2026-06-28,6,12,98.26,12,WhatsApp,Transferencia,4,151.75,Promocion,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,Diego Castillo,miraflores,Frecuente,2025-07-22
+43,2026-05-17,3,7 aprox,127.31,8,App,Tarjeta,5,169.53,,Sede 1,Ate,Este,Cross training,Especial,127.31,Jorge Rojas,CALLAO,Regular,2025-07-03
+44,2026-01-04,4,15,196.44,8,Presencial,Efectivo,3,247.76,OK,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Elena Rojas,Villa El Salvador,Regular,2025-07-22
+45,2026-05-03,8,14,S/ 88.04,12,  Presencial ,,3,150.08,,Sede 3,Miraflores,Centro,Yoga,Especial,88.04,,Chorrillos,Regular,2025-02-08
+46, 2026-06-01 ,4,1,71.82,,Telefono,YaPe,1,93.34,Revisar,Sede 3,Miraflores,Centro,Plan basico,Mensual,71.82,Carlos Rojas,CHORRILLOS,Regular,2025-10-08
+47,2026-03-07,1,18, 210.83 ,12,Web,tarjeta,5,241.84,Revisar,Sede 4,Comas,Oeste,Personalizado,Premium,210.83,Maria Cruz,Chorrillos,Premium,2025-10-28
+48,2026-06-25,4,11,"55,86",0,App,Yape,5,111.9,,Sede 3,Miraflores,Centro,Plan estudiante,,55.86,Ana Ramos,La Molina,Frecuente,2025-07-23
+49,2026-04-14,6,,,0,Web,Yape,4,250.57,Revisar,Sede 2,Callao,Oeste,Personalizado,Premium,210.83,Elena Salazar,Surco,  Nuevo ,2025-08-16
+50,2026-06-27,3,28,S/ 137.44,10,Telefono,Transferencia,2,220.98,Promocion,Sede 4,Comas,Oeste,Plan premium,Mensual,137.44,Diego Castillo,Ventanilla,Frecuente,2025-05-09
+51,2026-01-05,6,14,88.04,0,APP,Transferencia,3,148.11,  Revisar ,Sede 5,Villa El Salvador,Centro,Yoga,Especial,88.04,Camila Salazar,San Miguel,Nuevo,2025-02-16
+52,2026-03-13,4,1,98.26,,Presencial,TaRjEtA,2,121.69,,Sede 4,Comas,Oeste,FuNcIoNaL,Especial,98.26,Fiorella Ramos,Los Olivos,Corporativo,2025-10-02
+53,2026-05-07,1,19,127.31,8,App,Plin,5,196.82,,Sede 3,Miraflores,Centro,Cross training,Especial,127.31,Valeria Sayan,Ate,Regular,2025-05-01
+54,2026/01/21,7,6,55.86,15,WeB,Efectivo,3,105.64,Promocion,Sede 7,Ventanilla,,Plan estudiante,,55.86,JoRgE QuIsPe,LiMa,Frecuente,2025-11-03
+55,2026-02-24,1,14,88.04,20,Presencial,Yape,3,109.6,OK,Sede 4,Comas,Oeste,Yoga,Especial,88.04,Marco Flores,Miraflores,Frecuente,05/02/2025
+56,2026-03-28,6,21,127.31,5,,EFECTIVO, 2 ,184.73,OK,Sede 7,Ventanilla,,Cross training,Especial,127.31,Marco Huaman,Lima,Premium,2025-08-28
+57,2026-06-18,1,4,127.31,8,App,Yape,5,147.96,Cliente frecuente,Sede 1,Ate,Este,Cross training,Especial,127.31,Lucia Paredes,AtE,ReGuLaR, 2025-08-01 
+58,2026/05/23,2,, 117.96 ,15,Web,EFECTIVO,1, 141.87 ,Revisar,Sede 6,Surco,Este,,MeNsUaL,117.96,Maria Cruz,Chorrillos,Premium,2025-10-28
+59,2026-06-11,3,8,71.82,0,App,Tarjeta,2,106.93,Cliente frecuente,Sede 6,Surco,Este,Plan basico,Mensual,71.82,,Los Olivos,Corporativo,2025-06-19
+60,2026-05-28,5,20,55.86,5,Telefono,Yape,4,138.08,Promocion,Sede 5,Villa El Salvador,Centro,Plan estudiante,,55.86,Elena Rojas,Villa El Salvador,Regular,2025-07-22
+61,2026/04/21,4,20,"127,31",0,WhatsApp,Plin,2,193.45,PROMOCION,Sede 7,Ventanilla,,Cross training,Especial,127.31,Maria Navarro,San Miguel,Regular,2025-08-11
+62,2026-05-19,5,7,210.83 aprox,15,WeB,Plin,5,222.07,Promocion,Sede 3,Miraflores,Centro,Personalizado,Premium,210.83,Valeria Sayan,Ate,Regular,2025-05-01
+63,2026-02-17,5,4,117.96,,App,Efectivo,4,153.74,,Sede 1,Ate,Este,,MeNsUaL,117.96,Fiorella Campos,Los Olivos,Nuevo,2025-06-13
+64,17-02-2026,6,1,98.26,12,Web,Plin,2,143.85,Promocion,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,Diego Quispe,Ventanilla,corporativo,2025-01-07
+65,14-06-2026, 3 ,3,98.26,15,App,Tarjeta,5,140.15,Revisar,Sede 7,Ventanilla,,FuNcIoNaL,Especial,98.26,Marco Huaman,Lima,Premium,2025-08-28
+66,2026-01-09,3,5,137.44,8,App,Efectivo,4,165.49,,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Miguel Paredes,Miraflores,Frecuente,2025-12-13
+67,2026-01-25,5,18,98.26,10,Web,Yape,2,154.46,,Sede 4,Comas,Oeste,FuNcIoNaL,Especial,98.26,Diana Cruz,Lima,Corporativo,2025-02-24
+68,2026-01-19,7,22,88.04,15,Presencial,Yape,5,595.21,,Sede 3,Miraflores,Centro,Yoga,Especial,88.04,Ana Ramos,La Molina,Frecuente,2025-07-23
+69,2026-05-18,1, 21 ,117.96,0,WhAtSaPp,Yape,5,195.79,Cliente frecuente,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Andre Torres,Ventanilla,Corporativo,2025-11-11
+70,2026-04-03,2,2,196.44,12,Web,Transferencia,4,232.73,,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Carlos Vargas,Surco,Regular,2025-10-25
+71,2026-05-28,2,13,127.31,0,web,Efectivo,5 aprox,162.37,Cliente frecuente,Sede 3,Miraflores,Centro,Cross training,Especial,127.31,Victor Campos,Ventanilla,Premium,2025-05-02
+72,2026-05-04,6,10,117.96,0,TELEFONO,Yape,2,152.34 aprox,Promocion,Sede 6,Surco,Este,,MeNsUaL,117.96,JoRgE GoMeZ,Ventanilla,Nuevo,2025-05-22
+73,2026-05-14,3,9,71.82 aprox,0,App,Plin,3,103.05,Promocion,Sede 1,Ate,Este,Plan basico,Mensual,71.82,Rocio Sayan,Chorrillos,Frecuente,2025-03-01
+74,2026-03-04,7,23,"117,96",0,Web,Efectivo,1,217.46,Promocion,Sede 6,Surco,Este,,MeNsUaL,117.96,Miguel Cruz,Callao,Corporativo,2025-03-13
+75,2026-02-02,1,27,117.96,15,WhatsApp,Tarjeta,1,190.62,Revisar,Sede 1,Ate,Este,,MeNsUaL,117.96,Sofia Salazar,Ate,Nuevo, 2025-04-06 
+76,2026-02-14,4,9,196.44,15,,Yape,5, 242.62 ,,Sede 6,Surco,Este,Plan familiar,Familiar,196.44,Raul Flores,  San Juan de Lurigancho ,Corporativo,2025-06-20
+77,2026-02-06,4 aprox,4,88.04,0,Web,Yape,4,137.44 aprox,OK,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Maria Navarro,San Miguel,Regular,2025-08-11
+78,2026-01-24,1,9,71.82,12,Web,Yape,3,112.74,Cliente frecuente,Sede 7,Ventanilla,,Plan basico,Mensual,71.82,Elena Salazar,Surco,  Nuevo ,2025-08-16
+79,2026-04-22,6,3,210.83,15,,Tarjeta,5,226.53,,Sede 7,Ventanilla,,Personalizado,Premium,210.83,Diana Cruz,Los Olivos,Premium,2025-03-17
+80,2026-04-01,1,10,137.44,0,Web,Tarjeta,3,179.11,OK,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Camila Navarro,Miraflores,Frecuente,2025-09-14
+81,2026-05-11,1,4,137.44,0,  Presencial ,Transferencia,1,169.85,,Sede 6,Surco,Este,Plan premium,Mensual,137.44,Miguel Salazar,AtE,Regular,2025-09-16
+82,2026-01-01,5,25,196.44,5,WeB,Yape,1,"262,79",OK,Sede 1,Ate,Este,Plan familiar,Familiar,196.44,Valeria Huaman,Villa  El  Salvador,Corporativo,2025-07-06
+83,2026-06-21,4,,71.82,10 aprox,App,Yape,5, 158.53 ,,Sede 4,Comas,Oeste,Plan basico,Mensual,71.82,Ana Huaman,Miraflores,Nuevo,2025-12-28
+84,2026-01-03,7,25,117.96,0,WhatsApp,Transferencia,3 aprox,213.78,Revisar,Sede 1,Ate,Este,,MeNsUaL,117.96,Diego Castillo,miraflores,Frecuente,2025-07-22
+85,2026-06-10,2,21,88.04,0,  Telefono ,Efectivo,3,144.39,Cliente frecuente,Sede 1,Ate,Este,Yoga,Especial,88.04,Camila Navarro,Miraflores,Frecuente,2025-09-14
+86,2026-05-25,3,2,98.26,0,Web,Transferencia,2,123.43,   ,Sede 2,Callao,Oeste,FuNcIoNaL,Especial,98.26,Carlos Paredes,Los Olivos,Regular,18-04-2025
+87,2026-03-24,6,28, 98.26 ,8,WhatsApp,Efectivo,5,187.21,CLIENTE FRECUENTE,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,Camila Vargas,Ate,nuevo,
+88,2026-05-26,5,11 aprox,55.86,5,Presencial,TRANSFERENCIA,4 aprox,S/ 111.79,,Sede 7,Ventanilla,,Plan estudiante,,55.86,JoRgE QuIsPe,LiMa,Frecuente,2025-11-03
+89,2026-05-20,2,20,117.96,0,Telefono,TaRjEtA,1,191.85,Promocion,Sede 4,Comas,Oeste,,MeNsUaL,117.96,JoRgE GoMeZ,Ventanilla,Nuevo,2025-05-22
+90,,1,24,127.31,15,Presencial,Transferencia,3,195.66,Cliente frecuente,Sede 7,Ventanilla,,Cross training,Especial,127.31,Diego Mendoza,San Juan de Lurigancho,Premium,2025-11-03
+91,2026-03-13,1,2,88.04,0,Web,YaPe,5,129.87,OK,Sede 4,Comas,Oeste,Yoga,Especial,88.04,Luis Castillo,Callao,Nuevo,02/05/2025
+92,2026-05-04, 1 ,13,98.26,10,App,Yape,1,161.25,OK,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,  Miguel Sayan ,San Juan de Lurigancho,Corporativo,2025-02-23
+93,2026-06-04,2,19,71.82,5,Presencial,Yape,3,126.37,,Sede 4,Comas,Oeste,Plan basico,Mensual,71.82,Andre Salazar,San Juan de Lurigancho,Corporativo,2025-01-06
+94,2026-05-21,3,3.63,98.26,0,Telefono,Transferencia,1,132.94,Revisar,Sede 4,Comas,Oeste,FuNcIoNaL,Especial,98.26,Miguel Salazar,AtE,Regular,2025-09-16
+95,2026-04-20,3,7,71.82,0,Presencial,Yape,4,134.34,,Sede 4,Comas,Oeste,Plan basico,Mensual,71.82,Victor Quispe,Miraflores,Premium,2025-04-25
+96,2026-03-23,1,1,88.04,20,Presencial,Transferencia,3,115.56,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Yoga,Especial,88.04,Sofia Campos,Lima,Corporativo,2025-06-09
+97,06-03-2026,2,57.88,196.44,0,,Yape,1,320.62,Promocion,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Luis Torres,Ventanilla,Nuevo, 2025-06-03 
+98,2026-03-18,4,23,98.26,8,Web,Tarjeta,1,196.03,OK,Sede 5,Villa El Salvador,Centro,FuNcIoNaL,Especial,98.26,Valeria Torres,,Nuevo,2025-05-20
+99,2026-03-26,6,,,0,WhatsApp,Tarjeta,3,198.13,,Sede 7,Ventanilla,,Plan premium,Mensual,137.44,,Chorrillos,Regular,2025-02-08
+100,2026-03-21,,5,55.86,0,Web,  Transferencia ,1,126.64,,Sede 2,Callao,Oeste,Plan estudiante,,55.86,Jorge Rojas,CALLAO,Regular,2025-07-03
+101,2026-01-09,3,14,117.96,20,WhatsApp,efectivo,2,174.25,OK,Sede 7,Ventanilla,,,MeNsUaL,117.96,Rocio Sayan,Chorrillos,Frecuente,2025-03-01
+102,2026-03-17,8,26,117.96,12,app,Efectivo,4,169.68,Cliente frecuente,Sede 5,Villa El Salvador,Centro,,MeNsUaL,117.96,Valeria Huaman,Villa  El  Salvador,Corporativo,2025-07-06
+103,2026-03-13,1,2,88.04,0,Web,YaPe,5,129.87,OK,Sede 4,Comas,Oeste,Yoga,Especial,88.04,Luis Castillo,Callao,Nuevo,02/05/2025
+104,10/02/2026,5,26,71.82,0 aprox,,efectivo,1,S/ 168.11,OK,Sede 7,Ventanilla,,Plan basico,Mensual,71.82,Rocio Salazar,Miraflores,Frecuente,2025-02-25
+105,2026-03-02,4,5,71.82,0,App,Transferencia,5,112.43,Revisar,Sede 2,Callao,Oeste,Plan basico,Mensual,71.82,Camila Flores,lima,Corporativo,2025-03-22
+106,2026/02/01,3,14,196.44,0,App,Efectivo,4,220.33,,Sede 7,Ventanilla,,Plan familiar,Familiar,196.44,Valeria Sayan,Ate,Regular,2025-05-01
+107,2026-03-12,5,21,210.83,12,TELEFONO,Tarjeta, 2 ,247.28,,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,,Los Olivos,Corporativo,2025-06-19
+108,2026-03-05,3, 27 ,88.04,15,App,Tarjeta,4,179.28,,Sede 5,Villa El Salvador,Centro,Yoga,Especial,88.04,FiOrElLa cAmPoS,Lima,Nuevo,2025-08-23
+109,2026-05-26,8,6,S/ 55.86,0,Web,Efectivo,1,96.64,Revisar,Sede 5,Villa El Salvador,Centro,Plan estudiante,,55.86,Marco Huaman,Lima,Premium,2025-08-28
+110,2026-03-19,3,18,210.83,0,PRESENCIAL,Efectivo,4,276.69,,Sede 6,Surco,Este,Personalizado,Premium,210.83,Jorge Cruz,Independencia,Frecuente,2025-06-06
+111,2026-03-01,4, 7 ,196.44,15,Web,Tarjeta,5,199.95,,Sede 3,Miraflores,Centro,Plan familiar,Familiar,196.44,JoRgE QuIsPe,LiMa,Frecuente,2025-11-03
+112,2026-02-19,2,5,210.83,0,App,Efectivo,5,224.7,revisar,Sede 4,Comas,Oeste,Personalizado,Premium,210.83,Sofia Salazar,Ate,Nuevo, 2025-04-06 
+113,2026-02-18,2,4,88.04,0,Telefono,Transferencia,3,126.87,,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Diego Castillo,miraflores,Frecuente,2025-07-22
+114,2026-03-22,1,21,55.86,20,WhatsApp,Efectivo,4,128.29,Cliente frecuente,Sede 4,Comas,Oeste,Plan estudiante,,55.86,Carlos Rojas,CHORRILLOS,Regular,2025-10-08
+115,27/05/2026,5,94.1,127.31, 20 ,Web,Transferencia,2,343.75,Revisar,Sede 4,Comas,Oeste,Cross training,Especial,127.31,Marco Cruz,Lima,Regular,2025-05-24
+116,2026-03-05,5,14,137.44,,Web,Yape,4,211.18,,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Valeria Huaman,Villa  El  Salvador,Corporativo,2025-07-06
+117,2026-06-23,2,22,71.82,0,ApP,EfEcTiVo,4,144.36,OK,Sede 2,Callao,Oeste,Plan basico,Mensual,71.82,Camila Navarro,Miraflores,Frecuente,2025-09-14
+118,2026-03-08,3,17,196.44,20,Web,Transferencia,1,269.21 aprox,,Sede 1,Ate,Este,Plan familiar,Familiar,196.44,Valeria Soto,INDEPENDENCIA,Premium,2025-11-25
+119,2026-01-06, 5 ,5,"98,26",12,PRESENCIAL,Yape,5,136.68,Cliente frecuente,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,Lucia Gomez,Callao,Corporativo,2025-04-01
+120,2026-01-05, 2 ,16,55.86,12,Web,,2,128.65,,Sede 3,Miraflores,Centro,Plan estudiante,,55.86,Jorge Castillo,Comas,Nuevo,2025-06-17
+121,2026-04-10,4,27 aprox,88.04,0,Web,Efectivo,2,148.83,Promocion,Sede 3,Miraflores,Centro,Yoga,Especial,88.04,Fiorella Ramos,Los Olivos,Corporativo,2025-10-02
+122,2026-02-24,4, 14 ,S/ 210.83,20,Telefono,Efectivo,3,229.78,,Sede 3,Miraflores,Centro,Personalizado,Premium,210.83,Diego Quispe,Ventanilla,corporativo,2025-01-07
+123,2026-01-12,7,1,210.83 aprox,12,App,Efectivo,4,245.72,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Raul Flores,  San Juan de Lurigancho ,Corporativo,2025-06-20
+124,2026-05-20,1,8,117.96,5,Web,Yape,1,544.98,Promocion,Sede 4,Comas,Oeste,,MeNsUaL,117.96,Ana Ramos,La Molina,Frecuente,2025-07-23
+125,2026-06-21,1,6,98.26,0,Web,Plin,3,134.74,,Sede 4,Comas,Oeste,FuNcIoNaL,Especial,98.26,Elena Rojas,Villa El Salvador,Regular,2025-07-22
+126,2026-06-28,5,7, 88.04 , 10 ,Telefono,  Transferencia ,4, 117.66 ,OK,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Ana Torres,,Regular,2025-10-09
+127,2026-03-01,5,5,71.82,0,Telefono,Yape,2,108.67,Revisar,Sede 2,Callao,Oeste,Plan basico,Mensual,71.82,Carlos Paredes,Los Olivos,Regular,18-04-2025
+128,2026-02-07,7 aprox,8,117.96,0,,Tarjeta,2,150.74,ok,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Luis Torres,Ventanilla,Nuevo, 2025-06-03 
+129,2026-02-22,2,26,98.26,10,WeB,Tarjeta,1,165.16,,Sede 5,Villa El Salvador,Centro,FuNcIoNaL,Especial,98.26,Victor Campos,Ventanilla,Premium,2025-05-02
+130,2026-04-01,5,20,98.26 aprox,10,Web,Yape,3,172.28,Promocion,Sede 4,Comas,Oeste,FuNcIoNaL,Especial,98.26,Valeria Sayan,Ate,Regular,2025-05-01
+131,2026-03-04, 8 ,2,127.31,15,Telefono,tarjeta,3, 173.75 ,OK,Sede 5,Villa El Salvador,Centro,Cross training,Especial,127.31,Marco Flores,Chorrillos,Regular,2025-10-01
+132,2026-06-11,1,1,117.96,0,App,Efectivo,2,125.11,,Sede 6,Surco,Este,,MeNsUaL,117.96,Sofia Huaman,La Molina,Regular,2025-01-27
+133,2026-06-09,4,9,210.83,0,  WhatsApp ,Plin,2,242.79,Revisar,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Luis Torres,Ventanilla,Nuevo, 2025-06-03 
+134,2026-02-23,7,19,88.04,0,WhatsApp,Efectivo,3,163.41,,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Valeria Flores,LOS OLIVOS,Frecuente,2025-03-28
+135,2026-04-01,2,11,88.04,10 aprox,Web,Yape,3,135.13,Revisar,Sede 7,Ventanilla,,Yoga,Especial,88.04,Ana Torres,,Regular,2025-10-09
+136,2026-03-24,2,3,55.86,10,App,yape,5,89.26 aprox,OK,Sede 4,Comas,Oeste,Plan estudiante,,55.86,fiorella castillo,LA MOLINA,ReGuLaR,26/10/2025
+137,2026-05-22,1,22,S/ 210.83,12,web,Tarjeta,2,258.78,Revisar,Sede 4,Comas,Oeste,Personalizado,Premium,210.83,Lucia Gomez,Callao,Corporativo,2025-04-01
+138,2026-02-08,5,16,196.44,15,App,Yape,4,244.13,Cliente frecuente,Sede 6,Surco,Este,Plan familiar,Familiar,196.44,Diana Cruz,Lima,Corporativo,2025-02-24
+139,01-01-2026,6,5,71.82,0,Web,Efectivo,2,96.75,OK,Sede 4,Comas,Oeste,Plan basico,Mensual,71.82,Elena Salazar,Surco,  Nuevo ,2025-08-16
+140,2026-05-13,6,18,127.31,15,  WhatsApp ,Yape,2,193.39,Revisar,Sede 2,Callao,Oeste,Cross training,Especial,127.31,Pedro Ramos,Chorrillos,Regular,2025-09-12
+141,2026-06-16,5,14,127.31,0,Web,Plin,5,197.28,Promocion,Sede 1,Ate,Este,Cross training,Especial,127.31,Rocio Sayan,Chorrillos,Frecuente,2025-03-01
+142, 2026-01-11 ,1,11 aprox,88.04,0,Telefono,Transferencia,4,138.99,Cliente frecuente,Sede 3,Miraflores,Centro,Yoga,Especial,88.04,Fiorella Ramos,Los Olivos,Corporativo,2025-10-02
+143,2026-02-26,3,2,137.44,10,Telefono,Efectivo,3,179.01,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Plan premium,Mensual,137.44,Diego Castillo,Ventanilla,Frecuente,2025-05-09
+144,2026-04-16,2,19,127.31,12,Presencial,TaRjEtA,4,S/ 162.79,Revisar,Sede 5,Villa El Salvador,Centro,Cross training,Especial,127.31,Ana Quispe,Ate,Regular,2025-06-20
+145,2026-06-01,2,19,137.44,15,Web,Yape,4,S/ 191.66,Promocion,Sede 5,Villa El Salvador,Centro,Plan premium,Mensual,137.44,Lucia Paredes,AtE,ReGuLaR, 2025-08-01 
+146,2026-01-09,3,14,117.96,20,WhatsApp,efectivo,2,174.25,OK,Sede 7,Ventanilla,,,MeNsUaL,117.96,Rocio Sayan,Chorrillos,Frecuente,2025-03-01
+147,2026-05-10,2,22,196.44,5,Telefono,Tarjeta,5,246.12,,Sede 3,Miraflores,Centro,Plan familiar,Familiar,196.44,Maria Cruz,ate,Frecuente,2025-05-12
+148,2026-01-09,4,6,210.83,8,Web,TrAnSfErEnCiA,4,218.5,Cliente frecuente,Sede 7,Ventanilla,,Personalizado,Premium,210.83,Maria Cruz,Chorrillos,Premium,2025-10-28
+149,2026-05-15,2,21, 137.44 ,15,WhatsApp,Transferencia,4,199.18,,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Fiorella Ramos,Los Olivos,Corporativo,2025-10-02
+150,2026-03-18,6,24,196.44,12,  App ,Efectivo,3,"244,87",OK,Sede 5,Villa El Salvador,Centro,Plan familiar,Familiar,196.44,Camila Flores,lima,Corporativo,2025-03-22
+151,2026-03-27,2, 5 ,71.82,,WHATSAPP,Transferencia,3,127.21,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Plan basico,Mensual,71.82,Lucia Navarro,Miraflores,Regular,2025-07-10
+152,2026-05-22,4,18,127.31 aprox,0,Presencial,Yape,5,S/ 158.16,,Sede 6,Surco,Este,Cross training,Especial,127.31,Diana Cruz,San Juan de Lurigancho,Regular,2025-02-25
+153,2026-05-09,4,16,210.83,8,Presencial,Yape,5,279.95,Revisar,Sede 4,Comas,Oeste,Personalizado,Premium,210.83,Marco Flores,Miraflores,Frecuente,05/02/2025
+154,2026-06-28,6,12,98.26,12,WhatsApp,Transferencia,4,151.75,Promocion,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,Diego Castillo,miraflores,Frecuente,2025-07-22
+155,2026-05-05,2,4,127.31,10,telefono,Transferencia,2,131.91,,Sede 3,Miraflores,Centro,Cross training,Especial,127.31,Sofia Campos,Lima,Corporativo,2025-06-09
+156,2026-04-15,1,23,55.86 aprox,10,Presencial,Efectivo,5,"115,18",,Sede 2,Callao,Oeste,Plan estudiante,,55.86,FiOrElLa cAmPoS,Lima,Nuevo,2025-08-23
+157,02-02-2026,4,20,127.31,0,WHATSAPP,Efectivo,4,188.81,,Sede 2,Callao,Oeste,Cross training,Especial,127.31,Carlos Vargas,Los Olivos,Regular,02-09-2025
+158,2026-06-14,3,20,117.96,10,Presencial,Plin,1,171.49,,Sede 4,Comas,Oeste,,MeNsUaL,117.96,Victor Quispe,Miraflores,Premium,2025-04-25
+159,2026-03-05,1,23 aprox,55.86,,Presencial,plin,3,129.38,,Sede 2,Callao,Oeste,Plan estudiante,,55.86,Fiorella Vargas,Lima,nuevo,2025-01-14
+160,2026-06-12,3,27,98.26,12,Telefono,Plin,2,175.49 aprox,Cliente frecuente,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,Fiorella Ramos,Los Olivos,Corporativo,2025-10-02
+161,2026-05-26,4,20,55.86,20,WhatsApp,Transferencia,2,128.58 aprox,Cliente  frecuente,Sede 5,Villa El Salvador,Centro,Plan estudiante,,55.86,Fiorella Vargas,Lima,nuevo,2025-01-14
+162,,8, 21 ,71.82 aprox,0,Web,Tarjeta,3,150.48,OK,Sede 4,Comas,Oeste,Plan basico,Mensual,71.82,Miguel Salazar,AtE,Regular,2025-09-16
+163,2026-04-16,,11,55.86,0,WhatsApp,Transferencia,4,106.9,Revisar,Sede 6,Surco,Este,Plan estudiante,,55.86,Maria Cruz,ate,Frecuente,2025-05-12
+164,2026/06/02,2,7,210.83,15,WhatsApp,Plin,1,781.44,Revisar,Sede 4,Comas,Oeste,Personalizado,Premium,210.83,Ana Flores,  San Juan de Lurigancho ,Frecuente,2025-09-03
+165,2026-05-02,5,22,71.82,20,WEB,Efectivo,5,171.71 aprox,Promocion,Sede 3,Miraflores,Centro,Plan basico,Mensual,71.82,Camila Salazar,San Miguel,Nuevo,2025-02-16
+166,2026-04-12,4,21,127.31,20,,TARJETA,4,165.5,Cliente frecuente,Sede 7,Ventanilla,,Cross training,Especial,127.31,Valeria Huaman,Villa  El  Salvador,Corporativo,2025-07-06
+167,06/01/2026,,4,"98,26",10,Telefono,YaPe,3,125.92,,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,Valeria Torres,,Nuevo,2025-05-20
+168,2026-01-07,8,26,"210,83",5,Web,Tarjeta,1,276.77,,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Claudia Vargas,Miraflores,Corporativo,2025-07-03
+169,,3,27,88.04,15,Web,Yape,4,161.14,OK,Sede 4,Comas,Oeste,Yoga,Especial,88.04,RaUl cAsTiLlO,Independencia,  Premium ,2025-08-17
+170,2026-02-28,7,5,210.83 aprox,15,presencial,Yape,1 aprox,S/ 238.45,,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Marco Flores,Chorrillos,Regular,2025-10-01
+171,2026-06-08,8,4,137.44,10 aprox,App,Transferencia,2,171.13,OK,Sede 3,Miraflores,Centro,Plan premium,Mensual,137.44,Andre Torres,villa el salvador,REGULAR,2025-11-16
+172,2026-05-02,2,13,88.04,0,Web,Transferencia,1,126.6,Cliente frecuente,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Sofia Campos,Lima,Corporativo,2025-06-09
+173,2026-02-19,7,11,137.44,20,web,Yape,2,188.95,cliente frecuente,Sede 1,Ate,Este,Plan premium,Mensual,137.44,Elena Rojas,Villa El Salvador,Regular,2025-07-22
+174,2026-02-11,3,23,88.04,0,WhatsApp,Transferencia,1,147.14,,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Camila Salazar,San Miguel,Nuevo,2025-02-16
+175,2026-03-08,3,7,98.26, 0 ,Telefono,Efectivo,1, 149.15 ,,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,Rocio Sayan,Chorrillos,Frecuente,2025-03-01
+176,2026-06-06,3,20,196.44,10,web,Plin,2,226.39,Promocion,Sede 4,Comas,Oeste,Plan familiar,Familiar,196.44,Ana Quispe,Ate,Regular,2025-06-20
+177,2026-04-10,6,61.22,196.44,0,Web,Transferencia,4,,Promocion,Sede 3,Miraflores,Centro,Plan familiar,Familiar,196.44,Valeria Huaman,Villa  El  Salvador,Corporativo,2025-07-06
+178,2026-02-24,6,24,88.04,0,Telefono,Transferencia,2,165.27,REVISAR,Sede 6,Surco,Este,Yoga,Especial,88.04,Marco Flores,Miraflores,Frecuente,05/02/2025
+179,2026-02-26,2,15,88.04,0,Presencial,Plin,2,149.61,Revisar,Sede 7,Ventanilla,,Yoga,Especial,88.04,Pedro Ramos,Chorrillos,Regular,2025-09-12
+180,2026-04-16,5,27,71.82, 0 ,Presencial,Yape,4,188.14,OK,Sede 3,Miraflores,Centro,Plan basico,Mensual,71.82,Ana Sayan,Independencia,Frecuente,2025-05-01
+181,2026-04-22,8,25,88.04,0,WhatsApp,PlIn,2,223.45,OK,Sede 6,Surco,Este,Yoga,Especial,88.04,Jorge Castillo,Comas,Nuevo,2025-06-17
+182,2026-02-09,5,23,88.04,20,WhatsApp,Transferencia,4,150.44,,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Camila Flores,lima,Corporativo,2025-03-22
+183,19/02/2026,3,12,,0,Presencial,transferencia,3,165.55,,Sede 1,Ate,Este,Cross training,Especial,127.31,Diana Cruz,La Molina,Premium,21-07-2025
+184,2026-04-04,8,26,88.04,15,Web,Transferencia,1,176.24,Revisar,Sede 1,Ate,Este,Yoga,Especial,88.04,Diego Castillo,Ventanilla,Frecuente,2025-05-09
+185,2026-01-07,7,3,137.44,,Telefono,Transferencia,2,153.66,OK,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Carlos Soto,Lima,Regular,2025-12-20
+186,2026-02-18,,3 aprox,210.83,15,Presencial,Plin,2,236.2,Cliente frecuente,Sede 1,Ate,Este,Personalizado,Premium,210.83,Miguel Salazar,AtE,Regular,2025-09-16
+187,2026-03-03,1,24,117.96,0,Presencial,Plin,5,179.68,Cliente frecuente,Sede 5,Villa El Salvador,Centro,,MeNsUaL,117.96,Sofia Salazar,Ate,Nuevo, 2025-04-06 
+188,2026-03-20,3,2,71.82,15,Presencial,Plin,1,,Cliente frecuente,Sede 7,Ventanilla,,Plan basico,Mensual,71.82,Elena Rojas,Villa El Salvador,Regular,2025-07-22
+189,2026-03-06,1,15,127.31,20,Presencial,Yape, 1 ,164.68,Promocion,Sede 1,Ate,Este,Cross training,Especial,127.31,Fiorella Ramos,Los Olivos,Corporativo,2025-10-02
+190,2026-02-03,5,, 196.44 ,0,,EFECTIVO,3,S/ 296.27,Revisar,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Marco Flores,Miraflores,Frecuente,05/02/2025
+191,2026-02-14,5,25,71.82,8,App,Transferencia,1,158.22,Promocion,Sede 7,Ventanilla,,Plan basico,Mensual,71.82,Sofia Huaman,La Molina,Regular,2025-01-27
+192,2026-03-27,5,1,71.82,8,WeB,Plin,1,S/ 92.75,,Sede 7,Ventanilla,,Plan basico,Mensual,71.82,Victor Campos,Ventanilla,Premium,2025-05-02
+193,2026-02-23,2,21,117.96,0,,Tarjeta,4,195.22,Cliente frecuente,Sede 3,Miraflores,Centro,,MeNsUaL,117.96,Jorge Rojas,CALLAO,Regular,2025-07-03
+194, 2026-05-28 ,4,20,55.86,20,Presencial,EFECTIVO,4,152.39,,Sede 2,Callao,Oeste,Plan estudiante,,55.86,Carlos Paredes,Los Olivos,Regular,18-04-2025
+195,2026-02-18,7,22,137.44,0,  Presencial ,Tarjeta,1,207.87,Promocion,Sede 7,Ventanilla,,Plan premium,Mensual,137.44,Luis Torres,Ventanilla,Nuevo, 2025-06-03 
+196,2026-04-11,7,25,196.44 aprox,15,Telefono,Tarjeta,1,257.82,ReViSaR,Sede 3,Miraflores,Centro,Plan familiar,Familiar,196.44,,,Premium,2025-08-18
+197,2026-01-18,7,13,210.83,0,Telefono,PlIn,4 aprox,264.02,,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Fiorella Campos,Los Olivos,Nuevo,2025-06-13
+198,2026-04-16,2,4,"88,04",15,  Presencial ,Transferencia,3,108.24,Cliente frecuente,Sede 4,Comas,Oeste,Yoga,Especial,88.04,Marco Flores,Miraflores,Frecuente,05/02/2025
+199,2026-04-15,8,20,137.44, 0 ,whatsapp,Plin,1, 211.18 ,,Sede 6,Surco,Este,Plan premium,Mensual,137.44,Lucia Navarro,Miraflores,Regular,2025-07-10
+200,2026/03/02,3,2,71.82,10,App,Efectivo,3,S/ 93.31,Promocion,Sede 6,Surco,Este,Plan basico,Mensual,71.82,Elena Salazar,Surco,  Nuevo ,2025-08-16
+201,2026-02-25,4,7,127.31,0,Web,Efectivo,5,173.71,Revisar,Sede 7,Ventanilla,,Cross training,Especial,127.31,Ana Quispe,Ate,Regular,2025-06-20
+202,2026-02-17,4,11,210.83,0,Telefono,Tarjeta,1,201.38,Revisar,Sede 7,Ventanilla,,Personalizado,Premium,210.83,Andre Torres,villa el salvador,REGULAR,2025-11-16
+203,2026-05-18,2,1,S/ 196.44,12,Web,Efectivo,1 aprox,194.89,Revisar,Sede 4,Comas,Oeste,Plan familiar,Familiar,196.44,Rocio Salazar,Miraflores,Frecuente,2025-02-25
+204,2026-01-11,7,13,196.44,5,WHATSAPP,efectivo,3,228.67,OK,Sede 3,Miraflores,Centro,Plan familiar,Familiar,196.44,Jorge Castillo,Comas,Nuevo,2025-06-17
+205,2026-04-13,1, 27 ,55.86,12,Telefono,efectivo,5,128.56,,Sede 2,Callao,Oeste,Plan estudiante,,55.86,Carlos Paredes,Los Olivos,Regular,18-04-2025
+206,2026-05-01,5,24,196.44,0,Presencial,,3,242.34,Cliente frecuente,Sede 7,Ventanilla,,Plan familiar,Familiar,196.44,Raul Paredes,San Juan de Lurigancho,Corporativo,2025-10-15
+207,2026-06-03,2,23,196.44,0,Presencial,Plin,4,255.87 aprox,,Sede 1,Ate,Este,Plan familiar,Familiar,196.44,Luis Castillo,Callao,Nuevo,02/05/2025
+208,2026-02-03,8,23,210.83,8,Telefono,Plin,3,277.73,Revisar,Sede 1,Ate,Este,Personalizado,Premium,210.83,Sofia Salazar,Ate,Nuevo, 2025-04-06 
+209,15/01/2026,1,22,98.26,10,Presencial,Yape,5,149.88,,Sede 2,Callao,Oeste,FuNcIoNaL,Especial,98.26,Rocio Sayan,Chorrillos,Frecuente,2025-03-01
+210,2026-02-14,1,21,71.82,,Presencial,Transferencia,5,129.48,Revisar,Sede 7,Ventanilla,,Plan basico,Mensual,71.82,Andre Torres,Ventanilla,Corporativo,2025-11-11
+211,2026-02-19,7,18 aprox,137.44,0,Telefono,Efectivo,5,204.21,Promocion,Sede 7,Ventanilla,,Plan premium,Mensual,137.44,Ana Flores,  San Juan de Lurigancho ,Frecuente,2025-09-03
+212,2026-04-01, 8 ,22,55.86,8,telefono,Tarjeta,5,142.53,Promocion,Sede 3,Miraflores,Centro,Plan estudiante,,55.86,Carlos Rojas,CHORRILLOS,Regular,2025-10-08
+213,2026-03-05,7,11,210.83,0,WhatsApp,tarjeta,4,245.67,Promocion,Sede 1,Ate,Este,Personalizado,Premium,210.83,Lucia Soto,Villa El Salvador,Frecuente,2025-12-01
+214,2026-02-12,6,13,127.31,0,APP,Yape,2,183.03,Cliente frecuente,Sede 4,Comas,Oeste,Cross training,Especial,127.31,Raul Flores,  San Juan de Lurigancho ,Corporativo,2025-06-20
+215,2026-04-21,8,15,210.83,10,  Telefono ,Tarjeta,3,239.94,ReViSaR,Sede 3,Miraflores,Centro,Personalizado,Premium,210.83,Maria Cruz,Chorrillos,Premium,2025-10-28
+216,2026/01/24,5, 4 , 127.31 ,0,WHATSAPP,Tarjeta,1,168.53,cliente frecuente,Sede 7,Ventanilla,,Cross training,Especial,127.31,Victor Quispe,Miraflores,Premium,2025-04-25
+217,2026-05-23,2,14,88.04,0,App,Yape,2,117.17,,Sede 4,Comas,Oeste,Yoga,Especial,88.04,Lucia Navarro,Miraflores,Regular,2025-07-10
+218,2026-02-15,1, 25 ,"210,83",,App,Transferencia,3,246.51,Promocion,Sede 2,Callao,Oeste,Personalizado,Premium,210.83,Carlos Vargas,Surco,Regular,2025-10-25
+219,2026-01-12,1,13, 88.04 ,10,Presencial,yape,5,144.21,Cliente frecuente,Sede 3,Miraflores,Centro,Yoga,Especial,88.04,JoRgE QuIsPe,LiMa,Frecuente,2025-11-03
+220,2026-02-02,7,2,137.44,0,Web,Plin,1,165.29,cliente frecuente,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Valeria Soto,INDEPENDENCIA,Premium,2025-11-25
+221,2026-02-22,3,1 aprox,117.96,12,Web,Yape,5,131.92,Promocion,Sede 4,Comas,Oeste,,MeNsUaL,117.96,Ana Quispe,Ate,Regular,2025-06-20
+222,2026-01-04,4,23,127.31,20,Presencial,Yape,4,"183,62",Promocion,Sede 1,Ate,Este,Cross training,Especial,127.31,RaUl cAsTiLlO,Independencia,  Premium ,2025-08-17
+223,2026-01-16,2,12,196.44,0,Presencial,Yape,3,213.94,Revisar,Sede 6,Surco,Este,Plan familiar,Familiar,196.44,RaUl cAsTiLlO,Independencia,  Premium ,2025-08-17
+224,2026/02/03,2,26,"71,82",15,Telefono,Yape,5,157.66,Cliente frecuente,Sede 4,Comas,Oeste,Plan basico,Mensual,71.82,Victor Campos,Ventanilla,Premium,2025-05-02
+225,2026-03-20,6,16,71.82,12,Presencial,Tarjeta,4,150.51,,Sede 3,Miraflores,Centro,Plan basico,Mensual,71.82,Miguel Salazar,AtE,Regular,2025-09-16
+226,2026-01-26,2,22,55.86,0,Telefono,Transferencia,2,121.76,,Sede 2,Callao,Oeste,Plan estudiante,,55.86,Diana Cruz,Los Olivos,Premium,2025-03-17
+227,2026-05-17,2,7,210.83,10,Telefono,Transferencia,3 aprox,216.65,,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Raul Flores,  San Juan de Lurigancho ,Corporativo,2025-06-20
+228, 2026-04-25 ,4,14, 137.44 ,0,WhatsApp,Yape,2,187.16,OK,Sede 1,Ate,Este,Plan premium,Mensual,137.44,Marco Huaman,Lima,Premium,2025-08-28
+229,2026-01-08,6,10,137.44,0,App,Yape,5,225.77,,Sede 3,Miraflores,Centro,Plan premium,Mensual,137.44,Maria Cruz,Chorrillos,Premium,2025-10-28
+230, 2026-01-22 ,2,7,127.31,0 aprox,Web,Efectivo,4,173.76,OK,Sede 1,Ate,Este,Cross training,Especial,127.31,,Los Olivos,Corporativo,2025-06-19
+231,2026-06-14,3,7,137.44,15,WhatsApp,Plin,5,167.55,Promocion,Sede 4,Comas,Oeste,Plan premium,Mensual,137.44,Diana Cruz,Lima,Corporativo,2025-02-24
+232,2026-04-26,1,11,88.04,20,Presencial,Plin,3,111.66,  OK ,Sede 1,Ate,Este,Yoga,Especial,88.04,Sofia Huaman,La Molina,Regular,2025-01-27
+233,2026-03-11,5,27,98.26,8,,  Yape ,1,198.69,Revisar,Sede 2,Callao,Oeste,FuNcIoNaL,Especial,98.26,JoRgE GoMeZ,Ventanilla,Nuevo,2025-05-22
+234,01-06-2026,4,25,137.44,0,  Telefono ,Efectivo,4,"199,3",Promocion,Sede 1,Ate,Este,Plan premium,Mensual,137.44,Elena Rojas,Villa El Salvador,Regular,2025-07-22
+235,2026-02-24,3,26,55.86,12 aprox,WhatsApp,Plin,3,S/ 119.4,Promocion,Sede 2,Callao,Oeste,Plan estudiante,,55.86,Camila Salazar,San Miguel,Nuevo,2025-02-16
+236,2026-05-27,3,28, 88.04 ,20,Telefono,Transferencia,3,187.57,,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Andre Torres,Ventanilla,Corporativo,2025-11-11
+237,2026-06-28,2,19,127.31,15,  Presencial ,Transferencia,5,168.72,Cliente frecuente,Sede 2,Callao,Oeste,Cross training,Especial,127.31,Lucia Navarro,Miraflores,Regular,2025-07-10
+238,2026-04-02,3,16,127.31,0,WhatsApp,Tarjeta,3,164.13,OK,Sede 6,Surco,Este,Cross training,Especial,127.31,Camila Navarro,Miraflores,Frecuente,2025-09-14
+239,2026-04-04,3,23,88.04 aprox,10,App,Plin,3,162.05,OK,Sede 7,Ventanilla,,Yoga,Especial,88.04,Elena Salazar,Surco,  Nuevo ,2025-08-16
+240,2026-04-05,7,15,210.83,8,TeLeFoNo,Plin,4,262.57,Promocion,Sede 1,Ate,Este,Personalizado,Premium,210.83,Lucia Soto,Villa El Salvador,Frecuente,2025-12-01
+241,2026-01-07,3,19,71.82,10,whatsapp,Yape,5,138.09,Revisar,Sede 2,Callao,Oeste,Plan basico,Mensual,71.82,Jose Reyes,Villa El Salvador,Corporativo,2025-03-15
+242,2026-01-06,,,55.86,12,  Web ,PLIN,5,112.75,Cliente frecuente,Sede 3,Miraflores,Centro,Plan estudiante,,55.86,Lucia Rojas,Surco,Frecuente,2025-09-17
+243,2026-01-04,1,8,98.26,20,Web,Efectivo,1,144.27,Revisar,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,Fiorella Campos,Los Olivos,Nuevo,2025-06-13
+244,2026-06-04,4,12,210.83,10,Presencial,Yape,5,224.71,Cliente frecuente,Sede 7,Ventanilla,,Personalizado,Premium,210.83,Valeria Flores,LOS OLIVOS,Frecuente,2025-03-28
+245,2026-03-05,8,14,55.86,0 aprox,Telefono,Transferencia,3,136.32,PrOmOcIoN,Sede 4,Comas,Oeste,Plan estudiante,,55.86,Jose Paredes,La Molina,Frecuente,2025-05-07
+246,2026-01-11,3,17,55.86,15,Presencial,Plin,2,108.0,Promocion,Sede 1,Ate,Este,Plan estudiante,,55.86,Camila Vargas,Ate,nuevo,
+247,2026-01-04,8,26, 117.96 ,8,Web,Tarjeta,2,217.9,,Sede 7,Ventanilla,,,MeNsUaL,117.96,JoRgE GoMeZ,Ventanilla,Nuevo,2025-05-22
+248,2026-06-18,4,20,98.26,0,Telefono,Transferencia,1,146.24,,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,Andre Cruz,Surco,premium,2025/02/04
+249,2026-01-05,1,12,88.04,20,Telefono,Transferencia,1,120.82,Revisar,Sede 6,Surco,Este,Yoga,Especial,88.04,Sofia Campos,Lima,Corporativo,2025-06-09
+250,2026-05-01,8 aprox,3,196.44,20 aprox,Presencial,Plin,1,195.49,,Sede 1,Ate,Este,Plan familiar,Familiar,196.44,RaUl cAsTiLlO,Independencia,  Premium ,2025-08-17
+251,2026-01-23,4,25,88.04,0,App,Efectivo,5,190.59,Revisar,Sede 3,Miraflores,Centro,Yoga,Especial,88.04,Maria Cruz,Chorrillos,Premium,2025-10-28
+252,2026-06-19,4,21,,0,Web,Efectivo,4,181.46,OK,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,Lucia Paredes,La Molina,Regular,2025-10-25
+253,22/03/2026,4, 15 ,71.82,5,Web,YaPe,3,130.64,ReViSaR,Sede 2,Callao,Oeste,Plan basico,Mensual,71.82,Lucia Castillo,Ate,Frecuente,2025-08-17
+254,2026-03-22,3,7,137.44,10,Web,Transferencia,4,152.01,Promocion,Sede 4,Comas,Oeste,Plan premium,Mensual,137.44,Ana Quispe,Ate,Regular,2025-06-20
+255,2026-04-07,7,12,137.44,0,WhatsApp,Efectivo,2,186.94,Cliente frecuente,Sede 7,Ventanilla,,Plan premium,Mensual,137.44,Camila Navarro,Miraflores,Frecuente,2025-09-14
+256,2026-02-24,1,16,55.86,0,App,Tarjeta,5,113.8 aprox,,Sede 3,Miraflores,Centro,Plan estudiante,,55.86,Jorge Rojas,CALLAO,Regular,2025-07-03
+257,2026-03-19,1,18,S/ 196.44, 12 ,WhatsApp,Plin,2,209.69 aprox,,Sede 7,Ventanilla,,Plan familiar,Familiar,196.44,Camila Flores,lima,Corporativo,2025-03-22
+258,2026-05-23,3,21,196.44,20,WhatsApp,Yape,2,244.6,Promocion,Sede 1,Ate,Este,Plan familiar,Familiar,196.44,Ana Flores,  San Juan de Lurigancho ,Frecuente,2025-09-03
+259,2026-02-15,1,20,,8,WhatsApp,Transferencia,5,135.39,Cliente frecuente,Sede 6,Surco,Este,Yoga,Especial,88.04,Carlos Paredes,Los Olivos,Regular,18-04-2025
+260,2026-01-07,7,3,137.44,,Telefono,Transferencia,2,153.66,OK,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Carlos Soto,Lima,Regular,2025-12-20
+261,2026-04-14,7,17,117.96,0,,Yape,1,187.36,OK,Sede 6,Surco,Este,,MeNsUaL,117.96,Andre Torres,Ventanilla,Corporativo,2025-11-11
+262,2026-01-08,5,4 aprox,196.44,8,App,Plin,2,225.26 aprox,ReViSaR,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Jose Paredes,La Molina,Frecuente,2025-05-07
+263,2026-05-20,5,14,196.44,,Telefono,Yape,5,194.45,Cliente frecuente,Sede 1,Ate,Este,Plan familiar,Familiar,196.44,Andre Torres,Ventanilla,Corporativo,2025-11-11
+264,2026-05-10,5,21,127.31,10,App,Efectivo,2,185.15,,Sede 2,Callao,Oeste,Cross training,Especial,127.31,Marco Flores,Chorrillos,Regular,2025-10-01
+265,2026-01-26,6,5,"127,31",20,App,Transferencia,3,140.43 aprox,Promocion,Sede 5,Villa El Salvador,Centro,Cross training,Especial,127.31,Carlos Paredes,Los Olivos,Regular,18-04-2025
+266,2026-01-10,5,18,88.04,0,Web,Transferencia,2,166.77,,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Carlos Paredes,Los Olivos,Regular,18-04-2025
+267,2026-05-28, 8 ,2,55.86,15,Presencial,Transferencia,4,S/ 90.75,Revisar,Sede 3,Miraflores,Centro,Plan estudiante,,55.86,Valeria Flores,LOS OLIVOS,Frecuente,2025-03-28
+268,2026-03-14,1,11,196.44,8,Presencial,Efectivo,1,202.09,  Promocion ,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Carlos Vargas,Los Olivos,Regular,02-09-2025
+269,2026-05-28,1,17,98.26,20,  Telefono ,Plin,5,174.88,OK,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,Marco Cruz,Lima,Regular,2025-05-24
+270,2026-01-01,7,14,137.44,15,WhatsApp,Yape,2,200.8,,Sede 1,Ate,Este,Plan premium,Mensual,137.44,Jorge Cruz,Independencia,Frecuente,2025-06-06
+271,2026-01-09,7,23,,8,WhatsApp,Yape,3,114.97,OK,Sede 6,Surco,Este,Plan estudiante,,55.86,Lucia Navarro,Miraflores,Regular,2025-07-10
+272,2026-03-07,1,13,196.44,12,App,  Plin ,3 aprox,234.67,,Sede 1,Ate,Este,Plan familiar,Familiar,196.44,Andre Cruz,Surco,premium,2025/02/04
+273,2026-06-18, 6 ,19,88.04,0,WhatsApp,Plin,1,166.31,Revisar,Sede 6,Surco,Este,Yoga,Especial,88.04,Marco Cruz,Lima,Regular,2025-05-24
+274,28/02/2026,6,27,117.96 aprox,0,Presencial,Efectivo,3,201.03,,Sede 4,Comas,Oeste,,MeNsUaL,117.96,Jose Paredes,La Molina,Frecuente,2025-05-07
+275,,3,25,127.31,15,Presencial,Transferencia,5,191.06,Cliente frecuente,Sede 6,Surco,Este,Cross training,Especial,127.31,Ana Huaman,Miraflores,Nuevo,2025-12-28
+276,2026-04-10,3,22,210.83,0,App,Efectivo,3,266.56,OK,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Jose Reyes,Villa El Salvador,Corporativo,2025-03-15
+277,2026-04-16,8,27,S/ 127.31, 0 ,Web,Plin,5,217.51,,Sede 1,Ate,Este,Cross training,Especial,127.31,Lucia Gomez,Callao,Corporativo,2025-04-01
+278,2026-02-11,6,16,S/ 88.04,10,Presencial,,1,147.6,,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Diana Cruz,San Juan de Lurigancho,Regular,2025-02-25
+279,2026-01-03,3,12,210.83,12,Telefono,Transferencia,4,"238,0",,Sede 6,Surco,Este,Personalizado,Premium,210.83,Diego Mendoza,San Juan de Lurigancho,Premium,2025-11-03
+280,2026-04-20,1,14,137.44,8,Presencial,Tarjeta,1,167.47,,Sede 5,Villa El Salvador,Centro,Plan premium,Mensual,137.44,Andre Torres,Ventanilla,Corporativo,2025-11-11
+281,2026-03-07,4,19,137.44 aprox,0,App,TARJETA,4,197.56,Cliente frecuente,Sede 4,Comas,Oeste,Plan premium,Mensual,137.44,Marco Flores,Chorrillos,Regular,2025-10-01
+282, 2026-04-07 ,1,24,210.83,0,WhatsApp,Efectivo,2, 278.05 ,Promocion,Sede 2,Callao,Oeste,Personalizado,Premium,210.83,Sofia Huaman,La Molina,Regular,2025-01-27
+283,2026-01-14,5,11,88.04,8,WhatsApp,Transferencia,1,154.3,Revisar,Sede 6,Surco,Este,Yoga,Especial,88.04,Miguel Salazar,AtE,Regular,2025-09-16
+284,2026-03-09,1,8,55.86,0,App,Efectivo,3,88.48,OK,Sede 6,Surco,Este,Plan estudiante,,55.86,Raul Flores,  San Juan de Lurigancho ,Corporativo,2025-06-20
+285,2026-04-01,5,24,98.26,5,WhatsApp,Plin,4,191.87,,Sede 7,Ventanilla,,FuNcIoNaL,Especial,98.26,Carlos Paredes,Los Olivos,Regular,18-04-2025
+286,2026-04-15,8,12,88.04,8,whatsapp,Efectivo,3,155.01,,Sede 6,Surco,Este,Yoga,Especial,88.04,Andre Cruz,Surco,premium,2025/02/04
+287,2026-06-10,3,2,117.96,0,Presencial,Transferencia,3,123.98,Cliente frecuente,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Valeria Huaman,Villa  El  Salvador,Corporativo,2025-07-06
+288,2026-01-08,2,26,S/ 98.26,5,App,Plin,2,174.18,Promocion,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,FiOrElLa cAmPoS,Lima,Nuevo,2025-08-23
+289,2026-04-10,2,10,55.86,0,Presencial,tarjeta,4,85.79,,Sede 2,Callao,Oeste,Plan estudiante,,55.86,Jorge Castillo,Comas,Nuevo,2025-06-17
+290,2026/03/25,5,6,55.86,10 aprox,Web,Tarjeta,5,,PrOmOcIoN,Sede 5,Villa El Salvador,Centro,Plan estudiante,,55.86,Carlos Rojas,CHORRILLOS,Regular,2025-10-08
+291,2026-01-14,2,11,137.44,0,App,Yape,,173.96,OK,Sede 4,Comas,Oeste,Plan premium,Mensual,137.44,Lucia Paredes,AtE,ReGuLaR, 2025-08-01 
+292,05-04-2026,2,14,117.96,0,,  Plin ,4,162.24,,Sede 6,Surco,Este,,MeNsUaL,117.96,Victor Quispe,Miraflores,Premium,2025-04-25
+293,2026-01-07,1,17,71.82,0,Telefono,Efectivo,3,126.81,Promocion,Sede 6,Surco,Este,Plan basico,Mensual,71.82,Camila Vargas,Ate,nuevo,
+294,2026-06-18,4,13,117.96,20,WeB,Plin,2,159.05,OK,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Carlos Vargas,Los Olivos,Regular,02-09-2025
+295,2026-01-27,6,2,88.04,5,App,YAPE,1,118.24,Cliente frecuente,Sede 3,Miraflores,Centro,Yoga,Especial,88.04,Diego Castillo,miraflores,Frecuente,2025-07-22
+296,2026-04-28,3,26,"127,31",5,Web,Plin,2,233.33,OK,Sede 4,Comas,Oeste,Cross training,Especial,127.31,Marco Flores,Chorrillos,Regular,2025-10-01
+297,2026-04-09,6 aprox,15,55.86,12,web,  Plin ,4,100.0,Promocion,Sede 3,Miraflores,Centro,Plan estudiante,,55.86,Ana Sayan,Independencia,Frecuente,2025-05-01
+298,2026-03-23,2,28,117.96,15,Presencial,Yape,4,188.72,,Sede 1,Ate,Este,,MeNsUaL,117.96,Diana Vargas,VILLA EL SALVADOR,PREMIUM,2025-12-08
+299,2026-01-26,3,20,196.44,,WhatsApp,Transferencia,5,245.4,,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Ana Huaman,Miraflores,Nuevo,2025-12-28
+300,2026-06-25,8, 13 ,196.44,0,Presencial,Yape,1,249.94,Promocion,Sede 5,Villa El Salvador,Centro,Plan familiar,Familiar,196.44,Lucia Rojas,Surco,Frecuente,2025-09-17
+301,2026-06-28,1,9,117.96,10,Telefono,Plin,5,150.05,,Sede 2,Callao,Oeste,,MeNsUaL,117.96,FiOrElLa cAmPoS,Lima,Nuevo,2025-08-23
+302, 2026-05-14 ,4,2,71.82,0,Presencial,Tarjeta,1,88.11,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Plan basico,Mensual,71.82,Ana Flores,  San Juan de Lurigancho ,Frecuente,2025-09-03
+303,2026-05-06,5,5, 88.04 ,20,Telefono,Yape,,127.94,,Sede 3,Miraflores,Centro,Yoga,Especial,88.04,Claudia Vargas,Miraflores,Corporativo,2025-07-03
+304,2026/02/06,7,13,210.83,12,WhatsApp,Efectivo,2,"259,05",,Sede 2,Callao,Oeste,Personalizado,Premium,210.83,Valeria Torres,,Nuevo,2025-05-20
+305,2026-04-23,1,17 aprox,55.86,10 aprox,Telefono,Tarjeta,4,112.24,,Sede 7,Ventanilla,,Plan estudiante,,55.86,Lucia Navarro,Miraflores,Regular,2025-07-10
+306,2026-05-08, 6 ,22,117.96,0,Presencial,Efectivo,4,208.5,Promocion,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Andre Torres,Ventanilla,Corporativo,2025-11-11
+307,2026-06-28,3,16,S/ 137.44,20,WhAtSaPp,Efectivo,1,207.17,,Sede 5,Villa El Salvador,Centro,Plan premium,Mensual,137.44,RaUl cAsTiLlO,Independencia,  Premium ,2025-08-17
+308,2026-01-08,4,26,S/ 55.86,5,Web,Transferencia,1,154.8,OK,Sede 2,Callao,Oeste,Plan estudiante,,55.86,Camila Vargas,Ate,nuevo,
+309,2026-05-06,7,23,S/ 137.44,,Telefono,Plin,2,190.93,,Sede 5,Villa El Salvador,Centro,Plan premium,Mensual,137.44,Camila Salazar,San Miguel,Nuevo,2025-02-16
+310,2026-05-08,4,14,S/ 88.04,0,App,YaPe,1,150.59,Promocion,Sede 1,Ate,Este,Yoga,Especial,88.04,Ana Quispe,Ate,Regular,2025-06-20
+311, 2026-03-17 ,8,19,127.31,10,Presencial,,5,187.03,,Sede 6,Surco,Este,Cross training,Especial,127.31,Maria Navarro,San Miguel,Regular,2025-08-11
+312,2026-04-17,8,4,137.44,12,WhatsApp,Efectivo,5,177.51,Cliente frecuente,Sede 7,Ventanilla,,Plan premium,Mensual,137.44,Ana Flores,  San Juan de Lurigancho ,Frecuente,2025-09-03
+313,2026-02-11,5,14,98.26 aprox,12,App,Efectivo,2, 174.45 ,OK,Sede 7,Ventanilla,,FuNcIoNaL,Especial,98.26,Sofia Huaman,La Molina,Regular,2025-01-27
+314,2026/02/25,5,28,117.96,10,Presencial,Plin,2,194.64,Promocion,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Maria Navarro,San Miguel,Regular,2025-08-11
+315,26-02-2026,5,19,210.83,5,Telefono,Yape,3,253.8,OK,Sede 6,Surco,Este,Personalizado,Premium,210.83,Jorge Rojas,CALLAO,Regular,2025-07-03
+316,,2,15,196.44,0,Telefono,Tarjeta,2,244.12,Promocion,Sede 3,Miraflores,Centro,Plan familiar,Familiar,196.44,Jose Vargas,Ate,Regular,2025/08/04
+317,2026-05-23,5,1,S/ 127.31,0,,Tarjeta,4,140.25,Promocion,Sede 6,Surco,Este,Cross training,Especial,127.31,Diana Cruz,San Juan de Lurigancho,Regular,2025-02-25
+318,2026-04-11,2,24,55.86,0,Web,Tarjeta,1,,Cliente frecuente,Sede 7,Ventanilla,,Plan estudiante,,55.86,Carlos Vargas,Surco,Regular,2025-10-25
+319,2026-01-23,2,19,98.26,20,WEB,TaRjEtA,1,159.04,Revisar,Sede 7,Ventanilla,,FuNcIoNaL,Especial,98.26,Jorge Rojas,CALLAO,Regular,2025-07-03
+320,2026-06-06,2,16,137.44,0,WhatsApp,Plin,4,172.69,,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Carlos Vargas,Los Olivos,Regular,02-09-2025
+321,2026-04-20,7,6,71.82,5,Telefono,Yape,4,129.48 aprox,OK,Sede 4,Comas,Oeste,Plan basico,Mensual,71.82,Valeria Torres,,Nuevo,2025-05-20
+322,2026-02-01,8,1,71.82,0,App,Transferencia,3,86.02,Cliente frecuente,Sede 3,Miraflores,Centro,Plan basico,Mensual,71.82,Lucia Castillo,Ate,Frecuente,2025-08-17
+323, 2026-01-11 ,1,11 aprox,88.04,0,Telefono,Transferencia,4,138.99,Cliente frecuente,Sede 3,Miraflores,Centro,Yoga,Especial,88.04,Fiorella Ramos,Los Olivos,Corporativo,2025-10-02
+324,2026-06-24,5,28,117.96,5,WhatsApp,Transferencia,2,212.36,OK,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Diana Cruz,San Juan de Lurigancho,Regular,2025-02-25
+325,,7,16,127.31 aprox,0,PRESENCIAL,Yape,3,203.94,Revisar,Sede 1,Ate,Este,Cross training,Especial,127.31,Sofia Huaman,La Molina,Regular,2025-01-27
+326,2026-01-17,6, 26 ,71.82,8,App,Yape,5,152.09,OK,Sede 6,Surco,Este,Plan basico,Mensual,71.82,Andre Torres,Ventanilla,Corporativo,2025-11-11
+327,2026-04-07,2,16,55.86,5,WhatsApp,TARJETA,5,147.36,  Revisar ,Sede 6,Surco,Este,Plan estudiante,,55.86,,Chorrillos,Regular,2025-02-08
+328,2026-01-02,4,16,117.96,12,APP,Transferencia,1,185.72,,Sede 5,Villa El Salvador,Centro,,MeNsUaL,117.96,Ana Ramos,La Molina,Frecuente,2025-07-23
+329,2026-03-02,2,2,137.44,0,App,Transferencia,5,150.17,Cliente frecuente,Sede 7,Ventanilla,,Plan premium,Mensual,137.44,Valeria Flores,LOS OLIVOS,Frecuente,2025-03-28
+330,2026-05-01,,26,196.44,8,,Yape,2,S/ 260.96,Revisar,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Andre Salazar,San Juan de Lurigancho,Corporativo,2025-01-06
+331,2026-06-25,3,26,117.96,12,Presencial,Plin,1,202.48,,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Lucia Paredes,La Molina,Regular,2025-10-25
+332,2026-01-04,8,5,127.31,0,Telefono,Tarjeta,2,174.56,Promocion,Sede 5,Villa El Salvador,Centro,Cross training,Especial,127.31,Marco Flores,Chorrillos,Regular,2025-10-01
+333,2026-06-28,1,17,210.83,12,Presencial,  Plin ,3, 255.81 ,OK,Sede 3,Miraflores,Centro,Personalizado,Premium,210.83,Lucia Paredes,AtE,ReGuLaR, 2025-08-01 
+334,2026-06-08,5,10,137.44,0,Telefono,Plin,1,170.62,OK,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,FiOrElLa cAmPoS,Lima,Nuevo,2025-08-23
+335,27/02/2026,2,26,S/ 71.82,10,,Tarjeta, 2 ,147.43,,Sede 5,Villa El Salvador,Centro,Plan basico,Mensual,71.82,Victor Quispe,Miraflores,Premium,2025-04-25
+336,,5,4, 55.86 ,0,Web,PlIn,4,110.64,,Sede 2,Callao,Oeste,Plan estudiante,,55.86,  Miguel Sayan ,San Juan de Lurigancho,Corporativo,2025-02-23
+337,2026-01-10,5 aprox,22,"55,86",5,WhatsApp,Efectivo,,"141,85",OK,Sede 3,Miraflores,Centro,Plan estudiante,,55.86,Andre Salazar,San Juan de Lurigancho,Corporativo,2025-01-06
+338,2026-01-14,1,6,98.26,0,Telefono,Plin,3, 139.36 ,Revisar,Sede 7,Ventanilla,,FuNcIoNaL,Especial,98.26,Andre Torres,Ventanilla,Corporativo,2025-11-11
+339,2026-05-04, 1 ,13,98.26,10,App,Yape,1,161.25,OK,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,  Miguel Sayan ,San Juan de Lurigancho,Corporativo,2025-02-23
+340,19/04/2026,7,18,127.31,0,Telefono,Efectivo,2,198.47,,Sede 6,Surco,Este,Cross training,Especial,127.31,Ana Torres,,Regular,2025-10-09
+341,2026-05-21,1,20,88.04, 15 ,App,YAPE,2,157.34,OK,Sede 5,Villa El Salvador,Centro,Yoga,Especial,88.04,,Los Olivos,Corporativo,2025-06-19
+342,2026-05-09,8,23,71.82,8,ApP,Tarjeta,2,187.04,Promocion,Sede 1,Ate,Este,Plan basico,Mensual,71.82,Ana Huaman,Miraflores,Nuevo,2025-12-28
+343,2026-01-15,8,24,127.31,0,Telefono,,3,202.67,Cliente frecuente,Sede 1,Ate,Este,Cross training,Especial,127.31,Miguel Paredes,Miraflores,Frecuente,2025-12-13
+344,2026-04-25,5,22,196.44,12,App,Efectivo,5,891.05,OK,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Marco Flores,Miraflores,Frecuente,05/02/2025
+345,2026-05-22,3,4,117.96,10,App,Tarjeta,2,147.0,OK,Sede 1,Ate,Este,,MeNsUaL,117.96,Raul Paredes,San Juan de Lurigancho,Corporativo,2025-10-15
+346,2026-06-25,2,24,137.44,5,Telefono,Tarjeta,5,179.06,Promocion,Sede 3,Miraflores,Centro,Plan premium,Mensual,137.44,JoRgE QuIsPe,LiMa,Frecuente,2025-11-03
+347,2026-03-02,7,13,137.44,0,WhatsApp,Transferencia,5,557.63,,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Fiorella Vargas,Lima,nuevo,2025-01-14
+348,2026-06-07,8,7,71.82,5,App,Transferencia,5,106.89 aprox,OK,Sede 1,Ate,Este,Plan basico,Mensual,71.82,Lucia Soto,Villa El Salvador,Frecuente,2025-12-01
+349,2026-01-01,1,14,137.44,15,Telefono,Yape,3,S/ 161.36,Revisar,Sede 1,Ate,Este,Plan premium,Mensual,137.44,Diego Mendoza,San Juan de Lurigancho,Premium,2025-11-03
+350,2026-05-04,8,3,,20,Presencial,PlIn,2,S/ 223.51,Cliente frecuente,Sede 4,Comas,Oeste,Plan familiar,Familiar,196.44,Ana Torres,,Regular,2025-10-09
+351,2026/01/10,1,12,137.44,15,Presencial,Plin,4,168.58,Revisar,Sede 1,Ate,Este,Plan premium,Mensual,137.44,Miguel Cruz,Callao,Corporativo,2025-03-13
+352,2026-05-24,5,28,117.96,8,Web,Tarjeta,2,206.03,Cliente frecuente,Sede 6,Surco,Este,,MeNsUaL,117.96,Lucia Paredes,AtE,ReGuLaR, 2025-08-01 
+353,2026-06-14,6,6,137.44,15,Presencial,TrAnSfErEnCiA,1,152.56,PrOmOcIoN,Sede 1,Ate,Este,Plan premium,Mensual,137.44,  Miguel Sayan ,San Juan de Lurigancho,Corporativo,2025-02-23
+354,2026-01-21,6,5,98.26,8,WhatsApp,Yape,1,143.73,,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,Lucia Castillo,Ate,Frecuente,2025-08-17
+355,2026-05-27,4,13,210.83,0,Web,Efectivo,5,253.71,revisar,Sede 3,Miraflores,Centro,Personalizado,Premium,210.83,Carlos Vargas,Surco,Regular,2025-10-25
+356,2026-02-07,3,20,98.26,,Telefono,Plin,3,158.71,Promocion,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,Rocio Salazar,Miraflores,Frecuente,2025-02-25
+357,2026-03-17,1,1,55.86,12,Web,Tarjeta,5,76.96,,Sede 3,Miraflores,Centro,Plan estudiante,,55.86,  Miguel Sayan ,San Juan de Lurigancho,Corporativo,2025-02-23
+358,2026-03-13,7,10,55.86,12,,Efectivo,5,118.17,Cliente frecuente,Sede 3,Miraflores,Centro,Plan estudiante,,55.86,Lucia Gomez,Callao,Corporativo,2025-04-01
+359,2026-05-07,7,20,98.26,10,WhatsApp,Efectivo,5,178.82,,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,Diana Cruz,Los Olivos,Premium,2025-03-17
+360,2026-04-21,7,7,88.04,8,WhatsApp,Plin,1,136.33 aprox,Promocion,Sede 3,Miraflores,Centro,Yoga,Especial,88.04,Jorge Castillo,Comas,Nuevo,2025-06-17
+361,2026-04-03,6,2,196.44, 8 ,WhatsApp,Tarjeta,2,226.78,Revisar,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Fiorella Vargas,Lima,nuevo,2025-01-14
+362,2026-02-01,8,1,71.82,0,App,Transferencia,3,86.02,Cliente frecuente,Sede 3,Miraflores,Centro,Plan basico,Mensual,71.82,Lucia Castillo,Ate,Frecuente,2025-08-17
+363,2026-01-26,7,17,117.96,8,Telefono,plin,2,"186,12",OK,Sede 1,Ate,Este,,MeNsUaL,117.96,Carlos Vargas,Surco,Regular,2025-10-25
+364,2026-01-26,6,5,"127,31",20,App,Transferencia,3,140.43 aprox,Promocion,Sede 5,Villa El Salvador,Centro,Cross training,Especial,127.31,Carlos Paredes,Los Olivos,Regular,18-04-2025
+365,2026-06-04,7,21,55.86,20,Presencial,Plin,1,166.5,,Sede 3,Miraflores,Centro,Plan estudiante,,55.86,Valeria Sayan,Ate,Regular,2025-05-01
+366,2026-02-13,8,25,71.82,0,  App ,TRANSFERENCIA,2,181.01,Cliente frecuente,Sede 3,Miraflores,Centro,Plan basico,Mensual,71.82,Marco Cruz,Lima,Regular,2025-05-24
+367,2026-02-01,5,15,117.96,10,Telefono,Tarjeta,3,176.69,Promocion,Sede 3,Miraflores,Centro,,MeNsUaL,117.96,JoRgE QuIsPe,LiMa,Frecuente,2025-11-03
+368,2026/03/13,5,10,88.04,8,Presencial,Plin,3,145.57,,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Camila Salazar,San Miguel,Nuevo,2025-02-16
+369,2026-02-08,3,7,71.82,15,Presencial,Yape,2,115.33,OK,Sede 7,Ventanilla,,Plan basico,Mensual,71.82,Camila Salazar,San Miguel,Nuevo,2025-02-16
+370,2026/02/04,3,19,"127,31",5,Web,Transferencia,3,199.52,Promocion,Sede 4,Comas,Oeste,Cross training,Especial,127.31,Diana Cruz,La Molina,Premium,21-07-2025
+371,2026-05-18,8,25,71.82,20,  Telefono ,Transferencia,2,136.74,Promocion,Sede 7,Ventanilla,,Plan basico,Mensual,71.82,FiOrElLa cAmPoS,Lima,Nuevo,2025-08-23
+372,2026-06-03,7 aprox,22,71.82,12 aprox,App,Transferencia,1,157.68,Revisar,Sede 1,Ate,Este,Plan basico,Mensual,71.82,Valeria Soto,INDEPENDENCIA,Premium,2025-11-25
+373,2026-02-21,1,5,"210,83",0,WhatsApp,Plin, 2 ,227.02,Promocion,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Carlos Paredes,Los Olivos,Regular,18-04-2025
+374,2026-03-23,3,23,71.82,10,WhatsApp,Plin,3,150.14,Promocion,Sede 4,Comas,Oeste,Plan basico,Mensual,71.82,Lucia Paredes,AtE,ReGuLaR, 2025-08-01 
+375,,8,21,210.83 aprox,10,Telefono,Efectivo,5,273.7,Promocion,Sede 7,Ventanilla,,Personalizado,Premium,210.83,Jorge Flores,independencia,Regular,2025-08-12
+376,2026-01-08,5,26,137.44,12,Telefono,Tarjeta,1,214.07,ok,Sede 6,Surco,Este,Plan premium,Mensual,137.44,RaUl cAsTiLlO,Independencia,  Premium ,2025-08-17
+377,2026-03-17,3,21,127.31,0,WhatsApp,Tarjeta,5,192.33,Revisar,Sede 6,Surco,Este,Cross training,Especial,127.31,Carlos Soto,  Independencia ,Frecuente,2025-12-23
+378,2026-05-09,3,2 aprox,137.44,15,Telefono,Efectivo,3,142.16,,Sede 4,Comas,Oeste,Plan premium,Mensual,137.44,Marco Huaman,Lima,Premium,2025-08-28
+379,2026-01-08,3,10,117.96,10,WhatsApp,Yape,2 aprox,171.24,  Promocion ,Sede 6,Surco,Este,,MeNsUaL,117.96,Marco Huaman,Lima,Premium,2025-08-28
+380,,3,19,127.31,12,Presencial,efectivo,2,182.19,Revisar,Sede 2,Callao,Oeste,Cross training,Especial,127.31,Diego Quispe,Ventanilla,corporativo,2025-01-07
+381,2026-06-09,6,38.58, 117.96 , 20 ,telefono,Transferencia,2,209.57,,Sede 1,Ate,Este,,MeNsUaL,117.96,Lucia Soto,Villa El Salvador,Frecuente,2025-12-01
+382,2026-02-21,1,14,137.44,5,Web,Plin,2,179.49,,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Miguel Paredes,Miraflores,Frecuente,2025-12-13
+383,2026-05-22,1,16,210.83,10,WEB,Yape,4,252.51,,Sede 7,Ventanilla,,Personalizado,Premium,210.83,Carlos Vargas,Surco,Regular,2025-10-25
+384,2026-03-23,2,28,117.96,15,Presencial,Yape,4,188.72,,Sede 1,Ate,Este,,MeNsUaL,117.96,Diana Vargas,VILLA EL SALVADOR,PREMIUM,2025-12-08
+385,01-03-2026,7,20,210.83 aprox,,App,Efectivo,4,256.95 aprox,Revisar,Sede 2,Callao,Oeste,Personalizado,Premium,210.83,Rocio Salazar,Miraflores,Frecuente,2025-02-25
+386,2026-03-05,8,24,98.26,15,Telefono,Plin,1,183.88,OK,Sede 4,Comas,Oeste,FuNcIoNaL,Especial,98.26,Diego Castillo,miraflores,Frecuente,2025-07-22
+387,2026-01-28,1,15,S/ 117.96,10,Web,Yape, 2 ,168.46,Promocion,Sede 5,Villa El Salvador,Centro,,MeNsUaL,117.96,Maria Cruz,ate,Frecuente,2025-05-12
+388,2026/01/16,2,7,88.04,20,Web,Tarjeta,1,100.84,Promocion,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Raul Paredes,San Juan de Lurigancho,Corporativo,2025-10-15
+389,2026-02-18,5,13,98.26,10,whatsapp,Plin,2,149.95,Promocion,Sede 7,Ventanilla,,FuNcIoNaL,Especial,98.26,Carlos Soto,  Independencia ,Frecuente,2025-12-23
+390,2026-05-24,6, 2 ,117.96,5,Web,Yape,4,141.3,Cliente frecuente,Sede 3,Miraflores,Centro,,MeNsUaL,117.96,Jose Paredes,La Molina,Frecuente,2025-05-07
+391,2026-04-26,5,21,117.96,0,ApP,Tarjeta,2,194.99,Revisar,Sede 3,Miraflores,Centro,,MeNsUaL,117.96,Diego Quispe,Ventanilla,corporativo,2025-01-07
+392,2026-02-03,2,6,196.44,5,Web,Transferencia,5,182.79,,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Carlos Soto,  Independencia ,Frecuente,2025-12-23
+393,2026-06-28,3,27,210.83,10,App,Tarjeta,5,266.63,,Sede 1,Ate,Este,Personalizado,Premium,210.83,Camila Navarro,Miraflores,Frecuente,2025-09-14
+394,2026-05-13,7,22,137.44,12,App,tarjeta,4,223.84,   ,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Valeria Huaman,Villa  El  Salvador,Corporativo,2025-07-06
+395,2026-03-28,4,15,98.26,5,Presencial,Transferencia, 4 ,137.63,OK,Sede 2,Callao,Oeste,FuNcIoNaL,Especial,98.26,Diego Mendoza,San Juan de Lurigancho,Premium,2025-11-03
+396,2026-02-24,2,5,196.44,10,Presencial,Tarjeta,5,202.94,Cliente frecuente,Sede 2,Callao,Oeste,Plan familiar,Familiar,196.44,Diana Cruz,La Molina,Premium,21-07-2025
+397,2026-02-18,2,8,137.44,5,App,Efectivo,5,160.85,Promocion,Sede 5,Villa El Salvador,Centro,Plan premium,Mensual,137.44,Victor Campos,Ventanilla,Premium,2025-05-02
+398,2026-01-20,2,5,S/ 196.44,12,presencial,Transferencia,4,201.45,Cliente frecuente,Sede 7,Ventanilla,,Plan familiar,Familiar,196.44,Marco Huaman,Lima,Premium,2025-08-28
+399,2026-04-14,4,20,117.96,0,Web,Efectivo,5,169.32,,Sede 6,Surco,Este,,MeNsUaL,117.96,Ana Flores,  San Juan de Lurigancho ,Frecuente,2025-09-03
+400,2026-01-11,1,22 aprox, 88.04 ,15,Presencial,TRANSFERENCIA,5,133.14,Cliente frecuente,Sede 2,Callao,Oeste,Yoga,Especial,88.04,Fiorella Campos,Los Olivos,Nuevo,2025-06-13
+401,2026-01-02,2,1,55.86,20,WhatsApp,Yape,5, 84.53 ,Promocion,Sede 1,Ate,Este,Plan estudiante,,55.86,JoRgE QuIsPe,LiMa,Frecuente,2025-11-03
+402,2026-05-12,1,1, 137.44 ,20,Presencial,Transferencia,5,149.43,,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Valeria Huaman,Villa  El  Salvador,Corporativo,2025-07-06
+403,2026-04-08,3,19,137.44,0,Telefono,Yape,2,176.74,Revisar,Sede 5,Villa El Salvador,Centro,Plan premium,Mensual,137.44,Marco Cruz,Lima,Regular,2025-05-24
+404,2026-02-16,5,,137.44,12,Presencial,Plin,1,196.78 aprox,promocion,Sede 1,Ate,Este,Plan premium,Mensual,137.44,Jorge Castillo,Comas,Nuevo,2025-06-17
+405,2026-04-17,6,24,127.31,15,Telefono,  Plin ,5 aprox,178.64,Promocion,Sede 4,Comas,Oeste,Cross training,Especial,127.31,Sofia Salazar,Ate,Nuevo, 2025-04-06 
+406,2026-01-15,2,12,117.96 aprox,0,Presencial,Efectivo,3,179.26,,Sede 7,Ventanilla,,,MeNsUaL,117.96,Diego Castillo,miraflores,Frecuente,2025-07-22
+407,2026-02-21,7,24,98.26,10,Telefono,Yape,2,171.18,OK,Sede 2,Callao,Oeste,FuNcIoNaL,Especial,98.26,fiorella castillo,LA MOLINA,ReGuLaR,26/10/2025
+408,2026-02-22,7,23,88.04,,App,Tarjeta,2,177.07,Promocion,Sede 7,Ventanilla,,Yoga,Especial,88.04,Elena Salazar,Surco,  Nuevo ,2025-08-16
+409,2026-06-23,4,13,127.31,8,Telefono,Transferencia,2,205.15,Promocion,Sede 5,Villa El Salvador,Centro,Cross training,Especial,127.31,Marco Flores,Chorrillos,Regular,2025-10-01
+410,2026-05-04,5,6,117.96,0,Web,Yape,5,161.96,Revisar,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Jorge Rojas,CALLAO,Regular,2025-07-03
+411,03/06/2026,1,15,88.04,10,Telefono,  Transferencia ,4,135.54,OK,Sede 7,Ventanilla,,Yoga,Especial,88.04,Carlos Vargas,Surco,Regular,2025-10-25
+412,2026-01-26,1,22,196.44,12,Presencial,Yape,2, 221.63 ,OK,Sede 4,Comas,Oeste,Plan familiar,Familiar,196.44,Carlos Rojas,CHORRILLOS,Regular,2025-10-08
+413,2026-04-23,6, 18 ,210.83,20,Telefono,TARJETA,5,272.81,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Carlos Soto,  Independencia ,Frecuente,2025-12-23
+414,2026-01-20,6,16,117.96,12,Presencial,tarjeta,,195.29 aprox,Promocion,Sede 5,Villa El Salvador,Centro,,MeNsUaL,117.96,Valeria Soto,INDEPENDENCIA,Premium,2025-11-25
+415,2026-03-16,5,11,S/ 55.86,8,Telefono,Efectivo,4,114.5,Cliente frecuente,Sede 2,Callao,Oeste,Plan estudiante,,55.86,Marco Flores,Chorrillos,Regular,2025-10-01
+416,2026-06-28,4,10,196.44 aprox,0,App,Plin,2,635.96,,Sede 3,Miraflores,Centro,Plan familiar,Familiar,196.44,Maria Cruz,Chorrillos,Premium,2025-10-28
+417,2026-05-16,6,17, 98.26 ,15,Web,Plin,2, 151.9 ,,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,,Los Olivos,Corporativo,2025-06-19
+418,2026-06-11,8 aprox,24,98.26,15,Web,Plin,1,172.63,,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,Valeria Huaman,Villa  El  Salvador,Corporativo,2025-07-06
+419,2026-03-16,8,24,98.26,8,App,Efectivo,1,183.64,Cliente frecuente,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,,,Premium,2025-08-18
+420,2026-03-23,2,15,117.96,0,App,  Efectivo ,5,"172,82",   ,Sede 5,Villa El Salvador,Centro,,MeNsUaL,117.96,Miguel Paredes,Miraflores,Frecuente,2025-12-13
+421,2026-06-24,8,8,210.83,5,WhatsApp,Yape,1,232.8,Promocion,Sede 3,Miraflores,Centro,Personalizado,Premium,210.83,Diego Mendoza,San Juan de Lurigancho,Premium,2025-11-03
+422,2026-05-28,2,11,98.26,0,,Yape,5,"113,05",Cliente frecuente,Sede 5,Villa El Salvador,Centro,FuNcIoNaL,Especial,98.26,Elena Rojas,Villa El Salvador,Regular,2025-07-22
+423,2026-05-11,8,14,98.26,12,WhatsApp,,4,,Revisar,Sede 6,Surco,Este,FuNcIoNaL,Especial,98.26,Carlos Paredes,Los Olivos,Regular,18-04-2025
+424,2026-02-01,5,8,117.96,20,WhatsApp,Transferencia,2,152.68,Revisar,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Carlos Paredes,Los Olivos,Regular,18-04-2025
+425,2026-05-21,8,22,98.26,5,,Transferencia,5,176.43,Revisar,Sede 5,Villa El Salvador,Centro,FuNcIoNaL,Especial,98.26,Diego Mendoza,San Juan de Lurigancho,Premium,2025-11-03
+426,2026-04-21,2 aprox, 3 ,98.26,0,Web,Efectivo,4,131.64,,Sede 2,Callao,Oeste,FuNcIoNaL,Especial,98.26,Camila Flores,lima,Corporativo,2025-03-22
+427,2026-05-14,2,14,210.83,20,Telefono,Transferencia,1,227.94,Promocion,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Valeria Soto,INDEPENDENCIA,Premium,2025-11-25
+428,2026-05-28,1,11,71.82,15,Telefono,Plin,1,110.32,Promocion,Sede 7,Ventanilla,,Plan basico,Mensual,71.82,Camila Vargas,Ate,nuevo,
+429,2026-05-22,1,22,S/ 210.83,12,web,Tarjeta,2,258.78,Revisar,Sede 4,Comas,Oeste,Personalizado,Premium,210.83,Lucia Gomez,Callao,Corporativo,2025-04-01
+430, 2026-02-24 ,1 aprox,19,137.44,10,Presencial,Plin,3,179.4,Promocion,Sede 3,Miraflores,Centro,Plan premium,Mensual,137.44,Jorge Castillo,Comas,Nuevo,2025-06-17
+431,2026-02-08,4,8,137.44,0,App,Plin,4,165.74,OK,Sede 4,Comas,Oeste,Plan premium,Mensual,137.44,Carlos Soto,  Independencia ,Frecuente,2025-12-23
+432, 2026-04-16 ,8,8,S/ 88.04,0,  Presencial ,  Tarjeta ,4,,Revisar,Sede 6,Surco,Este,Yoga,Especial,88.04,Luis Torres,Ventanilla,Nuevo, 2025-06-03 
+433,2026-04-28,1,23,196.44,0,WhatsApp,,5,236.17,cliente frecuente,Sede 4,Comas,Oeste,Plan familiar,Familiar,196.44,Rocio Salazar,Miraflores,Frecuente,2025-02-25
+434,2026-06-26,7,16,127.31,10,WhatsApp,Transferencia,3,198.16,CLIENTE FRECUENTE,Sede 5,Villa El Salvador,Centro,Cross training,Especial,127.31,Lucia Rojas,Surco,Frecuente,2025-09-17
+435,2026-06-20,2,27,"210,83",5,Telefono,Plin,4,272.45,Cliente frecuente,Sede 3,Miraflores,Centro,Personalizado,Premium,210.83,Carlos Vargas,Surco,Regular,2025-10-25
+436,2026-01-22,3,27,137.44,15,app,Transferencia,3,"199,46",Revisar,Sede 7,Ventanilla,,Plan premium,Mensual,137.44,RaUl cAsTiLlO,Independencia,  Premium ,2025-08-17
+437,2026-06-05,7,14,55.86,0,WhatsApp,Efectivo,3,120.21,PrOmOcIoN,Sede 2,Callao,Oeste,Plan estudiante,,55.86,Diego Quispe,Ventanilla,corporativo,2025-01-07
+438,2026-01-02,6,19,127.31,15 aprox,Web,,3,184.03,,Sede 1,Ate,Este,Cross training,Especial,127.31,Victor Campos,Ventanilla,Premium,2025-05-02
+439,2026-02-06,8,65.02,137.44,0,TELEFONO,TrAnSfErEnCiA,4,318.33,Cliente frecuente,Sede 4,Comas,Oeste,Plan premium,Mensual,137.44,Jose Paredes,La Molina,Frecuente,2025-05-07
+440,2026-04-09,6,, 127.31 ,0,App,TARJETA,5,204.6,Promocion,Sede 7,Ventanilla,,Cross training,Especial,127.31,Sofia Salazar,Ate,Nuevo, 2025-04-06 
+441,2026-01-01,3,11,,0,,Yape,4,133.32,OK,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,Lucia Navarro,Miraflores,Regular,2025-07-10
+442,2026/05/08,6,24,"98,26",12 aprox,Web,Transferencia, 1 ,179.13,Cliente frecuente,Sede 2,Callao,Oeste,FuNcIoNaL,Especial,98.26,Raul Flores,  San Juan de Lurigancho ,Corporativo,2025-06-20
+443,2026-04-16,5,25,88.04,0,APP,Transferencia,3,185.03,,Sede 7,Ventanilla,,Yoga,Especial,88.04,Lucia Paredes,La Molina,Regular,2025-10-25
+444,2026-01-27,2,3,S/ 88.04,5,Web,Tarjeta,5,105.25,,Sede 6,Surco,Este,Yoga,Especial,88.04,Marco Cruz,Lima,Regular,2025-05-24
+445,2026-01-23,7,21,210.83,0,Telefono,Tarjeta,5,247.67,Promocion,Sede 6,Surco,Este,Personalizado,Premium,210.83,Fiorella Ramos,Los Olivos,Corporativo,2025-10-02
+446,14-06-2026,1,3,127.31,0,Presencial,Transferencia,5,150.22,cliente frecuente,Sede 6,Surco,Este,Cross training,Especial,127.31,FiOrElLa cAmPoS,Lima,Nuevo,2025-08-23
+447,2026-03-19,3,13,88.04,12,Telefono,Plin,2,145.92,Promocion,Sede 7,Ventanilla,,Yoga,Especial,88.04,Maria Cruz,Chorrillos,Premium,2025-10-28
+448,2026-06-06,6,21,,8,,Tarjeta,1,183.79,OK,Sede 5,Villa El Salvador,Centro,Cross training,Especial,127.31,Andre Torres,villa el salvador,REGULAR,2025-11-16
+449,2026-04-17,7,37.9,98.26,10,App,Transferencia,4,760.53,Promocion,Sede 4,Comas,Oeste,FuNcIoNaL,Especial,98.26,Diego Mendoza,San Juan de Lurigancho,Premium,2025-11-03
+450,2026-06-28,7,14,55.86,10,WhatsApp,Yape,3,S/ 129.92,Cliente frecuente,Sede 6,Surco,Este,Plan estudiante,,55.86,Carlos Vargas,Surco,Regular,2025-10-25
+451,2026-05-03,7,24,210.83,10,Web,Efectivo,3,275.33,Cliente frecuente,Sede 6,Surco,Este,Personalizado,Premium,210.83,Andre Torres,Ventanilla,Corporativo,2025-11-11
+452,2026-02-16,2,16,196.44,8,Presencial,Yape,2,254.47,Revisar,Sede 4,Comas,Oeste,Plan familiar,Familiar,196.44,Carlos Rojas,CHORRILLOS,Regular,2025-10-08
+453,2026-05-23,2,28,"127,31",0,,PLIN,4,"191,62",Revisar,Sede 3,Miraflores,Centro,Cross training,Especial,127.31,Raul Paredes,San Juan de Lurigancho,Corporativo,2025-10-15
+454,,5 aprox,12,117.96, 20 ,Telefono,Plin,1,"170,03",Revisar,Sede 6,Surco,Este,,MeNsUaL,117.96,Valeria Soto,INDEPENDENCIA,Premium,2025-11-25
+455,,5,2,98.26,0,WhatsApp,Tarjeta,3,138.24,OK,Sede 7,Ventanilla,,FuNcIoNaL,Especial,98.26,Raul Flores,  San Juan de Lurigancho ,Corporativo,2025-06-20
+456,01-04-2026,8, 10 ,,0,WhatsApp,Transferencia,,155.57,Cliente frecuente,Sede 1,Ate,Este,,MeNsUaL,117.96,Lucia Castillo,Ate,Frecuente,2025-08-17
+457,2026-01-19,8,9,S/ 98.26,0,Telefono,Transferencia,4,128.75,OK,Sede 7,Ventanilla,,FuNcIoNaL,Especial,98.26,Ana Sayan,Independencia,Frecuente,2025-05-01
+458,2026-03-20,7,2,98.26,5,,Efectivo,,154.86,OK,Sede 4,Comas,Oeste,FuNcIoNaL,Especial,98.26,Carlos Soto,Lima,Regular,2025-12-20
+459,2026-03-02,1,6,137.44,0,App,Yape,5,153.51,OK,Sede 2,Callao,Oeste,Plan premium,Mensual,137.44,Luis Castillo,Callao,Nuevo,02/05/2025
+460,17/04/2026,1,2,137.44,15,WhAtSaPp,plin,5,171.51,OK,Sede 7,Ventanilla,,Plan premium,Mensual,137.44,Marco Cruz,Lima,Regular,2025-05-24
+461,2026-01-26, 4 ,11,196.44,20,Web,Plin,1,242.81,Promocion,Sede 3,Miraflores,Centro,Plan familiar,Familiar,196.44,Lucia Paredes,La Molina,Regular,2025-10-25
+462,2026-06-06,6,26,S/ 196.44,0,PrEsEnCiAl,Tarjeta,5,283.96,OK,Sede 5,Villa El Salvador,Centro,Plan familiar,Familiar,196.44,Miguel Salazar,AtE,Regular,2025-09-16
+463, 2026-06-20 ,5, 1 ,88.04,,Telefono,Tarjeta,4,120.07,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Yoga,Especial,88.04,Jose Reyes,Villa El Salvador,Corporativo,2025-03-15
+464,2026-03-02,7 aprox,4 aprox,137.44,5,TELEFONO,tarjeta,4,185.71,Revisar,Sede 6,Surco,Este,Plan premium,Mensual,137.44,Jorge Flores,independencia,Regular,2025-08-12
+465,2026-01-01,1,19,55.86,0,Web,Plin,5,"136,85",,Sede 1,Ate,Este,Plan estudiante,,55.86,Andre Torres,villa el salvador,REGULAR,2025-11-16
+466,2026-02-09,7,20 aprox,"210,83",,Web,Yape,4,275.15,Promocion,Sede 7,Ventanilla,,Personalizado,Premium,210.83,Maria Cruz,ate,Frecuente,2025-05-12
+467,2026-05-14,7,1, 88.04 ,20,Presencial,Plin,5,121.61,Promocion,Sede 5,Villa El Salvador,Centro,Yoga,Especial,88.04,Jorge Flores,independencia,Regular,2025-08-12
+468,2026-02-15,2,16,71.82,10 aprox,Web,Efectivo,5,,Revisar,Sede 7,Ventanilla,,Plan basico,Mensual,71.82,Camila Vargas,Ate,nuevo,
+469,2026-04-04,6,12,88.04,0,ApP,Transferencia,2,142.12,Cliente frecuente,Sede 4,Comas,Oeste,Yoga,Especial,88.04,fiorella castillo,LA MOLINA,ReGuLaR,26/10/2025
+470,2026-05-23,8,2, 127.31 ,0,App,Efectivo,1,173.5,,Sede 7,Ventanilla,,Cross training,Especial,127.31,Camila Salazar,San Miguel,Nuevo,2025-02-16
+471,2026-05-24,4,6,196.44, 8 ,Web,Efectivo,1,210.8,Revisar,Sede 1,Ate,Este,Plan familiar,Familiar,196.44,Jorge Castillo,Comas,Nuevo,2025-06-17
+472,2026-04-14,1,6,71.82,0,Web,Plin,2,90.43,  OK ,Sede 3,Miraflores,Centro,Plan basico,Mensual,71.82,Luis Torres,Ventanilla,Nuevo, 2025-06-03 
+473,2026-04-03,3,23,88.04,0,Web,Yape,4,128.21,,Sede 5,Villa El Salvador,Centro,Yoga,Especial,88.04,JoRgE QuIsPe,LiMa,Frecuente,2025-11-03
+474,2026-06-04,,26,137.44,15,  App ,Yape,1,226.17,OK,Sede 1,Ate,Este,Plan premium,Mensual,137.44,Fiorella Vargas,Lima,nuevo,2025-01-14
+475,2026-03-05,6,4,117.96,15,Web,Efectivo,2,137.77,Cliente frecuente,Sede 2,Callao,Oeste,,MeNsUaL,117.96,Diego Castillo,Ventanilla,Frecuente,2025-05-09
+476,2026-04-12,6,26,117.96,20,Web,  Transferencia ,1,187.42,Promocion,Sede 3,Miraflores,Centro,,MeNsUaL,117.96,Valeria Soto,INDEPENDENCIA,Premium,2025-11-25
+477,2026-06-20,2,9,137.44,0,Presencial,Yape,1,179.75,Cliente frecuente,Sede 7,Ventanilla,,Plan premium,Mensual,137.44,Ana Flores,  San Juan de Lurigancho ,Frecuente,2025-09-03
+478,2026-02-24,6,15,55.86,10 aprox,App,Yape,1,117.55,OK,Sede 6,Surco,Este,Plan estudiante,,55.86,Valeria Torres,,Nuevo,2025-05-20
+479,2026-02-04,2,9,117.96,10,Presencial,PlIn,4,155.46,Promocion,Sede 5,Villa El Salvador,Centro,,MeNsUaL,117.96,Carlos Paredes,Los Olivos,Regular,18-04-2025
+480,15-01-2026,7,26,88.04,0,Telefono,Tarjeta,2,158.69,,Sede 4,Comas,Oeste,Yoga,Especial,88.04,Valeria Torres,,Nuevo,2025-05-20
+481,2026-03-01,6,12,210.83,5,App,Efectivo,1,253.62,OK,Sede 4,Comas,Oeste,Personalizado,Premium,210.83,Fiorella Campos,Los Olivos,Nuevo,2025-06-13
+482,2026-05-09, 7 ,17 aprox,210.83,0,Telefono,Efectivo,1,231.45,OK,Sede 7,Ventanilla,,Personalizado,Premium,210.83,Andre Salazar,San Juan de Lurigancho,Corporativo,2025-01-06
+483,2026-06-20,2,15,137.44,12,App,EfEcTiVo,2,"167,64",,Sede 7,Ventanilla,,Plan premium,Mensual,137.44,Marco Flores,Miraflores,Frecuente,05/02/2025
+484,2026-02-25,3,7,"196,44",12,App,Efectivo,1,203.45,Revisar,Sede 7,Ventanilla,,Plan familiar,Familiar,196.44,Camila Vargas,Ate,nuevo,
+485,2026-04-10,1,24, 55.86 ,0,WhatsApp,Transferencia,4,126.83,,Sede 5,Villa El Salvador,Centro,Plan estudiante,,55.86,Victor Campos,Ventanilla,Premium,2025-05-02
+486,07/01/2026, 5 ,12 aprox,"196,44",0,WhatsApp,Efectivo,3,250.25,Promocion,Sede 4,Comas,Oeste,Plan familiar,Familiar,196.44,Andre Salazar,San Juan de Lurigancho,Corporativo,2025-01-06
+487,2026-06-23,3,8,137.44,5,App,Transferencia,3,161.56,Cliente frecuente,Sede 4,Comas,Oeste,Plan premium,Mensual,137.44,Ana Quispe,Ate,Regular,2025-06-20
+488,2026-03-03,4,3,127.31,12,WhatsApp,, 4 ,132.62,Revisar,Sede 6,Surco,Este,Cross training,Especial,127.31,Raul Paredes,San Juan de Lurigancho,Corporativo,2025-10-15
+489,2026-03-18,7,27,88.04,15,  App ,Transferencia,2,185.43,Cliente frecuente,Sede 6,Surco,Este,Yoga,Especial,88.04,Fiorella Vargas,Lima,nuevo,2025-01-14
+490,2026-02-10,4,6 aprox,137.44,15,WhatsApp,Tarjeta,2,154.49,Promocion,Sede 3,Miraflores,Centro,Plan premium,Mensual,137.44,Valeria Soto,INDEPENDENCIA,Premium,2025-11-25
+491,16/01/2026,8,13,55.86,20,Telefono,Transferencia,1, 115.93 ,   ,Sede 4,Comas,Oeste,Plan estudiante,,55.86,Elena Salazar,Surco,  Nuevo ,2025-08-16
+492,2026-04-02,8,,127.31,20,App,,2,144.12,Promocion,Sede 1,Ate,Este,Cross training,Especial,127.31,Diana Cruz,La Molina,Premium,21-07-2025
+493,2026-04-01,7,23 aprox,S/ 117.96,0,Telefono,,3,207.23,,Sede 6,Surco,Este,,MeNsUaL,117.96,Valeria Huaman,Villa  El  Salvador,Corporativo,2025-07-06
+494,2026-04-03,8,27,71.82,10,Presencial,Efectivo,2,158.29,Promocion,Sede 4,Comas,Oeste,Plan basico,Mensual,71.82,Ana Huaman,Miraflores,Nuevo,2025-12-28
+495,2026-05-26,3,19,88.04,0,telefono,Efectivo,2,157.77,Revisar,Sede 3,Miraflores,Centro,Yoga,Especial,88.04,Lucia Paredes,AtE,ReGuLaR, 2025-08-01 
+496,2026-01-17,1,6,98.26,0,Web,Plin,5,134.79,Revisar,Sede 1,Ate,Este,FuNcIoNaL,Especial,98.26,Ana Flores,  San Juan de Lurigancho ,Frecuente,2025-09-03
+497,2026-03-02,1,27,88.04,15,Presencial,Plin,1,158.73,Promocion,Sede 1,Ate,Este,Yoga,Especial,88.04,Jorge Cruz,Independencia,Frecuente,2025-06-06
+498,2026-03-27,4,17,210.83,5,WhatsApp,Plin,2,258.81,,Sede 5,Villa El Salvador,Centro,Personalizado,Premium,210.83,Valeria Sayan,Ate,Regular,2025-05-01
+499,2026-04-04,2,26,"55,86",15,WhatsApp,Tarjeta,3,153.43,Revisar,Sede 5,Villa El Salvador,Centro,Plan estudiante,,55.86,Valeria Flores,LOS OLIVOS,Frecuente,2025-03-28
+500,2026-06-06,,4,,20,WhatsApp,Yape,4,532.43,,Sede 3,Miraflores,Centro,Plan premium,Mensual,137.44,Raul Flores,  San Juan de Lurigancho ,Corporativo,2025-06-20

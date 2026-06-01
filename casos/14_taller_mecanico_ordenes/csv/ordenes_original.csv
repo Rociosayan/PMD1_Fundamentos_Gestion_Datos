@@ -1,0 +1,501 @@
+id_orden,fecha_operacion,cantidad_repuestos,horas_trabajo,tarifa_base,descuento_pct,canal,metodo_pago,calificacion,costo_reparacion,observacion,sedes_nombre,sedes_distrito,sedes_zona,servicios_nombre,servicios_categoria,servicios_tarifa_base,clientes_nombre,clientes_distrito,clientes_segmento,clientes_fecha_registro
+1,2026/06/05,2,6.96,111.57,15,Presencial,Yape,5,441.77,Revisar,Sede 5,Independencia,Este,Diagnostico scanner,Diagnostico,111.57,Victor Gomez,Lima,Regular,2025/05/07
+2,2026-06-10,8,11.12,143.51,0,WEB,Plin,4,,,Sede 5,Independencia,Este,Revision electrica,,143.51,,INDEPENDENCIA,Frecuente,2025-09-25
+3,2026-02-18,3,4.7,111.57,10,App,Transferencia,3,354.71,Promocion,Sede 3,,Oeste,Diagnostico scanner,Diagnostico,111.57,  Diana Rojas ,Lima,Nuevo,2025-03-12
+4,2026-04-22,5,4.62,482.37,0,Telefono,YaPe,1,629.9,,Sede 3,,Oeste,Embrague,Mecanica,482.37,  Carlos Paredes ,VeNtAnIlLa,Corporativo,2025-01-15
+5,24/01/2026,,5.82,77.01,0,App,Plin,3, 337.3 ,Cliente frecuente,SEDE 7,Chorrillos,Este,Alineamiento,Mantenimiento,77.01,Rocio Salazar,ATE,Frecuente,2025-01-05
+6, 2026-04-02 ,6,8.18,215.96,12,Telefono,Plin,2,612.64,,Sede 4,Ate,  Este ,Afinamiento,Motor,215.96,Maria Sayan,Villa El Salvador,,2025-12-04
+7,2026-04-04,8,0.92,143.51,15,App,Yape,2,295.97,Revisar,Sede 6,Independencia,Oeste,Revision electrica,,143.51,Diana Quispe,Villa El Salvador,Premium,2025-10-26
+8,2026-02-22,2,8.81,215.96,0,,Yape,1,590.01,,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Miguel Ramos,Ventanilla,Premium,2025-04-21
+9,2026-02-02,3, 4.16 ,S/ 111.57,0 aprox,telefono,Tarjeta,3,351.75,Ok,Sede 4,Ate,  Este ,Diagnostico scanner,Diagnostico,111.57,Miguel Castillo,Los Olivos,Frecuente,2025-01-23
+10,2026-03-20,7,8.59,215.96,5,Web,Efectivo,2,630.94,Promocion,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Marco Soto,San Juan de Lurigancho,,2025-06-21
+11,2026-04-15, 2 ,8.17,S/ 143.51,0,App,Transferencia,4,516.86,   ,Sede 2,AtE,Sur,Revision electrica,,143.51,Lucia Campos,Villa El Salvador,Frecuente,2025-08-03
+12,2026-03-21,8,1.72,90.23,15,App,Efectivo,4,324.57,,Sede 6,Independencia,Oeste,Cambio de aceite,Mantenimiento,90.23,Raul Reyes,Ventanilla,PREMIUM,2025-11-24
+13,2026-02-19,1,"8,3",275.62,0,Presencial,Yape,2, 594.98 ,Revisar,Sede 1,Ate,Sur,SuSpEnSiOn,MECANICA,275.62,Luis Flores,San Miguel,Nuevo,2025-08-19
+14,2026-06-02,3,11.8,143.51,15,Web,Yape,2,651.05,OK,Sede 2,AtE,Sur,Revision electrica,,143.51,Camila Ramos,Los Olivos,Premium,2025-09-15
+15,28-05-2026,5,10.14,90.23,0,WhatsApp,EFECTIVO,3,1991.14,,Sede 5,Independencia,Este,Cambio de aceite,Mantenimiento,90.23,Pedro Torres,Villa El Salvador,Regular, 2025-05-11 
+16,2026-02-23,8,5.53, 90.23 ,15,Web,  Yape ,4,415.58,Promocion,Sede 5,Independencia,Este,Cambio de aceite,Mantenimiento,90.23,Pedro Salazar,La Molina,Regular,28/08/2025
+17,2026-02-27,3,"0,63",111.57,20 aprox,WhatsApp,Tarjeta,3,195.02,Promocion,Sede 3,,Oeste,Diagnostico scanner,Diagnostico,111.57,Pedro Cruz,La Molina,Premium,2025-11-25
+18,2026-02-03, 4 ,6.06,90.23,12,App,transferencia,2, 371.54 ,Revisar,Sede 6,Independencia,Oeste,Cambio de aceite,Mantenimiento,90.23,Miguel Salazar,Miraflores,Premium,19-08-2025
+19,2026-01-13,3,0.91,215.96,0,Presencial,Plin,1,247.03,Promocion,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Carlos Paredes,Independencia,Nuevo,2025-03-14
+20,2026-05-11,1,1.78 aprox,111.57,12,Web,Plin,3,205.52,,Sede 2,AtE,Sur,Diagnostico scanner,Diagnostico,111.57,Fiorella Salazar,San Miguel,Premium,2025-09-13
+21,2026-06-25,,10.0,143.51,8,WhatsApp,Plin,3,638.77,Cliente frecuente,Sede 4,Ate,  Este ,Revision electrica,,143.51,Fiorella Cruz,chorrillos,Frecuente,2025-04-07
+22,28-03-2026,7,8.04,275.62,10,WHATSAPP,Efectivo,4,660.91,Revisar,Sede 3,,Oeste,SuSpEnSiOn,MECANICA,275.62,Victor Reyes,San Juan de Lurigancho,Nuevo,2025-09-15
+23,2026-03-06,1,"6,57",143.51,0,Telefono,Tarjeta,3,439.89,Revisar,Sede 2,AtE,Sur,Revision electrica,,143.51,Andre Salazar,Chorrillos,Nuevo, 2025-07-12 
+24,05/01/2026,2,2.95 aprox,90.23,12,Presencial,Efectivo,5,247.28,,Sede 2,AtE,Sur,Cambio de aceite,Mantenimiento,90.23,Carlos Torres,Chorrillos,Premium,2025-04-01
+25,2026-01-06,1,4.92,182.15,20,Telefono,Transferencia,2,378.74,OK,Sede 1,Ate,Sur,Frenos,Seguridad,182.15,Raul Salazar,Ate,Nuevo,2025/10/07
+26,2026-05-21,8,,90.23,8,App,Transferencia, 5 ,379.48,OK,Sede 4,Ate,  Este ,Cambio de aceite,Mantenimiento,90.23,Jose Sayan,Los Olivos,Premium,03/06/2025
+27,2026-03-10,1,8.54,"90,23",20,Telefono,Transferencia,5,444.76,Revisar,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Fiorella Salazar,San Miguel,Premium,2025-09-13
+28,2026-05-04,1,3.62,,20,,Tarjeta,1,378.76,OK,Sede 1,Ate,Sur,SuSpEnSiOn,MECANICA,275.62,Luis Flores,San Miguel,Nuevo,2025-08-19
+29,2026-01-15,2,, 182.15 ,0,Presencial,yape,,429.93,,Sede 4,Ate,  Este ,Frenos,Seguridad,182.15,Pedro Salazar,La Molina,Regular,28/08/2025
+30,2026-04-09,5,1.08,182.15,,Telefono,Yape,4,305.45,Promocion,Sede 2,AtE,Sur,Frenos,Seguridad,182.15,Victor Navarro,CHORRILLOS,Premium,2025-03-25
+31,2026-01-25,7,11.77,90.23,12,Presencial,Transferencia,1,649.97,Revisar,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,,INDEPENDENCIA,Frecuente,2025-09-25
+32,2026-04-11,4,2.33,"275,62",20,Web,Tarjeta,5,419.57,,Sede 5,Independencia,Este,SuSpEnSiOn,MECANICA,275.62,Valeria Torres,Surco,Corporativo,2025-03-15
+33,2026-05-21,3,8.93,,15,web,Yape,3,465.39,Cliente frecuente,Sede 2,AtE,Sur,Alineamiento,Mantenimiento,77.01,camila torres,Ventanilla,Regular,2025-01-26
+34,2026-02-13,2,2.26,182.15,20,App,Transferencia,5,,Cliente frecuente,Sede 4,Ate,  Este ,Frenos,Seguridad,182.15,Camila Castillo,Villa El Salvador,Premium,2025-10-18
+35,2026-02-22,8,8.14,90.23,8,PrEsEnCiAl,Transferencia,5,2378.79 aprox,,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Jose Sayan,Los Olivos,Premium,03/06/2025
+36,2026-01-13,6,3.41,275.62,12,Presencial,Efectivo,3,472.17,Revisar,SEDE 7,Chorrillos,Este,SuSpEnSiOn,MECANICA,275.62,Pedro Gomez,Miraflores,regular,2025-10-08
+37,2026-04-07,3, 7.92 ,,20,Web,Yape,4,S/ 570.37,Revisar,Sede 4,Ate,  Este ,Revision electrica,,143.51,Camila Mendoza,Lima,Frecuente,2025-10-17
+38,24/01/2026,,5.82,77.01,0,App,Plin,3, 337.3 ,Cliente frecuente,SEDE 7,Chorrillos,Este,Alineamiento,Mantenimiento,77.01,Rocio Salazar,ATE,Frecuente,2025-01-05
+39,2026/04/07,8, 5.7 ,482.37, 5 ,Telefono,Efectivo,4,745.96,Promocion,Sede 3,,Oeste,Embrague,Mecanica,482.37,Pedro Flores,Comas,Premium,2025-04-07
+40,2026-03-13,4,1.93,111.57,5,App,Efectivo,2,310.18,,Sede 6,Independencia,Oeste,Diagnostico scanner,Diagnostico,111.57,Victor Castillo,Villa El Salvador,Premium,2025-01-13
+41,2026-04-09, 2 ,7.96,S/ 111.57,,WHATSAPP,EFECTIVO,3,496.5,Revisar,SEDE 7,Chorrillos,Este,Diagnostico scanner,Diagnostico,111.57,Pedro Flores,Comas,Premium,2025-04-07
+42,2026-06-10,8,11.12,143.51,0,WEB,Plin,4,,,Sede 5,Independencia,Este,Revision electrica,,143.51,,INDEPENDENCIA,Frecuente,2025-09-25
+43,2026-04-18,6,6.37, 482.37 ,20 aprox,WHATSAPP,Yape,1,706.1,Revisar,Sede 2,AtE,Sur,Embrague,Mecanica,482.37,LUIS TORRES,San Juan de Lurigancho,Premium,2025-04-20
+44,2026-02-08,4,2.5,143.51, 20 ,App,Tarjeta,5,320.05,Promocion,Sede 1,Ate,Sur,Revision electrica,,143.51,Miguel Castillo,Los Olivos,Frecuente,2025-01-23
+45,2026-01-05,4,3.65,,0,Telefono,Plin,1,S/ 343.93,Cliente frecuente,Sede 2,AtE,Sur,Diagnostico scanner,Diagnostico,111.57,Jorge Reyes,Independencia,Frecuente,2025-04-10
+46,2026-05-09,5,7.46 aprox,143.51,8,Telefono,Plin,2,467.37,Cliente frecuente,Sede 3,,Oeste,Revision electrica,,143.51,Diana Flores,La Molina,Nuevo,2025-12-16
+47,2026-05-09,3,6.31 aprox,306.55,0,Telefono,Efectivo,5,534.03,Revisar,Sede 4,Ate,  Este ,,Electricidad,306.55,Jorge Reyes,Independencia,Frecuente,2025-04-10
+48,2026-05-07,3,6.91,306.55,,,Efectivo,3,593.54,OK,Sede 1,Ate,Sur,,Electricidad,306.55,Jorge Reyes,Independencia,Frecuente,2025-04-10
+49,2026-04-28,4,0.84,,8,Presencial,TaRjEtA,5,230.0,Promocion,Sede 5,Independencia,Este,Diagnostico scanner,Diagnostico,111.57,Rocio Torres,,Corporativo,2025-10-08
+50,2026-02-10,5, 12.0 ,111.57,10,Presencial,Transferencia,5,574.27,,SEDE 7,Chorrillos,Este,Diagnostico scanner,Diagnostico,111.57,Claudia Reyes,San Miguel,Premium,2025-01-17
+51,2026-04-02,2,11.55,90.23 aprox,12,Web,  Transferencia ,1,1316.24,Promocion,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Claudia Salazar,San Miguel,  Nuevo ,2025-03-05
+52,2026-03-16,5,4.05,182.15,0,WHATSAPP,Tarjeta,3 aprox,437.31 aprox,Promocion,Sede 2,AtE,Sur,Frenos,Seguridad,182.15,ANDRE GOMEZ,Ate,,2025-01-10
+53,2026-02-18,2,10.37,77.01,12,Telefono,Transferencia,5,490.46,Promocion,Sede 6,Independencia,Oeste,Alineamiento,Mantenimiento,77.01,Miguel Ramos,Ventanilla,Premium,2025-04-21
+54,21/06/2026,2,3.88,90.23,0,Presencial,Plin,5,252.86,Cliente frecuente,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Miguel Salazar,Miraflores,Premium,19-08-2025
+55,2026-05-25,,6.75,182.15,0,Presencial,  Yape ,1,,OK,Sede 3,,Oeste,Frenos,Seguridad,182.15,Lucia Campos,Villa El Salvador,Frecuente,2025-08-03
+56,2026-06-24,7,3.16,111.57,12,WhatsApp,Tarjeta,3,378.06,promocion,Sede 1,Ate,Sur,Diagnostico scanner,Diagnostico,111.57,Miguel Salazar,Ate,Frecuente,2025-06-11
+57, 2026-02-12 ,4,1.53 aprox,S/ 111.57,10,WhatsApp,YaPe,2,254.26,OK,SEDE 7,Chorrillos,Este,Diagnostico scanner,Diagnostico,111.57,Rocio Mendoza,San Juan de Lurigancho,Nuevo,2025-04-10
+58,18-06-2026,2,"6,85",77.01,15,Presencial,Plin,3,435.11,,Sede 6,Independencia,Oeste,Alineamiento,Mantenimiento,77.01,Claudia Salazar,San Miguel,  Nuevo ,2025-03-05
+59,2026-04-19,1,7.4, 90.23 ,0,Web,Tarjeta,2,396.77,Revisar,Sede 5,Independencia,Este,Cambio de aceite,Mantenimiento,90.23,Diana Sayan,LA MOLINA,Corporativo,2025-05-16
+60,2026-06-05,5,11.59,215.96,5,App,efectivo,2,730.76,OK,Sede 5,Independencia,Este,Afinamiento,Motor,215.96,Carlos Cruz,Surco,Premium,2025-12-11
+61,2026-04-09,2,6.5,306.55,5,WhatsApp,Efectivo,4,555.46,Promocion,Sede 1,Ate,Sur,,Electricidad,306.55,DiEgO CaMpOs,Surco,Nuevo,2025-04-11
+62, 2026-04-24 ,2,1.2,143.51,8,Telefono,Tarjeta,3,192.53,,Sede 2,AtE,Sur,Revision electrica,,143.51,Pedro Gomez,Miraflores,regular,2025-10-08
+63,2026-03-22,6,7.36,306.55,10,Telefono,Efectivo,1,622.02,,Sede 2,AtE,Sur,,Electricidad,306.55,Victor Gomez,Lima,Regular,2025/05/07
+64,2026-05-05,2,1.18,77.01,5,App,Tarjeta,2, 189.9 ,Promocion,Sede 6,Independencia,Oeste,Alineamiento,Mantenimiento,77.01,  Carlos Paredes ,VeNtAnIlLa,Corporativo,2025-01-15
+65,2026-03-20,2,10.47,182.15,0,WhatsApp,Efectivo,2 aprox,614.52,Revisar,Sede 5,Independencia,Este,Frenos,Seguridad,182.15,Raul Reyes,Ventanilla,PREMIUM,2025-11-24
+66,2026-06-16,4,9.25 aprox,111.57,10,Telefono,Tarjeta,3,511.97,,Sede 3,,Oeste,Diagnostico scanner,Diagnostico,111.57,LUIS TORRES,San Juan de Lurigancho,Premium,2025-04-20
+67,2026-04-03,7,7.28,275.62,0,TeLeFoNo,,3,663.59,OK,Sede 3,,Oeste,SuSpEnSiOn,MECANICA,275.62,Luis Mendoza,surco,Frecuente,2025-07-20
+68,2026-02-10,6,7.2,482.37,8,Presencial,YAPE,3,752.07,,Sede 6,Independencia,Oeste,Embrague,Mecanica,482.37,Claudia Reyes,San Miguel,Premium,2025-01-17
+69,2026-06-20,4,1.27,215.96,20,Presencial,Yape,2,1417.2,Revisar,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Diana Rojas,Callao,Regular,2025-02-05
+70,2026/01/25,3,6.63,482.37,5,App,YaPe,2,746.52,  Cliente frecuente ,SEDE 7,Chorrillos,Este,Embrague,Mecanica,482.37,Camila Castillo,Villa El Salvador,Premium,2025-10-18
+71,2026-04-08,2,10.3,306.55,5,Web,Yape,3,687.99,Cliente frecuente,Sede 4,Ate,  Este ,,Electricidad,306.55,Miguel Campos,Ventanilla,Regular,2025-01-12
+72,2026-03-13,4,9.97,215.96,0,Presencial,Plin,1,"722,04",Revisar,SEDE 7,Chorrillos,Este,Afinamiento,Motor,215.96,  Diana Rojas ,Lima,Nuevo,2025-03-12
+73,2026-06-24,1,0.53,306.55,20,Telefono,Efectivo, 2 ,267.78,Promocion,Sede 6,Independencia,Oeste,,Electricidad,306.55,Pedro Cruz,La Molina,Premium,2025-11-25
+74,2026-03-20,7,1.59,275.62,10,App,Transferencia,3,394.94,Revisar,Sede 4,Ate,  Este ,SuSpEnSiOn,MECANICA,275.62,Fiorella Cruz,chorrillos,Frecuente,2025-04-07
+75,2026-02-10,3,9.84 aprox,215.96,0,WhatsApp,Plin,4,581.0,Cliente frecuente,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Diana  Soto,Lima,ReGuLaR,2025-02-19
+76,2026-03-18,2,1.73,182.15,8,WhatsApp,YAPE,5,273.2,  Promocion ,Sede 3,,Oeste,Frenos,Seguridad,182.15,Raul Reyes,Ventanilla,PREMIUM,2025-11-24
+77, 2026-04-26 ,7 aprox,9.53,90.23,15,Telefono,YAPE,2,601.48,,Sede 5,Independencia,Este,Cambio de aceite,Mantenimiento,90.23,Jorge Paredes,La Molina,Nuevo,2025-02-09
+78,2026-04-25,1,6.83,143.51,,Telefono,Plin,4,388.33,Revisar,Sede 4,Ate,  Este ,Revision electrica,,143.51,Pedro Paredes,San Juan de Lurigancho,Regular,2025-11-07
+79,2026-04-28,6,6.09,306.55,15,WhatsApp,Transferencia,1,585.37,Cliente frecuente,Sede 5,Independencia,Este,,Electricidad,306.55,Miguel Ramos,Ventanilla,Premium,2025-04-21
+80,2026-06-22,1,1.47,143.51,15,WhAtSaPp,Plin,2,173.42,OK,Sede 5,Independencia,Este,Revision electrica,,143.51,Raul Reyes,Ventanilla,PREMIUM,2025-11-24
+81,2026-01-17,3,9.08,,20,Telefono,Plin,2,608.18,,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Maria Salazar,Callao,Nuevo,2025-07-16
+82,2026-02-20, 7 ,9.82,182.15,12,Presencial,Yape,1, 626.91 ,Cliente frecuente,Sede 2,AtE,Sur,Frenos,Seguridad,182.15,Sofia Torres,Chorrillos,NUEVO,2025-05-14
+83,2026-06-21,4, 0.73 ,S/ 90.23,15,Web,Transferencia,2,172.92,Cliente frecuente,SEDE 7,Chorrillos,Este,Cambio de aceite,Mantenimiento,90.23,Rocio Reyes,Villa El Salvador,nuevo,2025-10-23
+84,2026-05-19,8,10.86,S/ 275.62,8,App,Efectivo,4,698.5,Cliente frecuente,Sede 5,Independencia,Este,SuSpEnSiOn,MECANICA,275.62,Maria Sayan,Villa El Salvador,,2025-12-04
+85,2026-02-27,8,7.3,77.01,10,Telefono,Yape,5,532.97,Cliente frecuente,Sede 1,Ate,Sur,Alineamiento,Mantenimiento,77.01,Victor Reyes,San Juan de Lurigancho,Nuevo,2025-09-15
+86,2026-02-08, 4 , 3.12 ,111.57,8,Telefono,Tarjeta,3,335.03,Cliente frecuente,Sede 5,Independencia,Este,Diagnostico scanner,Diagnostico,111.57,Maria Reyes,Comas,Nuevo,2025-09-12
+87,2026-04-10,6,1.75,90.23,10,App,Plin,5,292.41,PROMOCION,Sede 6,Independencia,Oeste,Cambio de aceite,Mantenimiento,90.23,Maria Sayan,Villa El Salvador,,2025-12-04
+88,2026-06-28,3,6.06,215.96,12,TeLeFoNo,Transferencia,2,451.9,Cliente frecuente,Sede 5,Independencia,Este,Afinamiento,Motor,215.96,Pedro Huaman,  San Miguel ,Corporativo,2025-11-25
+89,2026-05-22,1,10.56,143.51,12 aprox,App,Yape, 1 ,531.29,Revisar,Sede 4,Ate,  Este ,Revision electrica,,143.51,Marco Rojas,Chorrillos,Regular,2025-11-23
+90,2026-06-02,3,11.8,143.51,15,Web,Yape,2,651.05,OK,Sede 2,AtE,Sur,Revision electrica,,143.51,Camila Ramos,Los Olivos,Premium,2025-09-15
+91,2026-06-26,2,10.17,143.51 aprox,15,Telefono,Yape,5,547.63,,Sede 4,Ate,  Este ,Revision electrica,,143.51,Pedro Torres,Villa El Salvador,Regular, 2025-05-11 
+92,2026-04-24,5,"4,96",306.55,0 aprox,WhatsApp,Transferencia,5,S/ 556.42,Revisar,Sede 2,AtE,Sur,,Electricidad,306.55,,INDEPENDENCIA,Frecuente,2025-09-25
+93,2026-06-26,5,1.87,275.62,8,Telefono,Transferencia,5,392.45,Revisar,Sede 3,,Oeste,SuSpEnSiOn,MECANICA,275.62,Rocio Salazar,ATE,Frecuente,2025-01-05
+94,2026-04-23,6,5.58, 215.96 , 8 ,PrEsEnCiAl,Yape,2 aprox,485.09,Promocion,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Andre Mendoza,Los Olivos,Nuevo,2025-09-01
+95,2026-06-27,4,1.58,111.57,5,Presencial,Efectivo,4, 229.38 ,OK,Sede 6,Independencia,Oeste,Diagnostico scanner,Diagnostico,111.57,Marco Rojas,Chorrillos,Regular,2025-11-23
+96,2026-03-18,4,1.24,306.55,0,APP,Transferencia,5,355.31,Cliente frecuente,SEDE 7,Chorrillos,Este,,Electricidad,306.55,Pedro Flores,Comas,Premium,2025-04-07
+97,2026-03-07,1 aprox,6.71,306.55,0,WEB,  Yape ,2,537.21,OK,Sede 3,,Oeste,,Electricidad,306.55,Jose Quispe,Ventanilla,Nuevo,2025-09-05
+98,2026-06-28,5,2.19,77.01,10,presencial,Plin,1,234.21,Revisar,Sede 4,Ate,  Este ,Alineamiento,Mantenimiento,77.01,Rocio Reyes,Villa El Salvador,nuevo,2025-10-23
+99,2026-01-25, 2 ,1.97,111.57,10,Presencial,Plin,3, 255.8 ,Revisar,Sede 2,AtE,Sur,Diagnostico scanner,Diagnostico,111.57,Andre Flores,Los Olivos,Regular,2025-05-23
+100,2026-04-03,6,3.06,111.57,5,Web,,4, 355.19 ,OK,Sede 6,Independencia,Oeste,Diagnostico scanner,Diagnostico,111.57,Rocio Salazar,ATE,Frecuente,2025-01-05
+101,2026-03-09,6,1.23,182.15,5,Presencial,Transferencia,5,286.37,OK,Sede 2,AtE,Sur,Frenos,Seguridad,182.15,Diana Quispe,Villa El Salvador,Premium,2025-10-26
+102, 2026-04-05 , 3 ,5.84, 77.01 ,20,Telefono,Tarjeta,3,331.25,Cliente frecuente,Sede 1,Ate,Sur,Alineamiento,Mantenimiento,77.01,Miguel Cruz,Ventanilla,Frecuente,2025-09-14
+103,2026-05-06,7,11.0,482.37,10,App,Transferencia,4,921.69,Cliente frecuente,Sede 2,AtE,Sur,Embrague,Mecanica,482.37,Raul Reyes,Ventanilla,PREMIUM,2025-11-24
+104,2026-02-18,3,4.1,S/ 182.15,0,Web,Yape,1,350.53,Cliente frecuente,Sede 6,Independencia,Oeste,Frenos,Seguridad,182.15,Diana  Quispe,Surco,Regular,2025-01-05
+105,2026-05-14,8,3.41,143.51,0,Telefono,Transferencia,4,338.72,Cliente frecuente,Sede 4,Ate,  Este ,Revision electrica,,143.51,Diego Flores,San Miguel,Corporativo,2025-03-07
+106,2026-03-17,1,5.65,90.23,0,Presencial,Efectivo,3,350.25,Cliente frecuente,Sede 2,AtE,Sur,Cambio de aceite,Mantenimiento,90.23,Andre Flores,Los Olivos,Regular,2025-05-23
+107,2026-05-16,7,6.71,143.51,,  Telefono ,Plin,5,530.68,,Sede 3,,Oeste,Revision electrica,,143.51,Claudia Reyes,San Miguel,Premium,2025-01-17
+108,2026-04-25,3,9.64,77.01,0,WhatsApp,Efectivo,3,549.23,Cliente frecuente,SEDE 7,Chorrillos,Este,Alineamiento,Mantenimiento,77.01,,Miraflores,Nuevo,2025-09-07
+109,2026-03-18,5,11.01,306.55,0,Telefono,Plin,5,709.65,Promocion,Sede 4,Ate,  Este ,,Electricidad,306.55,Elena Reyes,COMAS,Nuevo,2025-05-21
+110,,6,0.84,275.62,0,Presencial,Transferencia,2,341.97,,Sede 3,,Oeste,SuSpEnSiOn,MECANICA,275.62,Victor Reyes,LOS OLIVOS,Frecuente,2025-02-08
+111,2026-04-21,8,4.41,"482,37",0,WhatsApp,Efectivo,3,681.14,Revisar,Sede 6,Independencia,Oeste,Embrague,Mecanica,482.37,Victor Castillo,Villa El Salvador,Premium,2025-01-13
+112,2026-06-02,8,0.5,482.37,5,Web,  Efectivo ,2,524.18 aprox,Cliente frecuente,SEDE 7,Chorrillos,Este,Embrague,Mecanica,482.37,Elena Reyes,COMAS,Nuevo,2025-05-21
+113,2026-05-21,7,7.5,182.15,10,Telefono,Tarjeta,4, 544.03 ,OK,SEDE 7,Chorrillos,Este,Frenos,Seguridad,182.15,,Miraflores,Nuevo,2025-09-07
+114,2026-06-22,6,4.46,182.15,,Telefono,Efectivo,4,376.67,,Sede 4,Ate,  Este ,Frenos,Seguridad,182.15,Maria Reyes,Comas,Nuevo,2025-09-12
+115,2026-02-12,3,,90.23,0,Telefono,,2,232.25,,Sede 6,Independencia,Oeste,Cambio de aceite,Mantenimiento,90.23,Jorge Reyes,Independencia,Frecuente,2025-04-10
+116,,,7.63,143.51,8,Telefono,Transferencia,2,536.6,Cliente  frecuente,SEDE 7,Chorrillos,Este,Revision electrica,,143.51,Fiorella Salazar,San Miguel,Premium,2025-09-13
+117,2026-06-05,1,7.44,111.57,20,WhatsApp,Plin,1,431.33 aprox,OK,Sede 3,,Oeste,Diagnostico scanner,Diagnostico,111.57,Lucia Campos,Villa El Salvador,Frecuente,2025-08-03
+118, 2026-02-20 ,4,6.06,306.55,8,Web,Yape,3,467.3,Promocion,Sede 4,Ate,  Este ,,Electricidad,306.55,Andre Mendoza,Los Olivos,Nuevo,2025-09-01
+119,2026-02-09,2,1.89,482.37,5,Telefono,Efectivo,4,506.88,,Sede 3,,Oeste,Embrague,Mecanica,482.37,Jose Quispe,Ventanilla,Nuevo,2025-09-05
+120,2026-01-09,3,11.59,275.62,0,WhatsApp,Yape,3,659.56,Promocion,Sede 3,,Oeste,SuSpEnSiOn,MECANICA,275.62,Raul Navarro,Ventanilla,Corporativo,2025-10-19
+121,2026-05-08,3,4.26,215.96,0 aprox,WeB,,4,455.17,OK,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Carlos Cruz,Surco,Premium,2025-12-11
+122,2026-06-07,8,1.81,482.37,15,Telefono,Tarjeta,5,577.68,Cliente frecuente,Sede 2,AtE,Sur,Embrague,Mecanica,482.37,Rocio Reyes,Villa El Salvador,nuevo,2025-10-23
+123,2026-04-21,2,"7,98",306.55,0,PRESENCIAL,Tarjeta,4,547.37,Cliente frecuente,Sede 1,Ate,Sur,,Electricidad,306.55,Pedro Salazar,La Molina,Regular,28/08/2025
+124,2026-03-24,4,6.84,90.23,8,WhatsApp,Transferencia,5,435.08,Cliente frecuente,Sede 4,Ate,  Este ,Cambio de aceite,Mantenimiento,90.23,Victor Reyes,LOS OLIVOS,Frecuente,2025-02-08
+125,2026-02-01,7,7.79,143.51,15,TeLeFoNo,Yape,1,534.32,,SEDE 7,Chorrillos,Este,Revision electrica,,143.51,Carlos Paredes,Independencia,Nuevo,2025-03-14
+126,2026-02-15,2,10.19,77.01 aprox,0,Presencial,tarjeta,3,487.85,Promocion,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Rocio Soto,San Juan de Lurigancho,Regular,2025-07-12
+127,2026-01-16,8,5.39 aprox,111.57,10,App,YAPE,3,434.33,Cliente frecuente,Sede 4,Ate,  Este ,Diagnostico scanner,Diagnostico,111.57,Luis Flores,San Miguel,Nuevo,2025-08-19
+128,2026-05-24,8,10.79,90.23,20,Presencial,Tarjeta,4,588.54,,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Jorge Paredes,La Molina,Nuevo,2025-02-09
+129,2026-06-17,1,3.96,215.96,12,Telefono,Plin,1,332.69,Cliente frecuente,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Jose Sayan,Los Olivos,Premium,03/06/2025
+130,2026-01-04,1,,482.37,15,Telefono,Efectivo,4 aprox, 581.04 ,OK,Sede 6,Independencia,Oeste,Embrague,Mecanica,482.37,Diego Sayan,  Independencia ,Corporativo,2025-07-10
+131,2026-03-19,6,4.52,482.37 aprox,10,Presencial,Plin,3,609.44,Cliente frecuente,Sede 5,Independencia,Este,Embrague,Mecanica,482.37,Andre Salazar,Chorrillos,Nuevo, 2025-07-12 
+132, 2026-04-10 ,1,10.99,275.62,0,App,Transferencia,3 aprox,682.08,,Sede 1,Ate,Sur,SuSpEnSiOn,MECANICA,275.62,Marco Navarro,Chorrillos,Corporativo,2025-11-19
+133,2026-05-04,7,6.94,306.55,15,APP,Tarjeta,,677.46,Ok,Sede 5,Independencia,Este,,Electricidad,306.55,ANDRE GOMEZ,Ate,,2025-01-10
+134,2026-01-07,2,11.71,306.55,15,App,Yape,4,723.77,,Sede 3,,Oeste,,Electricidad,306.55,Andre Castillo,Ate,Nuevo,2025-11-03
+135,2026-06-10,8,11.12,143.51,0,WEB,Plin,4,,,Sede 5,Independencia,Este,Revision electrica,,143.51,,INDEPENDENCIA,Frecuente,2025-09-25
+136,20-06-2026,7 aprox,4.37,90.23,5,Web,Plin,2,304.75,Revisar,Sede 2,AtE,Sur,Cambio de aceite,Mantenimiento,90.23,Valeria Torres,Surco,Corporativo,2025-03-15
+137,2026-06-20,3,"5,34",77.01,0,WhatsApp,Transferencia,4,327.19,PrOmOcIoN,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Camila Mendoza,Lima,Frecuente,2025-10-17
+138,2026-04-07,8,1.48,143.51,0,Telefono,Efectivo,1,316.55,Promocion,Sede 4,Ate,  Este ,Revision electrica,,143.51,ANDRE GOMEZ,Ate,,2025-01-10
+139,2026-04-07,6,6.01,275.62,12 aprox,Presencial,Transferencia,5,534.92,Promocion,Sede 4,Ate,  Este ,SuSpEnSiOn,MECANICA,275.62,Carlos Paredes,Independencia,Nuevo,2025-03-14
+140,2026-01-21,6,1.72,77.01, 12 ,Telefono,Efectivo,2,294.41,,Sede 5,Independencia,Este,Alineamiento,Mantenimiento,77.01,Claudia Salazar,San Miguel,  Nuevo ,2025-03-05
+141,2026-05-09,1,6.48,306.55,0,Web,Efectivo,4,519.15,OK,Sede 3,,Oeste,,Electricidad,306.55,Carlos Cruz,Surco,Premium,2025-12-11
+142,2026-04-28,4,2.06,482.37,15,Telefono,Efectivo,2,546.74,,Sede 5,Independencia,Este,Embrague,Mecanica,482.37,Pedro Salazar,La Molina,Regular,28/08/2025
+143,2026-06-12,8,8.0,482.37 aprox,0,WhatsApp,YaPe,3,819.59,Revisar,Sede 2,AtE,Sur,Embrague,Mecanica,482.37,Carlos Paredes,Independencia,Nuevo,2025-03-14
+144,2026-04-17,5,0.53,215.96, 0 ,App,Tarjeta,2,239.12,cliente frecuente,SEDE 7,Chorrillos,Este,Afinamiento,Motor,215.96,Maria Reyes,Comas,Nuevo,2025-09-12
+145,2026-02-18,1,10.13,111.57,20,,Efectivo,2,534.6,Revisar,Sede 4,Ate,  Este ,Diagnostico scanner,Diagnostico,111.57,Andre Salazar,Chorrillos,Nuevo, 2025-07-12 
+146,2026-02-08,2,5.72,90.23,8,Presencial,Tarjeta,3,377.49,,Sede 5,Independencia,Este,Cambio de aceite,Mantenimiento,90.23,Rocio Reyes,Villa El Salvador,nuevo,2025-10-23
+147,2026-06-07,5,4.3,482.37,0,ApP,Plin,1,587.09,,Sede 1,Ate,Sur,Embrague,Mecanica,482.37,Fiorella Salazar,San Miguel,Premium,2025-09-13
+148,2026-03-02,5,20.97,,12,App,Yape,4,1020.9,Revisar,Sede 3,,Oeste,Afinamiento,Motor,215.96,,Miraflores,Nuevo,2025-09-07
+149,2026-04-23,2,8.22, 90.23 ,0,App,Transferencia,1,1458.65,Promocion,Sede 4,Ate,  Este ,Cambio de aceite,Mantenimiento,90.23,Sofia Cruz,Miraflores,Regular,2025-02-18
+150,2026-01-06,7,9.01,182.15,10,Telefono,Transferencia,1,625.79,,Sede 1,Ate,Sur,Frenos,Seguridad,182.15,camila torres,Ventanilla,Regular,2025-01-26
+151,2026-01-26,3,9.3,77.01,10,WhatsApp,Transferencia,1,503.83,,Sede 6,Independencia,Oeste,Alineamiento,Mantenimiento,77.01,Diana Rojas,Callao,Regular,2025-02-05
+152,2026-02-14,7,7.19,182.15,0,Presencial,TRANSFERENCIA,3,489.91,Cliente frecuente,Sede 3,,Oeste,Frenos,Seguridad,182.15,Pedro Huaman,  San Miguel ,Corporativo,2025-11-25
+153,2026-04-24,2,10.08,90.23 aprox,8,App,Efectivo,2,519.04,Promocion,Sede 5,Independencia,Este,Cambio de aceite,Mantenimiento,90.23,Jose Quispe,Ventanilla,Nuevo,2025-09-05
+154,2026-05-24,4,5.19,182.15,5,Presencial,Efectivo,4,450.25,Revisar,Sede 6,Independencia,Oeste,Frenos,Seguridad,182.15,DiEgO CaMpOs,Surco,Nuevo,2025-04-11
+155,2026-04-04,4,11.74,215.96,20,WhatsApp,plin,4,711.14,,Sede 5,Independencia,Este,Afinamiento,Motor,215.96,Victor Navarro,CHORRILLOS,Premium,2025-03-25
+156,2026-02-15,2,7.16,90.23,20,Web,Plin,3,425.6,Promocion,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Camila Ramos,Los Olivos,Premium,2025-09-15
+157,2026-04-08,5,9.56, 77.01 ,20,WhatsApp,  Efectivo ,4,508.26,,Sede 2,AtE,Sur,Alineamiento,Mantenimiento,77.01,Camila Castillo,Villa El Salvador,Premium,2025-10-18
+158,2026-03-28,7,8.56,275.62, 0 ,Web,EFECTIVO,5,730.96,,Sede 6,Independencia,Oeste,SuSpEnSiOn,MECANICA,275.62,Diana Sayan,LA MOLINA,Corporativo,2025-05-16
+159,2026-04-26,4,"5,85",482.37,10,Telefono,Tarjeta,5,681.3,Revisar,Sede 6,Independencia,Oeste,Embrague,Mecanica,482.37,Pedro Cruz,La Molina,Premium,2025-11-25
+160,2026-06-14,7,7.35,143.51 aprox,0,WhatsApp,Efectivo,4,499.03,Revisar,Sede 2,AtE,Sur,Revision electrica,,143.51,Miguel Salazar,Ate,Frecuente,2025-06-11
+161,2026-04-03,3,10.54,143.51,12,Telefono,Plin,2,,Promocion,Sede 5,Independencia,Este,Revision electrica,,143.51,Diana  Soto,Lima,ReGuLaR,2025-02-19
+162,2026-04-22,1,3.76,182.15,20,Web,Transferencia,3,322.77,Cliente frecuente,Sede 5,Independencia,Este,Frenos,Seguridad,182.15,Diana Quispe,Villa El Salvador,Premium,2025-10-26
+163,2026-05-23,1,2.94,77.01,0,Telefono,Yape,2,270.04,,Sede 5,Independencia,Este,Alineamiento,Mantenimiento,77.01,Diego Flores,San Miguel,Corporativo,2025-03-07
+164,2026-04-12,7,4.53,77.01,10,WhatsApp,Plin,1,360.71,Promocion,Sede 6,Independencia,Oeste,Alineamiento,Mantenimiento,77.01,Camila Mendoza,Lima,Frecuente,2025-10-17
+165,2026-03-10,1,2.6,111.57,15,Web,,1,277.74,OK,Sede 6,Independencia,Oeste,Diagnostico scanner,Diagnostico,111.57,Pedro Huaman,  San Miguel ,Corporativo,2025-11-25
+166,2026-05-04,3,6.1,S/ 77.01,8,App,Yape,5,342.52,OK,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Victor Navarro,CHORRILLOS,Premium,2025-03-25
+167,2026-01-05,4,3.65,,0,Telefono,Plin,1,S/ 343.93,Cliente frecuente,Sede 2,AtE,Sur,Diagnostico scanner,Diagnostico,111.57,Jorge Reyes,Independencia,Frecuente,2025-04-10
+168,2026-02-05,1,10.05,275.62,20,App,Efectivo,1,615.63,Revisar,Sede 2,AtE,Sur,SuSpEnSiOn,MECANICA,275.62,ANDRE GOMEZ,Ate,,2025-01-10
+169,26-06-2026,8,7.16,215.96,0,WhatsApp,Yape,5, 543.53 ,Revisar,Sede 5,Independencia,Este,Afinamiento,Motor,215.96,Camila Huaman,,Frecuente,2025/11/10
+170,2026-02-14,,7.89,77.01,20,Web,Transferencia,1,456.24,OK,Sede 6,Independencia,Oeste,Alineamiento,Mantenimiento,77.01,Miguel Campos,Comas,Frecuente,2025-08-27
+171,2026-05-10,3,9.01,215.96,20,App,TRANSFERENCIA,2,556.39,Revisar,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Diana  Quispe,Surco,Regular,2025-01-05
+172,2026-06-14,4,1.21,77.01,5,App,Efectivo,5,201.53,,Sede 5,Independencia,Este,Alineamiento,Mantenimiento,77.01,Rocio Ramos,Comas,Premium,2025-06-02
+173,2026-05-18,7,9.93,90.23,20,App,Transferencia,4,597.73,,Sede 3,,Oeste,Cambio de aceite,Mantenimiento,90.23,Diana Flores,La Molina,Nuevo,2025-12-16
+174,2026-05-28,1,,306.55,10,,Yape,4,512.66,Revisar,Sede 5,Independencia,Este,,Electricidad,306.55,Pedro Cruz,La Molina,Premium,2025-11-25
+175,2026-01-08,2,4.09,275.62,12,Presencial,Yape,3 aprox,471.41,,Sede 5,Independencia,Este,SuSpEnSiOn,MECANICA,275.62,Victor Navarro,CHORRILLOS,Premium,2025-03-25
+176,2026-04-22,4,9.94,77.01,8,Presencial,Efectivo,5,527.87,OK,SEDE 7,Chorrillos,Este,Alineamiento,Mantenimiento,77.01,Victor Navarro,CHORRILLOS,Premium,2025-03-25
+177,2026-01-05,5,3.55,77.01,8,App,Transferencia,3,290.56,   ,Sede 6,Independencia,Oeste,Alineamiento,Mantenimiento,77.01,Carlos Ramos,Ventanilla,Corporativo,2025-08-24
+178,2026-04-16,5,5.01,143.51,0,Presencial,  Yape ,3 aprox,406.67,OK,Sede 3,,Oeste,Revision electrica,,143.51,Sofia Cruz,Miraflores,Regular,2025-02-18
+179,2026-02-04,2,1.35,215.96,0,Telefono,Transferencia,1,296.49,,Sede 5,Independencia,Este,Afinamiento,Motor,215.96,Pedro Torres,Villa El Salvador,Regular, 2025-05-11 
+180,2026-06-19,2,3.89,215.96,10,WeB,Tarjeta,1 aprox, 366.98 ,OK,Sede 6,Independencia,Oeste,Afinamiento,Motor,215.96,Maria Sayan,Villa El Salvador,,2025-12-04
+181,2026/02/24,1,9.48,275.62,15,Presencial,,4,617.13,Promocion,Sede 4,Ate,  Este ,SuSpEnSiOn,MECANICA,275.62,Fiorella Cruz,chorrillos,Frecuente,2025-04-07
+182,2026-01-28,3,9.69,,12,App,TaRjEtA,2,694.31,OK,SEDE 7,Chorrillos,Este,,Electricidad,306.55,Sofia Navarro,Surco,Premium,2025-10-26
+183,2026-03-10,3,4.33,215.96,5,Telefono,Tarjeta,1,455.92,cliente frecuente,Sede 4,Ate,  Este ,Afinamiento,Motor,215.96,Carlos Salazar,Surco,Frecuente,2025-11-22
+184,2026-06-01,2,5.08,"111,57",12,Presencial,,3,363.98,Promocion,Sede 3,,Oeste,Diagnostico scanner,Diagnostico,111.57,  Carlos Paredes ,VeNtAnIlLa,Corporativo,2025-01-15
+185,2026-02-12,7,11.6,143.51,5,Presencial,Plin,2,669.53,Cliente frecuente,SEDE 7,Chorrillos,Este,Revision electrica,,143.51,Raul Salazar,Ate,Nuevo,2025/10/07
+186,2026-03-16,5,4.05,182.15,0,WHATSAPP,Tarjeta,3 aprox,437.31 aprox,Promocion,Sede 2,AtE,Sur,Frenos,Seguridad,182.15,ANDRE GOMEZ,Ate,,2025-01-10
+187,2026-06-21,7,3.77,111.57,0,Presencial,Efectivo,1, 333.18 ,,Sede 6,Independencia,Oeste,Diagnostico scanner,Diagnostico,111.57,,INDEPENDENCIA,Frecuente,2025-09-25
+188,2026-03-09,8,2.36 aprox,"482,37",5,web,Tarjeta,5,562.06,OK,Sede 2,AtE,Sur,Embrague,Mecanica,482.37,Carlos Ramos,Ventanilla,Corporativo,2025-08-24
+189,28-03-2026,7,8.04,275.62,10,WHATSAPP,Efectivo,4,660.91,Revisar,Sede 3,,Oeste,SuSpEnSiOn,MECANICA,275.62,Victor Reyes,San Juan de Lurigancho,Nuevo,2025-09-15
+190,2026-03-24,8,"3,87",275.62,0,WhatsApp,Transferencia,3,514.08,Revisar,Sede 6,Independencia,Oeste,SuSpEnSiOn,MECANICA,275.62,Diana  Quispe,Surco,Regular,2025-01-05
+191,2026-06-06,7 aprox,4.7,306.55,15,WhatsApp,Transferencia,2,592.84,Promocion,Sede 1,Ate,Sur,,Electricidad,306.55,  Carlos Paredes ,VeNtAnIlLa,Corporativo,2025-01-15
+192,2026-03-13,1,4.4,90.23,15,Web,Efectivo,1,306.19,OK,Sede 2,AtE,Sur,Cambio de aceite,Mantenimiento,90.23,Marco Rojas,Chorrillos,Regular,2025-11-23
+193,2026-03-09,6,10.53,182.15,5,Web,Transferencia,1,665.12,Cliente frecuente,Sede 5,Independencia,Este,Frenos,Seguridad,182.15,Marco Rojas,Chorrillos,Regular,2025-11-23
+194,2026-02-18,2,,482.37,0,App,Yape,4,717.01,PrOmOcIoN,Sede 3,,Oeste,Embrague,Mecanica,482.37,Maria Sayan,Villa El Salvador,,2025-12-04
+195,2026-01-18,8,8.44,482.37,0,App,Yape,5,796.83,OK,Sede 1,Ate,Sur,Embrague,Mecanica,482.37,Rocio Salazar,ATE,Frecuente,2025-01-05
+196,2026-06-25,2,10.22,182.15,5,WhatsApp,Transferencia,4,579.95,Cliente frecuente,Sede 2,AtE,Sur,Frenos,Seguridad,182.15,Jose Quispe,Ventanilla,Nuevo,2025-09-05
+197,2026-02-03,6,8.39,90.23,15,WhatsApp,Transferencia,2,420.53,Cliente frecuente,Sede 2,AtE,Sur,Cambio de aceite,Mantenimiento,90.23,Miguel Campos,Comas,Frecuente,2025-08-27
+198,2026-02-08,8,1.56,215.96,0,presencial,Transferencia, 5 ,372.5,Cliente frecuente,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Camila Rojas,La Molina,Frecuente,2025-12-26
+199,2026-02-14,2,9.44,306.55,20,Web,Plin, 1 ,661.33,OK,Sede 1,Ate,Sur,,Electricidad,306.55,Miguel Cruz,Ventanilla,Frecuente,2025-09-14
+200,15/04/2026,4,10.47,275.62,8,WhatsApp,Plin,4,755.4,Revisar,Sede 4,Ate,  Este ,SuSpEnSiOn,MECANICA,275.62,Pedro Cruz,La Molina,Premium,2025-11-25
+201,2026-05-01,5,10.99,275.62,0,  App ,Plin,3,,,SEDE 7,Chorrillos,Este,SuSpEnSiOn,MECANICA,275.62,Rocio Reyes,Villa El Salvador,nuevo,2025-10-23
+202,2026-06-03,2,4.46,77.01,8,Web,Efectivo,1,293.75 aprox,OK,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,  Carlos Paredes ,VeNtAnIlLa,Corporativo,2025-01-15
+203,2026-05-17,1,3.92,77.01,0,Telefono,Efectivo,4,251.79,PROMOCION,Sede 6,Independencia,Oeste,Alineamiento,Mantenimiento,77.01,Jorge Paredes,La Molina,Nuevo,2025-02-09
+204,2026-03-05,7,3.8,306.55,0,App,Transferencia,1,533.95,,Sede 1,Ate,Sur,,Electricidad,306.55,Claudia Salazar,San Miguel,  Nuevo ,2025-03-05
+205,2026-03-21,2,7.31,111.57,0,Telefono,Plin,5,455.72,,Sede 3,,Oeste,Diagnostico scanner,Diagnostico,111.57,Diego Sayan,  Independencia ,Corporativo,2025-07-10
+206,2026-05-16,2,11.68,"77,01",15,App,Tarjeta,2,585.16,Promocion,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Fiorella Cruz,chorrillos,Frecuente,2025-04-07
+207,,8,7.55,482.37,0,WhatsApp,Tarjeta,,785.99,Revisar,Sede 3,,Oeste,Embrague,Mecanica,482.37,Camila Ramos,Los Olivos,Premium,2025-09-15
+208,2026-05-05,4,10.56,182.15,0,App,Yape,5,578.96,,Sede 4,Ate,  Este ,Frenos,Seguridad,182.15,Carlos Cruz,Surco,Premium,2025-12-11
+209,2026-05-18,4,5.82,111.57,0,Presencial,Tarjeta,5,400.63,,Sede 6,Independencia,Oeste,Diagnostico scanner,Diagnostico,111.57,Camila Mendoza,Lima,Frecuente,2025-10-17
+210,2026-03-05,3,8.53,215.96,5,WhatsApp,Plin,3,574.46,Promocion,Sede 5,Independencia,Este,Afinamiento,Motor,215.96,Pedro Salazar,La Molina,Regular,28/08/2025
+211,2026-02-27,6,11.27,111.57,0,telefono,Plin,5,633.86,OK,Sede 2,AtE,Sur,Diagnostico scanner,Diagnostico,111.57,Andre Flores,Los Olivos,Regular,2025-05-23
+212,2026-03-13,7,9.18,482.37,20,Telefono,Yape,1,917.43,cliente frecuente,Sede 3,,Oeste,Embrague,Mecanica,482.37,Pedro Cruz,La Molina,Premium,2025-11-25
+213,2026-01-06,5, 1.81 ,215.96,10,App,Plin,5,331.51,OK,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Miguel Salazar,Miraflores,Premium,19-08-2025
+214, 2026-05-07 ,6,5.81,77.01, 8 ,WhatsApp,Yape,2,412.3,Cliente frecuente,Sede 5,Independencia,Este,Alineamiento,Mantenimiento,77.01,Claudia Quispe,San Juan de Lurigancho,Premium,2025-03-28
+215, 2026-06-16 ,7,2.79,143.51,12,WhatsApp,Transferencia,4,373.39,ok,SEDE 7,Chorrillos,Este,Revision electrica,,143.51,Diana Sayan,LA MOLINA,Corporativo,2025-05-16
+216,2026-06-23,1, 7.31 ,182.15,15,PRESENCIAL,Efectivo,1,388.28,,Sede 6,Independencia,Oeste,Frenos,Seguridad,182.15,Raul Torres,Ate,Corporativo,08-08-2025
+217,2026-05-17, 1 ,11.68, 215.96 ,0,WhatsApp,Tarjeta,1,611.75,,SEDE 7,Chorrillos,Este,Afinamiento,Motor,215.96,Luis Mendoza,surco,Frecuente,2025-07-20
+218,2026-03-14,2,31.99,306.55,8,App,Transferencia,3,1508.88,OK,Sede 6,Independencia,Oeste,,Electricidad,306.55,Carlos Ramos,Ventanilla,Corporativo,2025-08-24
+219,08/05/2026,4,2.13,111.57,0,App,Yape, 2 ,250.56,cliente frecuente,SEDE 7,Chorrillos,Este,Diagnostico scanner,Diagnostico,111.57,Sofia Cruz,Miraflores,Regular,2025-02-18
+220,2026-01-10,7, 5.84 ,90.23,5,Telefono,Tarjeta,2,379.53,OK,SEDE 7,Chorrillos,Este,Cambio de aceite,Mantenimiento,90.23,Diana  Soto,Lima,ReGuLaR,2025-02-19
+221,2026-04-12,8,9.72,111.57,0,telefono,Efectivo,3,576.02,Cliente frecuente,SEDE 7,Chorrillos,Este,Diagnostico scanner,Diagnostico,111.57,Rocio Ramos,Comas,Premium,2025-06-02
+222,2026-04-21,8,8.62,143.51,15,whatsapp,Tarjeta,1,1713.76,OK,Sede 6,Independencia,Oeste,Revision electrica,,143.51,Miguel Campos,Comas,Frecuente,2025-08-27
+223,2026-06-21,3,3.67,215.96,0,App,Transferencia,2,370.91,OK,Sede 6,Independencia,Oeste,Afinamiento,Motor,215.96,Jose Sayan,Los Olivos,Premium,03/06/2025
+224,2026-04-17,1,6.79,90.23,20,Web,Plin,4,421.02,OK,Sede 2,AtE,Sur,Cambio de aceite,Mantenimiento,90.23,Miguel Castillo,Los Olivos,Frecuente,2025-01-23
+225,2026-02-20,8 aprox,6.47,"275,62",10,Presencial,Tarjeta,2,628.62 aprox,Revisar,SEDE 7,Chorrillos,Este,SuSpEnSiOn,MECANICA,275.62,Jose Sayan,Los Olivos,Premium,03/06/2025
+226,2026-02-17,3,4.73,77.01,10,Presencial,Yape,5,297.52,Revisar,Sede 2,AtE,Sur,Alineamiento,Mantenimiento,77.01,Rocio Torres,,Corporativo,2025-10-08
+227,2026-03-24,8,8.58,111.57,12,Presencial,Efectivo,,619.88,Revisar,Sede 4,Ate,  Este ,Diagnostico scanner,Diagnostico,111.57,Diana Flores,La Molina,Nuevo,2025-12-16
+228,18-04-2026,8,3.6,306.55,15,Web,Tarjeta,3,453.38,OK,Sede 2,AtE,Sur,,Electricidad,306.55,Victor Reyes,LOS OLIVOS,Frecuente,2025-02-08
+229,08/01/2026,5,0.73,77.01,0,WhatsApp,Efectivo,2,"200,5",OK,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Raul Navarro,Ventanilla,Corporativo,2025-10-19
+230,2026-05-04,7,"11,78",215.96,20,Telefono,Tarjeta,5,734.16,Promocion,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Camila Castillo,Villa El Salvador,Premium,2025-10-18
+231,2026-03-28,6,10.02,143.51,10,Web,Transferencia,3,648.89,Revisar,Sede 5,Independencia,Este,Revision electrica,,143.51,Fiorella Castillo,Ate,Regular,2025-09-19
+232,,5,9.43,482.37,15,Presencial,Yape,5,855.46,Revisar,Sede 5,Independencia,Este,Embrague,Mecanica,482.37,Rocio Soto,San Juan de Lurigancho,Regular,2025-07-12
+233,2026-03-19,3,6.52, 306.55 ,0,  App ,Plin,3,549.34,Promocion,SEDE 7,Chorrillos,Este,,Electricidad,306.55,Diana Quispe,Villa El Salvador,Premium,2025-10-26
+234,2026-01-24,8,9.52,275.62, 12 ,WhatsApp,TaRjEtA,2,711.81,Revisar,SEDE 7,Chorrillos,Este,SuSpEnSiOn,MECANICA,275.62,Fiorella Castillo,Ate,Regular,2025-09-19
+235,2026-06-03,5,7.46,143.51,20,telefono,Transferencia,1,537.04,Revisar,SEDE 7,Chorrillos,Este,Revision electrica,,143.51,camila torres,Ventanilla,Regular,2025-01-26
+236,2026-04-20,5,9.6,482.37 aprox,8,App,Plin,4,777.26,,Sede 4,Ate,  Este ,Embrague,Mecanica,482.37,Andre Salazar,Chorrillos,Nuevo, 2025-07-12 
+237,2026-05-10,1,"7,53",111.57,15,Web,Plin,1,"457,15",,Sede 5,Independencia,Este,Diagnostico scanner,Diagnostico,111.57,Diana Sayan,LA MOLINA,Corporativo,2025-05-16
+238,2026-05-04,7,"11,78",215.96,20,Telefono,Tarjeta,5,734.16,Promocion,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Camila Castillo,Villa El Salvador,Premium,2025-10-18
+239,2026-04-05,4,1.33,182.15,15,Presencial,Yape,2,S/ 278.88,Promocion,Sede 1,Ate,Sur,Frenos,Seguridad,182.15,Jorge Paredes,La Molina,Nuevo,2025-02-09
+240,2026-05-12,8,10.65 aprox,182.15,0,WeB,Yape,5,664.18,OK,Sede 5,Independencia,Este,Frenos,Seguridad,182.15,Luis Flores,San Miguel,Nuevo,2025-08-19
+241,2026-01-18,6,10.74,77.01,0,Telefono,Yape,2,S/ 597.46,,SEDE 7,Chorrillos,Este,Alineamiento,Mantenimiento,77.01,Sofia Cruz,Miraflores,Regular,2025-02-18
+242,2026-06-15,6,1.6,111.57,15,WhatsApp,Efectivo,3,261.81,Revisar,Sede 2,AtE,Sur,Diagnostico scanner,Diagnostico,111.57,Andre Castillo,Ate,Nuevo,2025-11-03
+243,2026-05-23,3,0.71 aprox,111.57,8,Web,  Plin ,4,226.23 aprox,Promocion,Sede 3,,Oeste,Diagnostico scanner,Diagnostico,111.57,Diego Sayan,  Independencia ,Corporativo,2025-07-10
+244,2026-02-19,3,7.68,143.51,12,Presencial,Tarjeta,3,477.31,OK,Sede 6,Independencia,Oeste,Revision electrica,,143.51,Victor Reyes,LOS OLIVOS,Frecuente,2025-02-08
+245,2026-06-02,1,10.78,275.62,15,Telefono,TARJETA,1,638.77,Promocion,Sede 2,AtE,Sur,SuSpEnSiOn,MECANICA,275.62,Carlos Paredes,Independencia,Nuevo,2025-03-14
+246,22/02/2026,2,10.21, 482.37 ,20,Telefono,,1,812.34,Revisar,Sede 6,Independencia,Oeste,Embrague,Mecanica,482.37,Valeria Torres,Surco,Corporativo,2025-03-15
+247,2026-05-09,5,7.06,275.62,10,App,Tarjeta,2,557.02,,Sede 4,Ate,  Este ,SuSpEnSiOn,MECANICA,275.62,Sofia Cruz,Miraflores,Regular,2025-02-18
+248,2026-01-06,6,6.36,143.51,0,Telefono,Yape,1,462.18,Promocion,Sede 5,Independencia,Este,Revision electrica,,143.51,Claudia Gomez,Callao,  Frecuente ,2025-03-25
+249,2026-06-14,7,0.92,306.55,8 aprox,Telefono,Transferencia,1,383.38,Revisar,SEDE 7,Chorrillos,Este,,Electricidad,306.55,Diego Sayan,  Independencia ,Corporativo,2025-07-10
+250,2026/04/21,4, 4.9 ,275.62,15,WhatsApp,Tarjeta,3,494.37,Revisar,Sede 5,Independencia,Este,SuSpEnSiOn,MECANICA,275.62,Lucia Campos,Villa El Salvador,Frecuente,2025-08-03
+251,2026-02-01,4,0.68,77.01,20,App,Tarjeta, 1 ,180.29,Promocion,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Maria Reyes,Comas,Nuevo,2025-09-12
+252,2026-03-06,5 aprox,1.2 aprox,215.96,0,WhatsApp,Yape,4 aprox,337.55,,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Jorge Reyes,Independencia,Frecuente,2025-04-10
+253,2026-02-19,1,3.05,482.37,5,Telefono,Efectivo,4,581.23,OK,Sede 3,,Oeste,Embrague,Mecanica,482.37,Rocio Torres,,Corporativo,2025-10-08
+254,2026-01-14,1,10.48,111.57 aprox,20,Telefono,Yape,1,563.28,Cliente frecuente,Sede 1,Ate,Sur,Diagnostico scanner,Diagnostico,111.57,  Carlos Paredes ,VeNtAnIlLa,Corporativo,2025-01-15
+255,,7,2.21,182.15,0,Telefono,Tarjeta,5,414.63,,SEDE 7,Chorrillos,Este,Frenos,Seguridad,182.15,Jorge Reyes,Independencia,Frecuente,2025-04-10
+256,2026-03-26, 2 ,6.81,215.96,20,App,Tarjeta,2,425.69,Cliente frecuente,Sede 5,Independencia,Este,Afinamiento,Motor,215.96,Carlos Cruz,Surco,Premium,2025-12-11
+257,2026-04-27,2,4.43 aprox,90.23,0,WhatsApp,Efectivo,1,319.82,OK,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Marco Navarro,Chorrillos,Corporativo,2025-11-19
+258,2026-01-02,7,5.59, 143.51 ,20,Presencial,Yape,1,452.65,PrOmOcIoN,Sede 5,Independencia,Este,Revision electrica,,143.51,camila torres,Ventanilla,Regular,2025-01-26
+259, 2026-01-15 ,8,8.9,,0,WHATSAPP,Efectivo,2,596.57,Promocion,Sede 4,Ate,  Este ,Afinamiento,Motor,215.96,Sofia Cruz,Miraflores,Regular,2025-02-18
+260,2026-03-08,6,11.94,482.37, 20 ,Presencial,Tarjeta,2,944.22,Promocion,SEDE 7,Chorrillos,Este,Embrague,Mecanica,482.37,Pedro Torres,Villa El Salvador,Regular, 2025-05-11 
+261,2026-02-25,7,"6,82",215.96,20,  App ,Plin,5,512.06,,Sede 3,,Oeste,Afinamiento,Motor,215.96,Fiorella Salazar,San Miguel,Premium,2025-09-13
+262,02/03/2026,6,9.81,275.62,0,WhatsApp,Efectivo,1,674.66,Promocion,Sede 5,Independencia,Este,SuSpEnSiOn,MECANICA,275.62,Victor Navarro,CHORRILLOS,Premium,2025-03-25
+263,2026-03-09,7,1.46 aprox,182.15,5,Web,Yape,4,368.25,,Sede 3,,Oeste,Frenos,Seguridad,182.15,Raul Navarro,Ventanilla,Corporativo,2025-10-19
+264,2026-03-25,1,10.46,143.51,0,App,Yape,3,548.46,OK,Sede 1,Ate,Sur,Revision electrica,,143.51,Pedro Huaman,  San Miguel ,Corporativo,2025-11-25
+265,2026-04-15, 2 ,8.17,S/ 143.51,0,App,Transferencia,4,516.86,   ,Sede 2,AtE,Sur,Revision electrica,,143.51,Lucia Campos,Villa El Salvador,Frecuente,2025-08-03
+266,2026-03-09,8,2.36 aprox,"482,37",5,web,Tarjeta,5,562.06,OK,Sede 2,AtE,Sur,Embrague,Mecanica,482.37,Carlos Ramos,Ventanilla,Corporativo,2025-08-24
+267,2026-06-14,4,8.97, 482.37 ,0,  App ,PlIn,2,785.14,Cliente frecuente,SEDE 7,Chorrillos,Este,Embrague,Mecanica,482.37,DiEgO CaMpOs,Surco,Nuevo,2025-04-11
+268,2026-05-04,4,3.32,111.57,15,Presencial,Tarjeta,1,277.59,Promocion,Sede 2,AtE,Sur,Diagnostico scanner,Diagnostico,111.57,Sofia Torres,Chorrillos,NUEVO,2025-05-14
+269,2026-06-11,6,11.81,90.23,20,Telefono,Transferencia,3 aprox,590.53,OK,Sede 6,Independencia,Oeste,Cambio de aceite,Mantenimiento,90.23,Fiorella Salazar,San Miguel,Premium,2025-09-13
+270,2026-02-14,7,12.17,182.15,8,App,Plin,2,710.51,,Sede 5,Independencia,Este,Frenos,Seguridad,182.15,Jose Sayan,Los Olivos,Premium,03/06/2025
+271,2026-02-27,8,"1,61", 77.01 ,0,App,Plin,3,,,Sede 6,Independencia,Oeste,Alineamiento,Mantenimiento,77.01,Fiorella Salazar,San Miguel,Premium,2025-09-13
+272,2026-03-19,6,5.28,215.96,0,WhatsApp,Efectivo,5,481.68,,SEDE 7,Chorrillos,Este,Afinamiento,Motor,215.96,Jose Sayan,Los Olivos,Premium,03/06/2025
+273,2026-02-06,8,11.75,306.55,0,WhatsApp,Plin,5,848.87,,Sede 6,Independencia,Oeste,,Electricidad,306.55,Luis Mendoza,surco,Frecuente,2025-07-20
+274,2026-05-13, 5 ,7.92,111.57,12,WhatsApp,Tarjeta,3,447.18,Revisar,Sede 3,,Oeste,Diagnostico scanner,Diagnostico,111.57,LUIS TORRES,San Juan de Lurigancho,Premium,2025-04-20
+275,2026-04-27,2,4.03,182.15,15,Telefono,Plin,4,302.68,promocion,Sede 5,Independencia,Este,Frenos,Seguridad,182.15,Victor Navarro,CHORRILLOS,Premium,2025-03-25
+276,2026-02-21,2,2.18,143.51,0,Presencial,Plin,2,236.98 aprox,Revisar,Sede 3,,Oeste,Revision electrica,,143.51,Victor Reyes,San Juan de Lurigancho,Nuevo,2025-09-15
+277,2026-06-19,3,6.13,275.62,10,WhatsApp,Plin,2,517.17,Revisar,Sede 2,AtE,Sur,SuSpEnSiOn,MECANICA,275.62,Luis Mendoza,surco,Frecuente,2025-07-20
+278,2026-02-08,8,1.56,215.96,0,presencial,Transferencia, 5 ,372.5,Cliente frecuente,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Camila Rojas,La Molina,Frecuente,2025-12-26
+279,2026-05-18,5,"6,83",306.55,20,App,Yape,3,562.98,Revisar,Sede 1,Ate,Sur,,Electricidad,306.55,Diana Rojas,Callao,Regular,2025-02-05
+280,2026-01-02,3,9.54,306.55,0,WhatsApp,Efectivo,2,685.33,Cliente frecuente,SEDE 7,Chorrillos,Este,,Electricidad,306.55,Camila Rojas,La Molina,Frecuente,2025-12-26
+281,2026-01-06,2,1.08,306.55,10,Presencial,Yape,5,321.13,,Sede 2,AtE,Sur,,Electricidad,306.55,Jorge Reyes,Independencia,Frecuente,2025-04-10
+282,2026-04-18,7,"0,69",275.62,5,Telefono,Efectivo,4,411.03,Promocion,Sede 4,Ate,  Este ,SuSpEnSiOn,MECANICA,275.62,Marco Soto,San Juan de Lurigancho,,2025-06-21
+283,2026-06-21,3,6.49,90.23,,Web,,5,395.7,OK,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Camila Rojas,La Molina,Frecuente,2025-12-26
+284,2026-04-24,5,11.73,306.55,8,Web,Transferencia,3,853.38,Promocion,Sede 6,Independencia,Oeste,,Electricidad,306.55,Pedro Cruz,La Molina,Premium,2025-11-25
+285,2026-05-24,3,3.32,275.62,20,Presencial,Plin,3,410.42,Cliente frecuente,Sede 4,Ate,  Este ,SuSpEnSiOn,MECANICA,275.62,Fiorella Castillo,Ate,Regular,2025-09-19
+286, 2026-01-06 ,1,5.93 aprox,"77,01",20 aprox,App,Transferencia,2,328.22,Revisar,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Rocio Soto,San Juan de Lurigancho,Regular,2025-07-12
+287,2026-04-28,2 aprox,9.83,215.96,5,presencial,Yape,4,611.88,Revisar,Sede 6,Independencia,Oeste,Afinamiento,Motor,215.96,Miguel Campos,Ventanilla,Regular,2025-01-12
+288,15-04-2026,7,8.78 aprox,90.23,0,Web,PlIn,4,540.74,,Sede 4,Ate,  Este ,Cambio de aceite,Mantenimiento,90.23,Jose Quispe,Ventanilla,Nuevo,2025-09-05
+289,04/03/2026,4,6.16,111.57,0,WeB,Efectivo,2,442.18,Revisar,Sede 3,,Oeste,Diagnostico scanner,Diagnostico,111.57,Sofia Torres,Chorrillos,NUEVO,2025-05-14
+290,09/03/2026,8 aprox,3.74,143.51,5,WhatsApp,Tarjeta,1,368.31,,Sede 4,Ate,  Este ,Revision electrica,,143.51,camila torres,Ventanilla,Regular,2025-01-26
+291,2026/06/18,2,11.49,215.96,8,WEB,Efectivo,4,682.91,Revisar,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Claudia Quispe,San Juan de Lurigancho,Premium,2025-03-28
+292,2026/01/19,6,11.7,,0,Presencial,TARJETA,3,857.86,  Revisar ,Sede 6,Independencia,Oeste,Embrague,Mecanica,482.37,Diana  Soto,Lima,ReGuLaR,2025-02-19
+293,2026-03-15,4,4.14,275.62,0,Web,Yape,5,444.61,OK,Sede 5,Independencia,Este,SuSpEnSiOn,MECANICA,275.62,Rocio Torres,,Corporativo,2025-10-08
+294,2026-02-05,3,2.89,77.01,5,WhatsApp,Efectivo,5,,Cliente frecuente,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Pedro Cruz,La Molina,Premium,2025-11-25
+295,2026-04-09,1,"2,12",215.96,0,WhAtSaPp,Tarjeta,5 aprox,,revisar,Sede 6,Independencia,Oeste,Afinamiento,Motor,215.96,Valeria Torres,Surco,Corporativo,2025-03-15
+296,2026-02-05,8,7.82 aprox,90.23,5,Telefono,Transferencia,4,513.49,Promocion,Sede 5,Independencia,Este,Cambio de aceite,Mantenimiento,90.23,Camila Huaman,,Frecuente,2025/11/10
+297,2026/03/23,7,6.27,482.37,15,Presencial,Transferencia,2,"681,42",Promocion,Sede 4,Ate,  Este ,Embrague,Mecanica,482.37,Pedro Torres,Villa El Salvador,Regular, 2025-05-11 
+298,2026-01-23,2 aprox,0.74,77.01,12,Web,Transferencia,3,199.43,Promocion,SEDE 7,Chorrillos,Este,Alineamiento,Mantenimiento,77.01,Carlos Ramos,Ventanilla,Corporativo,2025-08-24
+299,2026-05-26,1,5.28,275.62, 5 ,Telefono,Yape,1,426.87,,Sede 6,Independencia,Oeste,SuSpEnSiOn,MECANICA,275.62,Jose Quispe,Ventanilla,Nuevo,2025-09-05
+300,2026-05-07,6,10.57,111.57,0,Telefono,Plin,2,596.57,,Sede 2,AtE,Sur,Diagnostico scanner,Diagnostico,111.57,Claudia Quispe,San Juan de Lurigancho,Premium,2025-03-28
+301,2026-01-28,2,7.71 aprox,275.62,0,Telefono,Tarjeta,1, 590.6 ,OK,Sede 6,Independencia,Oeste,SuSpEnSiOn,MECANICA,275.62,Rocio Reyes,Villa El Salvador,nuevo,2025-10-23
+302,2026-02-04,5,9.07,275.62,8,Telefono,,2,733.16,Revisar,Sede 3,,Oeste,SuSpEnSiOn,MECANICA,275.62,Camila Mendoza,Lima,Frecuente,2025-10-17
+303,2026-06-18,3,3.62 aprox,90.23,15,TeLeFoNo,Efectivo,,216.94,Promocion,Sede 4,Ate,  Este ,Cambio de aceite,Mantenimiento,90.23,,Miraflores,Nuevo,2025-09-07
+304,2026-05-24,2,6.21,77.01,20,App,Transferencia,4,356.33,,Sede 5,Independencia,Este,Alineamiento,Mantenimiento,77.01,Pedro Cruz,La Molina,Premium,2025-11-25
+305,2026-06-03,3,6.81,S/ 90.23,0,Web,Efectivo,5,396.53,Cliente frecuente,SEDE 7,Chorrillos,Este,Cambio de aceite,Mantenimiento,90.23,Claudia Gomez,Callao,  Frecuente ,2025-03-25
+306,2026-06-13,5,6.79,"275,62", 8 ,Presencial,Yape,5,627.14,,SEDE 7,Chorrillos,Este,SuSpEnSiOn,MECANICA,275.62,Miguel Salazar,Miraflores,Premium,19-08-2025
+307,2026-05-10,2,4.44,77.01,10,Telefono,transferencia,2,335.99,,Sede 6,Independencia,Oeste,Alineamiento,Mantenimiento,77.01,Pedro Flores,Comas,Premium,2025-04-07
+308,2026-03-20,7,8.99,275.62,12,App,  Tarjeta ,1,665.4,Revisar,Sede 2,AtE,Sur,SuSpEnSiOn,MECANICA,275.62,Fiorella Castillo,Ate,Regular,2025-09-19
+309,2026-05-23,2 aprox,4.38,182.15 aprox,0,Presencial,Efectivo,1,337.33,OK,Sede 3,,Oeste,Frenos,Seguridad,182.15,Maria Salazar,Callao,Nuevo,2025-07-16
+310,2026/06/22,2,9.72,482.37,12,Web,Yape,2,730.92,OK,Sede 2,AtE,Sur,Embrague,Mecanica,482.37,Pedro Torres,Villa El Salvador,Regular, 2025-05-11 
+311,2026-01-23,6,0.53,S/ 77.01, 0 ,WhatsApp,,,224.5,Cliente frecuente,SEDE 7,Chorrillos,Este,Alineamiento,Mantenimiento,77.01,  Diana Rojas ,Lima,Nuevo,2025-03-12
+312,2026-04-27,,1.99,215.96,12,WhatsApp,Transferencia,2,285.5,,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Fiorella Torres,LOS OLIVOS,Nuevo,2025-03-27
+313,2026-01-16,6,9.82,90.23,10,TeLeFoNo,Yape,2,597.44,Revisar,Sede 3,,Oeste,Cambio de aceite,Mantenimiento,90.23,Diana  Soto,Lima,ReGuLaR,2025-02-19
+314,2026-05-05,3,10.86, 182.15 ,0,Presencial,Transferencia,1,656.78,OK,Sede 1,Ate,Sur,Frenos,Seguridad,182.15,Diana  Quispe,Surco,Regular,2025-01-05
+315,2026-01-17,,5.05,182.15,0,WhatsApp,TARJETA,3,381.37,Promocion,SEDE 7,Chorrillos,Este,Frenos,Seguridad,182.15,Raul Salazar,Ate,Nuevo,2025/10/07
+316,2026-06-25,7,10.87,275.62,12,WhatsApp,Yape, 2 ,849.63,,Sede 1,Ate,Sur,SuSpEnSiOn,MECANICA,275.62,Pedro Huaman,  San Miguel ,Corporativo,2025-11-25
+317,2026-06-02,7,8.51,215.96,0,,Plin,1,669.64,Cliente frecuente,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Fiorella Salazar,San Miguel,Premium,2025-09-13
+318,2026-02-03,3, 1.8 ,215.96,5,WeB,Efectivo,,325.54,Cliente frecuente,Sede 5,Independencia,Este,Afinamiento,Motor,215.96,Sofia Torres,Chorrillos,NUEVO,2025-05-14
+319,2026-06-15,,2.15,,,App,Transferencia,4,432.8,Cliente frecuente,Sede 5,Independencia,Este,,Electricidad,306.55,Lucia Campos,Villa El Salvador,Frecuente,2025-08-03
+320,2026-01-09,5,4.42,482.37,15,Web,,5,595.67,Revisar,Sede 5,Independencia,Este,Embrague,Mecanica,482.37,Diana Flores,La Molina,Nuevo,2025-12-16
+321,2026-06-20,6,0.64,275.62,8,WeB,YaPe,2,319.72,,Sede 6,Independencia,Oeste,SuSpEnSiOn,MECANICA,275.62,Luis Flores,San Miguel,Nuevo,2025-08-19
+322,2026-03-28,2,"9,85",77.01 aprox,0 aprox,Presencial,Yape,2,S/ 532.8,Promocion,Sede 2,AtE,Sur,Alineamiento,Mantenimiento,77.01,Diana Quispe,Villa El Salvador,Premium,2025-10-26
+323,2026-02-12,4,2.85,111.57,,app,  Yape ,2,351.22,Revisar,Sede 1,Ate,Sur,Diagnostico scanner,Diagnostico,111.57,Rocio Reyes,Villa El Salvador,nuevo,2025-10-23
+324,2026-03-25,4,4.76,90.23,10,Web,transferencia,5,299.66 aprox,Revisar,Sede 6,Independencia,Oeste,Cambio de aceite,Mantenimiento,90.23,Luis Mendoza,surco,Frecuente,2025-07-20
+325,08/04/2026,7,10.7,182.15,0 aprox,Web,efectivo,1,715.71,OK,SEDE 7,Chorrillos,Este,Frenos,Seguridad,182.15,Fiorella Cruz,chorrillos,Frecuente,2025-04-07
+326,2026-02-28,7,10.36,111.57,0,TeLeFoNo,Plin,3,667.43,Promocion,Sede 5,Independencia,Este,Diagnostico scanner,Diagnostico,111.57,Pedro Huaman,  San Miguel ,Corporativo,2025-11-25
+327,2026-05-23,8,10.91,"275,62",10,Presencial,Yape,5,764.3,Revisar,Sede 6,Independencia,Oeste,SuSpEnSiOn,MECANICA,275.62,Miguel Ramos,Ventanilla,Premium,2025-04-21
+328,2026-06-03,7,1.18,77.01,20,  App ,Transferencia,5,318.4,,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Victor Reyes,San Juan de Lurigancho,Nuevo,2025-09-15
+329,2026-06-25,1,5.39,111.57,0 aprox,Web,Transferencia,5,357.02,Cliente frecuente,Sede 6,Independencia,Oeste,Diagnostico scanner,Diagnostico,111.57,Valeria Torres,Surco,Corporativo,2025-03-15
+330,2026-02-04,4,11.54,77.01,20,App,Tarjeta,3,627.37,,Sede 1,Ate,Sur,Alineamiento,Mantenimiento,77.01,Claudia Reyes,San Miguel,Premium,2025-01-17
+331,22-04-2026,2,0.62,306.55,15,WhatsApp,PLIN,3,232.07,Promocion,Sede 6,Independencia,Oeste,,Electricidad,306.55,Victor Reyes,San Juan de Lurigancho,Nuevo,2025-09-15
+332,2026-02-27,4 aprox,8.26,482.37,15,Web,Yape,5,2691.25,Revisar,Sede 3,,Oeste,Embrague,Mecanica,482.37,  Carlos Paredes ,VeNtAnIlLa,Corporativo,2025-01-15
+333,2026-02-02,4,8.77,482.37,20,Telefono,Tarjeta,5,798.92,Cliente frecuente,Sede 5,Independencia,Este,Embrague,Mecanica,482.37,Camila Rojas,La Molina,Frecuente,2025-12-26
+334,2026-03-28,7,6.38,90.23,0,Web,Yape, 2 ,476.46,OK,Sede 2,AtE,Sur,Cambio de aceite,Mantenimiento,90.23,Maria Reyes,Comas,Nuevo,2025-09-12
+335,2026-05-11,4,7.51,,0,WhatsApp,Plin,5,490.14,,Sede 6,Independencia,Oeste,Frenos,Seguridad,182.15,Luis Flores,San Miguel,Nuevo,2025-08-19
+336,2026-02-06,4,11.57,275.62,8,WhatsApp,Transferencia,3,759.59,,Sede 2,AtE,Sur,SuSpEnSiOn,MECANICA,275.62,camila torres,Ventanilla,Regular,2025-01-26
+337,2026-06-08,4,5.37,275.62, 0 ,App,Plin,4,546.42,Cliente frecuente,Sede 4,Ate,  Este ,SuSpEnSiOn,MECANICA,275.62,Miguel Campos,Ventanilla,Regular,2025-01-12
+338,10/03/2026,6, 3.8 ,"77,01",5,Web,Efectivo,5,292.19,,SEDE 7,Chorrillos,Este,Alineamiento,Mantenimiento,77.01,Raul Torres,Ate,Corporativo,08-08-2025
+339,2026-06-16,5,8.98, 306.55 ,10,,Tarjeta,4,742.68,Promocion,Sede 5,Independencia,Este,,Electricidad,306.55,Miguel Cruz,Ventanilla,Frecuente,2025-09-14
+340,2026-04-04, 3 ,1.88,143.51,10,Web,Tarjeta,1,294.85,ReViSaR,Sede 6,Independencia,Oeste,Revision electrica,,143.51,Fiorella Torres,LOS OLIVOS,Nuevo,2025-03-27
+341,15-03-2026,3,8.43,306.55,5 aprox,web,Plin,4,"680,77",,Sede 2,AtE,Sur,,Electricidad,306.55,Miguel Castillo,Los Olivos,Frecuente,2025-01-23
+342,2026-04-28, 6 ,8.46,306.55,20,Presencial,Yape,3,667.03,cliente frecuente,Sede 6,Independencia,Oeste,,Electricidad,306.55,Carlos Torres,Chorrillos,Premium,2025-04-01
+343,2026-05-11,4,6.17,111.57,,Presencial,YaPe,1,391.05,Cliente frecuente,Sede 4,Ate,  Este ,Diagnostico scanner,Diagnostico,111.57,Diana Quispe,Villa El Salvador,Premium,2025-10-26
+344,2026-04-09,5,9.47,143.51 aprox,15,App,Yape,,569.4,Revisar,Sede 5,Independencia,Este,Revision electrica,,143.51,Miguel Salazar,Miraflores,Premium,19-08-2025
+345,2026-02-18,4,9.64,,0 aprox,,Plin,1,668.64,Promocion,Sede 6,Independencia,Oeste,Afinamiento,Motor,215.96,Maria Reyes,Comas,Nuevo,2025-09-12
+346,2026-04-21,2,2.24,90.23,5,  App ,Plin,1,202.99,Revisar,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Miguel Salazar,Ate,Frecuente,2025-06-11
+347,2026-02-01,5,,111.57,0,Web,Tarjeta,2,581.77,Promocion,Sede 1,Ate,Sur,Diagnostico scanner,Diagnostico,111.57,Miguel Salazar,Ate,Frecuente,2025-06-11
+348,2026-05-05,2,10.98,306.55,15,App,Tarjeta,2,701.96,,Sede 4,Ate,  Este ,,Electricidad,306.55,Miguel Salazar,Miraflores,Premium,19-08-2025
+349,2026-06-12,7,8.99,S/ 215.96,10,App,Efectivo,4,630.03 aprox,Cliente frecuente,Sede 4,Ate,  Este ,Afinamiento,Motor,215.96,Sofia Torres,Chorrillos,NUEVO,2025-05-14
+350,2026-06-15,5,6.32,,8,  Presencial ,TRANSFERENCIA,2,600.46,Promocion,Sede 3,,Oeste,,Electricidad,306.55,Pedro Huaman,  San Miguel ,Corporativo,2025-11-25
+351,2026-04-16,5,5.58,275.62,8,Telefono,Yape,4,477.59,Cliente frecuente,SEDE 7,Chorrillos,Este,SuSpEnSiOn,MECANICA,275.62,,Miraflores,Nuevo,2025-09-07
+352,2026-03-10,5,7.0,77.01,10,Web,Efectivo,1,432.53,Promocion,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Rocio Torres,,Corporativo,2025-10-08
+353,2026-05-28,3 aprox,6.88,90.23,5,presencial,Plin,4,453.21 aprox,,Sede 6,Independencia,Oeste,Cambio de aceite,Mantenimiento,90.23,Pedro Flores,Comas,Premium,2025-04-07
+354,2026-05-17,3,4.04,77.01,0,  App ,Yape,5,243.34,,Sede 1,Ate,Sur,Alineamiento,Mantenimiento,77.01,Diego Sayan,  Independencia ,Corporativo,2025-07-10
+355,2026/04/10,4,11.7 aprox,215.96,20,,Plin,2,608.22 aprox,,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Fiorella Torres,LOS OLIVOS,Nuevo,2025-03-27
+356,2026-06-14,8,1.11,275.62,0,Presencial,Efectivo,4,464.29,,Sede 5,Independencia,Este,SuSpEnSiOn,MECANICA,275.62,Sofia Torres,Chorrillos,NUEVO,2025-05-14
+357, 2026-06-16 ,5,4.1,77.01,8,PrEsEnCiAl,,4,274.82,Cliente frecuente,Sede 1,Ate,Sur,Alineamiento,Mantenimiento,77.01,Marco Rojas,Chorrillos,Regular,2025-11-23
+358,2026-06-28,2,10.82,275.62, 10 ,App,Transferencia,4,601.02,,Sede 2,AtE,Sur,SuSpEnSiOn,MECANICA,275.62,Miguel Cruz,Ventanilla,Frecuente,2025-09-14
+359,2026-06-16,6,10.17,275.62 aprox,15,App,Tarjeta,3,716.34,Revisar,Sede 6,Independencia,Oeste,SuSpEnSiOn,MECANICA,275.62,Carlos Paredes,Independencia,Nuevo,2025-03-14
+360,2026-06-07,4,"2,26",77.01,0,Presencial,Transferencia,5,245.18,OK,Sede 5,Independencia,Este,Alineamiento,Mantenimiento,77.01,Maria Salazar,Callao,Nuevo,2025-07-16
+361,2026-04-04,2,4.12,90.23,10,Web,Tarjeta,1,"310,07",Cliente frecuente,Sede 3,,Oeste,Cambio de aceite,Mantenimiento,90.23,Fiorella Torres,LOS OLIVOS,Nuevo,2025-03-27
+362,2026-05-14,3,8.56,215.96,12,WhatsApp,Tarjeta,5,577.9,Promocion,Sede 4,Ate,  Este ,Afinamiento,Motor,215.96,Elena Reyes,COMAS,Nuevo,2025-05-21
+363,2026-01-01,4,6.47,90.23,15,Presencial,transferencia,2,365.28,,Sede 6,Independencia,Oeste,Cambio de aceite,Mantenimiento,90.23,Elena Reyes,COMAS,Nuevo,2025-05-21
+364,2026-03-15,4,11.39,275.62,0,WhatsApp,  Plin ,3,"780,7",Revisar,Sede 5,Independencia,Este,SuSpEnSiOn,MECANICA,275.62,Claudia Quispe,San Juan de Lurigancho,Premium,2025-03-28
+365,2026-04-28,,,90.23,5,Telefono,Tarjeta,1,658.96,OK,Sede 4,Ate,  Este ,Cambio de aceite,Mantenimiento,90.23,Carlos Salazar,Surco,Frecuente,2025-11-22
+366,2026-04-13,7 aprox,9.26,182.15,,Presencial,Tarjeta,2,641.42,Promocion,Sede 6,Independencia,Oeste,Frenos,Seguridad,182.15,LUIS TORRES,San Juan de Lurigancho,Premium,2025-04-20
+367,2026-02-09,6,"9,55",143.51,8,App,Tarjeta, 3 ,611.48,  OK ,Sede 1,Ate,Sur,Revision electrica,,143.51,Marco Navarro,Chorrillos,Corporativo,2025-11-19
+368,2026-05-16,2,9.52,,12,Presencial,Yape,2,570.48,  Promocion ,Sede 3,,Oeste,Frenos,Seguridad,182.15,Diana Sayan,LA MOLINA,Corporativo,2025-05-16
+369,2026-02-13,4,9.21,143.51,15,App,Efectivo,2,562.79,,Sede 4,Ate,  Este ,Revision electrica,,143.51,LUIS TORRES,San Juan de Lurigancho,Premium,2025-04-20
+370,2026-01-03,5,8.26, 143.51 ,8,App,Yape,1,587.68,  Cliente frecuente ,Sede 5,Independencia,Este,Revision electrica,,143.51,DiEgO CaMpOs,Surco,Nuevo,2025-04-11
+371,2026-01-06,8,"9,98",275.62,5,Web,Tarjeta,1,741.55,,Sede 4,Ate,  Este ,SuSpEnSiOn,MECANICA,275.62,Miguel Salazar,Ate,Frecuente,2025-06-11
+372,2026-03-07,6,7.08,275.62,8,,Tarjeta,5,602.29,OK,Sede 6,Independencia,Oeste,SuSpEnSiOn,MECANICA,275.62,Sofia Navarro,Surco,Premium,2025-10-26
+373,2026-06-04,7,2.47,90.23, 0 ,Web,Transferencia,5,,OK,Sede 4,Ate,  Este ,Cambio de aceite,Mantenimiento,90.23,Fiorella Cruz,chorrillos,Frecuente,2025-04-07
+374,2026-02-25,2,4.68,77.01,0,Presencial,  Tarjeta ,3,305.44,Cliente frecuente,SEDE 7,Chorrillos,Este,Alineamiento,Mantenimiento,77.01,Jorge Reyes,Independencia,Frecuente,2025-04-10
+375,2026-03-08,6,4.75,,5,Telefono,Plin,,587.67,OK,Sede 1,Ate,Sur,Embrague,Mecanica,482.37,Diana Quispe,Villa El Salvador,Premium,2025-10-26
+376,2026-05-10,6,0.82,143.51,10,Web,,5,286.04,Revisar,Sede 6,Independencia,Oeste,Revision electrica,,143.51,Valeria Torres,Surco,Corporativo,2025-03-15
+377,2026-03-24,7,0.62,182.15 aprox,12,Presencial,,5,1151.96,OK,Sede 3,,Oeste,Frenos,Seguridad,182.15,Sofia Torres,Chorrillos,NUEVO,2025-05-14
+378,2026-05-15,7,2.55,S/ 482.37,5,Presencial,Plin,5,560.04,OK,Sede 4,Ate,  Este ,Embrague,Mecanica,482.37,Pedro Salazar,La Molina,Regular,28/08/2025
+379,2026-05-28,8,3.16,77.01, 15 ,Presencial,Transferencia,1,395.83,Revisar,Sede 4,Ate,  Este ,Alineamiento,Mantenimiento,77.01,Victor Gomez,Lima,Regular,2025/05/07
+380,2026-03-16,1,6.17,215.96,,App,Efectivo,1,475.36,revisar,Sede 4,Ate,  Este ,Afinamiento,Motor,215.96,Marco Soto,San Juan de Lurigancho,,2025-06-21
+381,2026-05-05,3,"7,14",77.01, 0 ,Web,TARJETA,5,412.33,Revisar,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Valeria Torres,Surco,Corporativo,2025-03-15
+382,2026-04-27,8,"6,73",143.51,8,App,TrAnSfErEnCiA,5,513.41,Promocion,Sede 6,Independencia,Oeste,Revision electrica,,143.51,Miguel Castillo,Los Olivos,Frecuente,2025-01-23
+383,2026-05-12,3,3.67,111.57,5,Web,efectivo,4,313.03,,Sede 1,Ate,Sur,Diagnostico scanner,Diagnostico,111.57,Fiorella Cruz,chorrillos,Frecuente,2025-04-07
+384,2026-05-25,5 aprox,7.42,306.55,12,WhatsApp,Tarjeta,5,622.31,OK,Sede 4,Ate,  Este ,,Electricidad,306.55,Pedro Cruz,La Molina,Premium,2025-11-25
+385,2026-04-08,4,6.63,215.96,0,Presencial,Efectivo,2,519.13,,Sede 3,,Oeste,Afinamiento,Motor,215.96,Diana Quispe,Villa El Salvador,Premium,2025-10-26
+386,2026-04-03,6,0.62,143.51,5,Presencial,Efectivo,1,S/ 311.22,OK,Sede 4,Ate,  Este ,Revision electrica,,143.51,LUIS TORRES,San Juan de Lurigancho,Premium,2025-04-20
+387,2026-04-10,7,8.66,143.51,5,  Presencial ,Transferencia,5,610.9,Revisar,Sede 2,AtE,Sur,Revision electrica,,143.51,Claudia Reyes,San Miguel,Premium,2025-01-17
+388,2026-06-21,4,11.15,182.15,12,WhatsApp,Tarjeta,3,667.83,,Sede 3,,Oeste,Frenos,Seguridad,182.15,Victor Gomez,Lima,Regular,2025/05/07
+389,2026-03-15,,2.4,182.15,0,Web,Tarjeta,4,237.2,OK,Sede 6,Independencia,Oeste,Frenos,Seguridad,182.15,Miguel Campos,Ventanilla,Regular,2025-01-12
+390,2026-02-17,1,10.55,90.23,0,Web,Efectivo,3,547.41,Revisar,Sede 5,Independencia,Este,Cambio de aceite,Mantenimiento,90.23,Jose Sayan,Los Olivos,Premium,03/06/2025
+391,2026-06-01,8,3.11,90.23,12,WEB,Tarjeta,2,344.37,OK,Sede 2,AtE,Sur,Cambio de aceite,Mantenimiento,90.23,Fiorella Salazar,San Miguel,Premium,2025-09-13
+392,2026-05-14,2,0.84,275.62,0,App,Plin, 5 ,352.3,,SEDE 7,Chorrillos,Este,SuSpEnSiOn,MECANICA,275.62,,INDEPENDENCIA,Frecuente,2025-09-25
+393,2026-04-02,6,"6,57",215.96,0,Presencial,Yape,2,577.05,Cliente frecuente,Sede 6,Independencia,Oeste,Afinamiento,Motor,215.96,,Miraflores,Nuevo,2025-09-07
+394,,2,"34,47",90.23,20,WhatsApp,Tarjeta,2,1413.64,,Sede 3,,Oeste,Cambio de aceite,Mantenimiento,90.23,LUIS TORRES,San Juan de Lurigancho,Premium,2025-04-20
+395, 2026-03-05 ,2,11.48,S/ 215.96,15,WhatsApp,Tarjeta,5,723.54,Revisar,Sede 4,Ate,  Este ,Afinamiento,Motor,215.96,Victor Gomez,Lima,Regular,2025/05/07
+396,2026-04-21,6,9.37,S/ 111.57,12,WhatsApp,Transferencia,3,563.91,Promocion,SEDE 7,Chorrillos,Este,Diagnostico scanner,Diagnostico,111.57,camila torres,Ventanilla,Regular,2025-01-26
+397,2026-05-04,1,8.25,90.23,0,Telefono,Tarjeta,2,S/ 468.9,,Sede 4,Ate,  Este ,Cambio de aceite,Mantenimiento,90.23,Carlos Cruz,Surco,Premium,2025-12-11
+398,2026-05-13,8,1.45,90.23, 12 ,WhatsApp,Efectivo,2,290.94,Cliente frecuente,Sede 5,Independencia,Este,Cambio de aceite,Mantenimiento,90.23,Andre Flores,Los Olivos,Regular,2025-05-23
+399,2026/03/16,7,6.92,275.62,12,Presencial,Yape,,647.68,Promocion,Sede 2,AtE,Sur,SuSpEnSiOn,MECANICA,275.62,Carlos Torres,Chorrillos,Premium,2025-04-01
+400,13/01/2026,5,2.91,111.57, 0 ,Telefono,Efectivo,5,317.46,,Sede 6,Independencia,Oeste,Diagnostico scanner,Diagnostico,111.57,Diego Flores,San Miguel,Corporativo,2025-03-07
+401,2026-03-04,4,10.25 aprox,215.96 aprox,15 aprox,web,Plin,4,691.96,Promocion,Sede 3,,Oeste,Afinamiento,Motor,215.96,Pedro Cruz,La Molina,Premium,2025-11-25
+402,2026-05-18,1,3.93,275.62,20,Telefono,Transferencia,4,378.49,Cliente frecuente,Sede 4,Ate,  Este ,SuSpEnSiOn,MECANICA,275.62,Rocio Soto,San Juan de Lurigancho,Regular,2025-07-12
+403,2026-01-13,5,3.78,482.37,0,App,Plin,5,629.43,,Sede 3,,Oeste,Embrague,Mecanica,482.37,Diana Rojas,Callao,Regular,2025-02-05
+404,2026-04-24,2,9.2,143.51,0,WhatsApp,Plin,5,472.95,Promocion,Sede 5,Independencia,Este,Revision electrica,,143.51,Pedro Huaman,  San Miguel ,Corporativo,2025-11-25
+405,2026-06-21,6,10.48,482.37,0,Presencial,  Efectivo ,4,880.09,OK,SEDE 7,Chorrillos,Este,Embrague,Mecanica,482.37,Diana  Soto,Lima,ReGuLaR,2025-02-19
+406,2026-04-02,1,11.32,182.15,0,Telefono,Yape,2,585.57,Promocion,Sede 2,AtE,Sur,Frenos,Seguridad,182.15,,Miraflores,Nuevo,2025-09-07
+407,2026-05-08, 4 ,5.64,182.15,0,Web,Efectivo,3,471.33,Cliente frecuente,Sede 2,AtE,Sur,Frenos,Seguridad,182.15,Jorge Reyes,Independencia,Frecuente,2025-04-10
+408,2026-03-19,5,3.89,,20,Presencial,Transferencia,5,320.75,Cliente frecuente,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Fiorella Salazar,San Miguel,Premium,2025-09-13
+409,2026-01-04,5,4.71,306.55,10,Telefono,Yape,2, 468.37 ,,Sede 1,Ate,Sur,,Electricidad,306.55,Raul Navarro,Ventanilla,Corporativo,2025-10-19
+410,2026-04-02,2,,306.55,15,Presencial,Transferencia,4,402.3,,Sede 4,Ate,  Este ,,Electricidad,306.55,Rocio Reyes,Villa El Salvador,nuevo,2025-10-23
+411,2026-05-10,3,9.01,215.96,20,App,TRANSFERENCIA,2,556.39,Revisar,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Diana  Quispe,Surco,Regular,2025-01-05
+412,2026-01-23,8,7.59,90.23,12,Telefono,Plin,5,471.66 aprox,Cliente frecuente,SEDE 7,Chorrillos,Este,Cambio de aceite,Mantenimiento,90.23,Marco Navarro,Chorrillos,Corporativo,2025-11-19
+413,2026-05-05,7,9.56,482.37,10,WhatsApp,yape,5,884.01,Cliente frecuente,SEDE 7,Chorrillos,Este,Embrague,Mecanica,482.37,Pedro Torres,Villa El Salvador,Regular, 2025-05-11 
+414,2026-05-08,3,2.56,275.62,12,APP,Efectivo,4,418.01,PrOmOcIoN,Sede 3,,Oeste,SuSpEnSiOn,MECANICA,275.62,Rocio Soto,San Juan de Lurigancho,Regular,2025-07-12
+415,2026/05/20,5,8.32,215.96,0,Web,Tarjeta,1,552.73,OK,SEDE 7,Chorrillos,Este,Afinamiento,Motor,215.96,Claudia Salazar,San Miguel,  Nuevo ,2025-03-05
+416,2026-04-01,7,6.54 aprox,143.51,10,  Presencial ,,,517.03,OK,Sede 3,,Oeste,Revision electrica,,143.51,Diego Sayan,  Independencia ,Corporativo,2025-07-10
+417,2026-04-22,5,2.27,143.51,8,App,TRANSFERENCIA,2,340.04,,Sede 2,AtE,Sur,Revision electrica,,143.51,camila torres,Ventanilla,Regular,2025-01-26
+418,2026-04-05,1,1.88,77.01,8,App,Tarjeta,3,224.36,OK,Sede 5,Independencia,Este,Alineamiento,Mantenimiento,77.01,Fiorella Salazar,San Miguel,Premium,2025-09-13
+419,2026-02-22,6,7.42,90.23,20,  Presencial ,Tarjeta,3,S/ 433.31,Revisar,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,camila torres,Ventanilla,Regular,2025-01-26
+420,2026-02-19,5,7.8,306.55,0,Telefono,Transferencia,5, 621.83 ,Cliente frecuente,Sede 3,,Oeste,,Electricidad,306.55,  Carlos Paredes ,VeNtAnIlLa,Corporativo,2025-01-15
+421,2026-02-21,5,5.56,111.57,0,WhatsApp,Transferencia,4,457.92,  Cliente frecuente ,Sede 6,Independencia,Oeste,Diagnostico scanner,Diagnostico,111.57,Diego Sayan,  Independencia ,Corporativo,2025-07-10
+422,2026-01-16,6,3.61,482.37,0,WhatsApp,Yape,3,621.99,Promocion,Sede 3,,Oeste,Embrague,Mecanica,482.37,Rocio Mendoza,San Juan de Lurigancho,Nuevo,2025-04-10
+423,2026-06-27,1,4.57,,5,APP,Efectivo,3,445.71,OK,SEDE 7,Chorrillos,Este,,Electricidad,306.55,Maria Sayan,Villa El Salvador,,2025-12-04
+424, 2026-06-03 ,5,3.85,111.57,0,,Transferencia,2,361.87,OK,Sede 3,,Oeste,Diagnostico scanner,Diagnostico,111.57,Raul Reyes,Ventanilla,PREMIUM,2025-11-24
+425,2026-03-23,4,10.51,111.57,,Web,Transferencia,2,584.22,,Sede 4,Ate,  Este ,Diagnostico scanner,Diagnostico,111.57,Diana Rojas,Callao,Regular,2025-02-05
+426,2026-03-13,8,11.67,306.55,0,App,YaPe,2,770.32,,Sede 1,Ate,Sur,,Electricidad,306.55,Pedro Torres,Villa El Salvador,Regular, 2025-05-11 
+427,2026-03-20, 7 ,4.0,275.62,0,Presencial,Tarjeta,2,499.99,OK,SEDE 7,Chorrillos,Este,SuSpEnSiOn,MECANICA,275.62,Miguel Ramos,Ventanilla,Premium,2025-04-21
+428,2026-03-08,6,6.37,"111,57",10,WhatsApp,Transferencia,2,S/ 470.73,,Sede 4,Ate,  Este ,Diagnostico scanner,Diagnostico,111.57,Carlos Ramos,Ventanilla,Corporativo,2025-08-24
+429,2026-05-04,6,10.51,482.37,20,,,,891.56,Revisar,Sede 4,Ate,  Este ,Embrague,Mecanica,482.37,Claudia Gomez,Callao,  Frecuente ,2025-03-25
+430,2026/04/11,5,7.53,275.62,20 aprox,WhatsApp,Efectivo,2,579.31,Revisar,Sede 5,Independencia,Este,SuSpEnSiOn,MECANICA,275.62,Victor Gomez,Lima,Regular,2025/05/07
+431, 2026-01-15 ,5,8.29,182.15,15,Presencial,  Transferencia ,2,541.08,,Sede 4,Ate,  Este ,Frenos,Seguridad,182.15,Jorge Reyes,Independencia,Frecuente,2025-04-10
+432,2026-01-16,7,6.89,215.96,20,Presencial,TRANSFERENCIA,2,560.93,Cliente frecuente,Sede 5,Independencia,Este,Afinamiento,Motor,215.96,Camila Rojas,La Molina,Frecuente,2025-12-26
+433,2026-06-16,1,0.99,111.57,5,WhatsApp,TRANSFERENCIA,5,,Promocion,Sede 6,Independencia,Oeste,Diagnostico scanner,Diagnostico,111.57,Rocio Mendoza,San Juan de Lurigancho,Nuevo,2025-04-10
+434,08/02/2026,8,5.5,"77,01",0,WhatsApp,Tarjeta,5,404.99,,SEDE 7,Chorrillos,Este,Alineamiento,Mantenimiento,77.01,Fiorella Cruz,chorrillos,Frecuente,2025-04-07
+435,2026-06-19,4,9.49 aprox,215.96,0,Telefono,YaPe,3,603.26,Promocion,SEDE 7,Chorrillos,Este,Afinamiento,Motor,215.96,,INDEPENDENCIA,Frecuente,2025-09-25
+436,2026-06-07,8,5.94,90.23 aprox,0,WhatsApp,Transferencia,5,471.93,Cliente frecuente,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Andre Mendoza,Los Olivos,Nuevo,2025-09-01
+437,2026-06-04,4, 5.16 ,77.01,15,Presencial,  Efectivo ,5,1136.61,  Promocion ,SEDE 7,Chorrillos,Este,Alineamiento,Mantenimiento,77.01,Rocio Mendoza,San Juan de Lurigancho,Nuevo,2025-04-10
+438,2026-01-28,8,10.21,182.15,12,WhatsApp,Transferencia,,675.47,,Sede 2,AtE,Sur,Frenos,Seguridad,182.15,Victor Castillo,Villa El Salvador,Premium,2025-01-13
+439,2026-03-04,,10.46,215.96,0,App,EFECTIVO,3,640.22,OK,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Carlos Torres,Chorrillos,Premium,2025-04-01
+440,2026-01-18,3,5.74,306.55,12,Presencial,Plin,2,532.63,Cliente  frecuente,Sede 5,Independencia,Este,,Electricidad,306.55,,INDEPENDENCIA,Frecuente,2025-09-25
+441,2026-05-04, 7 ,3.07,215.96,15,Telefono,Transferencia,1,422.45,Revisar,Sede 3,,Oeste,Afinamiento,Motor,215.96,Claudia Reyes,San Miguel,Premium,2025-01-17
+442,2026-01-16,6,3.61,482.37,0,WhatsApp,Yape,3,621.99,Promocion,Sede 3,,Oeste,Embrague,Mecanica,482.37,Rocio Mendoza,San Juan de Lurigancho,Nuevo,2025-04-10
+443,2026-05-19,1,11.54,215.96,12,Telefono,Efectivo,1,S/ 651.06,Revisar,Sede 1,Ate,Sur,Afinamiento,Motor,215.96,Andre Castillo,Ate,Nuevo,2025-11-03
+444,2026-04-05,6,6.66,77.01,8,Telefono,YaPe,3,412.57,Revisar,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Fiorella Torres,LOS OLIVOS,Nuevo,2025-03-27
+445, 2026-06-07 ,5,10.88,215.96,5,App,  Transferencia ,3,717.75,OK,SEDE 7,Chorrillos,Este,Afinamiento,Motor,215.96,Maria Sayan,Villa El Salvador,,2025-12-04
+446,2026-01-25,7,44.53,90.23,0,WeB,Tarjeta,1,1919.05,Promocion,Sede 6,Independencia,Oeste,Cambio de aceite,Mantenimiento,90.23,Diana Sayan,LA MOLINA,Corporativo,2025-05-16
+447,2026-04-20,6,8.23,90.23,0,WhatsApp,Tarjeta,5,500.76,OK,Sede 2,AtE,Sur,Cambio de aceite,Mantenimiento,90.23,Pedro Flores,Comas,Premium,2025-04-07
+448,2026-05-17,8,1.19,90.23,0,Telefono,Yape,1,342.3,Cliente frecuente,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Marco Navarro,Chorrillos,Corporativo,2025-11-19
+449,2026-05-23,1,0.8,182.15,12,Web,Yape,4,221.79,OK,Sede 4,Ate,  Este ,Frenos,Seguridad,182.15,Claudia Reyes,San Miguel,Premium,2025-01-17
+450,2026-02-11,3,4.29,182.15,5,WhatsApp,Transferencia,2,348.78,Promocion,Sede 3,,Oeste,Frenos,Seguridad,182.15,Andre Castillo,Ate,Nuevo,2025-11-03
+451,2026-02-06,3 aprox,10.94,275.62,15,WhatsApp,Plin, 4 ,675.01,,Sede 3,,Oeste,SuSpEnSiOn,MECANICA,275.62,Miguel Campos,Comas,Frecuente,2025-08-27
+452,2026-03-19,1,3.26,306.55,15,Web,Tarjeta,,399.39,OK,Sede 6,Independencia,Oeste,,Electricidad,306.55,Victor Reyes,LOS OLIVOS,Frecuente,2025-02-08
+453,2026-04-25,8,10.63,306.55,0,WhatsApp,Transferencia,5,787.72,,Sede 4,Ate,  Este ,,Electricidad,306.55,Miguel Campos,Comas,Frecuente,2025-08-27
+454,2026-03-15,2,1.56,482.37,8,Telefono,Tarjeta,4,437.45,Promocion,Sede 1,Ate,Sur,Embrague,Mecanica,482.37,Sofia Cruz,Miraflores,Regular,2025-02-18
+455,2026-05-12,7,,90.23,8,Presencial,Efectivo,1,"294,16",Cliente frecuente,Sede 2,AtE,Sur,Cambio de aceite,Mantenimiento,90.23,Pedro Salazar,La Molina,Regular,28/08/2025
+456,2026-03-15,8,7.72,215.96,0,App,Plin,4,623.11,Revisar,Sede 6,Independencia,Oeste,Afinamiento,Motor,215.96,Miguel Campos,Ventanilla,Regular,2025-01-12
+457,2026-04-09,6,4.86,S/ 306.55,0,App,transferencia,5,553.35,Revisar,SEDE 7,Chorrillos,Este,,Electricidad,306.55,Lucia Campos,Villa El Salvador,Frecuente,2025-08-03
+458,2026-03-28,6,3.38,306.55,5,WhatsApp,Yape,1,453.02,ok,SEDE 7,Chorrillos,Este,,Electricidad,306.55,,INDEPENDENCIA,Frecuente,2025-09-25
+459,2026-04-07,6,11.16,306.55,0,App,Yape,1,733.3,Revisar,Sede 1,Ate,Sur,,Electricidad,306.55,Andre Mendoza,Los Olivos,Nuevo,2025-09-01
+460,,2, 5.61 ,143.51 aprox,15,Telefono,,2,451.64,Revisar,Sede 2,AtE,Sur,Revision electrica,,143.51,Rocio Torres,,Corporativo,2025-10-08
+461,2026-03-03,2,3.35,90.23,0,App,YaPe,4,277.13,Promocion,Sede 3,,Oeste,Cambio de aceite,Mantenimiento,90.23,Miguel Ramos,Ventanilla,Premium,2025-04-21
+462,2026-05-06,7,9.55,143.51,10,web,Yape,2,602.31,Cliente frecuente,Sede 5,Independencia,Este,Revision electrica,,143.51,Jose Sayan,Los Olivos,Premium,03/06/2025
+463,2026-02-13,3,10.04,306.55,0,Telefono,TRANSFERENCIA,3,670.93,,Sede 2,AtE,Sur,,Electricidad,306.55,Lucia Campos,Villa El Salvador,Frecuente,2025-08-03
+464,2026-06-14,1, 3.62 ,482.37,5,WhatsApp,plin,,475.08,Revisar,Sede 1,Ate,Sur,Embrague,Mecanica,482.37,Diana Flores,La Molina,Nuevo,2025-12-16
+465,2026-01-25,2,8.01,182.15,0,WhatsApp,Tarjeta,2,576.12,,Sede 6,Independencia,Oeste,Frenos,Seguridad,182.15,Raul Salazar,Ate,Nuevo,2025/10/07
+466,2026-04-22,5,0.65,306.55,15,Presencial,Transferencia,1,363.71,,Sede 3,,Oeste,,Electricidad,306.55,DiEgO CaMpOs,Surco,Nuevo,2025-04-11
+467,2026-01-20,6,1.62,482.37, 15 ,Web,Yape,5,514.06,OK,SEDE 7,Chorrillos,Este,Embrague,Mecanica,482.37,Carlos Cruz,Surco,Premium,2025-12-11
+468,2026-03-26,1,2.31,182.15,15,WhatsApp,Tarjeta,2,313.74,Revisar,SEDE 7,Chorrillos,Este,Frenos,Seguridad,182.15,,INDEPENDENCIA,Frecuente,2025-09-25
+469,2026-01-06,4,6.05,182.15, 0 ,APP,Tarjeta,1,432.15,,Sede 4,Ate,  Este ,Frenos,Seguridad,182.15,Diego Flores,San Miguel,Corporativo,2025-03-07
+470,27/06/2026,4 aprox,8.48,215.96,0,WhatsApp,Plin,3, 588.71 ,Promocion,Sede 6,Independencia,Oeste,Afinamiento,Motor,215.96,Carlos Cruz,Surco,Premium,2025-12-11
+471,2026-06-10,5, 8.61 ,S/ 111.57,0,WhatsApp,Efectivo,2,1931.45,Promocion,Sede 2,AtE,Sur,Diagnostico scanner,Diagnostico,111.57,Luis Flores,San Miguel,Nuevo,2025-08-19
+472,2026-06-07,3,1.05,143.51,20,WhatsApp,Transferencia,5,216.32,ReViSaR,Sede 6,Independencia,Oeste,Revision electrica,,143.51,ANDRE GOMEZ,Ate,,2025-01-10
+473,2026-01-08,6,10.62,"275,62",10,App,  Efectivo ,5,743.24,OK,Sede 4,Ate,  Este ,SuSpEnSiOn,MECANICA,275.62,Diana Quispe,Villa El Salvador,Premium,2025-10-26
+474,2026-05-27,2,2.94,275.62,10,WhatsApp,Yape,,388.32,OK,Sede 3,,Oeste,SuSpEnSiOn,MECANICA,275.62,Fiorella Salazar,San Miguel,Premium,2025-09-13
+475,2026-04-12,8,10.86,90.23,10,WhatsApp,Transferencia,5,687.82,Revisar,SEDE 7,Chorrillos,Este,Cambio de aceite,Mantenimiento,90.23,Andre Castillo,Ate,Nuevo,2025-11-03
+476,,1,6.35,306.55,0,App,Tarjeta,2,536.87,Cliente frecuente,Sede 5,Independencia,Este,,Electricidad,306.55,Miguel Castillo,Los Olivos,Frecuente,2025-01-23
+477,2026-05-13,8,,306.55,0,TELEFONO,Efectivo,3,648.97,OK,Sede 1,Ate,Sur,,Electricidad,306.55,Raul Reyes,Ventanilla,PREMIUM,2025-11-24
+478,06-05-2026,7,4.25,111.57,0,Web,Transferencia,2,407.12,Cliente frecuente,Sede 3,,Oeste,Diagnostico scanner,Diagnostico,111.57,Victor Gomez,Lima,Regular,2025/05/07
+479,, 2 ,0.66,306.55,0,WeB,Efectivo,2,303.41,CLIENTE FRECUENTE,Sede 4,Ate,  Este ,,Electricidad,306.55,Diego Sayan,  Independencia ,Corporativo,2025-07-10
+480,2026-02-17,6,9.08,77.01,0,App,Transferencia,4,543.65,OK,Sede 6,Independencia,Oeste,Alineamiento,Mantenimiento,77.01,Pedro Gomez,Miraflores,regular,2025-10-08
+481,2026-01-21,2,"6,12",275.62,0,TeLeFoNo,Efectivo,2,495.32,,Sede 5,Independencia,Este,SuSpEnSiOn,MECANICA,275.62,Fiorella Salazar,San Miguel,Premium,2025-09-13
+482,2026-03-10,2,8.58,482.37,0,,Plin,3,795.32,Cliente frecuente,Sede 5,Independencia,Este,Embrague,Mecanica,482.37,Sofia Navarro,Surco,Premium,2025-10-26
+483,2026-06-27,4,2.71,77.01,0,WhatsApp,Plin,1,238.73,,Sede 1,Ate,Sur,Alineamiento,Mantenimiento,77.01,Andre Flores,Los Olivos,Regular,2025-05-23
+484,2026-05-08,2,9.58,77.01,0,Web,Transferencia,2,515.17,OK,Sede 3,,Oeste,Alineamiento,Mantenimiento,77.01,Carlos Ramos,Ventanilla,Corporativo,2025-08-24
+485,2026-05-16,7,2.12,90.23,8,Presencial,Plin,2,257.52,OK,Sede 5,Independencia,Este,Cambio de aceite,Mantenimiento,90.23,Lucia Campos,Villa El Salvador,Frecuente,2025-08-03
+486,2026-03-02,,2.36,275.62,5,WhatsApp,Yape,1,423.76,revisar,SEDE 7,Chorrillos,Este,SuSpEnSiOn,MECANICA,275.62,Pedro Flores,Comas,Premium,2025-04-07
+487,2026-04-25,5,2.05,275.62,0,App,Yape,1,404.46,,Sede 2,AtE,Sur,SuSpEnSiOn,MECANICA,275.62,,INDEPENDENCIA,Frecuente,2025-09-25
+488,2026-06-20,8,9.3,143.51,8,WhatsApp,,4,628.89,Revisar,Sede 2,AtE,Sur,Revision electrica,,143.51,Carlos Salazar,Surco,Frecuente,2025-11-22
+489,2026-04-06,2,6.04,143.51,0,App,Transferencia,5,415.79,Revisar,Sede 1,Ate,Sur,Revision electrica,,143.51,Jorge Paredes,La Molina,Nuevo,2025-02-09
+490,2026-06-05,4,3.0,215.96,15 aprox,,Tarjeta,4,393.04,,Sede 2,AtE,Sur,Afinamiento,Motor,215.96,Maria Salazar,Callao,Nuevo,2025-07-16
+491,2026-03-28,2 aprox,4.94,77.01,10,Web,TRANSFERENCIA,2,959.87,Revisar,Sede 4,Ate,  Este ,Alineamiento,Mantenimiento,77.01,Claudia Salazar,San Miguel,  Nuevo ,2025-03-05
+492,2026-02-18,7,8.53,482.37,8,App,Plin,5, 842.48 ,OK,Sede 4,Ate,  Este ,Embrague,Mecanica,482.37,Raul Reyes,Ventanilla,PREMIUM,2025-11-24
+493,2026-04-02,6,5.33,306.55,10,  Telefono ,Plin,4,561.67,Revisar,SEDE 7,Chorrillos,Este,,Electricidad,306.55,Luis Flores,San Miguel,Nuevo,2025-08-19
+494,2026-01-27,1 aprox,5.82,,0,Presencial,Tarjeta,4,561.2,,Sede 2,AtE,Sur,,Electricidad,306.55,Jorge Paredes,La Molina,Nuevo,2025-02-09
+495,,5,,111.57,5,Telefono,Transferencia,1,,Revisar,SEDE 7,Chorrillos,Este,Diagnostico scanner,Diagnostico,111.57,Andre Mendoza,Los Olivos,Nuevo,2025-09-01
+496,2026-03-15,8,2.44 aprox,482.37,20,Presencial,Tarjeta,3, 552.33 ,Promocion,Sede 5,Independencia,Este,Embrague,Mecanica,482.37,Luis Mendoza,surco,Frecuente,2025-07-20
+497, 2026-05-13 , 1 ,7.82,306.55,20,telefono,Efectivo,1,600.0,,Sede 5,Independencia,Este,,Electricidad,306.55,Andre Mendoza,Los Olivos,Nuevo,2025-09-01
+498,2026-06-23,7,11.58,306.55,10,,EFECTIVO,5,784.52,OK,Sede 3,,Oeste,,Electricidad,306.55,Pedro Torres,Villa El Salvador,Regular, 2025-05-11 
+499,2026-02-10,3,11.3,77.01,0,Presencial,Efectivo,3,620.04,REVISAR,Sede 2,AtE,Sur,Alineamiento,Mantenimiento,77.01,Pedro Cruz,La Molina,Premium,2025-11-25
+500,2026-02-19,2,9.44, 90.23 ,5,App,Tarjeta,3,486.03 aprox,Revisar,Sede 1,Ate,Sur,Cambio de aceite,Mantenimiento,90.23,Diana Sayan,LA MOLINA,Corporativo,2025-05-16

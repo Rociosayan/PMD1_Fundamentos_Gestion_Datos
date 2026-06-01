@@ -1,9 +1,0 @@
-id_proceso,nombre,familia,temperatura_objetivo_c,velocidad_objetivo_u_h
-1,Preparacion de insumo,Preparacion,45.0,520.0
-2,Moldeado inicial,Transformacion,70.0,410.0
-3,Corte de piezas,transformacion,38.0,620.0
-4,Tratamiento termico,Termico,155.0,260.0
-5,Enfriamiento controlado,Termico,30.0,300.0
-6,Empaque primario,Empaque,24.0,720.0
-7,Etiquetado final,Empaque,24.0,880.0
-8,Control de calidad,CaLiDaD,23.0,350.0

@@ -1,52 +1,34 @@
-# HotelSmart - Reservas hoteleras
+# Caso 07 - Hotel Reservas
 
-## Contexto
-Un hotel analiza reservas, tipo de habitacion y monto facturado.
+## Enfoque del caso
 
-## Tablas
-- `huespedes`: datos de huespeds.
-- `habitaciones`: catalogo de habitacions.
-- `hoteles`: sedes, zonas o puntos de operacion.
-- `reservas`: tabla principal con 500 registros y claves foraneas.
+Este caso entrega una sola tabla desnormalizada para que el estudiante identifique datos repetidos y proponga el modelo normalizado.
+
+La base no incluye tablas normalizadas, claves foraneas ni una solucion relacional ya construida.
+
+## Archivo SQLite
+
+- `hotel_reservas.db`
+
+## Tabla disponible
+
+- `reservas_original`: tabla de partida con 500 registros. Mezcla datos de la operacion principal con datos descriptivos de clientes, productos, sedes, categorias u otras entidades del caso.
 
 ## Reto PMD1
-Predecir el monto de reserva a partir de las noches de estadia.
+
+1. Explorar la tabla original.
+2. Detectar patrones repetidos y dependencias entre columnas.
+3. Proponer entidades, claves primarias y claves foraneas.
+4. Crear las tablas normalizadas en SQLite.
+5. Insertar los datos desde `reservas_original` hacia las nuevas tablas.
+6. Reconstruir un reporte con `JOIN` para validar que no se perdio informacion.
+7. Limpiar datos con Pandas y preparar un dataset analitico.
 
 Variable objetivo sugerida: `monto_reserva`.
 Variable predictora basica sugerida: `noches_estadia`.
 
-## Suciedad incluida
-- Espacios en blanco al inicio/final.
-- Mayusculas y minusculas inconsistentes.
-- Valores nulos.
-- Fechas con formatos mezclados.
-- Numeros guardados como texto, con coma decimal o simbolo `S/`.
-- Duplicados parciales en la tabla principal.
-- Algunos valores extremos.
+## Archivo CSV
 
-## Consulta base para Pandas
+La carpeta `csv/` contiene solo la tabla original:
 
-```sql
-SELECT
-    f.id_reserva,
-    p.nombre AS huesped,
-    p.distrito AS distrito_huesped,
-    p.segmento,
-    i.nombre AS habitacion,
-    i.categoria,
-    l.nombre AS hotel,
-    l.zona,
-    f.fecha_operacion,
-    f.cantidad_habitaciones,
-    f.noches_estadia,
-    f.tarifa_noche,
-    f.descuento_pct,
-    f.canal,
-    f.metodo_pago,
-    f.calificacion,
-    f.monto_reserva
-FROM reservas f
-LEFT JOIN huespedes p ON f.id_huesped = p.id_huesped
-LEFT JOIN habitaciones i ON f.id_habitacion = i.id_habitacion
-LEFT JOIN hoteles l ON f.id_hotel = l.id_hotel;
-```
+- `reservas_original.csv`

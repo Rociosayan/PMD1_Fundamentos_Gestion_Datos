@@ -1,9 +1,0 @@
-id_maquina,nombre,linea,tipo_maquina,antiguedad_anios
-1,Mezcladora 01,Linea A,Mezclado,4.18
-2,prensa 02,Linea A,Prensado,6.78
-3,Cortadora 03,Linea B,Corte,5.06
-4,Empacadora 04,Linea B,Empaque,3.64
-5,Horno 05,linea c,TeRmIcO,10.14
-6,Etiquetadora 06,Linea C,Etiquetado,2.46
-7,Llenadora 07,Linea D,Llenado,5.65
-8,Selladora 08,Linea D,Sellado,7.96

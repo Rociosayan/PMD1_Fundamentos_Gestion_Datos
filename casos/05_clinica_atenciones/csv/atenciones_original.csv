@@ -1,0 +1,501 @@
+id_atencion,fecha_operacion,cantidad_servicios,duracion_consulta_min,tarifa_base,descuento_pct,canal,metodo_pago,calificacion,costo_atencion,observacion,sedes_nombre,sedes_distrito,sedes_zona,servicios_nombre,servicios_categoria,servicios_tarifa_base,pacientes_nombre,pacientes_distrito,pacientes_segmento,pacientes_fecha_registro
+1,2026-01-07,6,49,77.4,10,,Efectivo,5,160.49,Cliente frecuente,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,Lucia Huaman,CHORRILLOS,,2025-04-07
+2,2026-06-23, 5 ,59,49.53,10,Telefono,Yape,5,122.41,,SEDE 7,LIMA,Oeste,Curacion,Procedimiento,49.53,Marco Navarro,La Molina,Premium,2025-04-01
+3,2026-02-07,6,63,89.15,15,WhatsApp,Efectivo,4,200.14,,Sede 6,Callao,Sur,Radiografia,Imagenes,89.15,Carlos Paredes,Ventanilla,Premium,2025-09-27
+4,2026-01-27,3,25,93.66,12,Web,Tarjeta,5,157.26,,Sede 6,Callao,Sur,Consulta dental,Dental,93.66,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+5,2026-05-16,8,26,75.75,10,telefono,Transferencia, 3 ,143.18,Revisar,Sede 6,Callao,Sur,Terapia fisica,rehabilitacion,75.75,Sofia Reyes,Chorrillos,REGULAR,2025-07-25
+6,2026-06-02,7,40,77.4,15,Presencial,Tarjeta,1,152.26,OK,SEDE 7,LIMA,Oeste,Consulta  general,Medicina,77.4,,Los Olivos,  Premium ,2025-02-10
+7,,4,49,82.25,8,TeLeFoNo,Tarjeta,3,168.99,Cliente frecuente,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Maria Reyes,Chorrillos,Premium,2025-11-27
+8,2026-04-25,8,63,77.4,0,Web,Tarjeta,4,178.29,,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,Marco Flores,Lima,Premium,2025-11-10
+9,2026-03-22,5,71,82.25,12,Presencial,  Efectivo ,2,202.04,,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,pedro soto,San Miguel,corporativo,2025-01-15
+10,2026-01-09,8,53,129.22,12,Telefono,Yape,3,241.67,Cliente frecuente,Sede 4,  San Miguel ,Sur,,Imagenes,129.22,marco sayan,La Molina,nuevo,2025-05-19
+11,2026-03-22,8,45,77.4, 8 ,telefono,TaRjEtA,,169.57,Cliente frecuente,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,Sofia Cruz,Villa El Salvador,Frecuente,2025-07-20
+12,2026-06-03,2,38,82.25,0,Telefono,Tarjeta,5,S/ 103.41,,Sede 2,  Comas ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Sofia Cruz,Villa El Salvador,Frecuente,2025-07-20
+13,2026-01-08,6,72 aprox,S/ 77.4,12,Presencial,Tarjeta,5,178.19,Revisar,Sede 5,Villa El Salvador,Centro,Consulta  general,Medicina,77.4,Jose Rojas,ViLlA El sAlVaDoR,ReGuLaR,2025-02-14
+14,2026-06-13,5,59,129.22,8,Telefono,Yape, 5 ,191.03,Cliente frecuente,Sede 4,  San Miguel ,Sur,,Imagenes,129.22,Lucia Campos,Miraflores,Frecuente,2025-01-01
+15,2026-06-18,7,55 aprox,49.53,0,Presencial,Transferencia,3,172.71,Promocion,Sede 5,Villa El Salvador,Centro,Curacion,Procedimiento,49.53,Diana Castillo,Lima,  Nuevo ,2025-01-23
+16,17/01/2026,1,57,89.15,0,WhatsApp,Efectivo,4,,,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Elena Vargas,MiRaFlOrEs,Regular,2025-05-06
+17,2026-06-23, 5 ,59,49.53,10,Telefono,Yape,5,122.41,,SEDE 7,LIMA,Oeste,Curacion,Procedimiento,49.53,Marco Navarro,La Molina,Premium,2025-04-01
+18,2026-03-02,,19,129.22,5,App,Yape,1,168.97,,Sede 1,Ate,Centro,,Imagenes,129.22,Fiorella Flores,San Juan de Lurigancho,Regular,03/07/2025
+19,18/05/2026,7,44,129.22,0,WhatsApp,Transferencia,4,,,SEDE 7,LIMA,Oeste,,Imagenes,129.22,Luis Paredes,,Nuevo,2025-01-20
+20,2026-02-02,2,71,"93,66",5,Telefono,Efectivo,4,172.71,Cliente frecuente,SEDE 3,SaN MiGuEl,Oeste,Consulta dental,Dental,93.66,Jorge Mendoza,San Miguel,  Regular ,02/03/2025
+21,2026-04-24,8,,75.75,0,WhatsApp,Yape,3,140.43,,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,CARLOS QUISPE,Surco,Regular,2025-06-15
+22,2026-05-08,4,22,49.53,0,,Transferencia,3,96.58 aprox,OK,SEDE 3,SaN MiGuEl,Oeste,Curacion,Procedimiento,49.53,Jose Rojas,ViLlA El sAlVaDoR,ReGuLaR,2025-02-14
+23,, 7 ,51,77.4 aprox,0,Telefono,Yape,1, 160.29 ,Promocion,Sede 6,Callao,Sur,Consulta  general,Medicina,77.4,,Los Olivos,  Premium ,2025-02-10
+24,2026-05-25,4,,49.53,0,Web,Transferencia,4,144.33,Cliente frecuente,Sede 4,  San Miguel ,Sur,Curacion,Procedimiento,49.53,Andre Salazar,Lima,Premium,2025-05-06
+25, 2026-04-15 ,1,74,82.25,8,Presencial,Transferencia,3,470.0,,Sede 6,Callao,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+26,2026-02-07,4,75,89.15, 0 ,Presencial,Plin,1,224.83,Revisar,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Andre Soto,Villa El Salvador,Frecuente,2025-04-02
+27,2026-04-10,8,35,75.75, 12 ,Presencial,Efectivo,4,139.63,,Sede 4,  San Miguel ,Sur,Terapia fisica,rehabilitacion,75.75,Carlos Cruz,Ventanilla,Regular,2025-09-02
+28,2026-05-16,3,23,56.5,10,Telefono,Tarjeta,5,90.8,Promocion,SEDE 3,SaN MiGuEl,Oeste,  Laboratorio basico ,Laboratorio,56.5,Diana Vargas,San Juan de Lurigancho,Frecuente, 2025-10-27 
+29,2026-06-06,7,47,77.4,10,App,Tarjeta,5,196.16,Cliente frecuente,Sede 1,Ate,Centro,Consulta  general,Medicina,77.4,Lucia Campos,Miraflores,Frecuente,2025-01-01
+30,2026-02-11,7,46,75.75,15,App,Yape,1,159.77,Revisar,SEDE 3,SaN MiGuEl,Oeste,Terapia fisica,rehabilitacion,75.75,Camila Navarro,Surco,Frecuente,2025-03-08
+31,18-06-2026,7,18,77.4,15,Presencial,Transferencia,1,127.26,,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,Fiorella Vargas,  Chorrillos ,Frecuente,2025-07-17
+32,2026/05/04, 8 ,30,61.32,0,Telefono,Yape,3,141.74,Promocion,Sede 6,Callao,Sur,Control nutricional,nutricion,61.32,Valeria Ramos,Surco,Nuevo,2025-10-04
+33,2026-04-24,4,62 aprox,61.32,,,Tarjeta,5,148.82,Promocion,Sede 6,Callao,Sur,Control nutricional,nutricion,61.32,Miguel Salazar,VILLA EL SALVADOR,Regular,2025-01-13
+34,2026-03-04,3,,49.53 aprox,0,WhatsApp,Transferencia,5,94.12,,Sede 1,Ate,Centro,Curacion,Procedimiento,49.53,Carlos Flores,San Juan de Lurigancho,Premium,2025-07-24
+35,2026-02-17,2 aprox,54,49.53,0,WhatsApp,Transferencia,3,106.26,OK,Sede 1,Ate,Centro,Curacion,Procedimiento,49.53,Elena Paredes,VILLA EL SALVADOR,Frecuente,2025-10-04
+36,21/04/2026,1,13,93.66,20,Telefono,Transferencia,4,368.45,,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,Victor Ramos,La Molina,Regular,2025-12-13
+37,2026-03-05,1,39,61.32,8,WhatsApp,Transferencia,1,119.21,Promocion,Sede 4,  San Miguel ,Sur,Control nutricional,nutricion,61.32,Lucia Reyes,La Molina,NuEvO,05-03-2025
+38,2026-02-27,5,23,82.25,5,  WhatsApp ,Tarjeta,3,148.87,Cliente frecuente,Sede 6,Callao,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Diego Ramos,Ventanilla,CORPORATIVO,2025-09-16
+39,,1,35,93.66,0,App,Efectivo,1,136.93,,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,Jorge Rojas,SaN MiGuEl,Regular,2025-09-25
+40,2026-04-28,6,31,82.25,0,Web,Yape,5 aprox,143.46 aprox,OK,SEDE 7,LIMA,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,Camila Castillo,Miraflores,Frecuente,2025-10-16
+41,2026-06-01,2,39,129.22,8,WhatsApp,Yape,1,170.82,OK,Sede 1,Ate,Centro,,Imagenes,129.22,Rocio Sayan,Comas,NUEVO,2025-01-25
+42,2026-01-03,5,69,82.25,20,App,Yape,2,157.86,revisar,Sede 5,Villa El Salvador,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Luis Ramos,Comas,Corporativo,2025-04-27
+43,,8,61,89.15,0 aprox,  Telefono ,Plin,3,170.48 aprox,Revisar,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Fiorella Flores,San Juan de Lurigancho,Regular,03/07/2025
+44,2026-06-09, 2 ,63,82.25,15,,Tarjeta,5,183.11,Promocion,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Pedro Campos,  Chorrillos ,corporativo,2025-11-01
+45,2026-06-10,7,43,93.66,0,TeLeFoNo,Yape,4,199.6,,SEDE 3,SaN MiGuEl,Oeste,Consulta dental,Dental,93.66,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+46,17/01/2026,1,57,89.15,0,WhatsApp,Efectivo,4,,,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Elena Vargas,MiRaFlOrEs,Regular,2025-05-06
+47,2026-02-27,2,47,75.75,15,Presencial,Efectivo,4,122.09,Promocion,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Diana Castillo,Lima,  Nuevo ,2025-01-23
+48,2026-06-28,2,55,89.15,12,  Web ,Efectivo,3,133.16,Promocion,SEDE 7,LIMA,Oeste,Radiografia,Imagenes,89.15,Carlos Cruz,Ventanilla,Regular,2025-09-02
+49,14-03-2026,7,14,49.53,0,App,Tarjeta,5,112.11,Promocion,Sede 6,Callao,Sur,Curacion,Procedimiento,49.53,Marco Gomez,San Miguel,Premium,2025-08-06
+50,,6,32,82.25,0 aprox,whatsapp,Efectivo,1,135.6,,Sede 6,Callao,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Jose Rojas,ViLlA El sAlVaDoR,ReGuLaR,2025-02-14
+51,2026-05-03,,40 aprox, 75.75 ,15,Presencial,Tarjeta,4,131.84,OK,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Jorge Quispe,Callao,PrEmIuM,2025-02-10
+52,2026-03-08,5,56,75.75,0,  Presencial ,Efectivo,4,176.11,,Sede 2,  Comas ,Sur,Terapia fisica,rehabilitacion,75.75,Sofia Cruz,Villa El Salvador,Frecuente,2025-07-20
+53,2026-06-13,5,59,129.22,8,Telefono,Yape, 5 ,191.03,Cliente frecuente,Sede 4,  San Miguel ,Sur,,Imagenes,129.22,Lucia Campos,Miraflores,Frecuente,2025-01-01
+54,2026-04-12,7,20,75.75,0,TeLeFoNo,Yape,2,158.74,OK,SEDE 7,LIMA,Oeste,Terapia fisica,rehabilitacion,75.75,Luis Soto,Ate,Regular,2025-12-01
+55,2026-04-12,4,61,89.15,12,  WhatsApp ,Transferencia,1,155.5,,Sede 5,Villa El Salvador,Centro,Radiografia,Imagenes,89.15,Marco Navarro,La Molina,Premium,2025-04-01
+56,03/06/2026,2,27, 75.75 ,0,Presencial,Yape,3,129.72,OK,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Claudia Cruz,Miraflores,Regular,2025-07-17
+57,2026-05-27,2,22,49.53,12,Telefono,,5,,,Sede 2,  Comas ,Sur,Curacion,Procedimiento,49.53,Andre Cruz,San Juan de Lurigancho,Regular,2025-01-27
+58,2026-06-01,7,21,89.15, 8 ,WhatsApp,Plin,1,144.24,Cliente frecuente,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Carlos Vargas,CALLAO,Nuevo,2025-09-25
+59,2026-03-18,8,21,89.15,12,Presencial,Tarjeta,1,,,Sede 1,Ate,Centro,Radiografia,Imagenes,89.15,Andre Navarro,Lima,Frecuente,2025-03-07
+60,2026-05-02,4,43,75.75,12,telefono,Efectivo,4,117.34,Revisar,Sede 6,Callao,Sur,Terapia fisica,rehabilitacion,75.75,pedro soto,San Miguel,corporativo,2025-01-15
+61,2026-05-08,6,53,77.4,0,Presencial,Efectivo,2,195.59,OK,Sede 1,Ate,Centro,Consulta  general,Medicina,77.4,pedro soto,San Miguel,corporativo,2025-01-15
+62,2026-04-18,5,50,49.53,0,App,Yape,4,120.74,Promocion,Sede 4,  San Miguel ,Sur,Curacion,Procedimiento,49.53,Lucia Ramos,  Los Olivos ,Premium,2025-03-22
+63,2026-01-15,4,16,56.5 aprox,15,Web,Yape,4,97.08,Promocion,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,Rocio Cruz,LiMa,Regular,2025-06-08
+64,2026-03-21,5,39,S/ 82.25,8,,Efectivo,,145.53,Promocion,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,pedro soto,San Miguel,corporativo,2025-01-15
+65,2026-02-09,4,19,56.5,20 aprox,Web,Tarjeta,2,113.7,ok,Sede 2,  Comas ,Sur,  Laboratorio basico ,Laboratorio,56.5,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+66,2026-04-18,3,60,93.66, 0 ,Presencial,Transferencia,1,186.83,Revisar,Sede 1,Ate,Centro,Consulta dental,Dental,93.66,Jorge Quispe,Callao,PrEmIuM,2025-02-10
+67,2026-04-23,5,61,82.25,0,Web,TARJETA,4,148.95,,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Claudia Cruz,Miraflores,Regular,2025-07-17
+68,2026-04-23,7,45,77.4,12 aprox,Web,,4,157.27,,SEDE 7,LIMA,Oeste,Consulta  general,Medicina,77.4,Jose Mendoza,Lima,Corporativo,2025-08-23
+69,02-05-2026,2,45,56.5,0,Web,Transferencia,5, 144.28 ,,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Diana Vargas,San Juan de Lurigancho,Frecuente, 2025-10-27 
+70,2026-01-24,8,54,61.32, 5 ,telefono,Yape,2,165.66,OK,SEDE 3,SaN MiGuEl,Oeste,Control nutricional,nutricion,61.32,Claudia Cruz,Miraflores,Regular,2025-07-17
+71,2026-01-08,4,47, 77.4 ,20,Web,Efectivo,5 aprox,134.04,OK,Sede 6,Callao,Sur,Consulta  general,Medicina,77.4,Fiorella Flores,San Juan de Lurigancho,Regular,03/07/2025
+72,2026-05-08,1,27,77.4,15,Web,Plin,5 aprox,124.86,,SEDE 7,LIMA,Oeste,Consulta  general,Medicina,77.4,pedro soto,San Miguel,corporativo,2025-01-15
+73,2026-04-03,4,37,89.15,0,Presencial,Yape,4,130.92,OK,Sede 1,Ate,Centro,Radiografia,Imagenes,89.15,Raul Reyes,Chorrillos,Regular,2025-10-13
+74,2026-05-21,1,16,61.32, 0 ,Presencial,efectivo,5,108.78,,Sede 4,  San Miguel ,Sur,Control nutricional,nutricion,61.32,Marco Quispe,independencia,Frecuente,2025-03-24
+75,2026-04-22,5,43,82.25,0,,Yape,1,"152,48",,Sede 5,Villa El Salvador,Centro,Consulta pediatrica,PeDiAtRiA,82.25,pedro soto,San Miguel,corporativo,2025-01-15
+76,2026-05-08,1,58,77.4,8,Telefono,,1,192.06,,Sede 6,Callao,Sur,Consulta  general,Medicina,77.4,Jose Mendoza,Lima,Corporativo,2025-08-23
+77,2026-03-28,1,75,89.15,20,App,Transferencia,3,157.4,,Sede 5,Villa El Salvador,Centro,Radiografia,Imagenes,89.15,Ana Paredes,LOS OLIVOS,Nuevo,2025-04-21
+78,2026-04-28,7, 66 ,82.25,12,Presencial,Efectivo,2,169.83 aprox,,Sede 1,Ate,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Valeria Ramos,Surco,Nuevo,2025-10-04
+79,2026-01-24,8,70,61.32,8,App,Plin,4,175.42,Revisar,SEDE 3,SaN MiGuEl,Oeste,Control nutricional,nutricion,61.32,Andre Cruz,San Juan de Lurigancho,Regular,2025-01-27
+80,2026-01-18,7,61,75.75,8,Telefono,,2,166.65,Promocion,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Ana Flores,Villa El Salvador,NUEVO,2025-01-08
+81,2026-03-14,5,23,77.4,15,WhAtSaPp,Plin,4,411.98,Cliente frecuente,Sede 1,Ate,Centro,Consulta  general,Medicina,77.4,Maria Cruz,,Frecuente,2025-06-26
+82,2026-05-18,8,22,49.53,0,TELEFONO,Tarjeta, 4 ,120.8,,Sede 4,  San Miguel ,Sur,Curacion,Procedimiento,49.53,Miguel Navarro,los olivos,,2025-10-08
+83,2026-01-23,2,21,77.4,15,App,Tarjeta,4,121.33,OK,SEDE 3,SaN MiGuEl,Oeste,Consulta  general,Medicina,77.4,Elena Paredes,VILLA EL SALVADOR,Frecuente,2025-10-04
+84,2026/04/26,5,58,56.5,0,  Web ,Tarjeta,5,369.01,Cliente frecuente,Sede 6,Callao,Sur,  Laboratorio basico ,Laboratorio,56.5,Victor Salazar,La Molina,Corporativo,25/08/2025
+85, 2026-02-15 ,3, 71 ,89.15,8,WhatsApp,Transferencia,2,188.65,,Sede 5,Villa El Salvador,Centro,Radiografia,Imagenes,89.15,Miguel Paredes,La Molina,Frecuente,2025-12-03
+86,2026-04-04,2,54,75.75,10,Telefono,Efectivo,3,,Revisar,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Ana Flores,Villa El Salvador,NUEVO,2025-01-08
+87,2026-01-23,1, 38 ,77.4,15,Presencial,Transferencia,1,129.43,,Sede 5,Villa El Salvador,Centro,Consulta  general,Medicina,77.4,Elena Paredes,Independencia,Premium,2025/01/11
+88,2026-02-27,6,36,89.15,12,Web,Plin,1,146.66,OK,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+89,2026-02-27, 6 ,65,75.75,0,App,Tarjeta,3,206.27,Promocion,SEDE 7,LIMA,Oeste,Terapia fisica,rehabilitacion,75.75,marco sayan,La Molina,nuevo,2025-05-19
+90,17/01/2026,1,57,89.15,0,WhatsApp,Efectivo,4,,,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Elena Vargas,MiRaFlOrEs,Regular,2025-05-06
+91,2026-04-07,2,16 aprox,93.66,0,  Telefono ,Transferencia,3,131.63,OK,SEDE 3,SaN MiGuEl,Oeste,Consulta dental,Dental,93.66,Miguel Salazar,VILLA EL SALVADOR,Regular,2025-01-13
+92,2026/04/02,5,19,75.75,0,whatsapp,Efectivo,3,S/ 119.25,,SEDE 7,LIMA,Oeste,Terapia fisica,rehabilitacion,75.75,Marco Navarro,La Molina,Premium,2025-04-01
+93,2026-04-03,5,18,77.4 aprox,8,WhatsApp,Tarjeta,3,89.29,,SEDE 7,LIMA,Oeste,Consulta  general,Medicina,77.4,Raul Flores,Ate,Nuevo,2025-08-14
+94,2026-04-10,1,20,"61,32",10,Telefono,Plin, 4 ,83.4,Promocion,Sede 6,Callao,Sur,Control nutricional,nutricion,61.32,Miguel Navarro,los olivos,,2025-10-08
+95,2026-04-21,7,66,49.53,8,Web,Yape,2,,Cliente frecuente,Sede 1,Ate,Centro,Curacion,Procedimiento,49.53,Diego Cruz,San Miguel,FrEcUeNtE,2025-08-12
+96,2026-03-18,5,65,129.22,12,WHATSAPP,Transferencia,5,240.23,Promocion,Sede 5,Villa El Salvador,Centro,,Imagenes,129.22,Diana Castillo,Lima,  Nuevo ,2025-01-23
+97,2026-05-13,,60,82.25,15,App,Yape,3,174.54,Promocion,Sede 6,Callao,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Andre Navarro,Lima,Frecuente,2025-03-07
+98,2026-04-22,7,319.98,S/ 56.5,0,Presencial,Plin,3,462.8,CLIENTE FRECUENTE,Sede 6,Callao,Sur,  Laboratorio basico ,Laboratorio,56.5,Sofia Cruz,  Chorrillos ,Premium,2025-10-10
+99,2026-03-24,7,34,89.15,8,  Web ,Yape,5,196.24,Promocion,Sede 1,Ate,Centro,Radiografia,Imagenes,89.15,Valeria Ramos,Surco,Nuevo,2025-10-04
+100,2026-02-17,5,71,,8,WhatsApp,TRANSFERENCIA,5,185.9,OK,Sede 1,Ate,Centro,Control nutricional,nutricion,61.32,Valeria Ramos,Surco,Nuevo,2025-10-04
+101, 2026-02-24 , 7 ,25,77.4,0,Telefono,Tarjeta,3,,OK,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,Jose Soto,Miraflores,Frecuente,2025-11-09
+102,2026-04-19,2,49,93.66,10,Telefono,Yape,5,161.29,Revisar,Sede 1,Ate,Centro,Consulta dental,Dental,93.66,Victor Ramos,La Molina,Regular,2025-12-13
+103,2026-02-23,5,27, 82.25 ,0,Telefono,Plin,3,127.26,,Sede 1,Ate,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Jorge Rojas,SaN MiGuEl,Regular,2025-09-25
+104,2026-05-03,1,48,49.53,10,Presencial,YAPE,,,Cliente frecuente,Sede 1,Ate,Centro,Curacion,Procedimiento,49.53,Miguel Navarro,los olivos,,2025-10-08
+105,2026-06-19,1,289.52,75.75,12,Presencial,Plin,5,405.36,Promocion,SEDE 3,SaN MiGuEl,Oeste,Terapia fisica,rehabilitacion,75.75,Rocio Sayan,Comas,NUEVO,2025-01-25
+106,2026-04-11,8,41,82.25,0,WhatsApp,Yape,4,145.71,Cliente frecuente,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Andre Cruz,San Juan de Lurigancho,Regular,2025-01-27
+107,2026-04-20,6,10, 82.25 ,10,App,Efectivo,3,86.21,OK,Sede 6,Callao,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Luis Huaman,Ate,Premium,2025-12-13
+108,2026-03-11,6,39,93.66,0,Web,Transferencia,3,181.09,Promocion,Sede 2,  Comas ,Sur,Consulta dental,Dental,93.66,Victor Vargas,Independencia,Premium,2025-04-09
+109,2026-05-06,6,26,89.15,10,Web,Yape,2 aprox,162.06,OK,SEDE 7,LIMA,Oeste,Radiografia,Imagenes,89.15,Victor Vargas,Independencia,Premium,2025-04-09
+110,2026-04-08,4,70,56.5,12,App,  Efectivo ,1,123.7,,Sede 4,  San Miguel ,Sur,  Laboratorio basico ,Laboratorio,56.5,Andre Salazar,Lima,Premium,2025-05-06
+111,2026-05-08,1,27,77.4,15,Web,Plin,5 aprox,124.86,,SEDE 7,LIMA,Oeste,Consulta  general,Medicina,77.4,pedro soto,San Miguel,corporativo,2025-01-15
+112,2026-01-13,2,33, 56.5 , 0 ,,Tarjeta,1,144.36,Promocion,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Pedro Campos,  Chorrillos ,corporativo,2025-11-01
+113,2026-04-02,3,12,82.25,5,WhatsApp,Tarjeta,2,S/ 129.43,OK,SEDE 7,LIMA,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,Victor Navarro,La Molina,Regular,2025-03-25
+114,2026-05-27,5,,49.53,10,telefono,Transferencia,4,144.09,OK,Sede 1,Ate,Centro,Curacion,Procedimiento,49.53,Elena Paredes,Independencia,Premium,2025/01/11
+115,2026-06-15,1,42, 75.75 ,10,Web,,1,109.02,Cliente  frecuente,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Sofia Cruz,  Chorrillos ,Premium,2025-10-10
+116,2026-05-02,1,23,129.22,8,Presencial,Tarjeta,,168.54,  Promocion ,Sede 2,  Comas ,Sur,,Imagenes,129.22,Carlos Mendoza,Lima,Frecuente,2025-01-26
+117,2026-06-23,4 aprox,57,56.5,0,WhatsApp,Tarjeta,,158.22,Cliente frecuente,Sede 6,Callao,Sur,  Laboratorio basico ,Laboratorio,56.5,Jorge Flores,miraflores,Premium,2025-07-20
+118,2026-01-24,8,54,61.32, 5 ,telefono,Yape,2,165.66,OK,SEDE 3,SaN MiGuEl,Oeste,Control nutricional,nutricion,61.32,Claudia Cruz,Miraflores,Regular,2025-07-17
+119,2026-03-18,5,53,61.32,15,Presencial,Plin,2,151.74,Promocion,Sede 4,  San Miguel ,Sur,Control nutricional,nutricion,61.32,Carlos Cruz,Ventanilla,Regular,2025-09-02
+120,2026-05-23,2, 71 ,93.66,15,Presencial,Transferencia,3,196.5,Cliente frecuente,Sede 2,  Comas ,Sur,Consulta dental,Dental,93.66,Maria Cruz,,Frecuente,2025-06-26
+121,2026-03-01,,16,75.75,,App,Transferencia,2,116.63,Promocion,Sede 2,  Comas ,Sur,Terapia fisica,rehabilitacion,75.75,Carlos Vargas,CALLAO,Nuevo,2025-09-25
+122,2026-01-21,6,63,49.53,12,Presencial,Efectivo,1,155.49,,Sede 1,Ate,Centro,Curacion,Procedimiento,49.53,Carlos Paredes,Ventanilla,Premium,2025-09-27
+123,11-06-2026,7,28,75.75,0,Telefono,Tarjeta,3,151.22,Cliente frecuente,Sede 6,Callao,Sur,Terapia fisica,rehabilitacion,75.75,Elena Paredes,VILLA EL SALVADOR,Frecuente,2025-10-04
+124,2026-04-04,8,32,,8,App,Tarjeta,3,136.97,Cliente  frecuente,Sede 4,  San Miguel ,Sur,Curacion,Procedimiento,49.53,Marco Flores,Lima,Premium,2025-11-10
+125,2026-01-05,4,60, 49.53 ,5,App,Transferencia,3,156.49,,Sede 4,  San Miguel ,Sur,Curacion,Procedimiento,49.53,Rocio Sayan,Comas,NUEVO,2025-01-25
+126,2026-04-21,5,61,"75,75",12,Presencial,  Tarjeta ,5,180.9,PrOmOcIoN,Sede 1,Ate,Centro,Terapia fisica,rehabilitacion,75.75,Andre Flores,San Miguel,nuevo,2025-01-22
+127,17-02-2026,4,25 aprox,129.22,12,WhatsApp,Transferencia,1,185.2,Promocion,Sede 5,Villa El Salvador,Centro,,Imagenes,129.22,Sofia Cruz,Los Olivos,Corporativo,2025-12-25
+128,2026-04-07,6,74,89.15,0,WEB,Yape,2,212.38,Revisar,Sede 5,Villa El Salvador,Centro,Radiografia,Imagenes,89.15,Jose Soto,Miraflores,Frecuente,2025-11-09
+129,2026-01-27,6,17,75.75,12,App,YaPe,4,137.82,,SEDE 7,LIMA,Oeste,Terapia fisica,rehabilitacion,75.75,Victor Navarro,La Molina,Regular,2025-03-25
+130, 2026-02-13 ,3,42,93.66,8,Telefono,Transferencia,,135.55,OK,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,Rocio Cruz,LiMa,Regular,2025-06-08
+131,2026-02-20,8,75,89.15,15,App,Plin,4,224.93,OK,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Miguel Paredes,La Molina,Frecuente,2025-12-03
+132,2026-05-19,1,33,129.22,12,WhatsApp,Tarjeta,,140.74,Revisar,Sede 1,Ate,Centro,,Imagenes,129.22,Rocio Reyes,CaLlAo,  Premium ,2025-03-20
+133,2026-04-12,5,21,82.25, 8 ,APP,Yape, 1 ,120.95,Promocion,SEDE 7,LIMA,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,Jorge Quispe,Callao,PrEmIuM,2025-02-10
+134,2026-02-05,1,23,129.22,0,Telefono,Yape,4,185.92,OK,Sede 2,  Comas ,Sur,,Imagenes,129.22,Carlos Cruz,Ventanilla,Regular,2025-09-02
+135,2026-06-03,1,24,75.75,5,WhatsApp,Tarjeta,1,116.12,Promocion,Sede 4,  San Miguel ,Sur,Terapia fisica,rehabilitacion,75.75,Sofia Cruz,Villa El Salvador,Frecuente,2025-07-20
+136,2026-02-27,6,40,129.22,8,Telefono,Tarjeta,4,203.86,ReViSaR,Sede 2,  Comas ,Sur,,Imagenes,129.22,Claudia Cruz,Miraflores,Regular,2025-07-17
+137,2026-01-02, 5 ,49,75.75 aprox,0,App,Efectivo,2,179.35,Revisar,SEDE 7,LIMA,Oeste,Terapia fisica,rehabilitacion,75.75,  Diego Soto ,Los Olivos,Premium,2025-02-10
+138,2026-04-20,6,,61.32,0,TeLeFoNo,,4,196.35,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Control nutricional,nutricion,61.32,marco sayan,La Molina,nuevo,2025-05-19
+139,2026-06-02,7,56,89.15,20,Telefono,plin,1,181.09,,SEDE 3,SaN MiGuEl,Oeste,Radiografia,Imagenes,89.15,Jorge Ramos,Chorrillos,Frecuente,2025-09-04
+140,2026-02-05,,19,75.75,0,App,Transferencia,5,90.98,Revisar,SEDE 3,SaN MiGuEl,Oeste,Terapia fisica,rehabilitacion,75.75,Diego Ramos,Ventanilla,CORPORATIVO,2025-09-16
+141,2026-04-18,6,10,77.4,5,presencial,Plin,5,118.31,OK,SEDE 7,LIMA,Oeste,Consulta  general,Medicina,77.4,Jorge Ramos,Chorrillos,Frecuente,2025-09-04
+142,2026-02-15,1,15,56.5,0,PRESENCIAL,Yape,3,81.66,,Sede 4,  San Miguel ,Sur,  Laboratorio basico ,Laboratorio,56.5,Marco Flores,Lima,Premium,2025-11-10
+143,2026-05-08,1,27,77.4,15,Web,Plin,5 aprox,124.86,,SEDE 7,LIMA,Oeste,Consulta  general,Medicina,77.4,pedro soto,San Miguel,corporativo,2025-01-15
+144,2026-03-28,2,48,61.32,15,Presencial,Yape,4,88.96,Revisar,SEDE 3,SaN MiGuEl,Oeste,Control nutricional,nutricion,61.32,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+145,2026-01-15, 4 ,73,129.22,8,app,Efectivo,1,232.71,Revisar,Sede 6,Callao,Sur,,Imagenes,129.22,Luis Paredes,,Nuevo,2025-01-20
+146,2026-05-16,6,24,75.75,0,Telefono,  Plin ,4,149.61,Revisar,Sede 2,  Comas ,Sur,Terapia fisica,rehabilitacion,75.75,Carlos Vargas,CALLAO,Nuevo,2025-09-25
+147,2026-01-12,2,49,77.4,12,Presencial,Efectivo,2,110.16,OK,SEDE 3,SaN MiGuEl,Oeste,Consulta  general,Medicina,77.4,Raul Flores,Ate,Nuevo,2025-08-14
+148,2026-01-13,2,21,129.22,,Telefono,Tarjeta,2,167.98,Revisar,SEDE 7,LIMA,Oeste,,Imagenes,129.22,Andre Cruz,Miraflores,Premium,
+149,2026-05-28,6,37,89.15,10,whatsapp,,1,116.58,Cliente frecuente,Sede 1,Ate,Centro,Radiografia,Imagenes,89.15,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+150,2026-03-21,3,68,"89,15",0 aprox,WhatsApp,Efectivo,5,157.66,OK,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Marco Flores,Lima,Premium,2025-11-10
+151,2026-05-10,8,24,89.15,5,App,Tarjeta,4,174.97,,Sede 1,Ate,Centro,Radiografia,Imagenes,89.15,Sofia Quispe,chorrillos,Regular,2025-10-11
+152,2026-01-12,2,53,49.53,0,Web,Transferencia,5,168.29,OK,Sede 2,  Comas ,Sur,Curacion,Procedimiento,49.53,Andre Flores,San Miguel,nuevo,2025-01-22
+153,2026-05-17,7,26,56.5,12,PRESENCIAL,Transferencia,4,119.04,Cliente frecuente,Sede 2,  Comas ,Sur,  Laboratorio basico ,Laboratorio,56.5,Jose Mendoza,Lima,Corporativo,2025-08-23
+154,19-02-2026,2,143.09,75.75,15,Web,TARJETA,3,258.63,OK,Sede 4,  San Miguel ,Sur,Terapia fisica,rehabilitacion,75.75,Pedro Campos,  Chorrillos ,corporativo,2025-11-01
+155,2026-02-11,2,63,129.22,0,Presencial,Yape,3,217.15,Cliente frecuente,SEDE 7,LIMA,Oeste,,Imagenes,129.22,Sofia Cruz,Los Olivos,Corporativo,2025-12-25
+156,2026-03-01,,16,75.75,,App,Transferencia,2,116.63,Promocion,Sede 2,  Comas ,Sur,Terapia fisica,rehabilitacion,75.75,Carlos Vargas,CALLAO,Nuevo,2025-09-25
+157,2026-03-01,4,62,93.66,0,Web,Yape,1,190.38,Cliente frecuente,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,Jorge Ramos,Chorrillos,Frecuente,2025-09-04
+158,2026-03-02,3,40,77.4,0,WhatsApp,Tarjeta,5,171.74,OK,Sede 2,  Comas ,Sur,Consulta  general,Medicina,77.4,Sofia Reyes,Chorrillos,REGULAR,2025-07-25
+159,2026-01-15,7,18,49.53,8,Telefono,Plin,2,120.19,cliente frecuente,Sede 5,Villa El Salvador,Centro,Curacion,Procedimiento,49.53,Claudia Cruz,Miraflores,Regular,2025-07-17
+160,2026-06-17, 7 ,65,77.4,8,Telefono,plin,4,,Cliente frecuente,Sede 1,Ate,Centro,Consulta  general,Medicina,77.4,Fiorella Flores,San Juan de Lurigancho,Regular,03/07/2025
+161,2026-01-11,1,31,89.15,15,Telefono,Efectivo,5,112.35,,Sede 6,Callao,Sur,Radiografia,Imagenes,89.15,Jorge Flores,miraflores,Premium,2025-07-20
+162,07/03/2026,4,74,61.32 aprox,0,Presencial,YaPe,5,S/ 182.26,OK,SEDE 7,LIMA,Oeste,Control nutricional,nutricion,61.32,carlos castillo,Ventanilla,Corporativo,2025-02-16
+163,2026-04-16,2,55,89.15,5,Presencial,  Tarjeta ,5,187.05,Cliente frecuente,SEDE 3,SaN MiGuEl,Oeste,Radiografia,Imagenes,89.15,Carlos Paredes,Ventanilla,Premium,2025-09-27
+164,2026-01-18,2,49,129.22,0,WhatsApp,Tarjeta,1,621.14,OK,Sede 2,  Comas ,Sur,,Imagenes,129.22,Diego Cruz,San Miguel,FrEcUeNtE,2025-08-12
+165,2026-02-17,2,51,S/ 61.32,0,  Telefono ,Tarjeta,4,S/ 135.2,Cliente frecuente,Sede 4,  San Miguel ,Sur,Control nutricional,nutricion,61.32,Carlos Mendoza,Lima,Frecuente,2025-01-26
+166,2026-03-10,4,69,82.25,15,  Telefono ,Yape,3,193.73,OK,SEDE 3,SaN MiGuEl,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,Luis Paredes,,Nuevo,2025-01-20
+167,2026-05-01,8,24,49.53,10,Presencial,Efectivo,2,123.64,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Curacion,Procedimiento,49.53,Sofia Cruz,Los Olivos,Corporativo,2025-12-25
+168,2026-03-14,5,64,77.4,20,App,  Yape ,1,153.11,,Sede 6,Callao,Sur,Consulta  general,Medicina,77.4,Sofia Reyes,Chorrillos,REGULAR,2025-07-25
+169,2026-05-17,1,63,77.4,12,App,TARJETA,5 aprox,127.31,,Sede 5,Villa El Salvador,Centro,Consulta  general,Medicina,77.4,Jose Soto,Miraflores,Frecuente,2025-11-09
+170,2026-02-06,6,32,89.15,10,App,Transferencia,5,137.13,,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Elena Vargas,MiRaFlOrEs,Regular,2025-05-06
+171,2026-05-06,6,24,,0,Telefono,Tarjeta,2,121.75,,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Victor Ramos,La Molina,Regular,2025-12-13
+172,03/04/2026,5,75,S/ 93.66,15,App,Tarjeta,1,580.62,Revisar,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,Rocio Sayan,Comas,NUEVO,2025-01-25
+173,2026-04-13,1,72,82.25, 8 ,PRESENCIAL,Tarjeta,5,155.54,OK,Sede 5,Villa El Salvador,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Marco Flores,Lima,Premium,2025-11-10
+174,2026-04-16,7 aprox,60,93.66,8,WeB,Efectivo,4,167.99,Promocion,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,Diana Castillo,Lima,  Nuevo ,2025-01-23
+175,2026-01-19,2,10,61.32, 10 ,App,Transferencia,1,48.67,,Sede 5,Villa El Salvador,Centro,Control nutricional,nutricion,61.32,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+176,2026-02-22,6,71,61.32, 20 ,Telefono,TRANSFERENCIA,5,160.14,OK,Sede 1,Ate,Centro,Control nutricional,nutricion,61.32,Marco Salazar,  Comas ,Corporativo,2025-01-26
+177,2026-03-16,7,15,49.53,0,Telefono,Yape,1,121.04,Cliente frecuente,Sede 2,  Comas ,Sur,Curacion,Procedimiento,49.53,Sofia Cruz,Villa El Salvador,Frecuente,2025-07-20
+178,2026-03-03,7,61,,15,Presencial,,5,224.19,Promocion,SEDE 7,LIMA,Oeste,,Imagenes,129.22,Andre Cruz,San Juan de Lurigancho,Regular,2025-01-27
+179,2026-05-18,6,27,82.25 aprox,10,Telefono,Tarjeta,3,119.97,OK,SEDE 3,SaN MiGuEl,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,pedro paredes,San  Miguel,  Corporativo ,2025-10-25
+180,2026-02-06,1,14,93.66,15,WhatsApp,Yape,4,117.26,,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,Ana Paredes,LOS OLIVOS,Nuevo,2025-04-21
+181,2026/04/13,7,20,89.15,15,PrEsEnCiAl,Tarjeta,4,145.86,Cliente frecuente,SEDE 7,LIMA,Oeste,Radiografia,Imagenes,89.15,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+182,2026-02-09,8,12,56.5,12,App,Plin,3,117.67,Promocion,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,marco sayan,La Molina,nuevo,2025-05-19
+183,2026-03-28,5,30,49.53,8,Presencial,Transferencia,5,118.97,,Sede 5,Villa El Salvador,Centro,Curacion,Procedimiento,49.53,Rocio Rojas,Independencia,FrEcUeNtE,01/10/2025
+184,2026-03-01,4,29,89.15,10,PrEsEnCiAl,Yape,,"130,98",Cliente frecuente,Sede 5,Villa El Salvador,Centro,Radiografia,Imagenes,89.15,Carlos Mendoza,Lima,Frecuente,2025-01-26
+185,2026-01-05,1,73,,8,App,PlIn,1,181.9,,Sede 2,  Comas ,Sur,Consulta  general,Medicina,77.4,Jorge Flores,miraflores,Premium,2025-07-20
+186,2026-06-23, 5 ,59,49.53,10,Telefono,Yape,5,122.41,,SEDE 7,LIMA,Oeste,Curacion,Procedimiento,49.53,Marco Navarro,La Molina,Premium,2025-04-01
+187,2026-06-13,5,59,129.22,8,Telefono,Yape, 5 ,191.03,Cliente frecuente,Sede 4,  San Miguel ,Sur,,Imagenes,129.22,Lucia Campos,Miraflores,Frecuente,2025-01-01
+188,2026-04-12,7,,77.4,10,Telefono,  Yape ,4,129.71,Promocion,Sede 1,Ate,Centro,Consulta  general,Medicina,77.4,Carlos Mendoza,Lima,Frecuente,2025-01-26
+189,2026-06-17,1, 25 ,56.5,0,WhatsApp,Yape,5,,Cliente frecuente,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Sofia Cruz,Villa El Salvador,Frecuente,2025-07-20
+190,2026-03-18,5,47,77.4,20,WhatsApp,Yape,3,131.07 aprox,Revisar,Sede 1,Ate,Centro,Consulta  general,Medicina,77.4,Camila Castillo,Miraflores,Frecuente,2025-10-16
+191,,3,22,89.15,8,Telefono,Plin,3,105.37,Promocion,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Carlos Paredes,Ventanilla,Premium,2025-09-27
+192,2026-06-09,3,276.72,"56,5",12,WHATSAPP,  Plin ,4,S/ 371.98,,Sede 2,  Comas ,Sur,  Laboratorio basico ,Laboratorio,56.5,Andre Cruz,Miraflores,Premium,
+193,26/05/2026,7,40 aprox,49.53,12,WhatsApp,Plin,5, 115.46 ,,Sede 1,Ate,Centro,Curacion,Procedimiento,49.53,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+194,2026-01-03,3,68, 56.5 ,20,TeLeFoNo,Tarjeta,3,143.52,,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,  Diego Soto ,Los Olivos,Premium,2025-02-10
+195,2026-04-01,1,29,49.53,20,Telefono,Tarjeta,5,70.61,OK,SEDE 3,SaN MiGuEl,Oeste,Curacion,Procedimiento,49.53,Andre Flores,San Miguel,nuevo,2025-01-22
+196,2026-05-28,1,42,56.5,8,Presencial,Efectivo,5,119.83,OK,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Marco Navarro,La Molina,Premium,2025-04-01
+197, 2026-01-01 ,,65,61.32,0,Presencial,Plin,2,189.66,  OK ,Sede 5,Villa El Salvador,Centro,Control nutricional,nutricion,61.32,,Lima,CORPORATIVO,2025-11-26
+198,2026-04-05,5,19,93.66,0,WHATSAPP,tarjeta,5,162.9,,SEDE 3,SaN MiGuEl,Oeste,Consulta dental,Dental,93.66,Marco Salazar,  Comas ,Corporativo,2025-01-26
+199,01/05/2026,8,53,129.22,0,  App ,Tarjeta,5,225.9,OK,Sede 2,  Comas ,Sur,,Imagenes,129.22,Camila Navarro,Surco,Frecuente,2025-03-08
+200,,4,49,82.25,8,TeLeFoNo,Tarjeta,3,168.99,Cliente frecuente,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Maria Reyes,Chorrillos,Premium,2025-11-27
+201,2026-01-07,6,35,61.32,5,WhatsApp,Plin,1,124.26,Promocion,Sede 6,Callao,Sur,Control nutricional,nutricion,61.32,Sofia Cruz,Los Olivos,Corporativo,2025-12-25
+202,2026-02-11,4,61,77.4,0,Telefono,Plin,1,178.53,Cliente frecuente,Sede 6,Callao,Sur,Consulta  general,Medicina,77.4,Raul Flores,Ate,Nuevo,2025-08-14
+203,2026-02-20,8,38,82.25,20,Telefono,Transferencia,3,178.13,Revisar,Sede 2,  Comas ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Victor Salazar,La Molina,Corporativo,25/08/2025
+204,2026-01-02,4,17,93.66,15,Telefono,Transferencia,5,147.78,,SEDE 3,SaN MiGuEl,Oeste,Consulta dental,Dental,93.66,Diana Vargas,San Juan de Lurigancho,Frecuente, 2025-10-27 
+205,2026-02-16,5,70,75.75,20,Presencial,Efectivo,5,167.74,OK,SEDE 7,LIMA,Oeste,Terapia fisica,rehabilitacion,75.75,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+206,2026-05-10,5,54,129.22,0,WhatsApp,Yape,5,203.76,Cliente frecuente,Sede 6,Callao,Sur,,Imagenes,129.22,Carlos Mendoza,Lima,Frecuente,2025-01-26
+207,2026-03-08,6,33,75.75,8,WhatsApp,Efectivo,1,153.29,Revisar,SEDE 7,LIMA,Oeste,Terapia fisica,rehabilitacion,75.75,Marco Gomez,San Miguel,Premium,2025-08-06
+208,,5,30,"82,25",8,Telefono,TARJETA,2,149.09,,Sede 1,Ate,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Luis Ramos,Comas,Corporativo,2025-04-27
+209,08/03/2026,7,36,61.32,5,WhatsApp,Tarjeta,3,121.7,OK,SEDE 7,LIMA,Oeste,Control nutricional,nutricion,61.32,Fiorella Vargas,  Chorrillos ,Frecuente,2025-07-17
+210,2026-06-20,7 aprox,64,75.75,0,Telefono,Efectivo,4,208.27,Revisar,Sede 1,Ate,Centro,Terapia fisica,rehabilitacion,75.75,Camila Castillo,Miraflores,Frecuente,2025-10-16
+211,2026-03-15,8,35 aprox,"89,15",20,Web,Plin,,177.61,Cliente frecuente,SEDE 3,SaN MiGuEl,Oeste,Radiografia,Imagenes,89.15,Victor Navarro,La Molina,Regular,2025-03-25
+212,2026-04-28,5,42,129.22,5,,Transferencia,4 aprox, 202.54 ,Promocion,Sede 5,Villa El Salvador,Centro,,Imagenes,129.22,Marco Salazar,  Comas ,Corporativo,2025-01-26
+213,2026-01-16,1,32 aprox,61.32,10,WhatsApp,Efectivo,,84.83,Cliente frecuente,SEDE 7,LIMA,Oeste,Control nutricional,nutricion,61.32,Carlos Paredes,Ventanilla,Premium,2025-09-27
+214,2026-02-21,4,60,89.15, 15 ,WhatsApp,Plin,1,158.64,Cliente frecuente,SEDE 7,LIMA,Oeste,Radiografia,Imagenes,89.15,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+215,2026-01-27,8, 14 ,82.25,20,WhatsApp,efectivo,2,107.57,OK,Sede 6,Callao,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Jorge Ramos,Chorrillos,Frecuente,2025-09-04
+216,2026-01-25,4,28,89.15,10,TeLeFoNo,Yape,5,143.27,Cliente frecuente,SEDE 7,LIMA,Oeste,Radiografia,Imagenes,89.15,,,Regular,2025-09-10
+217,2026-03-16,2,64,75.75,5,Presencial,,1,173.9,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Diego Ramos,Ventanilla,CORPORATIVO,2025-09-16
+218,2026-06-20,1,37,61.32,0,WhatsApp,Efectivo,5,116.43,Promocion,Sede 4,  San Miguel ,Sur,Control nutricional,nutricion,61.32,Elena Vargas,MiRaFlOrEs,Regular,2025-05-06
+219,2026-04-21,6,, 93.66 ,0,Presencial,Transferencia,1,124.78,Revisar,SEDE 3,SaN MiGuEl,Oeste,Consulta dental,Dental,93.66,Marco Salazar,  Comas ,Corporativo,2025-01-26
+220,2026-04-04,6,72,75.75,5,WhAtSaPp,Tarjeta,2,192.44,,Sede 4,  San Miguel ,Sur,Terapia fisica,rehabilitacion,75.75,Maria Ramos,Callao,Frecuente,2025-09-12
+221,2026-06-18,3,15,129.22, 0 ,Web,Transferencia,1,187.4,,Sede 2,  Comas ,Sur,,Imagenes,129.22,Lucia Reyes,La Molina,NuEvO,05-03-2025
+222,2026-03-20,6, 38 ,56.5,12,WhatsApp,,3,103.17,Promocion,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Luis Ramos,Comas,Corporativo,2025-04-27
+223,2026-05-05,5,51,82.25,8,App,Transferencia,1,538.98,Cliente frecuente,SEDE 7,LIMA,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,Marco Quispe,independencia,Frecuente,2025-03-24
+224,2026-02-01,1,56,77.4,15,Web,Transferencia,3,122.1,,Sede 2,  Comas ,Sur,Consulta  general,Medicina,77.4,Jose Mendoza,Lima,Corporativo,2025-08-23
+225,2026-03-21,2,29,61.32,12,Presencial,Yape,5,105.63,Revisar,Sede 5,Villa El Salvador,Centro,Control nutricional,nutricion,61.32,Luis Huaman,Ate,Premium,2025-12-13
+226,2026-03-02,4,31,56.5,0,WhatsApp,Transferencia,2,129.58,Cliente frecuente,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,carlos castillo,Ventanilla,Corporativo,2025-02-16
+227,2026-04-14, 1 ,20,S/ 77.4,,App,TaRjEtA,1,S/ 112.97,,Sede 6,Callao,Sur,Consulta  general,Medicina,77.4,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+228,2026-06-21,7,24,89.15,5,Telefono,Efectivo,1,152.63,Revisar,SEDE 7,LIMA,Oeste,Radiografia,Imagenes,89.15,Sofia Cruz,Los Olivos,Corporativo,2025-12-25
+229,05-04-2026,5,73,49.53,5,WhAtSaPp,Efectivo,1,181.3,,Sede 5,Villa El Salvador,Centro,Curacion,Procedimiento,49.53,Carlos Vargas,CALLAO,Nuevo,2025-09-25
+230,2026-04-27,4,44,,10,app,YAPE,5,159.08,Cliente frecuente,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,Lucia Ramos,  Los Olivos ,Premium,2025-03-22
+231,2026-03-11,4 aprox,12,77.4,10,App,Yape,2,76.68,,Sede 5,Villa El Salvador,Centro,Consulta  general,Medicina,77.4,Victor Salazar,La Molina,Corporativo,25/08/2025
+232,2026-03-22,4,65,129.22,0,WhatsApp,Transferencia,2,211.9,,Sede 4,  San Miguel ,Sur,,Imagenes,129.22,Valeria Gomez,  Ate ,Premium,2025-11-26
+233,2026-04-09,6,35,129.22,5,App,  Transferencia , 3 ,168.12,Revisar,Sede 5,Villa El Salvador,Centro,,Imagenes,129.22,Rocio Sayan,Comas,NUEVO,2025-01-25
+234,,8,26,82.25,5,Telefono,Plin,2,,,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Marco Flores,Lima,Premium,2025-11-10
+235,2026-01-06,4,56,61.32,8,Web,Efectivo,1,156.02,Promocion,SEDE 7,LIMA,Oeste,Control nutricional,nutricion,61.32,Raul Reyes,Chorrillos,Regular,2025-10-13
+236,2026/05/11,6,15,89.15,5,WhatsApp,Tarjeta,3,144.39,  OK ,Sede 1,Ate,Centro,Radiografia,Imagenes,89.15,Diego Cruz,San Miguel,FrEcUeNtE,2025-08-12
+237,2026-05-05, 8 ,127.82,93.66,10,WhatsApp,Plin,2,290.0,Cliente frecuente,Sede 6,Callao,Sur,Consulta dental,Dental,93.66,Rocio Rojas,Independencia,FrEcUeNtE,01/10/2025
+238,13-03-2026,6,30,,5,Presencial,Plin,1,210.93,,Sede 4,  San Miguel ,Sur,,Imagenes,129.22,Marco Flores,Lima,Premium,2025-11-10
+239,2026-06-28,7,58,75.75,5 aprox,Presencial,Yape,4,182.34,OK,Sede 6,Callao,Sur,Terapia fisica,rehabilitacion,75.75,Diana Castillo,Ventanilla,Corporativo,2025/05/13
+240,2026-03-24,8,32,75.75,0,WhAtSaPp,Yape,5,139.07,Cliente frecuente,SEDE 3,SaN MiGuEl,Oeste,Terapia fisica,rehabilitacion,75.75,Victor Salazar,La Molina,Corporativo,25/08/2025
+241,2026-06-06,1,40,56.5,20,App,Efectivo,,109.57,Promocion,Sede 6,Callao,Sur,  Laboratorio basico ,Laboratorio,56.5,Miguel Paredes,La Molina,Frecuente,2025-12-03
+242,2026-05-27,8,14,77.4,8,  Presencial ,Transferencia,3,116.05,OK,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,Pedro Campos,  Chorrillos ,corporativo,2025-11-01
+243,2026-01-09,5,42,77.4,8,Telefono,Plin,5,150.71,Cliente frecuente,Sede 1,Ate,Centro,Consulta  general,Medicina,77.4,carlos castillo,Ventanilla,Corporativo,2025-02-16
+244,2026-06-01,8, 11 ,93.66,12,,Tarjeta,5,145.53,,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,Ana Flores,Villa El Salvador,NUEVO,2025-01-08
+245,2026-06-26,1,55,"93,66",5,WhatsApp,Transferencia,3,168.82,Promocion,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,Elena Paredes,VILLA EL SALVADOR,Frecuente,2025-10-04
+246,2026-01-04,3,74,75.75,15,App,Transferencia,1,161.78,promocion,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Lucia Reyes,La Molina,NuEvO,05-03-2025
+247,2026-02-12,7,54,89.15,0,WhatsApp,Plin, 2 ,196.91,OK,Sede 6,Callao,Sur,Radiografia,Imagenes,89.15,Sofia Cruz,Los Olivos,Corporativo,2025-12-25
+248,2026-01-20,5,53,56.5,12,WhatsApp,Efectivo,3,159.71,Promocion,Sede 6,Callao,Sur,  Laboratorio basico ,Laboratorio,56.5,Andre Navarro,Lima,Frecuente,2025-03-07
+249,2026-06-26,2,35,56.5,12,App,Tarjeta,2,120.45,Revisar,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Carlos Mendoza,Lima,Frecuente,2025-01-26
+250,2026-01-26,8,17,61.32 aprox,8,WhatsApp,Transferencia,,142.74,Revisar,Sede 5,Villa El Salvador,Centro,Control nutricional,nutricion,61.32,Victor Ramos,La Molina,Regular,2025-12-13
+251,2026-06-09,2,58,77.4,12,App,  Yape ,4,194.34,Promocion,Sede 5,Villa El Salvador,Centro,Consulta  general,Medicina,77.4,Fiorella Vargas,  Chorrillos ,Frecuente,2025-07-17
+252,2026-02-04,7,19,82.25, 15 ,WhatsApp,Yape,5,166.9,,Sede 5,Villa El Salvador,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Raul Reyes,Chorrillos,Regular,2025-10-13
+253,25/04/2026,,23,49.53,10,WhatsApp,Plin,1,101.92,,Sede 4,  San Miguel ,Sur,Curacion,Procedimiento,49.53,Maria Reyes,Chorrillos,Premium,2025-11-27
+254,2026-01-18,1,15,75.75,10,Web,Transferencia,5, 123.7 ,Revisar,Sede 6,Callao,Sur,Terapia fisica,rehabilitacion,75.75,Camila Castillo,Miraflores,Frecuente,2025-10-16
+255,2026-04-17,8,44,75.75, 15 ,Presencial,PlIn,1,191.15,OK,SEDE 7,LIMA,Oeste,Terapia fisica,rehabilitacion,75.75,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+256,2026-03-06,8,70,77.4,5,Web,Transferencia,5,189.91,,Sede 2,  Comas ,Sur,Consulta  general,Medicina,77.4,Valeria Ramos,Surco,Nuevo,2025-10-04
+257,2026-02-04,6,34,82.25, 20 ,Telefono,Transferencia,1,157.13,,SEDE 7,LIMA,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,marco sayan,La Molina,nuevo,2025-05-19
+258,2026-02-26,1,59,75.75,10,Web,Efectivo,3,140.8,Revisar,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Rocio Reyes,CaLlAo,  Premium ,2025-03-20
+259,2026-01-11,5,15,56.5,20,App,Tarjeta,3,77.46,,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Ana Flores,Villa El Salvador,NUEVO,2025-01-08
+260,2026-02-17,4,74,89.15,0,Presencial,Transferencia,1,203.56,Cliente frecuente,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Victor Vargas,Independencia,Premium,2025-04-09
+261,2026-06-27,4,39,S/ 77.4,0,App,,3,"159,21",Revisar,SEDE 3,SaN MiGuEl,Oeste,Consulta  general,Medicina,77.4,Sofia Cruz,Villa El Salvador,Frecuente,2025-07-20
+262,2026-06-23,1 aprox,20,129.22,5,App,,1,176.78,,SEDE 7,LIMA,Oeste,,Imagenes,129.22,Luis Paredes,,Nuevo,2025-01-20
+263,2026-06-16,,15,S/ 56.5, 8 ,Presencial,Efectivo,1,146.73,,SEDE 3,SaN MiGuEl,Oeste,  Laboratorio basico ,Laboratorio,56.5,,Lima,CORPORATIVO,2025-11-26
+264,2026-01-04,5,75,49.53,0,WhatsApp,Transferencia,2 aprox,,ClIeNtE FrEcUeNtE,Sede 1,Ate,Centro,Curacion,Procedimiento,49.53,Luis Huaman,Ate,Premium,2025-12-13
+265,26-06-2026,6,35,49.53,5,WhatsApp,Efectivo,4,147.65,OK,SEDE 7,LIMA,Oeste,Curacion,Procedimiento,49.53,Elena Vargas,MiRaFlOrEs,Regular,2025-05-06
+266,2026-02-12,1,11 aprox,82.25,10,Web,Plin,3, 95.64 ,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Diego Vargas,San Juan de Lurigancho,Corporativo,2025-05-17
+267,2026-05-08,7,39,129.22,0,Presencial,Transferencia,2,214.91,,Sede 5,Villa El Salvador,Centro,,Imagenes,129.22,Maria Reyes,Chorrillos,Premium,2025-11-27
+268,2026-03-04,,62,56.5,8,Web,Tarjeta,2,178.15,,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Carlos Mendoza,Lima,Frecuente,2025-01-26
+269,2026-04-06,4,70,75.75,15,Web,PlIn,5,,Promocion,Sede 2,  Comas ,Sur,Terapia fisica,rehabilitacion,75.75,,Los Olivos,  Premium ,2025-02-10
+270,2026-02-26,8,34,93.66,5,Telefono,Tarjeta,4,178.39,ClIeNtE FrEcUeNtE,Sede 2,  Comas ,Sur,Consulta dental,Dental,93.66,pedro paredes,San  Miguel,  Corporativo ,2025-10-25
+271,2026-04-09,8,67,82.25,0,Web,Plin,1,167.09,Revisar,SEDE 7,LIMA,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,Valeria Ramos,Surco,Nuevo,2025-10-04
+272,13-01-2026,8,43,93.66,12,WhatsApp,Yape,1,190.0,,SEDE 3,SaN MiGuEl,Oeste,Consulta dental,Dental,93.66,Raul Reyes,Chorrillos,Regular,2025-10-13
+273,2026-01-25,7,34,75.75 aprox,20,App,Efectivo,5,170.08,Promocion,Sede 6,Callao,Sur,Terapia fisica,rehabilitacion,75.75,Jose Soto,Miraflores,Frecuente,2025-11-09
+274,2026-02-01,,63,129.22,,Presencial,Yape,2,187.2,Promocion,Sede 4,  San Miguel ,Sur,,Imagenes,129.22,marco sayan,La Molina,nuevo,2025-05-19
+275,2026-03-11, 8 ,43,49.53,0,Telefono,,3,136.59,,Sede 2,  Comas ,Sur,Curacion,Procedimiento,49.53,Luis Huaman,Ate,Premium,2025-12-13
+276,2026-01-26,6,32,82.25,0,WhatsApp,Plin,1,173.75,,Sede 1,Ate,Centro,Consulta pediatrica,PeDiAtRiA,82.25,  Diego Soto ,Los Olivos,Premium,2025-02-10
+277,2026-03-18,5,53,61.32,15,Presencial,Plin,2,151.74,Promocion,Sede 4,  San Miguel ,Sur,Control nutricional,nutricion,61.32,Carlos Cruz,Ventanilla,Regular,2025-09-02
+278,2026-03-14,4,48,77.4,8,WhatsApp,efectivo,5,165.86,,SEDE 3,SaN MiGuEl,Oeste,Consulta  general,Medicina,77.4,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+279,2026-03-06,1,22,82.25,0,Telefono,Plin,,97.57,OK,Sede 6,Callao,Sur,Consulta pediatrica,PeDiAtRiA,82.25,FiOrElLa tOrReS,  Surco ,Premium,2025-08-24
+280,2026-03-24,6,73,129.22,12,App,YaPe,3,245.72,   ,SEDE 3,SaN MiGuEl,Oeste,,Imagenes,129.22,Carlos Paredes,Ventanilla,Premium,2025-09-27
+281,2026-03-27,5 aprox,58,129.22,0,WhatsApp,Transferencia,4,227.14,,Sede 4,  San Miguel ,Sur,,Imagenes,129.22,Victor Salazar,La Molina,Corporativo,25/08/2025
+282,,2,46,82.25,15,WhatsApp,Tarjeta,5,160.69,Cliente frecuente,SEDE 7,LIMA,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,pedro soto,San Miguel,corporativo,2025-01-15
+283,2026-04-08,1,53,"75,75",0,Presencial,Yape,4,123.56,Revisar,Sede 2,  Comas ,Sur,Terapia fisica,rehabilitacion,75.75,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+284,2026-01-27,8,33,56.5,0,Web,Efectivo,1,129.42,,Sede 6,Callao,Sur,  Laboratorio basico ,Laboratorio,56.5,Andre Cruz,Miraflores,Premium,
+285,2026-04-01,1,58,61.32,,WhatsApp,Plin,3,134.18,cliente frecuente,Sede 4,  San Miguel ,Sur,Control nutricional,nutricion,61.32,Maria Reyes,Chorrillos,Premium,2025-11-27
+286,2026-01-23,4,19,"89,15",0,App,Efectivo,1,136.75,ok,Sede 6,Callao,Sur,Radiografia,Imagenes,89.15,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+287,2026-01-28,6,18,82.25,12,Web,Plin,5,133.64,,SEDE 7,LIMA,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,Marco Navarro,La Molina,Premium,2025-04-01
+288,2026-05-16,2,58,89.15,20,Presencial,Plin,2,174.55,,SEDE 3,SaN MiGuEl,Oeste,Radiografia,Imagenes,89.15,Sofia Cruz,  Chorrillos ,Premium,2025-10-10
+289,2026-04-15,3,71,56.5,10,Telefono,Transferencia,2,168.0,,Sede 4,  San Miguel ,Sur,  Laboratorio basico ,Laboratorio,56.5,Rocio Rojas,Independencia,FrEcUeNtE,01/10/2025
+290,2026-01-12,8,59,89.15,5,WeB,Transferencia,,188.16,OK,Sede 1,Ate,Centro,Radiografia,Imagenes,89.15,,,Regular,2025-09-10
+291, 2026-02-01 ,7,37,93.66,0,WhatsApp,YaPe,5,155.04,,Sede 6,Callao,Sur,Consulta dental,Dental,93.66,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+292,2026-01-20,5,,"56,5",15,WhatsApp,Efectivo,2, 122.31 ,Promocion,Sede 4,  San Miguel ,Sur,  Laboratorio basico ,Laboratorio,56.5,Andre Flores,San Miguel,nuevo,2025-01-22
+293,2026-02-21,8,34,129.22,10,Telefono,Yape,5,181.67,,SEDE 3,SaN MiGuEl,Oeste,,Imagenes,129.22,Rocio Sayan,Comas,NUEVO,2025-01-25
+294,2026-02-24, 4 ,57,129.22,0 aprox,  Presencial ,Transferencia,2,194.09,,Sede 5,Villa El Salvador,Centro,,Imagenes,129.22,Sofia Cruz,  Chorrillos ,Premium,2025-10-10
+295,,4,41,77.4,20,Telefono,Tarjeta,3,151.56,,Sede 6,Callao,Sur,Consulta  general,Medicina,77.4,Jorge Rojas,SaN MiGuEl,Regular,2025-09-25
+296,2026-02-16,5,71,77.4,0,TeLeFoNo,PlIn,2, 200.18 ,OK,Sede 5,Villa El Salvador,Centro,Consulta  general,Medicina,77.4,Carlos Vargas,CALLAO,Nuevo,2025-09-25
+297,2026-06-21,8,59 aprox,129.22,15,Telefono,Tarjeta,2,193.22,Revisar,Sede 5,Villa El Salvador,Centro,,Imagenes,129.22,Jorge Quispe,Callao,PrEmIuM,2025-02-10
+298,2026-02-26,7,17,61.32,15,Presencial,Plin,5,143.49,Revisar,Sede 1,Ate,Centro,Control nutricional,nutricion,61.32,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+299,2026-01-06,8,12,"82,25",20,WhatsApp,Tarjeta,5,137.96,Promocion,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Elena Paredes,VILLA EL SALVADOR,Frecuente,2025-10-04
+300,2026-01-16,5,59,56.5,15,App,Transferencia,2,147.26,,SEDE 7,LIMA,Oeste,  Laboratorio basico ,Laboratorio,56.5,FiOrElLa tOrReS,  Surco ,Premium,2025-08-24
+301,2026-03-05,5,58,49.53,10,Web,Efectivo,2,,Promocion,SEDE 7,LIMA,Oeste,Curacion,Procedimiento,49.53,Lucia Huaman,CHORRILLOS,,2025-04-07
+302,06/03/2026,4,70,82.25,0,Web,Yape,5,189.14 aprox,,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Andre Soto,Villa El Salvador,Frecuente,2025-04-02
+303,2026-05-08,7,17,61.32,0,Telefono,Transferencia,5,141.51,OK,Sede 1,Ate,Centro,Control nutricional,nutricion,61.32,Marco Gomez,San Miguel,Premium,2025-08-06
+304,2026-04-05,2,,49.53,0,Presencial,TARJETA,4,138.26,Cliente frecuente,Sede 4,  San Miguel ,Sur,Curacion,Procedimiento,49.53,Ana Flores,Villa El Salvador,NUEVO,2025-01-08
+305,2026-03-08,7,52,,15,Presencial,,5 aprox,168.2,OK,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,Jorge Flores,miraflores,Premium,2025-07-20
+306,07/06/2026,7,68,93.66,0,  Web ,Efectivo,5,"196,72",,Sede 6,Callao,Sur,Consulta dental,Dental,93.66,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+307,2026-02-19,1,74,56.5,0,Telefono,Tarjeta,1,163.47,OK,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Marco Gomez,San Miguel,Premium,2025-08-06
+308,2026-05-04,4, 28 , 93.66 ,0,APP,Yape,5,148.02,OK,Sede 6,Callao,Sur,Consulta dental,Dental,93.66,Marco Gomez,San Miguel,Premium,2025-08-06
+309,2026-04-01,3,33,75.75,20,Web,Tarjeta,4 aprox,140.53,,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,,Los Olivos,  Premium ,2025-02-10
+310,2026-03-19, 6 ,35,129.22,12,WhatsApp,TaRjEtA,5,170.3,Revisar,Sede 6,Callao,Sur,,Imagenes,129.22,Diana Castillo,Lima,  Nuevo ,2025-01-23
+311,2026-04-08,4,12,129.22,8,Presencial,Transferencia, 5 ,128.24,,Sede 1,Ate,Centro,,Imagenes,129.22,Andre Navarro,Lima,Frecuente,2025-03-07
+312,2026-06-21,6,38,82.25 aprox,0,Telefono,,2,169.4,,Sede 6,Callao,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Victor Vargas,Independencia,Premium,2025-04-09
+313,2026-05-26,8,58,75.75,10,Web,,2,165.03,Cliente frecuente,Sede 4,  San Miguel ,Sur,Terapia fisica,rehabilitacion,75.75,CARLOS QUISPE,Surco,Regular,2025-06-15
+314,2026-02-28,4,28, 93.66 ,20,Web,Plin,4,124.97,OK,Sede 2,  Comas ,Sur,Consulta dental,Dental,93.66,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+315,,6,38,56.5,12,App,Plin,2,124.72,,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,Marco Quispe,independencia,Frecuente,2025-03-24
+316,2026-03-27,7, 46 ,77.4,,Presencial,Plin,5,164.92,Cliente frecuente,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,,Los Olivos,  Premium ,2025-02-10
+317,2026-06-02,8 aprox,27,82.25,8,Telefono,Tarjeta,3,155.68,Revisar,Sede 6,Callao,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Rocio Sayan,Comas,NUEVO,2025-01-25
+318,2026-03-28,8,13 aprox,"75,75",15,WhatsApp,Efectivo,4 aprox,134.31,,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,,Lima,CORPORATIVO,2025-11-26
+319,2026-06-08,2,74,75.75,10,PRESENCIAL,Tarjeta,5,161.28 aprox,Promocion,SEDE 3,SaN MiGuEl,Oeste,Terapia fisica,rehabilitacion,75.75,Luis Soto,Ate,Regular,2025-12-01
+320,2026-06-19,6,14,93.66,0,  Web ,Tarjeta,1,142.48,Revisar,Sede 6,Callao,Sur,Consulta dental,Dental,93.66,Miguel Salazar,VILLA EL SALVADOR,Regular,2025-01-13
+321,2026-05-11,3,20,56.5,15,App,tarjeta,4,111.04,,SEDE 7,LIMA,Oeste,  Laboratorio basico ,Laboratorio,56.5,Miguel Salazar,VILLA EL SALVADOR,Regular,2025-01-13
+322,2026-05-08,8,74,89.15 aprox,8,WhatsApp,Transferencia,,218.09,,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Sofia Quispe,chorrillos,Regular,2025-10-11
+323,2026-05-20,5,12,129.22,15,WEB,Transferencia, 5 ,117.65,Revisar,Sede 1,Ate,Centro,,Imagenes,129.22,Jorge Quispe,Callao,PrEmIuM,2025-02-10
+324,2026-04-26,2,29,129.22,0,  Web ,Plin,2,187.37,,Sede 6,Callao,Sur,,Imagenes,129.22,Jorge Mendoza,San Miguel,  Regular ,02/03/2025
+325,2026-01-15,6,38,89.15,8,App,Transferencia,1,153.81,,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,carlos castillo,Ventanilla,Corporativo,2025-02-16
+326,2026-05-04,4 aprox,44,61.32, 10 ,Presencial,Tarjeta,2,124.3 aprox,,SEDE 3,SaN MiGuEl,Oeste,Control nutricional,nutricion,61.32,Diego Vargas,San Juan de Lurigancho,Corporativo,2025-05-17
+327,2026-06-17,4,41,56.5,15,Web,Tarjeta,5,116.5 aprox,  OK ,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Sofia Cruz,Villa El Salvador,Frecuente,2025-07-20
+328,2026-03-17,7,209.88,49.53,10,web,,4,303.98,,Sede 6,Callao,Sur,Curacion,Procedimiento,49.53,Marco Navarro,La Molina,Premium,2025-04-01
+329,2026-01-08,7 aprox,61,56.5,5,Presencial,Transferencia,5,149.8,,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,Raul Reyes,Chorrillos,Regular,2025-10-13
+330,2026-01-26,7,74,56.5,8,Web,Tarjeta,2,171.58,Revisar,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Miguel Paredes,La Molina,Frecuente,2025-12-03
+331,2026-05-13,2,63,75.75,5,,Transferencia,4,154.4,Revisar,Sede 1,Ate,Centro,Terapia fisica,rehabilitacion,75.75,Marco Flores,Lima,Premium,2025-11-10
+332,2026-05-21,7,17,93.66,15,App,Transferencia,3 aprox,136.76,ClIeNtE FrEcUeNtE,Sede 4,  San Miguel ,Sur,Consulta dental,Dental,93.66,Marco Gomez,San Miguel,Premium,2025-08-06
+333,2026-02-07,7,25,129.22,8,Web,Plin,5,153.56,,Sede 6,Callao,Sur,,Imagenes,129.22,Lucia Campos,Miraflores,Frecuente,2025-01-01
+334,2026-01-02,1,40,75.75,20,Presencial,Transferencia,1, 113.47 ,Revisar,Sede 2,  Comas ,Sur,Terapia fisica,rehabilitacion,75.75,Andre Salazar,Lima,Premium,2025-05-06
+335,2026-05-28,2,62, 77.4 ,5,WhatsApp,Transferencia,5,171.38,Promocion,Sede 6,Callao,Sur,Consulta  general,Medicina,77.4,Jorge Rojas,SaN MiGuEl,Regular,2025-09-25
+336,08/03/2026,7,36,61.32,5,WhatsApp,Tarjeta,3,121.7,OK,SEDE 7,LIMA,Oeste,Control nutricional,nutricion,61.32,Fiorella Vargas,  Chorrillos ,Frecuente,2025-07-17
+337,2026-02-05,6,48,82.25,0,Telefono,Tarjeta,5,158.84,Promocion,Sede 5,Villa El Salvador,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Jorge Rojas,SaN MiGuEl,Regular,2025-09-25
+338,2026-03-03,2,47,93.66,20 aprox,,Yape,1,177.72,,SEDE 3,SaN MiGuEl,Oeste,Consulta dental,Dental,93.66,Carlos Cruz,Ventanilla,Regular,2025-09-02
+339,2026-03-11,4,27,61.32,12,App,  Transferencia ,1,133.18,Revisar,Sede 5,Villa El Salvador,Centro,Control nutricional,nutricion,61.32,,,Regular,2025-09-10
+340,2026-03-15,5,72 aprox,82.25,12,Web,Efectivo,5,214.89,Ok,Sede 1,Ate,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Lucia Campos,Miraflores,Frecuente,2025-01-01
+341, 2026-02-26 ,8,53,S/ 77.4,12,Telefono,Tarjeta,1,139.03,Revisar,Sede 6,Callao,Sur,Consulta  general,Medicina,77.4,pedro soto,San Miguel,corporativo,2025-01-15
+342,09-04-2026,3,22,75.75,,Telefono,Transferencia,1,136.02,,SEDE 3,SaN MiGuEl,Oeste,Terapia fisica,rehabilitacion,75.75,Jorge Rojas,SaN MiGuEl,Regular,2025-09-25
+343,2026-04-05,,53,93.66,0,App,Tarjeta,5,175.62,OK,Sede 6,Callao,Sur,Consulta dental,Dental,93.66,Lucia Huaman,CHORRILLOS,,2025-04-07
+344,13/06/2026,4,39,56.5,20,WhatsApp,Tarjeta,4,128.52,Revisar,Sede 6,Callao,Sur,  Laboratorio basico ,Laboratorio,56.5,Jorge Quispe,Callao,PrEmIuM,2025-02-10
+345,01/02/2026,4,26,93.66,12,WhatsApp,Yape,1,144.13,Cliente frecuente,Sede 4,  San Miguel ,Sur,Consulta dental,Dental,93.66,Jose Rojas,ViLlA El sAlVaDoR,ReGuLaR,2025-02-14
+346,2026-03-14,2,49,89.15, 10 ,Telefono,Tarjeta,3 aprox,168.46,Revisar,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Ana Paredes,LOS OLIVOS,Nuevo,2025-04-21
+347,,6,25,77.4,8,App,Efectivo,3,"99,96",Revisar,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,Sofia Cruz,Villa El Salvador,Frecuente,2025-07-20
+348,2026-01-06,7,60,61.32,5,  App ,Plin,4,180.95 aprox,Cliente  frecuente,Sede 1,Ate,Centro,Control nutricional,nutricion,61.32,Lucia Campos,Miraflores,Frecuente,2025-01-01
+349,2026-06-03,2,20,77.4,10,App,Yape,3,104.7,ClIeNtE FrEcUeNtE,SEDE 3,SaN MiGuEl,Oeste,Consulta  general,Medicina,77.4,Fiorella Vargas,  Chorrillos ,Frecuente,2025-07-17
+350,2026-03-10,6,46,75.75,0,,Plin,2,,,Sede 2,  Comas ,Sur,Terapia fisica,rehabilitacion,75.75,Andre Salazar,Lima,Premium,2025-05-06
+351,2026-05-23,3,60,49.53 aprox,0,Telefono,Tarjeta,1,157.81,,Sede 4,  San Miguel ,Sur,Curacion,Procedimiento,49.53,Sofia Cruz,Los Olivos,Corporativo,2025-12-25
+352,2026-06-13,7,31,129.22,0,App,Efectivo,1,S/ 222.6,Promocion,SEDE 3,SaN MiGuEl,Oeste,,Imagenes,129.22,Elena Paredes,Independencia,Premium,2025/01/11
+353,2026-04-11,6,57,93.66,5,  Web ,Tarjeta,5,183.56,Promocion,Sede 6,Callao,Sur,Consulta dental,Dental,93.66,Claudia Cruz,Miraflores,Regular,2025-07-17
+354,2026-03-01,7,32, 129.22 , 0 ,WhatsApp,Plin,3 aprox,181.08,Revisar,Sede 1,Ate,Centro,,Imagenes,129.22,Fiorella Vargas,  Chorrillos ,Frecuente,2025-07-17
+355,2026-05-22,3,55,77.4,12,Web,Tarjeta,2,152.16,Promocion,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,Lucia Reyes,La Molina,NuEvO,05-03-2025
+356,2026-02-10,8,31,89.15,15,Presencial,Plin, 4 ,162.02,Revisar,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Jorge Ramos,Chorrillos,Frecuente,2025-09-04
+357,2026-02-21,8,44,89.15,0,WEB,Tarjeta,,182.44,OK,SEDE 3,SaN MiGuEl,Oeste,Radiografia,Imagenes,89.15,Marco Salazar,  Comas ,Corporativo,2025-01-26
+358,17-04-2026,4,35,89.15,,WhatsApp,Yape,1,159.89,OK,Sede 5,Villa El Salvador,Centro,Radiografia,Imagenes,89.15,Maria Cruz,,Frecuente,2025-06-26
+359,,8,11,129.22,10,Web,Yape,1,160.39,Promocion,Sede 6,Callao,Sur,,Imagenes,129.22,Raul Reyes,Chorrillos,Regular,2025-10-13
+360,20/05/2026,5,131.92, 129.22 ,0,Telefono,Transferencia,2,279.74,,SEDE 7,LIMA,Oeste,,Imagenes,129.22,Camila Navarro,Surco,Frecuente,2025-03-08
+361,2026-05-07,3,19,S/ 61.32,20,WhAtSaPp,Transferencia,1,S/ 192.05,OK,Sede 6,Callao,Sur,Control nutricional,nutricion,61.32,Ana Flores,Villa El Salvador,NUEVO,2025-01-08
+362,2026-03-05,5,74,89.15,10,WhatsApp,EFECTIVO,5,194.49,Promocion,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Jorge Mendoza,San Miguel,  Regular ,02/03/2025
+363,21-02-2026,3,67,129.22,0,WhatsApp,Efectivo,5, 190.88 ,Revisar,Sede 6,Callao,Sur,,Imagenes,129.22,Ana Flores,Villa El Salvador,NUEVO,2025-01-08
+364,2026-03-25,5,36 aprox,61.32,0,Telefono,EFECTIVO,3,"141,62",OK,Sede 5,Villa El Salvador,Centro,Control nutricional,nutricion,61.32,Jorge Flores,miraflores,Premium,2025-07-20
+365,2026-04-24,7,27,82.25,20,WhatsApp,  Tarjeta , 4 ,626.6,,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,FiOrElLa tOrReS,  Surco ,Premium,2025-08-24
+366,2026-04-06,5, 22 ,129.22,10,  WhatsApp ,Efectivo,4,180.07,,Sede 1,Ate,Centro,,Imagenes,129.22,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+367,2026-04-17,8,54,61.32,8,Presencial,Efectivo,1,S/ 171.7,Cliente frecuente,SEDE 3,SaN MiGuEl,Oeste,Control nutricional,nutricion,61.32,Marco Quispe,independencia,Frecuente,2025-03-24
+368,2026-01-25,2,39,"56,5",0,App,Efectivo,1,"121,68",,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,CARLOS QUISPE,Surco,Regular,2025-06-15
+369,2026-05-20,7,52,89.15,0,App,Yape,4,,Ok,Sede 6,Callao,Sur,Radiografia,Imagenes,89.15,Ana Paredes,LOS OLIVOS,Nuevo,2025-04-21
+370,2026-06-20,1,33,S/ 61.32,0,Web,Transferencia,3 aprox,101.95 aprox,OK,Sede 6,Callao,Sur,Control nutricional,nutricion,61.32,pedro soto,San Miguel,corporativo,2025-01-15
+371,,8,37,56.5,20,Telefono,PLIN,3 aprox,115.83 aprox,Cliente  frecuente,SEDE 3,SaN MiGuEl,Oeste,  Laboratorio basico ,Laboratorio,56.5,Sofia Cruz,Los Olivos,Corporativo,2025-12-25
+372,,4,57,S/ 61.32,0,WhatsApp,Yape,3,148.05,OK,SEDE 7,LIMA,Oeste,Control nutricional,nutricion,61.32,Victor Salazar,La Molina,Corporativo,25/08/2025
+373,2026-04-07,2,28,77.4,0,Telefono,Plin,4,141.18,Promocion,SEDE 7,LIMA,Oeste,Consulta  general,Medicina,77.4,Pedro Campos,  Chorrillos ,corporativo,2025-11-01
+374,2026-02-05,2,10,"77,4",15,Telefono,Efectivo,5,89.23,OK,Sede 1,Ate,Centro,Consulta  general,Medicina,77.4,Sofia Reyes,Chorrillos,REGULAR,2025-07-25
+375,2026-05-16,3,,93.66,12,Telefono,Transferencia,2,158.45,  Promocion ,Sede 4,  San Miguel ,Sur,Consulta dental,Dental,93.66,Andre Navarro,Lima,Frecuente,2025-03-07
+376,2026-03-17,6,43,129.22,12,app,Yape,1,198.36,Promocion,SEDE 3,SaN MiGuEl,Oeste,,Imagenes,129.22,Rocio Cruz,LiMa,Regular,2025-06-08
+377,2026-05-24,8,61,56.5, 15 ,Telefono,Plin,2,147.6,,SEDE 3,SaN MiGuEl,Oeste,  Laboratorio basico ,Laboratorio,56.5,Raul Reyes,Chorrillos,Regular,2025-10-13
+378,2026-04-13,6,10,49.53,12,presencial,Efectivo,4,94.53,,Sede 2,  Comas ,Sur,Curacion,Procedimiento,49.53,Diana Castillo,Ventanilla,Corporativo,2025/05/13
+379,2026/05/26,4, 69 , 89.15 ,0,Telefono,Transferencia,2,182.27,Promocion,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Andre Cruz,Miraflores,Premium,
+380,2026-03-08,3, 48 ,82.25,8,App,Plin,5, 160.22 ,Promocion,SEDE 3,SaN MiGuEl,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,Victor Navarro,La Molina,Regular,2025-03-25
+381,2026-05-21,3,18,89.15,0,telefono,Plin,5,107.02,Promocion,Sede 5,Villa El Salvador,Centro,Radiografia,Imagenes,89.15,Jorge Rojas,SaN MiGuEl,Regular,2025-09-25
+382,18-06-2026,5,21,56.5,0,PRESENCIAL,Tarjeta,5,119.18,Promocion,SEDE 7,LIMA,Oeste,  Laboratorio basico ,Laboratorio,56.5,Fiorella Flores,San Juan de Lurigancho,Regular,03/07/2025
+383,2026-05-09,6,18,129.22,0,App,Tarjeta,3,192.6,,Sede 1,Ate,Centro,,Imagenes,129.22,Ana Flores,Villa El Salvador,NUEVO,2025-01-08
+384,2026-02-17,6,61,56.5,0,Web,Efectivo,2,170.83,,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,Fiorella Gomez,Ventanilla,Frecuente,27-01-2025
+385,2026-03-24,1,27,93.66,12,WhatsApp,Transferencia,4,139.61,,Sede 2,  Comas ,Sur,Consulta dental,Dental,93.66,Rocio Cruz,LiMa,Regular,2025-06-08
+386,2026-06-23,3,32,56.5,0,WhatsApp,Efectivo,5,124.9,Revisar,SEDE 3,SaN MiGuEl,Oeste,  Laboratorio basico ,Laboratorio,56.5,Diana Castillo,Ventanilla,Corporativo,2025/05/13
+387,2026-04-26,7,21,77.4,12,Web,Plin,2,142.91,Promocion,SEDE 3,SaN MiGuEl,Oeste,Consulta  general,Medicina,77.4,Rocio Cruz,LiMa,Regular,2025-06-08
+388,2026-06-23,1,41,82.25,10,App,Tarjeta,2,117.44,,SEDE 7,LIMA,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,Jorge Rojas,SaN MiGuEl,Regular,2025-09-25
+389, 2026-02-12 ,8,20,56.5,15,App,YAPE,1 aprox,130.04,,Sede 6,Callao,Sur,  Laboratorio basico ,Laboratorio,56.5,Camila Navarro,Surco,Frecuente,2025-03-08
+390,2026-01-24,6,19,49.53,5,presencial,Plin,2,105.3,,Sede 4,  San Miguel ,Sur,Curacion,Procedimiento,49.53,Carlos Flores,San Juan de Lurigancho,Premium,2025-07-24
+391,2026-01-03,2,59,89.15,12,whatsapp,TRANSFERENCIA,5,156.54,OK,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Ana Flores,Villa El Salvador,NUEVO,2025-01-08
+392,15/05/2026,8,48,89.15,8,Web,Plin,5,748.02,,SEDE 7,LIMA,Oeste,Radiografia,Imagenes,89.15,Diana Castillo,Ventanilla,Corporativo,2025/05/13
+393,2026-05-09,7,59,89.15,,Presencial,Yape,4,179.22,,SEDE 7,LIMA,Oeste,Radiografia,Imagenes,89.15,Miguel Salazar,VILLA EL SALVADOR,Regular,2025-01-13
+394,2026-02-14,8,62,56.5,12,Presencial,Yape,2, 198.53 ,Revisar,Sede 4,  San Miguel ,Sur,  Laboratorio basico ,Laboratorio,56.5,marco sayan,La Molina,nuevo,2025-05-19
+395,2026-06-22,4,20,61.32 aprox,8,App,Transferencia,1,104.23,Cliente frecuente,SEDE 3,SaN MiGuEl,Oeste,Control nutricional,nutricion,61.32,Claudia Cruz,Miraflores,Regular,2025-07-17
+396,2026/03/03,1,57,56.5,12,  App ,Efectivo,, 160.55 ,,Sede 5,Villa El Salvador,Centro,  Laboratorio basico ,Laboratorio,56.5,Rocio Cruz,LiMa,Regular,2025-06-08
+397,2026-04-25,7,,56.5,0,WhatsApp,Plin,,,,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,Diana Vargas,San Juan de Lurigancho,Frecuente, 2025-10-27 
+398,2026-03-27,4,29,77.4,0 aprox,Presencial,Efectivo,1,"131,44",OK,SEDE 7,LIMA,Oeste,Consulta  general,Medicina,77.4,Carlos Mendoza,Lima,Frecuente,2025-01-26
+399,2026-03-13,6,67,75.75,0,Telefono,TARJETA,4,195.59,   ,Sede 2,  Comas ,Sur,Terapia fisica,rehabilitacion,75.75,Rocio Rojas,Independencia,FrEcUeNtE,01/10/2025
+400,2026-04-18,2,55,129.22,5,WhatsApp,Yape,3,181.58,,Sede 1,Ate,Centro,,Imagenes,129.22,  Diego Soto ,Los Olivos,Premium,2025-02-10
+401,2026-04-09,2,29,61.32,0,Telefono,Plin,1,116.31,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Control nutricional,nutricion,61.32,Raul Flores,Ate,Nuevo,2025-08-14
+402,2026-04-20,5,42,77.4,20,WhatsApp,Plin,1,173.53,,Sede 2,  Comas ,Sur,Consulta  general,Medicina,77.4,Andre Navarro,Lima,Frecuente,2025-03-07
+403,2026-01-25,2,39,"56,5",0,App,Efectivo,1,"121,68",,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,CARLOS QUISPE,Surco,Regular,2025-06-15
+404,2026-05-18,5,24,93.66, 10 ,Telefono,Efectivo,1,181.5,Cliente frecuente,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,,Lima,CORPORATIVO,2025-11-26
+405,2026-02-19,8,65,56.5,10,Telefono,EfEcTiVo,5,139.86,Cliente frecuente,Sede 4,  San Miguel ,Sur,  Laboratorio basico ,Laboratorio,56.5,Luis Soto,Ate,Regular,2025-12-01
+406,2026-06-03,2,56,56.5,12,Web,Tarjeta,1,135.97,Revisar,Sede 6,Callao,Sur,  Laboratorio basico ,Laboratorio,56.5,Elena Paredes,VILLA EL SALVADOR,Frecuente,2025-10-04
+407,2026-02-10,6,36,75.75,15,Telefono,EfEcTiVo,5, 148.53 ,OK,Sede 6,Callao,Sur,Terapia fisica,rehabilitacion,75.75,,,Regular,2025-09-10
+408,2026-01-24,8,20,61.32,0,Web,Transferencia,3,115.38,Promocion,SEDE 3,SaN MiGuEl,Oeste,Control nutricional,nutricion,61.32,Carlos Mendoza,Lima,Frecuente,2025-01-26
+409,2026-02-15,8,42,49.53,8,Telefono,Transferencia,2,140.34,OK,Sede 2,  Comas ,Sur,Curacion,Procedimiento,49.53,Rocio Sayan,Comas,NUEVO,2025-01-25
+410,2026-03-12,7,47,S/ 75.75,5 aprox,App,Plin,1,155.12,Revisar,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Diana Castillo,Lima,  Nuevo ,2025-01-23
+411,2026-04-25,2,13,82.25,0,PrEsEnCiAl,Efectivo,3,130.37,,Sede 2,  Comas ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Andre Navarro,Lima,Frecuente,2025-03-07
+412,2026-02-10,3,28,129.22,0,Presencial,Transferencia,1,189.51,,Sede 5,Villa El Salvador,Centro,,Imagenes,129.22,Jorge Rojas,SaN MiGuEl,Regular,2025-09-25
+413,2026-05-19,1,33,129.22,12,WhatsApp,Tarjeta,,140.74,Revisar,Sede 1,Ate,Centro,,Imagenes,129.22,Rocio Reyes,CaLlAo,  Premium ,2025-03-20
+414,2026-04-27,,22, 93.66 ,0,Telefono,Transferencia,5,S/ 161.42,Revisar,Sede 1,Ate,Centro,Consulta dental,Dental,93.66,Marco Navarro,La Molina,Premium,2025-04-01
+415,2026-04-22,6,60,"56,5",0,,Transferencia,3,195.64,OK,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,Victor Ramos,La Molina,Regular,2025-12-13
+416,2026-04-14,6 aprox,70,56.5,8,Telefono,Tarjeta,5,163.35,  OK ,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,Maria Cruz,,Frecuente,2025-06-26
+417,2026-06-04,7,64,61.32,12,Telefono,PlIn, 4 ,188.87,Revisar,Sede 2,  Comas ,Sur,Control nutricional,nutricion,61.32,Diego Vargas,San Juan de Lurigancho,Corporativo,2025-05-17
+418,2026-03-06,3,14 aprox,93.66,0,APP,TARJETA,4,489.31,  Revisar ,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,,Los Olivos,  Premium ,2025-02-10
+419,2026-03-03,5,32, 77.4 ,12,WhatsApp,Transferencia,3,150.91,Promocion,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,,Los Olivos,  Premium ,2025-02-10
+420,2026-04-09,8,28,82.25,10,Web,Plin,1,162.92,OK,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Luis Paredes,,Nuevo,2025-01-20
+421,2026-03-02,1,15,56.5,20,Web,Tarjeta,5,100.8,,Sede 6,Callao,Sur,  Laboratorio basico ,Laboratorio,56.5,Jose Soto,Miraflores,Frecuente,2025-11-09
+422,2026-01-11,1,67,77.4,10,App,Plin,1,135.78,,SEDE 7,LIMA,Oeste,Consulta  general,Medicina,77.4,Luis Ramos,Comas,Corporativo,2025-04-27
+423,2026-02-21,5,21,75.75,10,Telefono,,3,123.19,OK,SEDE 3,SaN MiGuEl,Oeste,Terapia fisica,rehabilitacion,75.75,Diana Vargas,San Juan de Lurigancho,Frecuente, 2025-10-27 
+424,14-01-2026,3,29,S/ 93.66, 5 ,App,Efectivo,3,150.57,Promocion,Sede 2,  Comas ,Sur,Consulta dental,Dental,93.66,Andre Flores,San Miguel,nuevo,2025-01-22
+425, 2026-02-10 ,6,36,"89,15", 5 ,Web,Efectivo,1,134.38 aprox,Promocion,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Sofia Quispe,chorrillos,Regular,2025-10-11
+426,2026-02-14, 7 ,67,49.53,0,Telefono,Plin,5,209.35,Cliente frecuente,SEDE 3,SaN MiGuEl,Oeste,Curacion,Procedimiento,49.53,Miguel Navarro,los olivos,,2025-10-08
+427,2026-06-11,7,63,89.15,0,App,Plin,4,174.17,OK,Sede 1,Ate,Centro,Radiografia,Imagenes,89.15,pedro soto,San Miguel,corporativo,2025-01-15
+428,2026/01/17, 4 ,12,89.15,,web,Efectivo,4,114.43,,SEDE 7,LIMA,Oeste,Radiografia,Imagenes,89.15,Elena Paredes,Independencia,Premium,2025/01/11
+429,2026-03-19,3,59,S/ 61.32,15,Telefono,Efectivo,3,133.82,Cliente frecuente,Sede 6,Callao,Sur,Control nutricional,nutricion,61.32,Claudia Cruz,Miraflores,Regular,2025-07-17
+430,2026-01-04,5,25,89.15,8,App,  Tarjeta ,5,"124,95",Cliente frecuente,Sede 5,Villa El Salvador,Centro,Radiografia,Imagenes,89.15,Diana Castillo,Lima,  Nuevo ,2025-01-23
+431,2026-06-22,3,27,49.53,20,WhatsApp,  Plin ,5,82.67,OK,Sede 1,Ate,Centro,Curacion,Procedimiento,49.53,Jorge Rojas,SaN MiGuEl,Regular,2025-09-25
+432,2026-03-19,3,46,82.25,5,WhatsApp,,2,115.53,Revisar,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Diana Castillo,Lima,  Nuevo ,2025-01-23
+433,2026-04-17,4,15,89.15,15,Presencial,transferencia,2,114.96,OK,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Marco Gomez,San Miguel,Premium,2025-08-06
+434,2026-03-18,5,19,75.75,5,,Plin,1,106.25,Revisar,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,marco sayan,La Molina,nuevo,2025-05-19
+435,2026-02-03,5,48,129.22,0 aprox,App,transferencia,2,692.08,OK,Sede 5,Villa El Salvador,Centro,,Imagenes,129.22,pedro soto,San Miguel,corporativo,2025-01-15
+436,2026-01-17,5,73,77.4,8,Presencial,Efectivo,2,183.59,Cliente frecuente,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,Pedro Navarro,Villa El Salvador,Premium,2025-02-10
+437,2026-03-19,5,71,89.15,0,TeLeFoNo,Efectivo,3,228.0,OK,SEDE 3,SaN MiGuEl,Oeste,Radiografia,Imagenes,89.15,Valeria Gomez,  Ate ,Premium,2025-11-26
+438,2026-06-28,4,,49.53,10,Web,Yape,1,,,Sede 2,  Comas ,Sur,Curacion,Procedimiento,49.53,Marco Flores,Lima,Premium,2025-11-10
+439,2026-03-22,4,35, 82.25 ,15,WhatsApp,Efectivo,5,119.42,Promocion,Sede 1,Ate,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Camila Navarro,Surco,Frecuente,2025-03-08
+440,2026-01-23,4,72,77.4,8,WhatsApp,Efectivo,5,182.61,,Sede 4,  San Miguel ,Sur,Consulta  general,Medicina,77.4,Victor Salazar,La Molina,Corporativo,25/08/2025
+441,2026-03-16,8,40,49.53,0,App,Yape,2,165.0,Cliente frecuente,Sede 6,Callao,Sur,Curacion,Procedimiento,49.53,Luis Paredes,,Nuevo,2025-01-20
+442,2026-02-08,2,70,89.15,8,App,Plin,4,169.5,,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Maria Reyes,Chorrillos,Premium,2025-11-27
+443,2026-02-03,2,66,61.32,12,App,Transferencia,3,170.6,OK,Sede 5,Villa El Salvador,Centro,Control nutricional,nutricion,61.32,Victor Vargas,Independencia,Premium,2025-04-09
+444,2026-04-06,2,39,129.22,0,Telefono,Efectivo, 1 ,169.02,Cliente frecuente,SEDE 3,SaN MiGuEl,Oeste,,Imagenes,129.22,Marco Flores,Lima,Premium,2025-11-10
+445, 2026-06-14 ,8,27,77.4,20,Web,Plin,3,132.25,,SEDE 3,SaN MiGuEl,Oeste,Consulta  general,Medicina,77.4,pedro paredes,San  Miguel,  Corporativo ,2025-10-25
+446,2026-03-28,2,54,89.15,0,Telefono,Tarjeta,3,"166,76",Revisar,Sede 2,  Comas ,Sur,Radiografia,Imagenes,89.15,Jose Soto,Miraflores,Frecuente,2025-11-09
+447,2026-01-09,6,40,49.53,20,Presencial,Tarjeta,3,122.65 aprox,Cliente frecuente,Sede 2,  Comas ,Sur,Curacion,Procedimiento,49.53,Rocio Sayan,Comas,NUEVO,2025-01-25
+448,2026-01-05,3,30,56.5,20,App,Plin,5,116.69,Promocion,SEDE 3,SaN MiGuEl,Oeste,  Laboratorio basico ,Laboratorio,56.5,Lucia Campos,Miraflores,Frecuente,2025-01-01
+449,2026-05-27,2,75,61.32,12,WeB,EFECTIVO,1,173.21,,Sede 6,Callao,Sur,Control nutricional,nutricion,61.32,,Los Olivos,  Premium ,2025-02-10
+450,2026-02-01,1,26,56.5,0,Web,Plin,5,100.4,Cliente frecuente,Sede 6,Callao,Sur,  Laboratorio basico ,Laboratorio,56.5,carlos castillo,Ventanilla,Corporativo,2025-02-16
+451, 2026-06-06 ,4,54,93.66,10,Web,Efectivo,1 aprox,149.82,Promocion,Sede 1,Ate,Centro,Consulta dental,Dental,93.66,Rocio Rojas,Independencia,FrEcUeNtE,01/10/2025
+452,2026-03-25,1,74,82.25,10,WhatsApp,Tarjeta,1,187.67,,Sede 2,  Comas ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Diana Vargas,San Juan de Lurigancho,Frecuente, 2025-10-27 
+453,2026-04-23,5,72,93.66,20,,EfEcTiVo,3,197.39,,Sede 4,  San Miguel ,Sur,Consulta dental,Dental,93.66,pedro paredes,San  Miguel,  Corporativo ,2025-10-25
+454,2026-05-01,6,73,82.25,20,WhatsApp,Tarjeta,5,188.28,Cliente frecuente,SEDE 3,SaN MiGuEl,Oeste,Consulta pediatrica,PeDiAtRiA,82.25,Lucia Reyes,La Molina,NuEvO,05-03-2025
+455,2026-05-04,3,43,89.15,8,,Tarjeta,2,132.68,Revisar,Sede 6,Callao,Sur,Radiografia,Imagenes,89.15,Maria Cruz,,Frecuente,2025-06-26
+456,2026-03-05,1,41,93.66,15,App,Yape,5,122.32,,Sede 6,Callao,Sur,Consulta dental,Dental,93.66,Carlos Vargas,CALLAO,Nuevo,2025-09-25
+457,2026-01-08,5,,77.4, 0 ,PRESENCIAL,Efectivo,2,154.83,OK,Sede 5,Villa El Salvador,Centro,Consulta  general,Medicina,77.4,Andre Cruz,Miraflores,Premium,
+458,2026-04-05,,47,49.53,0,Web,Plin,2,149.75,OK,Sede 5,Villa El Salvador,Centro,Curacion,Procedimiento,49.53,Victor Navarro,La Molina,Regular,2025-03-25
+459,2026-06-10,8,46,82.25,12,Web,Plin,1,206.85,Revisar,Sede 4,  San Miguel ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Jorge Mendoza,San Miguel,  Regular ,02/03/2025
+460,2026-05-27,3,,82.25,8,WhatsApp,Plin,4,161.66,,Sede 6,Callao,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Raul Reyes,Chorrillos,Regular,2025-10-13
+461,2026-06-25,4,60,93.66,10,Telefono,Efectivo,5, 158.93 ,OK,Sede 6,Callao,Sur,Consulta dental,Dental,93.66,Rocio Reyes,CaLlAo,  Premium ,2025-03-20
+462,2026-01-13,5,69,61.32,5,App,plin,5,196.62,OK,Sede 6,Callao,Sur,Control nutricional,nutricion,61.32,Marco Quispe,independencia,Frecuente,2025-03-24
+463,2026-05-22,7,65,89.15,0,WhatsApp,Efectivo,2,187.22,Promocion,SEDE 7,LIMA,Oeste,Radiografia,Imagenes,89.15,FiOrElLa tOrReS,  Surco ,Premium,2025-08-24
+464,2026-06-15,7,74,56.5,8,WhatsApp,Yape,1,158.47,Promocion,Sede 2,  Comas ,Sur,  Laboratorio basico ,Laboratorio,56.5,Jorge Rojas,SaN MiGuEl,Regular,2025-09-25
+465,2026-02-03,1,73,82.25,20,  Web ,Transferencia,4,136.28,,Sede 5,Villa El Salvador,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Sofia Quispe,chorrillos,Regular,2025-10-11
+466,2026-06-18,6,43,,0,TELEFONO,YAPE,2,169.12,revisar,SEDE 7,LIMA,Oeste,Terapia fisica,rehabilitacion,75.75,Ana Flores,Villa El Salvador,NUEVO,2025-01-08
+467,2026-03-26,7,64,61.32,5,Presencial,  Transferencia ,5,203.7,Revisar,Sede 1,Ate,Centro,Control nutricional,nutricion,61.32,Carlos Torres,AtE,Frecuente,2025-02-10
+468,2026-04-03,8,30 aprox,82.25,12,WhatsApp,Plin,2,140.31,Revisar,Sede 1,Ate,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Fiorella Flores,San Juan de Lurigancho,Regular,03/07/2025
+469,2026-04-07,8,68,129.22,0,TELEFONO,Yape,5,216.16,,Sede 1,Ate,Centro,,Imagenes,129.22,Marco Gomez,San Miguel,Premium,2025-08-06
+470,2026-06-07,5,63,75.75,0,WeB,Tarjeta,3,179.13,Revisar,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Miguel Salazar,VILLA EL SALVADOR,Regular,2025-01-13
+471,2026-05-14,3,58,75.75,12,Web,Efectivo,5,169.83,Promocion,Sede 5,Villa El Salvador,Centro,Terapia fisica,rehabilitacion,75.75,Carlos Flores,San Juan de Lurigancho,Premium,2025-07-24
+472,2026-01-13,6, 37 ,49.53,10,Presencial,Yape,3,148.06,Cliente frecuente,Sede 1,Ate,Centro,Curacion,Procedimiento,49.53,Andre Soto,Villa El Salvador,Frecuente,2025-04-02
+473, 2026-01-04 ,7,26,"129,22",5,Web,Yape,5,192.82,Ok,Sede 6,Callao,Sur,,Imagenes,129.22,Fiorella Vargas,  Chorrillos ,Frecuente,2025-07-17
+474,2026-06-28,3, 22 ,82.25,12,,Yape,5,108.62,Revisar,Sede 6,Callao,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Marco Salazar,  Comas ,Corporativo,2025-01-26
+475,2026-04-01,5,49,77.4,20,Web,Plin,3,119.24,Cliente frecuente,SEDE 7,LIMA,Oeste,Consulta  general,Medicina,77.4,Lucia Ramos,  Los Olivos ,Premium,2025-03-22
+476,2026-03-07,8,303.78,61.32,5 aprox,Web,Transferencia,1,453.72,Revisar,Sede 6,Callao,Sur,Control nutricional,nutricion,61.32,Carlos Cruz,Ventanilla,Regular,2025-09-02
+477,2026-02-10,7,14,56.5,5,WhAtSaPp,Tarjeta,1,149.34,Revisar,Sede 2,  Comas ,Sur,  Laboratorio basico ,Laboratorio,56.5,Rocio Reyes,CaLlAo,  Premium ,2025-03-20
+478,2026-06-24, 5 ,37,129.22,0,App,PLIN,2,193.07,,SEDE 3,SaN MiGuEl,Oeste,,Imagenes,129.22,Valeria Ramos,Surco,Nuevo,2025-10-04
+479,24-01-2026,3, 47 ,93.66,0,Presencial,Plin,2,139.62,Promocion,Sede 5,Villa El Salvador,Centro,Consulta dental,Dental,93.66,Jorge Mendoza,San Miguel,  Regular ,02/03/2025
+480,2026-01-23,5,20,75.75,10,App,  Transferencia ,4, 105.54 ,Revisar,Sede 1,Ate,Centro,Terapia fisica,rehabilitacion,75.75,Jorge Mendoza,San Miguel,  Regular ,02/03/2025
+481,2026-01-02,2,70,89.15,12,Web,Tarjeta,2,178.69,Cliente frecuente,Sede 4,  San Miguel ,Sur,Radiografia,Imagenes,89.15,Andre Cruz,San Juan de Lurigancho,Regular,2025-01-27
+482,2026-02-27,,20,49.53,12,Telefono,Efectivo,3,83.17,OK,Sede 2,  Comas ,Sur,Curacion,Procedimiento,49.53,Lucia Huaman,CHORRILLOS,,2025-04-07
+483,2026-03-03,3,22,56.5,12,WhatsApp,Tarjeta,4,,cliente frecuente,Sede 4,  San Miguel ,Sur,  Laboratorio basico ,Laboratorio,56.5,CARLOS QUISPE,Surco,Regular,2025-06-15
+484,2026-05-22,8,45 aprox,75.75,8,Telefono,Transferencia,3,143.07,OK,SEDE 7,LIMA,Oeste,Terapia fisica,rehabilitacion,75.75,Raul Reyes,Chorrillos,Regular,2025-10-13
+485,2026-05-17,6,39,93.66,20,,Tarjeta,,162.71,Revisar,Sede 5,Villa El Salvador,Centro,Consulta dental,Dental,93.66,Rocio Cruz,LiMa,Regular,2025-06-08
+486,2026-05-02,6,23,129.22 aprox,15,Web,Tarjeta,5,176.55,   ,SEDE 3,SaN MiGuEl,Oeste,,Imagenes,129.22,Maria Ramos,Callao,Frecuente,2025-09-12
+487,2026-06-18,6, 21 ,75.75,5,Telefono,Transferencia,1,131.69,Promocion,Sede 6,Callao,Sur,Terapia fisica,rehabilitacion,75.75,Sofia Quispe,chorrillos,Regular,2025-10-11
+488,22-03-2026, 2 ,16,75.75,0,Web,,5,86.97,OK,SEDE 7,LIMA,Oeste,Terapia fisica,rehabilitacion,75.75,Diego Ramos,Ventanilla,CORPORATIVO,2025-09-16
+489,2026-01-18,5,56,129.22,5 aprox,Web,Tarjeta,4,215.28 aprox,,Sede 1,Ate,Centro,,Imagenes,129.22,Diego Cruz,San Miguel,FrEcUeNtE,2025-08-12
+490,2026-06-28,2,24,82.25,20,WhatsApp,Plin,4,126.41,OK,Sede 2,  Comas ,Sur,Consulta pediatrica,PeDiAtRiA,82.25,Luis Ramos,Comas,Corporativo,2025-04-27
+491,2026-03-01,5,32,89.15,12,Telefono,TaRjEtA,3,162.12,Promocion,SEDE 3,SaN MiGuEl,Oeste,Radiografia,Imagenes,89.15,Ana Flores,Villa El Salvador,NUEVO,2025-01-08
+492,2026-03-12,4,41,61.32,20,Presencial,Efectivo, 2 ,167.76,PROMOCION,Sede 1,Ate,Centro,Control nutricional,nutricion,61.32,Rocio Rojas,Independencia,FrEcUeNtE,01/10/2025
+493,2026/05/13,1,179.9,77.4,0,Web,yape,4,320.13,Cliente frecuente,Sede 5,Villa El Salvador,Centro,Consulta  general,Medicina,77.4,Marco Flores,Lima,Premium,2025-11-10
+494,2026-03-17,4,58,93.66,12,Presencial,Transferencia,2,151.08,,Sede 2,  Comas ,Sur,Consulta dental,Dental,93.66,Marco Navarro,La Molina,Premium,2025-04-01
+495,2026-05-27,3,74,S/ 56.5,0,web,Yape,2,170.12,Cliente frecuente,Sede 1,Ate,Centro,  Laboratorio basico ,Laboratorio,56.5,Jorge Flores,miraflores,Premium,2025-07-20
+496,2026-06-14,2,12,75.75,8,Presencial,Transferencia,4,107.17,,Sede 1,Ate,Centro,Terapia fisica,rehabilitacion,75.75,Camila Navarro,Surco,Frecuente,2025-03-08
+497,2026-04-08,8,45,93.66,5,Web,Efectivo,,191.78,Promocion,SEDE 7,LIMA,Oeste,Consulta dental,Dental,93.66,Victor Salazar,La Molina,Corporativo,25/08/2025
+498,2026-03-11,5,30,82.25,10,Presencial,Efectivo,,176.39,OK,Sede 1,Ate,Centro,Consulta pediatrica,PeDiAtRiA,82.25,Miguel Paredes,La Molina,Frecuente,2025-12-03
+499,2026/06/19,7,35,49.53, 0 ,Telefono,Yape,4, 149.36 ,Revisar,Sede 4,  San Miguel ,Sur,Curacion,Procedimiento,49.53,pedro paredes,San  Miguel,  Corporativo ,2025-10-25
+500,2026-01-27,3 aprox,62,49.53,12 aprox,Web,Yape,3,168.75,OK,SEDE 3,SaN MiGuEl,Oeste,Curacion,Procedimiento,49.53,  Diego Soto ,Los Olivos,Premium,2025-02-10

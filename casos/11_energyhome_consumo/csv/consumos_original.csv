@@ -1,0 +1,501 @@
+id_consumo,fecha_operacion,electrodomesticos,numero_habitantes,tarifa_base,descuento_pct,canal,metodo_pago,calificacion,consumo_kwh,observacion,distritos_nombre,distritos_distrito,distritos_zona,tarifas_nombre,tarifas_categoria,tarifas_tarifa_base,hogares_nombre,hogares_distrito,hogares_segmento,hogares_fecha_registro
+1,2026-06-11,6 aprox,5,S/ 0.97,0,Presencial,Tarjeta,5, 261.71 ,Promocion,Distrito 4,San Juan de Lurigancho,Centro,,Comercial,0.97,Camila Ramos,CHORRILLOS,Corporativo,2025-04-07
+2,2026-06-24,2 aprox,8,0.61,15,App,Tarjeta,3,"344,99",Revisar,Distrito 4,San Juan de Lurigancho,Centro,Nocturna,Especial,0.61,Claudia Paredes,lima,Corporativo,2025-08-27
+3, 2026-06-18 ,6,6,0.96,20,Web,YAPE,4,343.23,Revisar,Distrito 4,San Juan de Lurigancho,Centro,Comercial pequena,Comercial,0.96,Victor Flores,Comas,Premium,2025-12-20
+4,2026-06-28,3,8,0.97,12,WhatsApp,EFECTIVO,3,326.02,Cliente frecuente,Distrito 2,Lima,Norte,,Comercial,0.97,Jorge Huaman,Callao,REGULAR,2025-04-06
+5,2026-05-01,4,3, 0.5 ,10,Presencial,Plin,1,192.06,,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,Maria Quispe,Villa El Salvador,Regular,2025-06-18
+6,2026-06-15,1,5,0.97,15,Web,Tarjeta,1,174.84,OK,Distrito 5,San Miguel,  Este ,,Comercial,0.97,Raul Vargas,SAN JUAN DE LURIGANCHO,Frecuente,2025-01-28
+7, 2026-06-10 ,8,4,S/ 0.96,5,,Plin,1,,Revisar,Distrito 5,San Miguel,  Este ,Comercial pequena,Comercial,0.96,Andre Navarro,San Juan de Lurigancho,Corporativo,2025-06-05
+8,2026-02-17,1,6,0.78,0,Web,Yape,3,275.68,Revisar,Distrito 3,Ventanilla,Oeste,Residencial media,Residencial,0.78,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+9,2026-03-01,8,4,"0,71",10,App,Transferencia,2,240.58,,DiStRiTo 7,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Claudia Mendoza,San  Juan  de  Lurigancho,Regular,2025-03-10
+10,2026-05-01,4,3, 0.5 ,10,Presencial,Plin,1,192.06,,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,Maria Quispe,Villa El Salvador,Regular,2025-06-18
+11,2026-01-04,8,4,0.61,8,Presencial,Transferencia,1,332.15,Revisar,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Valeria Rojas,Miraflores,Premium,2025-09-22
+12,2026-05-03,4,5,0.61,12,Presencial,,3,198.51,Promocion,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+13,2026-04-08,1,5,0.97,10,WhatsApp,TRANSFERENCIA,4,218.42,,Distrito 3,Ventanilla,Oeste,,Comercial,0.97,Camila Castillo,san juan de lurigancho,  Frecuente ,2025-12-24
+14,2026-01-16,2,6,0.61,10,Telefono,transferencia,2,245.66,Promocion,DiStRiTo 7,Ventanilla,Oeste,Nocturna,Especial,0.61,Andre Torres,Los Olivos,Corporativo,2025-01-01
+15,2026-03-06,5,1,0.97,15,Telefono,Yape,3,142.49,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,,Comercial,0.97,Lucia Sayan,SaN MiGuEl,Corporativo,2025-06-27
+16,2026/04/05,5,1,0.61,10,Presencial,Tarjeta,4,135.93,Revisar,Distrito 4,San Juan de Lurigancho,Centro,Solar mixta,Especial,0.61,Valeria Rojas,Miraflores,Premium,2025-09-22
+17,17/03/2026,3,1,0.61,0,Presencial,Yape,1,106.21,ok,Distrito 4,San Juan de Lurigancho,Centro,Nocturna,Especial,0.61,  Victor Paredes ,Los Olivos,Regular,2025-07-21
+18,2026-06-19,2,7,0.74,12,Telefono,Plin,1,269.48,Promocion,Distrito 6,comas,Oeste,Temporal,Temporal,0.74,Lucia Sayan,SaN MiGuEl,Corporativo,2025-06-27
+19,2026-06-11,7,1,0.5,10,Telefono,Efectivo,1,144.78,,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,Pedro Reyes,Surco,Premium,2025-02-12
+20,2026-01-16,3,2,0.97,0,Presencial,Transferencia,5, 149.44 ,Revisar,Distrito 5,San Miguel,  Este ,,Comercial,0.97,Maria Quispe,Villa El Salvador,Regular,2025-06-18
+21,2026-03-01,3,8,0.96, 8 ,Web,Yape, 1 ,359.27,OK,Distrito 6,comas,Oeste,Comercial pequena,Comercial,0.96,Diana Mendoza,Villa El Salvador,Frecuente,2025-07-24
+22,2026-06-16,2,7,0.5,10,Presencial,Efectivo,,S/ 334.34,Promocion,Distrito 4,San Juan de Lurigancho,Centro,SoCiAl,SUBVENCIONADA,0.5,Luis Soto,Villa El Salvador,Frecuente, 2025-01-01 
+23,11/06/2026,4,7,0.97,15,Telefono,Tarjeta,3,284.51,Promocion,Distrito 3,Ventanilla,Oeste,,Comercial,0.97,Jorge Ramos,ViLlA El sAlVaDoR,Frecuente,2025-11-03
+24,2026-04-26,8,6,0.74,15,WHATSAPP,  Efectivo ,4,324.93,Cliente frecuente,Distrito 3,Ventanilla,Oeste,Temporal,Temporal,0.74,Claudia Paredes,lima,Corporativo,2025-08-27
+25, 2026-05-02 ,1,3,0.61 aprox,10,Web,Tarjeta,5,124.43,Cliente frecuente,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,Luis Soto,Comas,,2025-01-04
+26,2026-02-16,2,5,0.96,0,WhatsApp,Plin,5,257.04,,Distrito 6,comas,Oeste,Comercial pequena,Comercial,0.96,Elena Campos,  Surco ,Nuevo,2025-09-05
+27,2026-05-08,6,3,0.96,0,Presencial,Plin,5,297.41,Cliente frecuente,Distrito 5,San Miguel,  Este ,Comercial pequena,Comercial,0.96,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+28, 2026-04-19 ,6,5,0.5,12,Telefono,Plin,4,247.41,Revisar,Distrito 5,San Miguel,  Este ,SoCiAl,SUBVENCIONADA,0.5,Raul Gomez,Independencia,Nuevo, 2025-09-06 
+29,2026-02-22,1,5,0.5,8,Web,Transferencia,5,664.38,Ok,Distrito 5,San Miguel,  Este ,SoCiAl,SUBVENCIONADA,0.5,Jose Sayan,Chorrillos,,2025-09-25
+30,2026-02-08,7,2,0.74,0,App,Transferencia,4,S/ 164.34,Promocion,Distrito 6,comas,Oeste,Temporal,Temporal,0.74,Luis Ramos,Lima,Corporativo,2025-07-25
+31,2026-05-28,8,28.52,"0,5",0,Web,Tarjeta,3,1028.9,OK,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,Sofia Cruz,SaN JuAn dE LuRiGaNcHo,Regular,2025-10-09
+32,2026-02-23,7,5,0.61,12,Presencial,Efectivo,5,239.3,Cliente frecuente,Distrito 5,San Miguel,  Este ,Nocturna,Especial,0.61,Andre Torres,Los Olivos,Corporativo,2025-01-01
+33,2026-04-27,2,4,S/ 0.61,0,,Transferencia,3,176.03,,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,Rocio Campos,  Villa El Salvador ,Corporativo,2025-12-17
+34,2026-03-05,6,8,0.78,12,WhatsApp,Plin,3,315.67,OK,Distrito 6,comas,Oeste,Residencial media,Residencial,0.78,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+35,2026-04-23,,8,0.87,20,whatsapp,,5,373.86,,Distrito 2,Lima,Norte,Residencial alta,Residencial,0.87,Jorge Campos,San Miguel,Premium,2025-04-19
+36,2026-03-05,4,6 aprox,, 12 ,whatsapp,Tarjeta,5,303.25,Cliente frecuente,Distrito 5,San Miguel,  Este ,Comercial pequena,Comercial,0.96,Miguel Cruz,,Corporativo,2025-02-01
+37,2026-06-15,1,5,0.97,15,Web,Tarjeta,1,174.84,OK,Distrito 5,San Miguel,  Este ,,Comercial,0.97,Raul Vargas,SAN JUAN DE LURIGANCHO,Frecuente,2025-01-28
+38,2026-06-14,,6,0.96,12,WEB,Efectivo,3 aprox,S/ 281.78,OK,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Miguel Cruz,,Corporativo,2025-02-01
+39,2026-03-23,8,1 aprox,0.97,8,WhatsApp,Tarjeta,3,169.27,Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,,Comercial,0.97,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+40,2026-01-11,6,1,S/ 0.61,0,WhatsApp,Plin,5,155.77,,DiStRiTo 7,Ventanilla,Oeste,Solar mixta,Especial,0.61,Fiorella Gomez,Callao,Corporativo,25-01-2025
+41,2026-05-12,1,7,0.78,15,Telefono,Yape,1,346.48 aprox,Promocion,Distrito 6,comas,Oeste,Residencial media,Residencial,0.78,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+42,2026-03-06,5,1,0.97,15,Telefono,Yape,3,142.49,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,,Comercial,0.97,Lucia Sayan,SaN MiGuEl,Corporativo,2025-06-27
+43,2026-02-07,6,2,S/ 0.61,10,Presencial,Plin,,160.25,Cliente frecuente,Distrito 6,comas,Oeste,Nocturna,Especial,0.61,RAUL REYES,Ate,Nuevo,2025-02-03
+44,2026-05-14,4 aprox,2,0.61,15,App,Efectivo,3,199.33 aprox,Revisar,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,Andre Navarro,San Juan de Lurigancho,Corporativo,2025-06-05
+45,2026-04-21,2,4,0.96,0,Presencial,Efectivo,3,182.45,OK,Distrito 2,Lima,Norte,Comercial pequena,Comercial,0.96,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+46,2026/01/02,5,3,"0,97",15,WhatsApp,  Efectivo ,5,183.01,Revisar,Distrito 5,San Miguel,  Este ,,Comercial,0.97,Jorge Paredes,Villa El Salvador,Regular,2025-05-16
+47,2026-04-18,6,4, 0.97 ,0,Telefono,Transferencia,2,218.82,Cliente frecuente,Distrito 6,comas,Oeste,,Comercial,0.97,Luis Ramos,Lima,Corporativo,2025-07-25
+48,2026-06-10,4,3,0.71,0,App,Efectivo,5,176.89,Promocion,Distrito 2,Lima,Norte,Residencial basica,Residencial,0.71,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+49,2026-03-01,3,8,0.96, 8 ,Web,Yape, 1 ,359.27,OK,Distrito 6,comas,Oeste,Comercial pequena,Comercial,0.96,Diana Mendoza,Villa El Salvador,Frecuente,2025-07-24
+50,2026-04-04,5,7,0.96,8,Web,Efectivo,1,318.34,Cliente frecuente,Distrito 2,Lima,Norte,Comercial pequena,Comercial,0.96,  Claudia Reyes ,Independencia,Corporativo,2025-06-27
+51,2026-03-05,4,5,0.87,5,,Efectivo,1,305.06,OK,Distrito 6,comas,Oeste,Residencial alta,Residencial,0.87,Diego Navarro,,Nuevo,26-08-2025
+52,2026-01-06,4,2 aprox,0.87,0,Presencial,Efectivo,3,203.61,Revisar,Distrito 4,San Juan de Lurigancho,Centro,Residencial alta,Residencial,0.87,Marco Ramos,Chorrillos,Regular,2025-04-03
+53,2026-05-10,5,8,0.61,0,Telefono,Efectivo,5,"306,79",Promocion,Distrito 1,InDePeNdEnCiA,Sur,Nocturna,Especial,0.61,Jorge Paredes,Villa El Salvador,Regular,2025-05-16
+54,2026-05-27,1,6,0.71,,Telefono,Efectivo, 1 , 268.5 ,Cliente frecuente,Distrito 2,Lima,Norte,Residencial basica,Residencial,0.71,Raul Sayan,Ate,CORPORATIVO,2025-01-05
+55,2026/04/01,6,5,0.87,20,App,Transferencia,2, 323.54 ,Cliente frecuente,Distrito 5,San Miguel,  Este ,Residencial alta,Residencial,0.87,Carlos Gomez,,Regular,2025-04-13
+56,2026-04-11,6,8,0.87,10,Telefono,Efectivo,1,359.21,,Distrito 4,San Juan de Lurigancho,Centro,Residencial alta,Residencial,0.87,Diego Navarro,,Nuevo,26-08-2025
+57,2026-03-10,,7,0.97,15,Telefono,Efectivo,1,320.94,,Distrito 2,Lima,Norte,,Comercial,0.97,DIEGO QUISPE,San Juan de Lurigancho,Frecuente,2025/08/28
+58,2026-05-19,,1,"0,97",10,WhAtSaPp,Transferencia,4,"135,24",,DiStRiTo 7,Ventanilla,Oeste,,Comercial,0.97,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+59,2026-03-20,1,1,0.61,12,Web,Transferencia,2,115.85,Cliente frecuente,Distrito 4,San Juan de Lurigancho,Centro,Nocturna,Especial,0.61,Rocio Flores,Independencia,Corporativo,2025-06-24
+60,2026-04-08,2,5 aprox,0.61,20,WhatsApp,  Yape ,2,246.57,OK,Distrito 3,Ventanilla,Oeste,Solar mixta,Especial,0.61,DIEGO QUISPE,San Juan de Lurigancho,Frecuente,2025/08/28
+61,2026-01-01,6,8,0.87, 0 ,WhatsApp,,3,427.92,OK,Distrito 3,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Maria Quispe,Villa El Salvador,Regular,2025-06-18
+62,2026-03-01,4,7,0.61,8,Web,Plin,4,329.94,Promocion,Distrito 2,Lima,Norte,Solar mixta,Especial,0.61,Andre Flores,CALLAO,Premium,2025/02/08
+63,2026-03-22,1,5 aprox,0.61,12 aprox,Presencial,YAPE,3,224.12,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Solar mixta,Especial,0.61,Claudia Rojas,Los Olivos,Corporativo,2025-01-07
+64,02/03/2026,4,6,0.87,12,WhAtSaPp,Tarjeta,5,288.58,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Residencial alta,Residencial,0.87,  Victor Paredes ,Los Olivos,Regular,2025-07-21
+65,2026-02-20,8, 8 ,0.78,0,App,Tarjeta,1,405.3,,Distrito 2,Lima,Norte,Residencial media,Residencial,0.78,Carlos Cruz,Independencia,regular,2025-10-09
+66,2026-02-28,2,7,0.71,15,WeB,Yape,2,303.36 aprox,Revisar,Distrito 2,Lima,Norte,Residencial basica,Residencial,0.71,  Victor Paredes ,Los Olivos,Regular,2025-07-21
+67,2026-03-06,4,4,0.61,12,App,Yape,5,179.91,OK,Distrito 3,Ventanilla,Oeste,Solar mixta,Especial,0.61,DIEGO QUISPE,San Juan de Lurigancho,Frecuente,2025/08/28
+68, 2026-01-22 ,7,6,0.87,0,App,Tarjeta,2,"281,85",Cliente frecuente,Distrito 5,San Miguel,  Este ,Residencial alta,Residencial,0.87,Carlos Rojas,CHORRILLOS,  Frecuente ,17-12-2025
+69,2026-02-22,5,8,0.97,20,  App ,Plin,1,350.81,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,,Comercial,0.97,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+70,2026-02-25,6,2,0.97,20,Presencial,Tarjeta,3,138.55,Revisar,DiStRiTo 7,Ventanilla,Oeste,,Comercial,0.97,Camila Castillo,san juan de lurigancho,  Frecuente ,2025-12-24
+71,2026-03-24,5,2,0.71,12,WhatsApp,Yape,4,201.34,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Residencial basica,Residencial,0.71,DIEGO QUISPE,San Juan de Lurigancho,Frecuente,2025/08/28
+72,2026-06-21,1,7,0.78,8,WhatsApp,Plin,4,S/ 312.45,,Distrito 2,Lima,Norte,Residencial media,Residencial,0.78,Jose Sayan,Chorrillos,,2025-09-25
+73, 2026-05-08 ,8,20.22,0.97,0,Telefono,transferencia,1,779.79,Revisar,Distrito 2,Lima,Norte,,Comercial,0.97,Elena Campos,  Surco ,Nuevo,2025-09-05
+74,2026-03-12,1,1,0.61,15,App,  Yape ,3 aprox,50.93,Cliente frecuente,Distrito 6,comas,Oeste,Nocturna,Especial,0.61,Carlos Cruz,Independencia,regular,2025-10-09
+75,2026-03-25,1,8,0.78,8,Web,Efectivo,2,305.72,Cliente frecuente,Distrito 3,Ventanilla,Oeste,Residencial media,Residencial,0.78,carlos torres,Ate,Corporativo,2025-04-10
+76,2026-04-11,7,8, 0.74 ,15,whatsapp,Yape,1, 429.41 ,OK,Distrito 4,San Juan de Lurigancho,Centro,Temporal,Temporal,0.74,Victor Flores,Comas,Premium,2025-12-20
+77,2026-02-04,7,,0.74,0,Telefono,Plin,1, 420.36 ,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,Temporal,Temporal,0.74,Marco Rojas,San Miguel,Regular,2025-09-04
+78,2026-04-22,1,8,0.5,0,App,Plin,3,363.63,,Distrito 4,San Juan de Lurigancho,Centro,SoCiAl,SUBVENCIONADA,0.5,LUCIA PAREDES,Comas,FRECUENTE, 2025-12-16 
+79,2026-05-08,7,5,0.61,0,WhatsApp,Tarjeta,3,S/ 228.1,Revisar,Distrito 2,Lima,Norte,Solar mixta,Especial,0.61,Diego Mendoza,San Juan de Lurigancho,Regular,2025-04-21
+80,2026-01-11,7,4,0.87,15,Presencial,Plin,1,244.46,Promocion,Distrito 6,comas,Oeste,Residencial alta,Residencial,0.87,Fiorella Vargas,CaLlAo,Premium,2025-12-25
+81,2026-04-27,6, 5 ,0.87,0,App,Tarjeta,2,229.83,  Cliente frecuente ,Distrito 6,comas,Oeste,Residencial alta,Residencial,0.87,DIEGO QUISPE,San Juan de Lurigancho,Frecuente,2025/08/28
+82,2026-02-08,1,8,0.78,20,Presencial,efectivo,4,257.77,OK,DiStRiTo 7,Ventanilla,Oeste,Residencial media,Residencial,0.78,Valeria Rojas,La  Molina,Frecuente,2025-09-11
+83,2026-01-23,4,,0.61,12,Presencial,Transferencia,1, 107.44 ,Cliente frecuente,Distrito 3,Ventanilla,Oeste,Nocturna,Especial,0.61,Fiorella Gomez,Callao,Corporativo,25-01-2025
+84,2026-04-05,5, 3 ,0.5,20,Telefono,Tarjeta,4,211.7,,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,Camila Castillo,san juan de lurigancho,  Frecuente ,2025-12-24
+85,2026-01-01,3, 1 ,0.5,8,App,Efectivo,3,125.69,,DiStRiTo 7,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,Luis Soto,Villa El Salvador,Frecuente, 2025-01-01 
+86,2026-04-18,7,3,0.61 aprox,8,WhAtSaPp,  Transferencia ,1,228.59,,Distrito 3,Ventanilla,Oeste,Solar mixta,Especial,0.61,Fiorella Rojas,Lima,Regular,2025-04-06
+87,2026-02-17,3,8,0.74,0,Telefono,Plin,2,348.21,Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,Temporal,Temporal,0.74,Jorge Ramos,ViLlA El sAlVaDoR,Frecuente,2025-11-03
+88,2026-06-24,5,5,0.97,15,Telefono,Plin,5,S/ 273.35,Revisar,Distrito 1,InDePeNdEnCiA,Sur,,Comercial,0.97,Lucia Salazar,Chorrillos,Nuevo,2025-12-24
+89,2026-04-02,2,2,0.96,12,  Web ,Efectivo,1,198.04,OK,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+90,2026-04-11,4,8,,0,App,  Tarjeta ,2,348.62,Revisar,Distrito 4,San Juan de Lurigancho,Centro,Residencial media,Residencial,0.78,Diana Reyes,San Miguel,Nuevo,2025-06-15
+91,2026-02-04,6,7,0.71,5,Web,Efectivo,2,366.63,,Distrito 3,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Miguel Cruz,,Corporativo,2025-02-01
+92,2026-05-07,2, 2 ,0.61,12,Telefono,TaRjEtA,5,161.16,Revisar,Distrito 4,San Juan de Lurigancho,Centro,Nocturna,Especial,0.61,  Victor Paredes ,Los Olivos,Regular,2025-07-21
+93,2026-05-20,6,2,0.87,5,Presencial,Transferencia,5,157.86,,Distrito 5,San Miguel,  Este ,Residencial alta,Residencial,0.87,Sofia Cruz,SaN JuAn dE LuRiGaNcHo,Regular,2025-10-09
+94,2026-02-20,6,8,0.61,0,Presencial,TrAnSfErEnCiA,5, 342.56 ,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Nocturna,Especial,0.61,Diego Rojas,Comas,corporativo,2025-11-04
+95,2026-04-21,2,4,0.96,0,Presencial,Efectivo,3,182.45,OK,Distrito 2,Lima,Norte,Comercial pequena,Comercial,0.96,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+96,2026-01-26,3,3,0.74,5,WhatsApp,efectivo,2,"150,99",OK,Distrito 5,San Miguel,  Este ,Temporal,Temporal,0.74,Victor Flores,Comas,Premium,2025-12-20
+97,2026-05-05,,1,S/ 0.5,15,Telefono,Tarjeta,3,145.49,Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,Marco Castillo,Ventanilla,frecuente,2025-02-15
+98,2026-05-23,4,35.95,0.61,0,App,Tarjeta,2,1234.44,Revisar,Distrito 5,San Miguel,  Este ,Nocturna,Especial,0.61,Jorge Paredes,Villa El Salvador,Regular,2025-05-16
+99,2026-06-01,3,6,0.5,5,WhatsApp,Transferencia,3,264.77,REVISAR,DiStRiTo 7,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+100,2026-01-17,5,2 aprox,0.78,0,WeB,Efectivo,2,202.6,Cliente frecuente,Distrito 2,Lima,Norte,Residencial media,Residencial,0.78,Luis Torres,SaN MiGuEl,Corporativo,2025-10-05
+101,2026-06-16,5,7,0.61,5,Presencial,Transferencia,5,349.92,Revisar,Distrito 3,Ventanilla,Oeste,Solar mixta,Especial,0.61,  Carlos Torres ,Independencia,Frecuente,2025-02-02
+102,2026/04/19,4,4,0.61,0,Telefono,TaRjEtA,2,211.28,Cliente frecuente,Distrito 4,San Juan de Lurigancho,Centro,Nocturna,Especial,0.61,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+103,2026-05-05,5,1,,20,App,Tarjeta,5,133.05,Revisar,Distrito 3,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,Jorge Huaman,Callao,REGULAR,2025-04-06
+104,09-04-2026,6,2,0.61 aprox,12,Telefono,Transferencia,3,155.26,ReViSaR,Distrito 4,San Juan de Lurigancho,Centro,Solar mixta,Especial,0.61,Elena Campos,  Surco ,Nuevo,2025-09-05
+105,2026-02-17,5, 1 ,0.71,0,WhatsApp,TrAnSfErEnCiA,2,95.89,Promocion,Distrito 5,San Miguel,  Este ,Residencial basica,Residencial,0.71,  Carlos Torres ,Independencia,Frecuente,2025-02-02
+106,,3,5,0.96,0,Presencial,Efectivo,,272.16,Promocion,Distrito 6,comas,Oeste,Comercial pequena,Comercial,0.96,Claudia Mendoza,San  Juan  de  Lurigancho,Regular,2025-03-10
+107,2026-02-06,8,8,0.61,0,App,Plin,5,406.85,Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,Nocturna,Especial,0.61,Jose Rojas,Ate,Premium,2025-05-08
+108,2026-05-08, 1 ,3,,0,WHATSAPP,Efectivo,5,166.19,Promocion,DiStRiTo 7,Ventanilla,Oeste,Residencial media,Residencial,0.78,Fiorella Gomez,Callao,Corporativo,25-01-2025
+109,2026-02-26,4,6,0.97,0,App,Efectivo,1,,OK,Distrito 6,comas,Oeste,,Comercial,0.97,  Carlos Torres ,Independencia,Frecuente,2025-02-02
+110,2026-02-10,3,6,0.78,10,Telefono,Tarjeta,5,294.99,,Distrito 3,Ventanilla,Oeste,Residencial media,Residencial,0.78,Rocio Flores,Independencia,Corporativo,2025-06-24
+111,03/02/2026,,4,0.97 aprox,0,Telefono,EFECTIVO, 3 ,273.73,,Distrito 2,Lima,Norte,,Comercial,0.97,Rocio Flores,Independencia,Corporativo,2025-06-24
+112,2026-04-16,5,3,0.87,0,Web,Tarjeta, 4 ,201.25,Revisar,Distrito 6,comas,Oeste,Residencial alta,Residencial,0.87,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+113,2026-04-02,8 aprox,6,0.78,20,WhatsApp,Yape,5,331.42,Revisar,Distrito 4,San Juan de Lurigancho,Centro,Residencial media,Residencial,0.78,Rocio Campos,  Villa El Salvador ,Corporativo,2025-12-17
+114,2026-06-26,7,5,0.71,5,Telefono,Transferencia,4,311.45,,Distrito 3,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Marco Castillo,Ventanilla,frecuente,2025-02-15
+115,2026-06-20,3,8,0.71,8,,Efectivo,1,303.79,Promocion,Distrito 6,comas,Oeste,Residencial basica,Residencial,0.71,Camila Gomez,Lima,Nuevo,2025-10-25
+116,2026-06-21,8 aprox,5,0.74,0,presencial,Yape,3,312.81,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Temporal,Temporal,0.74,LUCIA PAREDES,Comas,FRECUENTE, 2025-12-16 
+117,2026-04-05,7,8,0.61,15,Presencial,Transferencia,3,345.12,OK,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,Victor Gomez,Ventanilla,Regular,2025-04-02
+118,2026-06-18, 6 ,4,0.87,5,Web,Yape,1,"223,65",,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Rocio Flores,Independencia,Corporativo,2025-06-24
+119,2026-05-08,7,8,0.61,12,App,,4,345.51,,Distrito 4,San Juan de Lurigancho,Centro,Solar mixta,Especial,0.61,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+120,2026-02-15,5,3,0.61,8,WhatsApp,Efectivo,5,198.89,,Distrito 6,comas,Oeste,Nocturna,Especial,0.61,Luis Soto,Villa El Salvador,Frecuente, 2025-01-01 
+121,2026-06-20,3,6,0.71,12,Telefono,Yape,1,279.04,Promocion,Distrito 3,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Elena Paredes,Los Olivos,PREMIUM,2025-01-22
+122,2026-06-26,8,7,0.87,15,Presencial,Yape, 4 ,344.37,Revisar,Distrito 3,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Diana Cruz,Los Olivos,Nuevo,2025-12-13
+123,2026-01-20,4,5,0.78,0,Web,Yape,1,363.72,,Distrito 2,Lima,Norte,Residencial media,Residencial,0.78,Fiorella Rojas,Lima,Regular,2025-04-06
+124,2026-04-07,8,8,0.78,0,Presencial,Plin,3,374.1,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,Residencial media,Residencial,0.78,Elena Flores,san miguel,Frecuente,2025-05-26
+125,2026-01-17,5,1,0.74,0,Web,Yape,3,S/ 106.35,Promocion,DiStRiTo 7,Ventanilla,Oeste,Temporal,Temporal,0.74,Fiorella Rojas,,Nuevo,2025-04-25
+126, 2026-04-03 , 1 ,5,0.78,0,Telefono,Tarjeta,4,186.92 aprox,,Distrito 1,InDePeNdEnCiA,Sur,Residencial media,Residencial,0.78,Luis Soto,Comas,,2025-01-04
+127,2026-06-12,3,1,0.96,0,Web,TaRjEtA,3,104.06,Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Elena Flores,san miguel,Frecuente,2025-05-26
+128,2026-05-22,4,,0.61,5,,Transferencia,3,262.85,Revisar,Distrito 5,San Miguel,  Este ,Nocturna,Especial,0.61,Camila Castillo,san juan de lurigancho,  Frecuente ,2025-12-24
+129,08-06-2026,1,7,0.61,0,Presencial,Plin,5,894.15,,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Diego Mendoza,ChOrRiLlOs,Premium,2025-06-16
+130,2026-01-17,5,7,0.61,0,Web,Efectivo,2,331.1,Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,Solar mixta,Especial,0.61,Luis Soto,Villa El Salvador,Frecuente, 2025-01-01 
+131,2026-05-01,4,3, 0.5 ,10,Presencial,Plin,1,192.06,,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,Maria Quispe,Villa El Salvador,Regular,2025-06-18
+132,2026-04-11,7,2,0.96,0,web,Efectivo,3,210.03,Promocion,Distrito 3,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,Raul Gomez,Independencia,Nuevo, 2025-09-06 
+133,2026-01-24,6,3,0.71,20,Presencial,EfEcTiVo,2,189.69,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+134,2026-06-09,3,8, 0.97 ,0,Web,Yape,4,,Revisar,DiStRiTo 7,Ventanilla,Oeste,,Comercial,0.97,Pedro Reyes,Surco,Premium,2025-02-12
+135,2026-06-12,6,2,S/ 0.5,10,Web,Transferencia,2,218.68,Cliente frecuente,Distrito 2,Lima,Norte,SoCiAl,SUBVENCIONADA,0.5,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+136,2026-02-08,6,2,0.87,20,Web,Transferencia,5,164.63,Promocion,Distrito 4,San Juan de Lurigancho,Centro,Residencial alta,Residencial,0.87,RAUL REYES,Ate,Nuevo,2025-02-03
+137,2026-02-13,7,3 aprox,0.87,15,WHATSAPP,Efectivo,2,253.84,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Residencial alta,Residencial,0.87,Marco Flores,,Frecuente,2025-11-09
+138,2026-04-13, 1 ,6, 0.96 ,0,App,Tarjeta,1,231.83 aprox,Promocion,DiStRiTo 7,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+139,2026-04-05,3,3 aprox,0.87,0,Web,Efectivo,2,227.23,Cliente frecuente,Distrito 3,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+140,2026-05-17,2,7,0.5,8 aprox,Telefono,Plin,4,271.35,Revisar,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,Fiorella Gomez,Callao,Corporativo,25-01-2025
+141,2026-06-20,7,4,0.5,12,Web,Tarjeta,4,210.69,OK,Distrito 2,Lima,Norte,SoCiAl,SUBVENCIONADA,0.5,Rocio Flores,Independencia,Corporativo,2025-06-24
+142,2026-02-19,1,5,0.97,20,Web,TrAnSfErEnCiA,4,225.58,OK,DiStRiTo 7,Ventanilla,Oeste,,Comercial,0.97,LUCIA SALAZAR,Comas,Frecuente,2025/03/09
+143,2026-01-15,7,1,0.78,5,WhatsApp,TARJETA,1 aprox,"167,86",Revisar,Distrito 4,San Juan de Lurigancho,Centro,Residencial media,Residencial,0.78,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+144,2026-05-17,4,7,"0,61",12,WhatsApp,Tarjeta,4,325.13,Revisar,DiStRiTo 7,Ventanilla,Oeste,Solar mixta,Especial,0.61,Rocio Campos,  Villa El Salvador ,Corporativo,2025-12-17
+145,2026-06-11,2,5,0.96,20,Web,Yape,1,258.75,OK,Distrito 5,San Miguel,  Este ,Comercial pequena,Comercial,0.96,Carlos Rojas,CHORRILLOS,  Frecuente ,17-12-2025
+146,2026-01-14,8,5,0.74,20,WEB,PlIn,4,264.63,,DiStRiTo 7,Ventanilla,Oeste,Temporal,Temporal,0.74,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+147,2026-06-14,4,7,0.5,5,WhatsApp,Transferencia,4,304.63,Revisar,Distrito 4,San Juan de Lurigancho,Centro,SoCiAl,SUBVENCIONADA,0.5,Rocio Campos,  Villa El Salvador ,Corporativo,2025-12-17
+148,2026-04-06,6 aprox,1,0.71,0,Web,Efectivo,4,132.6,OK,Distrito 4,San Juan de Lurigancho,Centro,Residencial basica,Residencial,0.71,Marco Castillo,Ventanilla,frecuente,2025-02-15
+149,2026-06-18,6,7,0.61,0,Presencial,Tarjeta,2,333.02,OK,Distrito 4,San Juan de Lurigancho,Centro,Solar mixta,Especial,0.61,Claudia Rojas,Los Olivos,Corporativo,2025-01-07
+150,2026-05-14,2,5,0.71,8,WhatsApp,Plin,2,246.6,,Distrito 1,InDePeNdEnCiA,Sur,Residencial basica,Residencial,0.71,Fiorella Rojas,,Nuevo,2025-04-25
+151,2026-05-01,4 aprox,2,"0,97",5,TELEFONO,Yape,1,164.35,Revisar,Distrito 3,Ventanilla,Oeste,,Comercial,0.97,Rocio Flores,Independencia,Corporativo,2025-06-24
+152,2026-03-27,7,3 aprox,0.96,5,whatsapp,Transferencia,4,206.92,Ok,Distrito 2,Lima,Norte,Comercial pequena,Comercial,0.96,Claudia Mendoza,San  Juan  de  Lurigancho,Regular,2025-03-10
+153,21-03-2026,6,6,0.97,0,App,Tarjeta,5,325.85,OK,Distrito 4,San Juan de Lurigancho,Centro,,Comercial,0.97,Elena Vargas,SaN JuAn dE LuRiGaNcHo,CoRpOrAtIvO,2025-05-05
+154,2026-03-23,7,1,0.87,0,Telefono,Plin,1,209.51,PrOmOcIoN,Distrito 2,Lima,Norte,Residencial alta,Residencial,0.87,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+155,2026-01-25,6,8,0.97,0,WhatsApp,Plin,2,414.53,Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,,Comercial,0.97,Elena Flores,san miguel,Frecuente,2025-05-26
+156,2026-04-24,4,7,0.87,0,  Presencial ,Plin,3 aprox,323.98,ReViSaR,Distrito 2,Lima,Norte,Residencial alta,Residencial,0.87,Marco Castillo,Ventanilla,frecuente,2025-02-15
+157,2026-03-08,5,5, 0.97 ,8,Telefono,Efectivo,5,288.36,Promocion,Distrito 1,InDePeNdEnCiA,Sur,,Comercial,0.97,Luis Soto,Comas,,2025-01-04
+158,2026-02-22,1,5,0.96,10,Web,PLIN,1,254.2,Cliente frecuente,Distrito 4,San Juan de Lurigancho,Centro,Comercial pequena,Comercial,0.96,Valeria Rojas,Miraflores,Premium,2025-09-22
+159,2026-01-21,6,6,,0,App,Plin,3,326.98,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Marco Ramos,Chorrillos,Regular,2025-04-03
+160,2026-03-03,3,4,0.74,5,Web,Plin,5,275.07,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Temporal,Temporal,0.74,RAUL REYES,Ate,Nuevo,2025-02-03
+161,2026-04-20,3,6 aprox,0.61,20,Telefono,Yape,3,285.61,,Distrito 1,InDePeNdEnCiA,Sur,Solar mixta,Especial,0.61,Fiorella Gomez,Callao,Corporativo,25-01-2025
+162,2026-03-14,6,7,0.61,20,App,Yape,2,332.65,Cliente frecuente,Distrito 4,San Juan de Lurigancho,Centro,Nocturna,Especial,0.61,Claudia Rojas,Los Olivos,Corporativo,2025-01-07
+163,2026-01-27,7,7,0.61,0,Presencial,  Tarjeta ,2,353.18,,Distrito 2,Lima,Norte,Solar mixta,Especial,0.61,Diana Mendoza,Villa El Salvador,Frecuente,2025-07-24
+164,2026-02-25,2 aprox,4,0.96,20,Presencial,Yape,4,S/ 213.75,OK,Distrito 4,San Juan de Lurigancho,Centro,Comercial pequena,Comercial,0.96,Fiorella Rojas,,Nuevo,2025-04-25
+165,2026-02-01,5,7.37,0.71,20,Presencial,EfEcTiVo,2,386.87,Revisar,Distrito 5,San Miguel,  Este ,Residencial basica,Residencial,0.71,Claudia Rojas,Los Olivos,Corporativo,2025-01-07
+166,2026-01-15,6,2,0.87,12,App,tarjeta,5,159.76,OK,Distrito 3,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Raul Sayan,Ate,CORPORATIVO,2025-01-05
+167,2026-03-20,1,16.39,0.96,0,App,Transferencia,2,590.44,,Distrito 6,comas,Oeste,Comercial pequena,Comercial,0.96,Marco Ramos,Chorrillos,Regular,2025-04-03
+168,2026-02-18,3,1 aprox,0.5,15,App,Transferencia,1,,Cliente frecuente,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+169,2026-03-22,1,7,0.87,0,app,Transferencia,2,283.3,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Fiorella Rojas,Lima,Regular,2025-04-06
+170,2026-06-08,2,3 aprox,0.71, 0 ,WhAtSaPp,Plin,2,206.53 aprox,,Distrito 1,InDePeNdEnCiA,Sur,Residencial basica,Residencial,0.71,Elena Paredes,Los Olivos,PREMIUM,2025-01-22
+171,2026-06-17,1,3,0.61,0,App,Transferencia,1,188.89,,DiStRiTo 7,Ventanilla,Oeste,Solar mixta,Especial,0.61,Andre Flores,CALLAO,Premium,2025/02/08
+172,2026-01-25,7,4,0.61,0,Telefono,TRANSFERENCIA,2,240.53,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Nocturna,Especial,0.61,Luis Ramos,Lima,Corporativo,2025-07-25
+173,2026-01-19,6,4,0.97, 0 ,Web,Yape,1,246.88,,Distrito 1,InDePeNdEnCiA,Sur,,Comercial,0.97,Victor Reyes,San Juan de Lurigancho,Frecuente,2025-03-25
+174,2026-05-03,3,1,0.71,0,telefono,Transferencia,3,127.39,Promocion,Distrito 3,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Carlos Gomez,,Regular,2025-04-13
+175,2026-04-07,3, 1 ,0.87,5,WhatsApp,Tarjeta,3,"152,59",Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,Residencial alta,Residencial,0.87,Elena Huaman,Miraflores,Regular,2025-08-16
+176,2026-06-16,2,4,0.78,20,PRESENCIAL,Tarjeta,1,S/ 217.05,OK,Distrito 3,Ventanilla,Oeste,Residencial media,Residencial,0.78,Rocio Campos,  Villa El Salvador ,Corporativo,2025-12-17
+177,,5,2,"0,71",0,Web,Transferencia,5,S/ 187.97,Revisar,Distrito 5,San Miguel,  Este ,Residencial basica,Residencial,0.71,Victor Flores,Comas,Premium,2025-12-20
+178, 2026-06-04 ,5,5,0.5,5,App,Tarjeta,2 aprox,258.32,Promocion,Distrito 5,San Miguel,  Este ,SoCiAl,SUBVENCIONADA,0.5,Fiorella Vargas,CaLlAo,Premium,2025-12-25
+179,2026-02-04,,3,0.5,5,App,Yape,2,227.57,Promocion,Distrito 3,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,Claudia Rojas,Los Olivos,Corporativo,2025-01-07
+180,,2,8,0.5,0,,Efectivo,5,328.34,OK,Distrito 4,San Juan de Lurigancho,Centro,SoCiAl,SUBVENCIONADA,0.5,Sofia Castillo,San Juan de Lurigancho,Premium,2025-10-22
+181, 2026-02-21 ,3,2,0.61,12,Web,Yape,1,124.85,Cliente frecuente,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,Andre Navarro,San Juan de Lurigancho,Corporativo,2025-06-05
+182,2026-05-20,6,1,0.97,,Telefono,Tarjeta,5,124.54,OK,Distrito 2,Lima,Norte,,Comercial,0.97,Luis Soto,Villa El Salvador,Frecuente, 2025-01-01 
+183,13/03/2026,1,8,0.61,0,Telefono,Transferencia,2,285.38,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Solar mixta,Especial,0.61,  Carlos Torres ,Independencia,Frecuente,2025-02-02
+184,2026-05-23,1,7,0.87,5,Web,Tarjeta,2,311.83,Revisar,Distrito 5,San Miguel,  Este ,Residencial alta,Residencial,0.87,,independencia,Regular,2025-02-04
+185,2026-05-20,8,2,0.97,20,,Transferencia,4,,,Distrito 4,San Juan de Lurigancho,Centro,,Comercial,0.97,Diego Rojas,Comas,corporativo,2025-11-04
+186,2026-01-13,3,2,0.71,12,Presencial,Plin,3,189.13,,Distrito 1,InDePeNdEnCiA,Sur,Residencial basica,Residencial,0.71,Raul Gomez,Independencia,Nuevo, 2025-09-06 
+187,2026-04-09,3,3,0.87,10,Telefono,Yape,,198.26,Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,Residencial alta,Residencial,0.87,LUCIA SALAZAR,Comas,Frecuente,2025/03/09
+188,18-01-2026,2,6,0.78,0,App,,3,295.43,Cliente frecuente,Distrito 5,San Miguel,  Este ,Residencial media,Residencial,0.78,Claudia Mendoza,San  Juan  de  Lurigancho,Regular,2025-03-10
+189,04-06-2026,1,7,0.97,0,WhatsApp,Plin,1,322.65,OK,Distrito 5,San Miguel,  Este ,,Comercial,0.97,Jorge Campos,San Miguel,Premium,2025-04-19
+190,2026-04-11,6,5,0.61,20,Web,Efectivo,3,283.85,,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Luis Salazar,La Molina,Regular,2025-06-22
+191,2026-04-23,3,1,0.61,0,Telefono,Plin,2,93.3,Revisar,Distrito 6,comas,Oeste,Nocturna,Especial,0.61,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+192,2026-04-14,8,7,0.5,0,WhatsApp,PLIN,1,324.41,,Distrito 2,Lima,Norte,SoCiAl,SUBVENCIONADA,0.5,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+193,2026-03-03,4,7,0.87, 0 ,WEB,Yape,2,305.18 aprox,,Distrito 6,comas,Oeste,Residencial alta,Residencial,0.87,Elena Campos,  Surco ,Nuevo,2025-09-05
+194,2026-04-14,4,6 aprox,0.74,15,WhatsApp,Transferencia,3,281.62,Revisar,Distrito 3,Ventanilla,Oeste,Temporal,Temporal,0.74,Luis Soto,Villa El Salvador,Frecuente, 2025-01-01 
+195,2026-03-01,5,1,0.78,10,WhatsApp,TaRjEtA,5,137.42,,Distrito 5,San Miguel,  Este ,Residencial media,Residencial,0.78,  Victor Paredes ,Los Olivos,Regular,2025-07-21
+196,15-02-2026,5,4,0.61,8,App,Efectivo,2,S/ 234.77,,Distrito 1,InDePeNdEnCiA,Sur,Nocturna,Especial,0.61,Fiorella Vargas,CaLlAo,Premium,2025-12-25
+197,28-01-2026,5,1,0.96,12,WhatsApp,YAPE,1,96.13,,Distrito 3,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,Luis Ramos,Lima,Corporativo,2025-07-25
+198,2026-05-14,5,8,0.61,,  App ,Yape,2,364.53,Cliente frecuente,Distrito 4,San Juan de Lurigancho,Centro,Solar mixta,Especial,0.61,Jorge Huaman,Callao,REGULAR,2025-04-06
+199,2026-02-15,7,8,,15,App,Tarjeta,5,,OK,Distrito 4,San Juan de Lurigancho,Centro,Temporal,Temporal,0.74,Marco Rojas,San Miguel,Regular,2025-09-04
+200,2026-03-24,6,6,0.71,0,Web,PlIn,3,331.94,Revisar,Distrito 4,San Juan de Lurigancho,Centro,Residencial basica,Residencial,0.71,Fiorella Rojas,Lima,Regular,2025-04-06
+201,2026-05-27, 4 ,4,0.78,15,App,Yape,1,233.97,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Residencial media,Residencial,0.78,Victor Flores,Comas,Premium,2025-12-20
+202,16-04-2026,,2,0.87 aprox,20,WHATSAPP,Efectivo,5 aprox,167.98,OK,Distrito 1,InDePeNdEnCiA,Sur,Residencial alta,Residencial,0.87,Sofia Cruz,SaN JuAn dE LuRiGaNcHo,Regular,2025-10-09
+203,2026-01-17,2,4,0.87,20,App,Tarjeta,5,262.76,Promocion,Distrito 2,Lima,Norte,Residencial alta,Residencial,0.87,LUCIA SALAZAR,Comas,Frecuente,2025/03/09
+204,2026-02-07,6,2,S/ 0.61,10,Presencial,Plin,,160.25,Cliente frecuente,Distrito 6,comas,Oeste,Nocturna,Especial,0.61,RAUL REYES,Ate,Nuevo,2025-02-03
+205,2026-04-15,5,7,0.61,0,Presencial,Transferencia,2,355.95,Revisar,Distrito 2,Lima,Norte,Solar mixta,Especial,0.61,Claudia Mendoza,San  Juan  de  Lurigancho,Regular,2025-03-10
+206,13/01/2026,8,2,"0,61",5,Telefono,Tarjeta,3,227.96,Promocion,Distrito 4,San Juan de Lurigancho,Centro,Solar mixta,Especial,0.61,LUCIA SALAZAR,Comas,Frecuente,2025/03/09
+207,2026-05-16,3,7,0.71,15 aprox,WhatsApp,Efectivo,5,244.59,Revisar,Distrito 3,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Luis Torres,SaN MiGuEl,Corporativo,2025-10-05
+208,2026-04-03,4,3,0.61,8,Web,transferencia,3,185.96,Cliente frecuente,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Maria Quispe,Villa El Salvador,Regular,2025-06-18
+209,2026-06-04,4,4,0.96,8,WeB,yape,4,214.58,Revisar,Distrito 2,Lima,Norte,Comercial pequena,Comercial,0.96,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+210,2026-05-04,6,3,0.97,0,App,yape,4,230.02,Promocion,Distrito 2,Lima,Norte,,Comercial,0.97,Valeria Rojas,La  Molina,Frecuente,2025-09-11
+211,2026-05-22,,2,0.96,8,WhatsApp,Plin,3,174.06 aprox,,Distrito 2,Lima,Norte,Comercial pequena,Comercial,0.96,Camila Ramos,CHORRILLOS,Corporativo,2025-04-07
+212,2026-01-28,2,2,0.96,0,WhatsApp,Tarjeta,1,119.6,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Jorge Ramos,ViLlA El sAlVaDoR,Frecuente,2025-11-03
+213,,4,5,0.87,0,Web,Efectivo,2,293.97,Revisar,Distrito 2,Lima,Norte,Residencial alta,Residencial,0.87,  Victor Paredes ,Los Olivos,Regular,2025-07-21
+214,2026-03-18,6,8,0.78,,App,Plin,4,389.6,,DiStRiTo 7,Ventanilla,Oeste,Residencial media,Residencial,0.78,Elena Flores,san miguel,Frecuente,2025-05-26
+215,2026-06-05,6,5,0.87,0,Web,Transferencia,2,250.98,Cliente frecuente,Distrito 6,comas,Oeste,Residencial alta,Residencial,0.87,Miguel Cruz,,Corporativo,2025-02-01
+216,2026-03-08,5,1,0.61,0,Telefono,Tarjeta,2,107.46,OK,Distrito 6,comas,Oeste,Solar mixta,Especial,0.61,Marco Castillo,Ventanilla,frecuente,2025-02-15
+217,2026-05-21,6,8, 0.61 ,0,Presencial,Yape,3,377.39 aprox,Promocion,DiStRiTo 7,Ventanilla,Oeste,Nocturna,Especial,0.61,Elena Flores,san miguel,Frecuente,2025-05-26
+218,2026-02-28,4,8,0.97,20,WhatsApp,Transferencia,5,365.87,Ok,Distrito 4,San Juan de Lurigancho,Centro,,Comercial,0.97,Lucia Salazar,Chorrillos,Nuevo,2025-12-24
+219,2026-06-09,8,5,0.87,15,App,Tarjeta,4,291.52,,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Sofia Cruz,SaN JuAn dE LuRiGaNcHo,Regular,2025-10-09
+220,2026-03-22,1,27.05,0.5,0,Web,  Plin ,2,936.73,Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,Diego Mendoza,San Juan de Lurigancho,Regular,2025-04-21
+221,2026-03-03,3,6,0.74, 0 ,Web,Transferencia,2 aprox,256.06,OK,Distrito 6,comas,Oeste,Temporal,Temporal,0.74,Camila Castillo,san juan de lurigancho,  Frecuente ,2025-12-24
+222,2026-03-24,4,5,,12,App,Yape,3,264.34,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Residencial media,Residencial,0.78,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+223,22-06-2026,7,5,0.5,12,WhatsApp,Efectivo,3,273.75,Cliente frecuente,Distrito 5,San Miguel,  Este ,SoCiAl,SUBVENCIONADA,0.5,Victor Gomez,Ventanilla,Regular,2025-04-02
+224,2026-05-09,6 aprox,8,0.61,0,Web,Transferencia,5,360.11,OK,Distrito 3,Ventanilla,Oeste,Nocturna,Especial,0.61,RAUL REYES,Ate,Nuevo,2025-02-03
+225,2026-05-06,7,3,0.61,5,web,Transferencia,1,234.89,Promocion,DiStRiTo 7,Ventanilla,Oeste,Nocturna,Especial,0.61,Victor Flores,Comas,Premium,2025-12-20
+226,2026-01-20,7,3,0.71,10,Telefono,Efectivo,3,175.78,Revisar,Distrito 3,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Carlos Rojas,CHORRILLOS,  Frecuente ,17-12-2025
+227,2026-06-12,6,5,0.74,8,Presencial,Plin,4,,OK,Distrito 4,San Juan de Lurigancho,Centro,Temporal,Temporal,0.74,Rocio Flores,,Frecuente,2025-03-27
+228,2026-01-13,3,5, 0.61 ,12,Web,Efectivo,4,266.71,Promocion,Distrito 6,comas,Oeste,Solar mixta,Especial,0.61,Fiorella Rojas,Lima,Regular,2025-04-06
+229,2026-02-11,4,2,0.78,5,Telefono,Plin,3,168.23,ReViSaR,DiStRiTo 7,Ventanilla,Oeste,Residencial media,Residencial,0.78,Jorge Paredes,Villa El Salvador,Regular,2025-05-16
+230,2026-03-10,5,5,0.78,12,WeB,Transferencia,3,193.63,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Residencial media,Residencial,0.78,Lucia Paredes,Chorrillos,Corporativo,2025-09-01
+231,2026-06-24,3 aprox,2,0.5,5,Web,TrAnSfErEnCiA,4,"189,71",Promocion,Distrito 4,San Juan de Lurigancho,Centro,SoCiAl,SUBVENCIONADA,0.5,Elena Flores,san miguel,Frecuente,2025-05-26
+232,2026-01-27,3,3,0.87,10,Web,TrAnSfErEnCiA,5,177.92,Revisar,Distrito 3,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+233,17/04/2026,6,1 aprox,0.97,8,Presencial,Plin,1,147.28,Cliente frecuente,Distrito 4,San Juan de Lurigancho,Centro,,Comercial,0.97,Jorge Ramos,ViLlA El sAlVaDoR,Frecuente,2025-11-03
+234,2026-02-10,8,8,0.74,10,Telefono,efectivo,4,376.75,Promocion,Distrito 5,San Miguel,  Este ,Temporal,Temporal,0.74,Miguel Paredes,Villa El Salvador,Corporativo,2025-03-26
+235,2026-06-14,2 aprox,4,0.61,15,Telefono,Tarjeta,5,S/ 221.4,,DiStRiTo 7,Ventanilla,Oeste,Nocturna,Especial,0.61,Marco Ramos,Chorrillos,Regular,2025-04-03
+236,2026-04-21,2,2,0.61,15,whatsapp,Plin,5, 126.03 ,revisar,Distrito 6,comas,Oeste,Nocturna,Especial,0.61,LUCIA SALAZAR,Comas,Frecuente,2025/03/09
+237,2026-06-08,1,3,0.71,12,WhatsApp,Transferencia,4,222.59,ok,Distrito 5,San Miguel,  Este ,Residencial basica,Residencial,0.71,Jose Rojas,Ate,Premium,2025-05-08
+238,2026-02-19,1,3,0.61,5,  WhatsApp ,Yape,3,171.37,,Distrito 3,Ventanilla,Oeste,Solar mixta,Especial,0.61,Jose Sayan,Chorrillos,,2025-09-25
+239,2026-04-09,6,1,0.87,5,WhatsApp,Plin,2,135.21,OK,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Victor Flores,Comas,Premium,2025-12-20
+240,2026-03-15,7,6,0.74,20,Presencial,Efectivo,1,333.13,,Distrito 6,comas,Oeste,Temporal,Temporal,0.74,Diana Mendoza,Villa El Salvador,Frecuente,2025-07-24
+241,2026-04-22,3,7,0.61,15,Web,Yape,1,312.27,OK,Distrito 3,Ventanilla,Oeste,Solar mixta,Especial,0.61,Luis Paredes,Comas,,2025-06-15
+242,,6,5,0.87,5,App,Tarjeta,2,251.27,,Distrito 5,San Miguel,  Este ,Residencial alta,Residencial,0.87,Victor Gomez,Ventanilla,Regular,2025-04-02
+243,2026-05-19,5,8,0.71,0,Telefono,Transferencia,1,349.16,OK,Distrito 5,San Miguel,  Este ,Residencial basica,Residencial,0.71,Diego Rojas,Comas,corporativo,2025-11-04
+244,2026/03/15,5,6.56,0.71,20,PrEsEnCiAl,Plin,3,311.19,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Residencial basica,Residencial,0.71,RAUL REYES,Ate,Nuevo,2025-02-03
+245,2026-01-19,5,1,0.78,,App,Yape,4,120.76,  Cliente frecuente ,Distrito 6,comas,Oeste,Residencial media,Residencial,0.78,Andre Torres,Los Olivos,Corporativo,2025-01-01
+246,,2,2,0.96,0,App,Tarjeta,2,128.87,  Revisar ,Distrito 3,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,DIEGO QUISPE,San Juan de Lurigancho,Frecuente,2025/08/28
+247,2026-04-12,2,5,0.78,0,WhatsApp,Plin,2,203.71,,Distrito 5,San Miguel,  Este ,Residencial media,Residencial,0.78,Sofia Cruz,SaN JuAn dE LuRiGaNcHo,Regular,2025-10-09
+248,2026-02-27,1,2,"0,74",0,WhatsApp,Transferencia,3,132.41,Revisar,Distrito 3,Ventanilla,Oeste,Temporal,Temporal,0.74,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+249,2026-04-15,,3,S/ 0.87,0,WhatsApp,Yape, 1 ,165.23,Promocion,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+250,2026-02-16,5,7,0.78,10,Presencial,Tarjeta,4,353.53,Promocion,Distrito 3,Ventanilla,Oeste,Residencial media,Residencial,0.78,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+251,2026-05-26,7,5,0.78,8,Telefono,YAPE,1,306.26,Revisar,DiStRiTo 7,Ventanilla,Oeste,Residencial media,Residencial,0.78,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+252,2026-01-21,5,7,0.96,0,WhatsApp,Efectivo,1,"393,38",Revisar,Distrito 3,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,Rocio Campos,  Villa El Salvador ,Corporativo,2025-12-17
+253,2026-01-10,8,4,0.71,10,Presencial,Yape,3,274.57,OK,DiStRiTo 7,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Camila Ramos,CHORRILLOS,Corporativo,2025-04-07
+254,2026-06-06,1,7,S/ 0.61,15,Telefono,yape,3,300.25,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,Solar mixta,Especial,0.61,Miguel Paredes,Villa El Salvador,Corporativo,2025-03-26
+255,2026-06-03,7,,0.5,15,Presencial,Efectivo,,214.02,Cliente frecuente,Distrito 3,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,DIEGO QUISPE,San Juan de Lurigancho,Frecuente,2025/08/28
+256,2026-04-18,5 aprox,4,0.5,8,Web,Yape,5,231.6,Promocion,Distrito 4,San Juan de Lurigancho,Centro,SoCiAl,SUBVENCIONADA,0.5,LUCIA SALAZAR,Comas,Frecuente,2025/03/09
+257,2026-02-16,1,7,0.5,8,App,Efectivo,3,345.17,Cliente frecuente,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,Rocio Campos,  Villa El Salvador ,Corporativo,2025-12-17
+258,2026-01-17,8,5,0.61,20,WhatsApp,Plin,4,299.58,Revisar,DiStRiTo 7,Ventanilla,Oeste,Solar mixta,Especial,0.61,Diego Mendoza,ChOrRiLlOs,Premium,2025-06-16
+259,06-06-2026,7,2,0.78,0 aprox,Telefono,Transferencia,5,172.29,Promocion,Distrito 2,Lima,Norte,Residencial media,Residencial,0.78,Fiorella Vargas,CaLlAo,Premium,2025-12-25
+260,2026-02-05,3, 8 ,0.97,15,WhatsApp,Transferencia,4,341.79,,Distrito 4,San Juan de Lurigancho,Centro,,Comercial,0.97,Pedro Reyes,Surco,Premium,2025-02-12
+261,2026-02-03,8,3, 0.71 ,0,App,TaRjEtA,1,232.86,,Distrito 5,San Miguel,  Este ,Residencial basica,Residencial,0.71,Sofia Castillo,San Juan de Lurigancho,Premium,2025-10-22
+262,2026-06-21,4,6,0.96,0,Presencial,Plin,3,268.28,,Distrito 3,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,Marco Flores,,Frecuente,2025-11-09
+263,2026-04-24,1,8,0.74,20,WhatsApp,Transferencia,5,278.6,,Distrito 2,Lima,Norte,Temporal,Temporal,0.74,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+264,2026-03-09, 3 ,4,0.96,15 aprox,Telefono,Transferencia,4,263.08,,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Valeria Rojas,La  Molina,Frecuente,2025-09-11
+265,2026-06-19,8,7,0.96,8,Presencial,Plin,1,352.65 aprox,Revisar,Distrito 5,San Miguel,  Este ,Comercial pequena,Comercial,0.96,Luis Salazar,La Molina,Regular,2025-06-22
+266,2026-04-28,5,8,0.78,15,App,Plin,1,390.21,Promocion,Distrito 6,comas,Oeste,Residencial media,Residencial,0.78,Victor Flores,Comas,Premium,2025-12-20
+267,09-04-2026,1,4,0.61,12,WhatsApp,Efectivo,3,212.4,,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Fiorella Rojas,Lima,Regular,2025-04-06
+268,,1,3,0.5,12,WhatsApp,Efectivo,3,S/ 189.78,OK,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,Carlos Campos,La Molina,Corporativo,2025-06-14
+269,05-05-2026,2,,0.74,0,App,Efectivo, 5 ,161.77,Revisar,Distrito 5,San Miguel,  Este ,Temporal,Temporal,0.74,Diego Mendoza,San Juan de Lurigancho,Regular,2025-04-21
+270,2026-06-14,7,6,0.61,8,app,Transferencia,5,311.74,,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,Jorge Campos,San Miguel,Premium,2025-04-19
+271,26-04-2026,2,3,0.97,20,App,Tarjeta,3,174.54,,Distrito 1,InDePeNdEnCiA,Sur,,Comercial,0.97,Marco Ramos,Chorrillos,Regular,2025-04-03
+272,2026-03-25,3,4,0.96,0,Telefono,Yape,5,922.23,Cliente frecuente,Distrito 6,comas,Oeste,Comercial pequena,Comercial,0.96,Claudia Paredes,lima,Corporativo,2025-08-27
+273,2026-01-10,7,8,0.78,12,Telefono,Transferencia,2,425.11,Cliente frecuente,Distrito 2,Lima,Norte,Residencial media,Residencial,0.78,Elena Flores,san miguel,Frecuente,2025-05-26
+274,2026-06-09,1,6,0.61,15,Web,Tarjeta,3,298.43,Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,Nocturna,Especial,0.61,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+275,2026-06-06,4,2,S/ 0.61,0,Presencial,Tarjeta,3,154.94,,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Jorge Huaman,Callao,REGULAR,2025-04-06
+276,2026-01-07,3,6,0.61,0,WeB,Plin,4,253.43,  Cliente frecuente ,Distrito 4,San Juan de Lurigancho,Centro,Solar mixta,Especial,0.61,carlos torres,Ate,Corporativo,2025-04-10
+277,11/06/2026,3,2 aprox,0.61,0,Presencial,efectivo,2,108.58,,DiStRiTo 7,Ventanilla,Oeste,Nocturna,Especial,0.61,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+278,2026-02-08,7,5,0.5,5,WhatsApp,Plin,5,260.9,,Distrito 5,San Miguel,  Este ,SoCiAl,SUBVENCIONADA,0.5,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+279,,5,3,0.78,12,Web,Efectivo,,839.92,,DiStRiTo 7,Ventanilla,Oeste,Residencial media,Residencial,0.78,Andre Flores,CALLAO,Premium,2025/02/08
+280,2026/03/08,,2,0.5, 8 ,App,Yape,,"140,56",OK,Distrito 5,San Miguel,  Este ,SoCiAl,SUBVENCIONADA,0.5,Lucia Paredes,Chorrillos,Corporativo,2025-09-01
+281,2026-05-07,6,2,0.61,5,WhatsApp,Yape,4,179.67,,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Luis Torres,SaN MiGuEl,Corporativo,2025-10-05
+282,2026-06-01, 3 ,8.89,0.96,10,Web,TrAnSfErEnCiA,3,385.74,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Camila Ramos,CHORRILLOS,Corporativo,2025-04-07
+283,2026/06/07,4,2, 0.5 ,0,App,Efectivo,2,128.3,REVISAR,Distrito 3,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,Claudia Rojas,Los Olivos,Corporativo,2025-01-07
+284,12-06-2026,2,7,0.71,10,Web,Transferencia,3,,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Residencial basica,Residencial,0.71,Carlos Cruz,Independencia,regular,2025-10-09
+285,2026-02-26,5,5,0.71,15,WhatsApp,Tarjeta,3,"249,88",Promocion,Distrito 4,San Juan de Lurigancho,Centro,Residencial basica,Residencial,0.71,Carlos Gomez,,Regular,2025-04-13
+286,2026-01-19,5,2,0.78, 0 ,,Tarjeta,4,135.7,OK,Distrito 1,InDePeNdEnCiA,Sur,Residencial media,Residencial,0.78,Diego Mendoza,San Juan de Lurigancho,Regular,2025-04-21
+287,2026-02-01,8 aprox,5,0.71,12,WhatsApp,Transferencia,1,312.99,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Residencial basica,Residencial,0.71,Raul Gomez,Independencia,Nuevo, 2025-09-06 
+288,2026-03-14,3,1,0.78,0,  WhatsApp ,Tarjeta,1,S/ 109.26,Promocion,Distrito 6,comas,Oeste,Residencial media,Residencial,0.78,Lucia Paredes,Chorrillos,Corporativo,2025-09-01
+289,2026-05-21,1,8,0.71,0,Presencial,Tarjeta, 1 ,395.17,Revisar,Distrito 3,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Claudia Paredes,lima,Corporativo,2025-08-27
+290,2026-03-27,7, 8 ,0.5,0,APP,Yape,3, 366.23 ,OK,Distrito 3,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,Elena Paredes,Los Olivos,PREMIUM,2025-01-22
+291,2026/04/15,3, 2 ,0.78,15,Presencial,Yape,5,163.35,Promocion,Distrito 4,San Juan de Lurigancho,Centro,Residencial media,Residencial,0.78,Carlos Gomez,,Regular,2025-04-13
+292,2026-03-06,6,8,,12,telefono,Yape,5, 319.33 ,Revisar,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+293,2026-01-07,7,1,0.87,20,  WhatsApp ,Transferencia,2,140.09,OK,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Rocio Flores,,Frecuente,2025-03-27
+294,04/01/2026,4,7,0.87,10,Web,Yape,4,320.21,OK,Distrito 2,Lima,Norte,Residencial alta,Residencial,0.87,Raul Gomez,Independencia,Nuevo, 2025-09-06 
+295,13/06/2026,1,,0.5,0,WhatsApp,Transferencia,5,183.07,  Cliente frecuente ,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,Carlos Gomez,,Regular,2025-04-13
+296,2026-03-04,8,5,0.61,0,Telefono,YAPE,2,253.05,OK,Distrito 5,San Miguel,  Este ,Nocturna,Especial,0.61,Lucia Sayan,SaN MiGuEl,Corporativo,2025-06-27
+297,2026-01-24,6,1,0.5,8,web,Tarjeta,3,135.45,cliente frecuente,Distrito 4,San Juan de Lurigancho,Centro,SoCiAl,SUBVENCIONADA,0.5,Carlos Cruz,Independencia,regular,2025-10-09
+298,2026-01-27,7,4,0.87,10,App,Efectivo,2,309.26,Promocion,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Jorge Paredes,Villa El Salvador,Regular,2025-05-16
+299,2026-02-13,6,1,0.61,0,App,Efectivo,5,132.29,OK,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+300,2026-05-11,6,7, 0.96 ,0,Web,Transferencia, 2 ,345.08,Revisar,Distrito 2,Lima,Norte,Comercial pequena,Comercial,0.96,,independencia,Regular,2025-02-04
+301,2026-06-10,2, 2 ,"0,96",0,Telefono,EfEcTiVo,3,151.75,,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Raul Gomez,Independencia,Nuevo, 2025-09-06 
+302,2026-01-20,5,5,0.87,8,WhatsApp,Yape,1,291.54,,Distrito 6,comas,Oeste,Residencial alta,Residencial,0.87,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+303,2026-03-05,1,7,0.87,10,,Tarjeta,4, 311.43 ,Promocion,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Diego Rojas,Comas,corporativo,2025-11-04
+304,2026-04-21,8,5,0.97,20,Web,Tarjeta,3,273.08,OK,Distrito 5,San Miguel,  Este ,,Comercial,0.97,Elena Campos,  Surco ,Nuevo,2025-09-05
+305,10/02/2026,5,1,0.71,0 aprox,Telefono,Transferencia,3,171.19,Promocion,Distrito 4,San Juan de Lurigancho,Centro,Residencial basica,Residencial,0.71,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+306,2026-01-23,7,1,0.74,0,Presencial,  Plin ,,129.7,Revisar,Distrito 2,Lima,Norte,Temporal,Temporal,0.74,Elena Huaman,Miraflores,Regular,2025-08-16
+307,2026-05-15,6, 1 ,0.61,0,App,Tarjeta,2,122.99,Promocion,Distrito 6,comas,Oeste,Solar mixta,Especial,0.61,Carlos Campos,La Molina,Corporativo,2025-06-14
+308,2026-02-27,4,4,0.96,15,WhAtSaPp,Plin,2,200.9,Revisar,Distrito 5,San Miguel,  Este ,Comercial pequena,Comercial,0.96,Victor Gomez,Ventanilla,Regular,2025-04-02
+309,24-05-2026,5,3,0.5,15,Web,,1,191.86,,Distrito 4,San Juan de Lurigancho,Centro,SoCiAl,SUBVENCIONADA,0.5,LUCIA SALAZAR,Comas,Frecuente,2025/03/09
+310,2026-06-05,8,8,0.61,15,App,Efectivo,3,368.03,ok,DiStRiTo 7,Ventanilla,Oeste,Nocturna,Especial,0.61,Rocio Flores,Independencia,Corporativo,2025-06-24
+311,18-04-2026,7,5,0.61,12,Presencial,Yape,4,209.94,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Solar mixta,Especial,0.61,Luis Ramos,Lima,Corporativo,2025-07-25
+312,2026-02-16,6,4,0.61,5,Web,Efectivo,1,268.03,Revisar,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Rocio Campos,  Villa El Salvador ,Corporativo,2025-12-17
+313,2026-05-17,2,3,0.96,8,WhatsApp,Plin,4,184.1,,Distrito 5,San Miguel,  Este ,Comercial pequena,Comercial,0.96,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+314,2026-02-13,3 aprox,5,0.97,0,WhatsApp,efectivo,1,187.52,Promocion,Distrito 5,San Miguel,  Este ,,Comercial,0.97,Marco Castillo,Ventanilla,frecuente,2025-02-15
+315,2026-04-05,2,6,0.78,5,  WhatsApp ,Transferencia,3 aprox,249.05,,Distrito 1,InDePeNdEnCiA,Sur,Residencial media,Residencial,0.78,  Carlos Torres ,Independencia,Frecuente,2025-02-02
+316,26/03/2026,4,6,S/ 0.71,20,Presencial,Yape,5,271.17,,Distrito 5,San Miguel,  Este ,Residencial basica,Residencial,0.71,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+317,2026-04-04,8, 1 ,0.74,15,Web,Efectivo,1,155.98,OK,Distrito 2,Lima,Norte,Temporal,Temporal,0.74,Luis Salazar,La Molina,Regular,2025-06-22
+318,2026-05-17,8,1,0.71,0,WhatsApp,Efectivo,5,160.57,OK,DiStRiTo 7,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Marco Castillo,Ventanilla,frecuente,2025-02-15
+319,2026-02-28,3,6,0.78,12 aprox,Telefono,Tarjeta,2,314.36,,Distrito 1,InDePeNdEnCiA,Sur,Residencial media,Residencial,0.78,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+320,2026-01-02,2,1,0.78 aprox,15,Presencial,Plin,3,124.07,OK,Distrito 1,InDePeNdEnCiA,Sur,Residencial media,Residencial,0.78,LUCIA PAREDES,Comas,FRECUENTE, 2025-12-16 
+321,2026-05-07,3,3,0.97,20,,Plin,1,232.9,OK,Distrito 1,InDePeNdEnCiA,Sur,,Comercial,0.97,Rocio Campos,  Villa El Salvador ,Corporativo,2025-12-17
+322,2026-01-01,3,5,0.97, 20 ,Presencial,,1,228.47,Promocion,Distrito 6,comas,Oeste,,Comercial,0.97,Diego Navarro,,Nuevo,26-08-2025
+323,2026-01-10,,6,0.97,8,WhatsApp,Transferencia,,305.88,,Distrito 4,San Juan de Lurigancho,Centro,,Comercial,0.97,Victor Reyes,San Juan de Lurigancho,Frecuente,2025-03-25
+324,2026-05-10,6,1,0.5,10,Presencial,Tarjeta,3,170.06 aprox,OK,Distrito 3,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,Fiorella Rojas,,Nuevo,2025-04-25
+325,21-06-2026,7,3,0.5,,WhatsApp,Tarjeta,4,174.68,,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+326,2026-04-16,1,4,0.5,0,Telefono,Tarjeta,5,181.86,OK,DiStRiTo 7,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,Rocio Campos,  Villa El Salvador ,Corporativo,2025-12-17
+327,2026-03-01,3,3,0.96,10,App,Tarjeta,5,140.46,,Distrito 2,Lima,Norte,Comercial pequena,Comercial,0.96,Rocio Flores,,Frecuente,2025-03-27
+328,2026-06-27,5,7,0.74,0,App,YaPe,4,S/ 333.26,,Distrito 2,Lima,Norte,Temporal,Temporal,0.74,Luis Soto,Villa El Salvador,Frecuente, 2025-01-01 
+329,2026-02-14,6,6,0.61,15,Telefono,  Plin ,4, 304.39 ,Promocion,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,Luis Paredes,Comas,,2025-06-15
+330,2026-06-18,4,8,,20,App,Yape,5, 340.59 ,,Distrito 4,San Juan de Lurigancho,Centro,Nocturna,Especial,0.61,  Victor Paredes ,Los Olivos,Regular,2025-07-21
+331,2026-01-14,7,4,0.61,8,TeLeFoNo,Efectivo,2,264.41,,Distrito 5,San Miguel,  Este ,Nocturna,Especial,0.61,  Victor Paredes ,Los Olivos,Regular,2025-07-21
+332,,7,1,0.5,15,Presencial,Tarjeta,1,132.31 aprox,,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,CLAUDIA SAYAN,San Juan de Lurigancho,Premium,2025-10-15
+333,2026-02-18,,5,0.96,0,Telefono,Efectivo,1,,,Distrito 6,comas,Oeste,Comercial pequena,Comercial,0.96,Elena Flores,san miguel,Frecuente,2025-05-26
+334,2026-04-25,6,4,"0,78",10,Telefono,Efectivo,3,224.34,,Distrito 4,San Juan de Lurigancho,Centro,Residencial media,Residencial,0.78,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+335,2026-02-03,4,7,0.96,15,Web,EfEcTiVo,3,810.25,Cliente frecuente,Distrito 3,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,carlos torres,Ate,Corporativo,2025-04-10
+336,2026-05-15,3,6,0.71,0,WhatsApp,,4,260.34,ok,Distrito 3,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Diana Reyes,San Miguel,Nuevo,2025-06-15
+337,2026-03-15,3,7,0.78,12,Presencial,Yape,1,228.97,,Distrito 3,Ventanilla,Oeste,Residencial media,Residencial,0.78,Diego Mendoza,San Juan de Lurigancho,Regular,2025-04-21
+338,2026-06-27,8 aprox,4,0.5,0,Telefono,,4,253.16,Promocion,Distrito 3,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,Maria Quispe,Villa El Salvador,Regular,2025-06-18
+339,2026-02-05,6,3,0.61,0,Web,Transferencia,4,S/ 178.45,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Nocturna,Especial,0.61,Raul Flores,Ate,Corporativo,2025-04-07
+340,2026-03-15,6,3.48,0.97,12 aprox,ApP,,2,164.45,OK,DiStRiTo 7,Ventanilla,Oeste,,Comercial,0.97,Andre Navarro,San Juan de Lurigancho,Corporativo,2025-06-05
+341,2026-03-11,7,3,0.97,0,WhatsApp,Plin,1,260.87,OK,Distrito 6,comas,Oeste,,Comercial,0.97,Jose Sayan,Chorrillos,,2025-09-25
+342,2026-03-08,7,2 aprox,0.97,10,Web,Tarjeta,3,S/ 655.99,Promocion,Distrito 6,comas,Oeste,,Comercial,0.97,Raul Gomez,Independencia,Nuevo, 2025-09-06 
+343,2026-04-08,7,1,0.97, 20 ,Web,Transferencia,2,"81,1",Cliente frecuente,Distrito 1,InDePeNdEnCiA,Sur,,Comercial,0.97,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+344,2026-02-04,3,8,0.5,0,  WhatsApp ,Plin,,305.73,OK,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+345,2026-06-09,7,1,,0,Web,TrAnSfErEnCiA,2,,,Distrito 2,Lima,Norte,Solar mixta,Especial,0.61,Raul Flores,Ate,Corporativo,2025-04-07
+346,2026-03-11,6,4 aprox,0.74,8,Telefono,Efectivo,3,241.04,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Temporal,Temporal,0.74,Diego Navarro,,Nuevo,26-08-2025
+347,2026-01-07,7,2,0.97,0,Web,Tarjeta,4,177.76,,DiStRiTo 7,Ventanilla,Oeste,,Comercial,0.97,Carlos Gomez,,Regular,2025-04-13
+348,2026-01-10,3,7,0.78,20,WhatsApp,  Transferencia ,5,308.58,Revisar,DiStRiTo 7,Ventanilla,Oeste,Residencial media,Residencial,0.78,Raul Gomez,Independencia,Nuevo, 2025-09-06 
+349,2026-02-20,4,4,0.96,15,app,Efectivo,1,218.68,  OK ,Distrito 2,Lima,Norte,Comercial pequena,Comercial,0.96,Marco Flores,,Frecuente,2025-11-09
+350,2026/06/27,6,1,0.87,10,Telefono,Tarjeta,3,159.35,Promocion,Distrito 3,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Andre Flores,CALLAO,Premium,2025/02/08
+351,2026-01-16,1,3,0.78,0,Telefono,Transferencia,2,"177,03",Promocion,Distrito 5,San Miguel,  Este ,Residencial media,Residencial,0.78,  Victor Paredes ,Los Olivos,Regular,2025-07-21
+352,2026-05-04,2,5,0.5,20,Telefono,Efectivo,5, 194.01 ,Promocion,Distrito 3,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,Lucia Salazar,Chorrillos,Nuevo,2025-12-24
+353,2026-03-07, 3 ,2,0.78,12 aprox,Presencial,Transferencia,5,214.68,Cliente frecuente,Distrito 5,San Miguel,  Este ,Residencial media,Residencial,0.78,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+354,2026-03-07,6,8,0.71,20,Presencial,Yape,5,386.07,OK,Distrito 6,comas,Oeste,Residencial basica,Residencial,0.71,Maria Quispe,Villa El Salvador,Regular,2025-06-18
+355,,5,4,0.96,0,WhatsApp,Plin,3,248.53 aprox,,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Rocio Flores,Independencia,Corporativo,2025-06-24
+356,2026-01-14,3,,0.61,5,App,Transferencia, 4 ,319.81,Promocion,Distrito 4,San Juan de Lurigancho,Centro,Solar mixta,Especial,0.61,Rocio Flores,,Frecuente,2025-03-27
+357,2026-01-13,3,5, 0.61 ,12,Web,Efectivo,4,266.71,Promocion,Distrito 6,comas,Oeste,Solar mixta,Especial,0.61,Fiorella Rojas,Lima,Regular,2025-04-06
+358,2026-04-19,5,4,0.74, 15 ,Presencial,Yape,4,177.8 aprox,,Distrito 1,InDePeNdEnCiA,Sur,Temporal,Temporal,0.74,DIEGO QUISPE,San Juan de Lurigancho,Frecuente,2025/08/28
+359,2026-02-06,1,6,0.61,5,WhatsApp,transferencia,4,"260,86",,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Sofia Cruz,SaN JuAn dE LuRiGaNcHo,Regular,2025-10-09
+360,2026-03-19,6, 4 ,0.78,8,WhatsApp,Tarjeta,3,272.86,Promocion,Distrito 5,San Miguel,  Este ,Residencial media,Residencial,0.78,Diana Mendoza,Villa El Salvador,Frecuente,2025-07-24
+361,2026-01-27,2,8,0.97,20,app,Transferencia,,372.15,  OK ,DiStRiTo 7,Ventanilla,Oeste,,Comercial,0.97,Carlos Reyes,Los Olivos,Premium,08-07-2025
+362,2026-01-14,2,7,0.74,20,PrEsEnCiAl,Tarjeta,5,308.09,Promocion,DiStRiTo 7,Ventanilla,Oeste,Temporal,Temporal,0.74,Rocio Flores,Independencia,Corporativo,2025-06-24
+363,2026-02-08,7,4,0.96,,TeLeFoNo,Efectivo,1,276.18,,Distrito 5,San Miguel,  Este ,Comercial pequena,Comercial,0.96,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+364,2026-05-13,4, 4 ,"0,71",0,ApP,Transferencia,1,240.88,,Distrito 4,San Juan de Lurigancho,Centro,Residencial basica,Residencial,0.71,Camila Ramos,CHORRILLOS,Corporativo,2025-04-07
+365,2026-06-13,8,5,0.71,0,WhatsApp,Transferencia,1,227.34,Cliente frecuente,Distrito 2,Lima,Norte,Residencial basica,Residencial,0.71,Claudia Rojas,Los Olivos,Corporativo,2025-01-07
+366,2026-06-19,2,7 aprox,,15,WhatsApp,Tarjeta,4,331.08,Cliente frecuente,Distrito 3,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+367,2026-01-22,7,1,0.97,20,App,Transferencia,2,187.08,Cliente frecuente,Distrito 6,comas,Oeste,,Comercial,0.97,Marco Rojas,San Miguel,Regular,2025-09-04
+368,2026-06-22,5,8,0.71,0,WhatsApp,Yape,3,402.26,Revisar,DiStRiTo 7,Ventanilla,Oeste,Residencial basica,Residencial,0.71,LUCIA PAREDES,Comas,FRECUENTE, 2025-12-16 
+369,2026-01-11,4,,0.78,0,App,Efectivo,,163.86,,Distrito 4,San Juan de Lurigancho,Centro,Residencial media,Residencial,0.78,Fiorella Rojas,Lima,Regular,2025-04-06
+370,2026-04-21,2,4,0.96,0,Presencial,Efectivo,3,182.45,OK,Distrito 2,Lima,Norte,Comercial pequena,Comercial,0.96,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+371,2026-05-18,4,4, 0.96 ,12,Telefono,Transferencia,3,237.82,,Distrito 4,San Juan de Lurigancho,Centro,Comercial pequena,Comercial,0.96,  Claudia Reyes ,Independencia,Corporativo,2025-06-27
+372,2026-05-03,7,7,0.71 aprox,0,WhatsApp,Tarjeta, 4 ,S/ 374.3,,Distrito 3,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Carlos Rojas,CHORRILLOS,  Frecuente ,17-12-2025
+373,2026-03-05,8,6,S/ 0.71,0,Web,Plin,5,320.05,Promocion,Distrito 4,San Juan de Lurigancho,Centro,Residencial basica,Residencial,0.71,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+374,,5,2,0.61,0,Web,EFECTIVO, 2 ,176.6 aprox,,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,CLAUDIA SAYAN,San Juan de Lurigancho,Premium,2025-10-15
+375,2026-03-20,3,4,0.5,0,WhatsApp,Plin,1,213.91,OK,Distrito 2,Lima,Norte,SoCiAl,SUBVENCIONADA,0.5,Sofia Cruz,SaN JuAn dE LuRiGaNcHo,Regular,2025-10-09
+376,2026-05-17,6,, 0.5 ,20,App,EfEcTiVo,3,230.8,,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,Camila Salazar,Independencia,Nuevo,2025-08-16
+377,2026-05-18,2,3,0.97 aprox,20,,Transferencia,2,115.38,Revisar,Distrito 1,InDePeNdEnCiA,Sur,,Comercial,0.97,Jorge Huaman,Callao,REGULAR,2025-04-06
+378,2026-02-24,4,8,0.74,8,Web,plin,5,408.26,,Distrito 2,Lima,Norte,Temporal,Temporal,0.74,Pedro Reyes,Surco,Premium,2025-02-12
+379,2026-06-10, 3 ,1,0.61,20,WhatsApp,Transferencia,,95.1,OK,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,Andre Navarro,San Juan de Lurigancho,Corporativo,2025-06-05
+380,2026-06-23,8,3,0.78,0,Web,Plin,4,,OK,Distrito 4,San Juan de Lurigancho,Centro,Residencial media,Residencial,0.78,Diego Navarro,,Nuevo,26-08-2025
+381,2026-04-25,3,3,0.96,0,telefono,  Efectivo ,3,147.85,,DiStRiTo 7,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+382,2026-05-01,1,2,0.87,15,App,Efectivo,3,165.85,Revisar,Distrito 4,San Juan de Lurigancho,Centro,Residencial alta,Residencial,0.87,Maria Quispe,Villa El Salvador,Regular,2025-06-18
+383,2026-03-14,1,5,0.71,10,App,Tarjeta,2,228.11,Promocion,Distrito 2,Lima,Norte,Residencial basica,Residencial,0.71,Lucia Sayan,SaN MiGuEl,Corporativo,2025-06-27
+384,2026-06-19,1,2,0.5,10,Presencial,TrAnSfErEnCiA,5,196.47,Cliente frecuente,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,Elena Huaman,Miraflores,Regular,2025-08-16
+385,2026-02-04,2 aprox,8,S/ 0.96,15,App,Plin,3, 326.37 ,OK,Distrito 2,Lima,Norte,Comercial pequena,Comercial,0.96,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+386,2026-02-19,1,7,0.61,10,WhatsApp,Yape,4,S/ 356.03,,Distrito 6,comas,Oeste,Nocturna,Especial,0.61,Elena Huaman,Miraflores,Regular,2025-08-16
+387,2026/05/13,2,3,0.71,15,Web,Transferencia,3,183.76,OK,DiStRiTo 7,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Jose Rojas,Ate,Premium,2025-05-08
+388,2026-02-04,8,7,0.78,0,telefono,,4,327.11,,Distrito 5,San Miguel,  Este ,Residencial media,Residencial,0.78,Elena Paredes,Los Olivos,PREMIUM,2025-01-22
+389,2026-03-15,5,6,,0,WhatsApp,Plin,4,278.31,,Distrito 6,comas,Oeste,Residencial media,Residencial,0.78,Raul Flores,Ate,Corporativo,2025-04-07
+390,2026-02-25,6,1,0.71,0,WhatsApp,Tarjeta,5,143.29,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Valeria Rojas,Miraflores,Premium,2025-09-22
+391,2026-05-13,1,7,0.87,0,Web,Plin,1,319.6,,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+392,2026-02-06,2,6,0.5,5,WhatsApp,Transferencia,2,S/ 286.28,,Distrito 4,San Juan de Lurigancho,Centro,SoCiAl,SUBVENCIONADA,0.5,Diana Mendoza,Villa El Salvador,Frecuente,2025-07-24
+393,2026-04-23,8,3,0.96,0,Presencial,Yape,2,247.16,Cliente frecuente,Distrito 4,San Juan de Lurigancho,Centro,Comercial pequena,Comercial,0.96,Andre Torres,Los Olivos,Corporativo,2025-01-01
+394,2026-04-27,6,3,S/ 0.71,10,WEB,Plin,1,217.05,OK,Distrito 2,Lima,Norte,Residencial basica,Residencial,0.71,Diego Rojas,Comas,corporativo,2025-11-04
+395, 2026-01-10 ,3,3,0.97,15,Presencial,Yape,4,185.98,OK,Distrito 5,San Miguel,  Este ,,Comercial,0.97,Lucia Salazar,Chorrillos,Nuevo,2025-12-24
+396,2026-06-07,6,5,0.87,0,Telefono,Efectivo,2,299.63,Promocion,Distrito 2,Lima,Norte,Residencial alta,Residencial,0.87,Victor Gomez,Ventanilla,Regular,2025-04-02
+397,2026/04/23,,2,0.87,5,Web,Efectivo,5,230.29,Promocion,Distrito 6,comas,Oeste,Residencial alta,Residencial,0.87,Jorge Huaman,Callao,REGULAR,2025-04-06
+398,2026-01-20,1,6,0.96,0,WhatsApp,Efectivo,5,257.35,,Distrito 3,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,RAUL REYES,Ate,Nuevo,2025-02-03
+399,2026-04-28,1,5,0.97,0,Web,PLIN,3,287.47,,Distrito 1,InDePeNdEnCiA,Sur,,Comercial,0.97,Fiorella Rojas,Lima,Regular,2025-04-06
+400,2026-03-06,7,1,0.5,10,Telefono,,4,173.41,OK,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,Carlos Gomez,,Regular,2025-04-13
+401,2026-05-19,8,3,0.74,20,PrEsEnCiAl,tarjeta,2,237.36,Promocion,DiStRiTo 7,Ventanilla,Oeste,Temporal,Temporal,0.74,Raul Sayan,Ate,CORPORATIVO,2025-01-05
+402,2026-05-21,1,8,0.96,20,WhatsApp,Tarjeta,,S/ 290.33,OK,Distrito 5,San Miguel,  Este ,Comercial pequena,Comercial,0.96,Claudia Paredes,lima,Corporativo,2025-08-27
+403,2026-02-23, 7 ,,0.78,5,Telefono,Tarjeta,3,338.29,Cliente frecuente,Distrito 6,comas,Oeste,Residencial media,Residencial,0.78,Victor Flores,Comas,Premium,2025-12-20
+404,02/01/2026,3,24.55,0.96,8,web,Plin,3,947.06,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,  Claudia Reyes ,Independencia,Corporativo,2025-06-27
+405,2026-02-18,3,5,0.97,0,App,EFECTIVO,3,271.98,,Distrito 6,comas,Oeste,,Comercial,0.97,Luis Torres,SaN MiGuEl,Corporativo,2025-10-05
+406,2026-02-04,8 aprox,3,0.5,0,Telefono,Tarjeta,5,221.67,OK,Distrito 3,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+407,2026-06-28,5,1,0.71,15,App,Tarjeta,1,140.2,,Distrito 6,comas,Oeste,Residencial basica,Residencial,0.71,DIEGO QUISPE,San Juan de Lurigancho,Frecuente,2025/08/28
+408,2026-06-13,6,5,0.61,20,App,Efectivo,,304.63,,Distrito 4,San Juan de Lurigancho,Centro,Solar mixta,Especial,0.61,Jose Sayan,Chorrillos,,2025-09-25
+409,2026-03-13,3,3,0.97,8,Presencial,Yape,3,194.04,Promocion,Distrito 1,InDePeNdEnCiA,Sur,,Comercial,0.97,  Claudia Reyes ,Independencia,Corporativo,2025-06-27
+410,2026-05-26,5,6,0.78,5,Telefono,TRANSFERENCIA,1,260.69,Revisar,Distrito 3,Ventanilla,Oeste,Residencial media,Residencial,0.78,Rocio Flores,,Frecuente,2025-03-27
+411,2026-01-21,5,4 aprox,0.97,0,App,Transferencia,5,664.56,Promocion,DiStRiTo 7,Ventanilla,Oeste,,Comercial,0.97,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+412,,5,7,0.71,8,WhatsApp,Tarjeta,4,310.68,Revisar,DiStRiTo 7,Ventanilla,Oeste,Residencial basica,Residencial,0.71,  Carlos Torres ,Independencia,Frecuente,2025-02-02
+413,2026-03-25,2,6,0.61,0,App,tarjeta,3,275.88 aprox,OK,Distrito 2,Lima,Norte,Solar mixta,Especial,0.61,Luis Ramos,Lima,Corporativo,2025-07-25
+414,2026-02-02,5,8,0.74,0,Web,Yape,4,368.92,Revisar,Distrito 3,Ventanilla,Oeste,Temporal,Temporal,0.74,Elena Vargas,SaN JuAn dE LuRiGaNcHo,CoRpOrAtIvO,2025-05-05
+415,2026-06-02,8,8,0.96,0,WhatsApp,Plin,4,401.08,Revisar,Distrito 5,San Miguel,  Este ,Comercial pequena,Comercial,0.96,Elena Campos,  Surco ,Nuevo,2025-09-05
+416,2026-05-01,4, 3 ,0.96,20 aprox,Web,Yape,2,179.41 aprox,OK,DiStRiTo 7,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,Carlos Cruz,Independencia,regular,2025-10-09
+417,2026-02-15,7 aprox,7,0.96,12,App,Tarjeta,3,347.31,OK,Distrito 6,comas,Oeste,Comercial pequena,Comercial,0.96,Rocio Cruz,Independencia,Premium,2025-03-26
+418,2026-03-12,2,7,0.96,15,Web,Tarjeta,4,312.21,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Diego Mendoza,San Juan de Lurigancho,Regular,2025-04-21
+419,2026-03-23,4,3,0.61,0,WhAtSaPp,Yape,1,188.47,Revisar,Distrito 4,San Juan de Lurigancho,Centro,Nocturna,Especial,0.61,Andre Navarro,San Juan de Lurigancho,Corporativo,2025-06-05
+420,2026-02-01,5,2,0.71,15,App,Tarjeta,1,170.01,OK,Distrito 2,Lima,Norte,Residencial basica,Residencial,0.71,Valeria Huaman,SaN JuAn dE LuRiGaNcHo,Corporativo,2025-08-24
+421,2026-06-02,2,1,0.87,20,Presencial,Plin,1,90.92,,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Valeria Rojas,Miraflores,Premium,2025-09-22
+422,2026-05-27,4,5,0.96,15,Telefono,Plin,3,,OK,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Miguel Cruz,,Corporativo,2025-02-01
+423,2026-03-20,5,3,0.5,0,,Plin,2,231.98,OK,Distrito 6,comas,Oeste,SoCiAl,SUBVENCIONADA,0.5,carlos torres,Ate,Corporativo,2025-04-10
+424,2026-02-26,6,4,0.61,12,WhatsApp,Transferencia,1,205.9,Revisar,Distrito 1,InDePeNdEnCiA,Sur,Nocturna,Especial,0.61,Marco Castillo,Ventanilla,frecuente,2025-02-15
+425,2026-01-22,2,5,0.61,8,WhatsApp,,5,240.16,,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Marco Castillo,Ventanilla,frecuente,2025-02-15
+426,2026-01-25,2,6,0.71,20,Telefono,Efectivo,2,278.36,Revisar,Distrito 5,San Miguel,  Este ,Residencial basica,Residencial,0.71,Jose Rojas,Ate,Premium,2025-05-08
+427,2026-06-21,6,6,,15,Presencial,Tarjeta,4,328.52,OK,DiStRiTo 7,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,Carlos Reyes,Los Olivos,Premium,08-07-2025
+428,22/04/2026,5,8,0.97,0,Telefono,Tarjeta,3,426.73,Promocion,Distrito 6,comas,Oeste,,Comercial,0.97,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+429,2026-03-09,3,4,0.96,8,App,,1 aprox,210.81,OK,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Victor Gomez,Ventanilla,Regular,2025-04-02
+430,2026-03-11,7,1,0.96,8,Web,Plin, 3 ,,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+431,2026-04-27,1,4,0.78,5,Presencial,Yape,4,231.61,promocion,Distrito 5,San Miguel,  Este ,Residencial media,Residencial,0.78,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+432,2026/03/25,8,2,0.96,0,Presencial,Tarjeta, 3 ,227.19,,Distrito 6,comas,Oeste,Comercial pequena,Comercial,0.96,Luis Soto,Villa El Salvador,Frecuente, 2025-01-01 
+433,2026-06-14,8,2,0.96,15,App,efectivo,1,239.31,Revisar,Distrito 5,San Miguel,  Este ,Comercial pequena,Comercial,0.96,Sofia Castillo,San Juan de Lurigancho,Premium,2025-10-22
+434,2026-06-21, 2 ,6,0.74, 0 ,Web,Transferencia,2,297.89,,Distrito 4,San Juan de Lurigancho,Centro,Temporal,Temporal,0.74,Miguel Paredes,Villa El Salvador,Corporativo,2025-03-26
+435,2026-01-08,1, 8 ,0.5,20,Presencial,, 3 ,341.48,Revisar,Distrito 4,San Juan de Lurigancho,Centro,SoCiAl,SUBVENCIONADA,0.5,Jorge Campos,San Miguel,Premium,2025-04-19
+436,2026-06-17,1,5,0.61,5,Presencial,Transferencia,4,231.64,OK,Distrito 5,San Miguel,  Este ,Solar mixta,Especial,0.61,Carlos Campos,La Molina,Corporativo,2025-06-14
+437,12/02/2026,4,6,0.71 aprox,12,Web,Yape,1,296.46,OK,DiStRiTo 7,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+438,2026-03-10,4,5,0.71,12,Presencial,Transferencia,2,279.07,Promocion,Distrito 5,San Miguel,  Este ,Residencial basica,Residencial,0.71,Sofia Gomez,San Juan de Lurigancho,Corporativo,2025-11-04
+439,2026-01-03,7,8,0.97,5,Presencial,Plin,5,378.03,Cliente frecuente,Distrito 2,Lima,Norte,,Comercial,0.97,Jose Rojas,Ate,Premium,2025-05-08
+440,2026-05-28,4,4,0.61,0,APP,Efectivo,2,182.26,Promocion,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Pedro Navarro,Callao,FrEcUeNtE,2025-04-11
+441,2026-04-09,4,8,0.87,12 aprox,App,Plin,5,323.85,ReViSaR,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,DIEGO QUISPE,San Juan de Lurigancho,Frecuente,2025/08/28
+442,2026-04-06,2,8,0.96,0,WhatsApp,Transferencia,2,1517.93,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Comercial pequena,Comercial,0.96,Claudia Rojas,Los Olivos,Corporativo,2025-01-07
+443,2026-03-20,2,4,0.61 aprox,0,Presencial,Yape,3,219.65,,Distrito 6,comas,Oeste,Nocturna,Especial,0.61,Rocio Flores,Independencia,Corporativo,2025-06-24
+444,17-05-2026,6, 2 ,0.71,0,Presencial,YaPe,1,S/ 177.23,Cliente frecuente,Distrito 2,Lima,Norte,Residencial basica,Residencial,0.71,Valeria Rojas,La  Molina,Frecuente,2025-09-11
+445,2026-01-16,8,4,0.96,0,WHATSAPP,Efectivo,4,317.15,Promocion,Distrito 4,San Juan de Lurigancho,Centro,Comercial pequena,Comercial,0.96,Fiorella Vargas,CaLlAo,Premium,2025-12-25
+446,2026-01-15,7,3,S/ 0.5,0,  Web ,Efectivo,4,243.23,,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+447,2026-05-01,1,7,0.61,5,App,Tarjeta,1,291.81,,DiStRiTo 7,Ventanilla,Oeste,Nocturna,Especial,0.61,Valeria Rojas,Miraflores,Premium,2025-09-22
+448,2026-06-01,6,6,0.5 aprox,15,Telefono,Efectivo,2,256.75,Cliente frecuente,Distrito 5,San Miguel,  Este ,SoCiAl,SUBVENCIONADA,0.5,Sofia Castillo,San Juan de Lurigancho,Premium,2025-10-22
+449,2026-04-17,7,6,0.61, 20 ,WhatsApp,transferencia,1, 275.78 ,OK,DiStRiTo 7,Ventanilla,Oeste,Solar mixta,Especial,0.61,Diana Mendoza,Villa El Salvador,Frecuente,2025-07-24
+450,2026-02-27,4,1,"0,74",5 aprox,Presencial,Yape,2,109.52,Cliente frecuente,Distrito 2,Lima,Norte,Temporal,Temporal,0.74,Jose Sayan,Chorrillos,,2025-09-25
+451,2026-06-13,2,2,0.61,20,WhatsApp,Efectivo,1,138.29,Promocion,Distrito 4,San Juan de Lurigancho,Centro,Nocturna,Especial,0.61,Diana Cruz,Los Olivos,Nuevo,2025-12-13
+452,16-01-2026,4,17.74,0.87,0,WhatsApp,Efectivo,5,637.06,promocion,Distrito 2,Lima,Norte,Residencial alta,Residencial,0.87,Carlos Campos,La Molina,Corporativo,2025-06-14
+453,2026-04-25,,7,0.78,10,WhatsApp,Tarjeta,5,332.39,PROMOCION,Distrito 2,Lima,Norte,Residencial media,Residencial,0.78,Carlos Rojas,CHORRILLOS,  Frecuente ,17-12-2025
+454,2026-03-28,1,1,0.61,15,Presencial,Transferencia,5,174.2,Promocion,DiStRiTo 7,Ventanilla,Oeste,Solar mixta,Especial,0.61,Diana Cruz,Los Olivos,Nuevo,2025-12-13
+455,2026-01-17,3,1,0.61,0,WhatsApp,Transferencia,2,163.86,,Distrito 3,Ventanilla,Oeste,Nocturna,Especial,0.61,Jorge Campos,San Miguel,Premium,2025-04-19
+456,2026-03-03,6,3,0.61,0,WhatsApp,YAPE,1,212.2,,Distrito 3,Ventanilla,Oeste,Nocturna,Especial,0.61,Andre Navarro,San Juan de Lurigancho,Corporativo,2025-06-05
+457,2026-03-25,7,3,S/ 0.87,8,Presencial,Plin,2,250.91,Promocion,Distrito 4,San Juan de Lurigancho,Centro,Residencial alta,Residencial,0.87,Fiorella Rojas,Lima,Regular,2025-04-06
+458,,5,8,S/ 0.78,8,Web,YAPE,4,358.39,,DiStRiTo 7,Ventanilla,Oeste,Residencial media,Residencial,0.78,Fiorella Gomez,Callao,Corporativo,25-01-2025
+459,2026-02-12,1, 4 ,0.97,12 aprox,WhatsApp,Plin,4,182.33,Promocion,Distrito 3,Ventanilla,Oeste,,Comercial,0.97,Fiorella Rojas,Lima,Regular,2025-04-06
+460,2026-06-06,8,5,S/ 0.74,10,App,Tarjeta,5,294.33,Promocion,Distrito 1,InDePeNdEnCiA,Sur,Temporal,Temporal,0.74,Fiorella Vargas,CaLlAo,Premium,2025-12-25
+461,2026/02/18,4,4,0.78,0,WhatsApp,Efectivo,3,271.5,Revisar,Distrito 3,Ventanilla,Oeste,Residencial media,Residencial,0.78,Raul Flores,Ate,Corporativo,2025-04-07
+462,2026-05-21,7,8,0.61,0,Web,Plin,2,379.15,,DiStRiTo 7,Ventanilla,Oeste,Nocturna,Especial,0.61,Carlos Reyes,Los Olivos,Premium,08-07-2025
+463,2026-03-23,2,7,0.5,0,Presencial,Plin,5,"327,6",ClIeNtE FrEcUeNtE,DiStRiTo 7,Ventanilla,Oeste,SoCiAl,SUBVENCIONADA,0.5,  Pedro Navarro ,La mOlInA,FrEcUeNtE,2025-09-15
+464,2026-06-14,6,3,0.74,20,App,Yape,1,184.76,OK,Distrito 5,San Miguel,  Este ,Temporal,Temporal,0.74,Diego Mendoza,ChOrRiLlOs,Premium,2025-06-16
+465,05/01/2026,2,1,0.61, 0 ,Web,Plin,1,,Cliente frecuente,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Luis Salazar,La Molina,Regular,2025-06-22
+466,2026-01-17,2,4,0.87,20,App,Tarjeta,5,262.76,Promocion,Distrito 2,Lima,Norte,Residencial alta,Residencial,0.87,LUCIA SALAZAR,Comas,Frecuente,2025/03/09
+467,2026-01-28,8,1,0.61,20,WhatsApp,Yape,2,192.67,REVISAR,Distrito 5,San Miguel,  Este ,Nocturna,Especial,0.61,Andre Torres,Los Olivos,Corporativo,2025-01-01
+468,2026-06-17,7, 8 , 0.87 ,20 aprox,WhatsApp,TaRjEtA, 1 ,321.59,Promocion,Distrito 2,Lima,Norte,Residencial alta,Residencial,0.87,Fiorella Rojas,,Nuevo,2025-04-25
+469,2026-04-04,1,5,0.61,0,Presencial,Efectivo,5,195.93,Promocion,Distrito 3,Ventanilla,Oeste,Nocturna,Especial,0.61,Jorge Ramos,ViLlA El sAlVaDoR,Frecuente,2025-11-03
+470,,5,1,0.74,12,Presencial,Yape,3,178.02,OK,Distrito 5,San Miguel,  Este ,Temporal,Temporal,0.74,Marco Ramos,Chorrillos,Regular,2025-04-03
+471,28-02-2026,5,3 aprox,0.97,8,Telefono,Yape,4,191.8,promocion,Distrito 6,comas,Oeste,,Comercial,0.97,Claudia Mendoza,San  Juan  de  Lurigancho,Regular,2025-03-10
+472,2026-03-17,1,4,0.61,0,Web,EfEcTiVo,2,209.96,Revisar,Distrito 6,comas,Oeste,Solar mixta,Especial,0.61,Victor Gomez,Ventanilla,Regular,2025-04-02
+473,2026-02-19,4,5,0.78 aprox,20,WhatsApp,Plin,5, 260.27 ,,Distrito 1,InDePeNdEnCiA,Sur,Residencial media,Residencial,0.78,Diana Mendoza,Villa El Salvador,Frecuente,2025-07-24
+474,2026-06-08,2,1,0.87,0,App,Transferencia,1,164.65,REVISAR,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,Diana Cruz,Los Olivos,Nuevo,2025-12-13
+475, 2026-04-17 ,,,0.96,12,WhatsApp,Transferencia,3,,Revisar,DiStRiTo 7,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,Luis Salazar,villa el salvador,Corporativo,22/04/2025
+476,2026-06-22,1,1,0.87,0,Presencial,Transferencia,5,116.89,PrOmOcIoN,Distrito 4,San Juan de Lurigancho,Centro,Residencial alta,Residencial,0.87,Claudia Rojas,Los Olivos,Corporativo,2025-01-07
+477,2026-03-03,4,7,0.87, 0 ,WEB,Yape,2,305.18 aprox,,Distrito 6,comas,Oeste,Residencial alta,Residencial,0.87,Elena Campos,  Surco ,Nuevo,2025-09-05
+478,2026-06-24,7,1,0.96,5,Presencial,Efectivo,2,142.68,OK,DiStRiTo 7,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,Rocio Flores,Independencia,Corporativo,2025-06-24
+479,2026-04-09,1,3,0.96,20,Web,Efectivo,4,165.69,,Distrito 3,Ventanilla,Oeste,Comercial pequena,Comercial,0.96,Raul Sayan,Ate,CORPORATIVO,2025-01-05
+480,2026-01-16,2,2,0.5,10,Telefono,Tarjeta,5,198.12,ClIeNtE FrEcUeNtE,Distrito 4,San Juan de Lurigancho,Centro,SoCiAl,SUBVENCIONADA,0.5,Valeria Rojas,La  Molina,Frecuente,2025-09-11
+481,2026-06-05,3,5 aprox,0.78,15,Telefono,Transferencia,1,S/ 288.3,,Distrito 3,Ventanilla,Oeste,Residencial media,Residencial,0.78,Fiorella Rojas,,Nuevo,2025-04-25
+482,12-05-2026,5,8,"0,97",20,WhatsApp,Tarjeta,1,373.38,Revisar,Distrito 3,Ventanilla,Oeste,,Comercial,0.97,Lucia Salazar,Chorrillos,Nuevo,2025-12-24
+483,2026-05-20,6,2,0.5,0,App,, 4 ,146.1,OK,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,LUCIA SALAZAR,Comas,Frecuente,2025/03/09
+484,2026-04-14, 7 ,8,0.61,0,Web,Plin,3,360.35,Cliente frecuente,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,Carlos Gomez,,Regular,2025-04-13
+485,2026-06-18,5,4,0.61,15,App,plin,4 aprox, 210.87 ,OK,Distrito 6,comas,Oeste,Solar mixta,Especial,0.61,Claudia Rojas,Los Olivos,Corporativo,2025-01-07
+486,2026-05-05,1,6,"0,97",10,Telefono,Yape,3,871.74,,Distrito 3,Ventanilla,Oeste,,Comercial,0.97,Carlos Reyes,Los Olivos,Premium,08-07-2025
+487,2026-04-12,4,5,0.71,,Web,Transferencia,3,279.31,Revisar,DiStRiTo 7,Ventanilla,Oeste,Residencial basica,Residencial,0.71,Victor Flores,Comas,Premium,2025-12-20
+488,2026-02-21,8,7,0.74,15,Presencial,Plin,4,368.21,,Distrito 3,Ventanilla,Oeste,Temporal,Temporal,0.74,Marco Rojas,San Miguel,Regular,2025-09-04
+489,2026-02-12,2,3,0.61,10,Presencial,Yape,1,189.58,,Distrito 4,San Juan de Lurigancho,Centro,Nocturna,Especial,0.61,Elena Flores,san miguel,Frecuente,2025-05-26
+490,2026-01-03,8,8,0.87,8,WhatsApp,Efectivo,3,330.88,OK,DiStRiTo 7,Ventanilla,Oeste,Residencial alta,Residencial,0.87,carlos torres,Ate,Corporativo,2025-04-10
+491,2026-02-07,8,8,0.61,0,Presencial,Tarjeta,1, 395.33 ,Cliente frecuente,DiStRiTo 7,Ventanilla,Oeste,Nocturna,Especial,0.61,Victor Reyes,San Juan de Lurigancho,Frecuente,2025-03-25
+492,2026-02-17,1,7,0.61,15,PRESENCIAL,  Yape ,2,279.12,Promocion,DiStRiTo 7,Ventanilla,Oeste,Nocturna,Especial,0.61,Marco Flores,,Frecuente,2025-11-09
+493,2026-04-03,2,2,0.96,15,App,Plin,2, 152.67 ,,Distrito 4,San Juan de Lurigancho,Centro,Comercial pequena,Comercial,0.96,Miguel Navarro,San Juan de Lurigancho,Corporativo,2025-01-28
+494,2026-06-23,1,12.24,0.5,12,Telefono,Plin,1 aprox,,Revisar,Distrito 5,San Miguel,  Este ,SoCiAl,SUBVENCIONADA,0.5,Marco Ramos,Chorrillos,Regular,2025-04-03
+495,2026-06-02,4,2,0.74,5,Presencial,PlIn,1,183.88,,Distrito 4,San Juan de Lurigancho,Centro,Temporal,Temporal,0.74,LUCIA PAREDES,Comas,FRECUENTE, 2025-12-16 
+496,2026-02-02,1,5,0.61,0,App,Efectivo,4,245.32,Promocion,Distrito 2,Lima,Norte,Nocturna,Especial,0.61,LUCIA PAREDES,Comas,FRECUENTE, 2025-12-16 
+497,2026-01-02,1,7,0.61,12,Telefono,Efectivo,5,300.78,,Distrito 4,San Juan de Lurigancho,Centro,Solar mixta,Especial,0.61,Diego Navarro,,Nuevo,26-08-2025
+498,,2,4,0.87,12,App,,,225.3,Cliente frecuente,Distrito 6,comas,Oeste,Residencial alta,Residencial,0.87,Victor Flores,Comas,Premium,2025-12-20
+499,2026-02-17,2,8,0.5,8,Presencial,plin,5,321.51,,Distrito 1,InDePeNdEnCiA,Sur,SoCiAl,SUBVENCIONADA,0.5,Marco Castillo,Ventanilla,frecuente,2025-02-15
+500,2026-06-22,6,1,0.74,20,Web,Plin,4,150.9,OK,Distrito 3,Ventanilla,Oeste,Temporal,Temporal,0.74,Luis Soto,Comas,,2025-01-04

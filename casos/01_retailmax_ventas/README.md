@@ -1,52 +1,34 @@
-# RetailMax - Ventas en tienda
+# Caso 01 - Retailmax Ventas
 
-## Contexto
-Una cadena pequena de tiendas analiza ventas por cliente, producto y sede.
+## Enfoque del caso
 
-## Tablas
-- `clientes`: datos de clientes.
-- `productos`: catalogo de productos.
-- `sucursales`: sedes, zonas o puntos de operacion.
-- `ventas`: tabla principal con 500 registros y claves foraneas.
+Este caso entrega una sola tabla desnormalizada para que el estudiante identifique datos repetidos y proponga el modelo normalizado.
+
+La base no incluye tablas normalizadas, claves foraneas ni una solucion relacional ya construida.
+
+## Archivo SQLite
+
+- `retailmax_ventas.db`
+
+## Tabla disponible
+
+- `ventas_original`: tabla de partida con 500 registros. Mezcla datos de la operacion principal con datos descriptivos de clientes, productos, sedes, categorias u otras entidades del caso.
 
 ## Reto PMD1
-Predecir el monto total de venta a partir de la cantidad de productos.
+
+1. Explorar la tabla original.
+2. Detectar patrones repetidos y dependencias entre columnas.
+3. Proponer entidades, claves primarias y claves foraneas.
+4. Crear las tablas normalizadas en SQLite.
+5. Insertar los datos desde `ventas_original` hacia las nuevas tablas.
+6. Reconstruir un reporte con `JOIN` para validar que no se perdio informacion.
+7. Limpiar datos con Pandas y preparar un dataset analitico.
 
 Variable objetivo sugerida: `monto_total`.
 Variable predictora basica sugerida: `cantidad_productos`.
 
-## Suciedad incluida
-- Espacios en blanco al inicio/final.
-- Mayusculas y minusculas inconsistentes.
-- Valores nulos.
-- Fechas con formatos mezclados.
-- Numeros guardados como texto, con coma decimal o simbolo `S/`.
-- Duplicados parciales en la tabla principal.
-- Algunos valores extremos.
+## Archivo CSV
 
-## Consulta base para Pandas
+La carpeta `csv/` contiene solo la tabla original:
 
-```sql
-SELECT
-    f.id_venta,
-    p.nombre AS cliente,
-    p.distrito AS distrito_cliente,
-    p.segmento,
-    i.nombre AS producto,
-    i.categoria,
-    l.nombre AS sucursal,
-    l.zona,
-    f.fecha_operacion,
-    f.cantidad,
-    f.cantidad_productos,
-    f.precio_unitario,
-    f.descuento_pct,
-    f.canal,
-    f.metodo_pago,
-    f.calificacion,
-    f.monto_total
-FROM ventas f
-LEFT JOIN clientes p ON f.id_cliente = p.id_cliente
-LEFT JOIN productos i ON f.id_producto = i.id_producto
-LEFT JOIN sucursales l ON f.id_sucursal = l.id_sucursal;
-```
+- `ventas_original.csv`

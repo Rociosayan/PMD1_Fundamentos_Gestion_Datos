@@ -1,52 +1,34 @@
-# Veterinaria - Servicios para mascotas
+# Caso 06 - Veterinaria Atenciones
 
-## Contexto
-Una veterinaria revisa atenciones, servicios y costos por mascota.
+## Enfoque del caso
 
-## Tablas
-- `mascotas`: datos de mascotas.
-- `servicios`: catalogo de servicios.
-- `sedes`: sedes, zonas o puntos de operacion.
-- `atenciones`: tabla principal con 500 registros y claves foraneas.
+Este caso entrega una sola tabla desnormalizada para que el estudiante identifique datos repetidos y proponga el modelo normalizado.
+
+La base no incluye tablas normalizadas, claves foraneas ni una solucion relacional ya construida.
+
+## Archivo SQLite
+
+- `veterinaria_atenciones.db`
+
+## Tabla disponible
+
+- `atenciones_original`: tabla de partida con 500 registros. Mezcla datos de la operacion principal con datos descriptivos de clientes, productos, sedes, categorias u otras entidades del caso.
 
 ## Reto PMD1
-Predecir el costo del servicio usando el peso de la mascota.
+
+1. Explorar la tabla original.
+2. Detectar patrones repetidos y dependencias entre columnas.
+3. Proponer entidades, claves primarias y claves foraneas.
+4. Crear las tablas normalizadas en SQLite.
+5. Insertar los datos desde `atenciones_original` hacia las nuevas tablas.
+6. Reconstruir un reporte con `JOIN` para validar que no se perdio informacion.
+7. Limpiar datos con Pandas y preparar un dataset analitico.
 
 Variable objetivo sugerida: `costo_servicio`.
 Variable predictora basica sugerida: `peso_mascota_kg`.
 
-## Suciedad incluida
-- Espacios en blanco al inicio/final.
-- Mayusculas y minusculas inconsistentes.
-- Valores nulos.
-- Fechas con formatos mezclados.
-- Numeros guardados como texto, con coma decimal o simbolo `S/`.
-- Duplicados parciales en la tabla principal.
-- Algunos valores extremos.
+## Archivo CSV
 
-## Consulta base para Pandas
+La carpeta `csv/` contiene solo la tabla original:
 
-```sql
-SELECT
-    f.id_atencion,
-    p.nombre AS mascota,
-    p.distrito AS distrito_mascota,
-    p.segmento,
-    i.nombre AS servicio,
-    i.categoria,
-    l.nombre AS sede,
-    l.zona,
-    f.fecha_operacion,
-    f.cantidad_servicios,
-    f.peso_mascota_kg,
-    f.tarifa_base,
-    f.descuento_pct,
-    f.canal,
-    f.metodo_pago,
-    f.calificacion,
-    f.costo_servicio
-FROM atenciones f
-LEFT JOIN mascotas p ON f.id_mascota = p.id_mascota
-LEFT JOIN servicios i ON f.id_servicio = i.id_servicio
-LEFT JOIN sedes l ON f.id_sede = l.id_sede;
-```
+- `atenciones_original.csv`

@@ -1,65 +1,34 @@
-# Abarrotes - Ventas e inventario
+# Caso 16 - Abarrotes Ventas Inventario
 
-## Contexto
-Una cadena pequena de bodegas y tiendas de abarrotes analiza ventas diarias, inventario, mermas y margen por producto.
+## Enfoque del caso
 
-## Tablas
-- `clientes`: datos de clientes frecuentes y ocasionales.
-- `productos`: catalogo de abarrotes con proveedor, costo y precio de lista.
-- `tiendas`: bodegas o puntos de venta por distrito y zona.
-- `ventas`: tabla principal con 500 registros, claves foraneas y variables comerciales.
+Este caso entrega una sola tabla desnormalizada para que el estudiante identifique datos repetidos y proponga el modelo normalizado.
+
+La base no incluye tablas normalizadas, claves foraneas ni una solucion relacional ya construida.
+
+## Archivo SQLite
+
+- `abarrotes_ventas_inventario.db`
+
+## Tabla disponible
+
+- `ventas_original`: tabla de partida con 500 registros. Mezcla datos de la operacion principal con datos descriptivos de clientes, productos, sedes, categorias u otras entidades del caso.
 
 ## Reto PMD1
-Predecir el monto de venta de abarrotes a partir de la cantidad de unidades vendidas.
+
+1. Explorar la tabla original.
+2. Detectar patrones repetidos y dependencias entre columnas.
+3. Proponer entidades, claves primarias y claves foraneas.
+4. Crear las tablas normalizadas en SQLite.
+5. Insertar los datos desde `ventas_original` hacia las nuevas tablas.
+6. Reconstruir un reporte con `JOIN` para validar que no se perdio informacion.
+7. Limpiar datos con Pandas y preparar un dataset analitico.
 
 Variable objetivo sugerida: `monto_venta_soles`.
 Variable predictora basica sugerida: `cantidad_unidades`.
 
-## Mineria de datos incluida
-El archivo `modelo_mineria_abarrotes.py` arma el dataset analitico con SQL, limpia numeros guardados como texto, entrena una regresion lineal simple y guarda estos resultados en la misma base SQLite:
+## Archivo CSV
 
-- `dataset_abarrotes_limpio`
-- `predicciones_monto_venta`
-- `metricas_modelo_abarrotes`
+La carpeta `csv/` contiene solo la tabla original:
 
-## Suciedad incluida
-- Espacios en blanco al inicio/final.
-- Mayusculas y minusculas inconsistentes.
-- Valores nulos.
-- Fechas con formatos mezclados.
-- Numeros guardados como texto, con coma decimal o simbolo `S/`.
-- Duplicados parciales en la tabla principal.
-- Algunos valores extremos.
-
-## Consulta base para Pandas
-
-```sql
-SELECT
-    f.id_venta,
-    c.nombre AS cliente,
-    c.distrito AS distrito_cliente,
-    c.segmento,
-    p.nombre AS producto,
-    p.categoria,
-    p.proveedor,
-    t.nombre AS tienda,
-    t.distrito AS distrito_tienda,
-    t.zona,
-    t.tipo_local,
-    f.fecha_operacion,
-    f.cantidad_unidades,
-    f.precio_venta_unitario,
-    f.costo_unitario,
-    f.descuento_pct,
-    f.stock_inicial,
-    f.stock_final,
-    f.merma_unidades,
-    f.canal,
-    f.metodo_pago,
-    f.monto_venta_soles,
-    f.margen_venta_soles
-FROM ventas f
-LEFT JOIN clientes c ON f.id_cliente = c.id_cliente
-LEFT JOIN productos p ON f.id_producto = p.id_producto
-LEFT JOIN tiendas t ON f.id_tienda = t.id_tienda;
-```
+- `ventas_original.csv`

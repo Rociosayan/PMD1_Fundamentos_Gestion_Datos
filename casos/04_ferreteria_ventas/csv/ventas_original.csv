@@ -1,0 +1,501 @@
+id_venta,fecha_operacion,cantidad,cantidad_articulos,precio_unitario,descuento_pct,canal,metodo_pago,calificacion,monto_compra,observacion,tiendas_nombre,tiendas_distrito,tiendas_zona,articulos_nombre,articulos_categoria,articulos_precio_unitario,clientes_nombre,clientes_distrito,clientes_segmento,clientes_fecha_registro
+1,2026-04-19,7,7,65.77,5,WhatsApp,Efectivo,4,116.01,Revisar,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,diego rojas,Los Olivos,Nuevo,2025-08-07
+2,2026-04-28,3,13,19.54,0,WhatsApp,Yape,1,"44,94",Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Tubo PVC,Gasfiteria,19.54,Claudia Mendoza,villa el salvador,FrEcUeNtE,2025-03-26
+3,2026-03-05,6,19,13.06,12,Presencial,Transferencia,4,48.11,,TiEnDa 6,Los Olivos,Oeste,Brocha,Herramientas,13.06,Ana Campos,San Miguel,Frecuente,2025-09-04
+4,2026-06-25,4,9,186.75,0,WHATSAPP,Tarjeta,4 aprox,203.99,Promocion,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Marco Reyes,La Molina,,2025-10-16
+5,2026-05-08,6,5,43.57,10,TeLeFoNo,Tarjeta,2,59.43,Promocion,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Luis Flores,San Juan de Lurigancho,Corporativo,2025-11-24
+6,2026-06-22,8,10,43.57,0,Telefono,Efectivo,3,84.04,Cliente frecuente,Tienda 5,Lima,Centro,Cable electrico,Electricidad,43.57,Maria Soto,Los Olivos,Premium,2025-09-22
+7,2026-03-05,6,19,13.06,12,Presencial,Transferencia,4,48.11,,TiEnDa 6,Los Olivos,Oeste,Brocha,Herramientas,13.06,Ana Campos,San Miguel,Frecuente,2025-09-04
+8,2026-03-13,2,5,4.28,20,Telefono,Efectivo,4,"0,5",OK,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,Rocio Cruz,Chorrillos,Premium,2025-09-27
+9,2026-04-09,2,17,13.06,10,App,Efectivo,1,12.8,Revisar,Tienda 1,Miraflores,Oeste,Brocha,Herramientas,13.06,Lucia Campos,Comas,Premium,2025-10-27
+10,2026-03-09,8,5 aprox,10.08,8,App,Transferencia,1,51.97,,Tienda 4,Los Olivos,Este,Foco LED,Electricidad,10.08,,Miraflores,Corporativo, 2025-05-28 
+11,27-05-2026,4,4,186.75,15,WhatsApp,Efectivo,1,182.48 aprox,,Tienda 3,La Molina,EsTe,Taladro,Herramientas,186.75,Maria Soto,Los Olivos,  Frecuente ,2025-07-08
+12,2026/05/01,8,20,32.03,15,App,TRANSFERENCIA,5,63.75,,Tienda 7,San Juan de Lurigancho,Sur,cemento,Materiales,32.03,Lucia Campos,Comas,Premium,2025-10-27
+13,2026-02-02,8,3,43.57,0,TeLeFoNo,Yape,5,84.63,,Tienda 7,San Juan de Lurigancho,Sur,Cable electrico,Electricidad,43.57,Fiorella Rojas,San Miguel,FrEcUeNtE,2025-04-15
+14,2026-04-19,8,4,186.75,8,App,EFECTIVO,3,189.85,Promocion,Tienda 1,Miraflores,Oeste,Taladro,Herramientas,186.75,Luis Gomez,,PrEmIuM,2025-04-13
+15,2026-06-03,1,17,19.54,0,PRESENCIAL,Transferencia,1,42.93,Revisar,Tienda 7,San Juan de Lurigancho,Sur,Tubo PVC,Gasfiteria,19.54,Camila Gomez,CoMaS,Premium,2025-09-01
+16, 2026-06-14 ,3,7,10.08,12,Presencial,Efectivo,5,43.0,Promocion,Tienda 5,Lima,Centro,Foco LED,Electricidad,10.08,Carlos Sayan,San Juan de Lurigancho,Regular,2025-12-02
+17,2026-04-15,6,2,4.28,,,Efectivo,4, 38.46 ,OK,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,Claudia Paredes,Ate,Regular,2025-07-27
+18,2026-02-25,1,11,8.4,15,WeB,Plin,2,26.17,,Tienda 1,Miraflores,Oeste,Clavos,FIJACIONES,8.4,Andre Paredes,,,2025-02-03
+19,2026-03-18,6,11,8.4,8,Presencial,Yape,5,"58,32",Promocion,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Diana Flores,Miraflores,,2025-08-14
+20,2026-01-01,2, 16 ,8.4,5,App,Efectivo, 2 ,16.2,,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Sofia Vargas,Miraflores,Nuevo,
+21,2026-02-05,8,15,10.08,0,Telefono,Transferencia,1,66.55,Promocion,Tienda 5,Lima,Centro,Foco LED,Electricidad,10.08,Jose Navarro,AtE,Corporativo,2025-10-12
+22,2026-04-06,2,19,19.54,5,  App ,Plin,3 aprox,,Revisar,Tienda 5,Lima,Centro,Tubo PVC,Gasfiteria,19.54,Jorge Sayan,Miraflores,Corporativo,2025-05-10
+23,2026-01-03,7 aprox,17 aprox,32.03,8,App,efectivo,2,79.29,CLIENTE FRECUENTE,Tienda 2,Los Olivos,Norte,cemento,Materiales,32.03,Diego Flores,La mOlInA,Nuevo,2025-11-27
+24,2026-01-10,2,16,43.57,8,Web,Transferencia,5,41.02,,Tienda 2,Los Olivos,Norte,Cable electrico,Electricidad,43.57,,Ate,Frecuente,2025-08-23
+25,2026/06/12,4,4,8.4,0,WhatsApp,Transferencia,,10.93,,Tienda 1,Miraflores,Oeste,Clavos,FIJACIONES,8.4,Marco Reyes,La Molina,,2025-10-16
+26,2026-01-23,7,3,S/ 4.28,15,WhatsApp,Efectivo,1,39.22,Revisar,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Camila Mendoza,Ate,Corporativo,2025-08-02
+27,2026-03-20,7,9,19.54,12,Presencial,,3,39.49,,Tienda 7,San Juan de Lurigancho,Sur,Tubo PVC,Gasfiteria,19.54,Lucia Cruz,Miraflores,  Frecuente ,
+28, 2026-06-22 ,6,13,10.08,8,  App ,Transferencia,5,36.79,OK,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,Sofia Campos,Ventanilla,Premium,2025-12-18
+29,2026-06-28,7,9,8.4,0,Telefono,Transferencia,5,33.01,Cliente frecuente,Tienda 3,La Molina,EsTe,Clavos,FIJACIONES,8.4,Diana Rojas,Villa El Salvador,frecuente,2025-05-27
+30,2026-03-27,1,11,186.75,12,Telefono,EFECTIVO, 4 ,199.44,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Taladro,Herramientas,186.75,Miguel Rojas,Lima,regular,08-08-2025
+31,2026-02-01,2,16,S/ 65.77,0,Web,,5,68.36,,Tienda 3,La Molina,EsTe,PINTURA BLANCA,Pinturas,65.77,Diana Flores,Miraflores,,2025-08-14
+32,2026-03-16,8,15 aprox,8.4,0,Telefono,Plin,3,67.49,,Tienda 4,Los Olivos,Este,Clavos,FIJACIONES,8.4,Luis Rojas,Surco,Regular,2025-09-15
+33,2026-04-10,8,16,"10,08",10,Web,Efectivo,4,25.08,,TiEnDa 6,Los Olivos,Oeste,Foco LED,Electricidad,10.08,Fiorella Rojas,San Miguel,FrEcUeNtE,2025-04-15
+34,2026-06-28,7,9,8.4,0,Telefono,Transferencia,5,33.01,Cliente frecuente,Tienda 3,La Molina,EsTe,Clavos,FIJACIONES,8.4,Diana Rojas,Villa El Salvador,frecuente,2025-05-27
+35,2026-04-28, 5 ,2,43.57,12,App,Efectivo,3,37.26,OK,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Claudia Quispe,Miraflores,PrEmIuM,2025-04-17
+36,15/04/2026,,2,"65,77",5,Presencial,Transferencia,4,67.47,,Tienda 2,Los Olivos,Norte,PINTURA BLANCA,Pinturas,65.77,Sofia Cruz,Chorrillos,Frecuente,
+37,2026-06-20,6,3 aprox,8.4,0,App,Yape,2,36.9,  OK ,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Marco Reyes,La Molina,,2025-10-16
+38,2026-06-06,6,4,19.54, 10 ,Telefono,Transferencia,3,58.87,,Tienda 1,Miraflores,Oeste,Tubo PVC,Gasfiteria,19.54,Diana Flores,Miraflores,,2025-08-14
+39,10/01/2026,8,,32.03,20,Web,Transferencia,3,40.21,,Tienda 3,La Molina,EsTe,cemento,Materiales,32.03,Marco Campos,Miraflores,Regular,2025-01-02
+40,2026-03-17,2,13,10.08,15,Telefono,Efectivo,3,26.14,Promocion,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,Luis Rojas,Surco,Regular,2025-09-15
+41,2026-05-14,3,11,8.4,12,WhatsApp,Transferencia,1,28.82,Promocion,Tienda 3,La Molina,EsTe,Clavos,FIJACIONES,8.4,Sofia Vargas,Miraflores,Nuevo,
+42,24-05-2026,7,14,10.08,0,Web,Efectivo,5,53.95,,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,Luis Rojas,Surco,Regular,2025-09-15
+43,2026-05-07,8,14,13.06,15,Web,Yape,5 aprox,56.33,REVISAR,Tienda 3,La Molina,EsTe,Brocha,Herramientas,13.06,Elena Campos,San Juan de Lurigancho,Frecuente,2025-10-13
+44,2026-01-11,2,18,8.4,0,Web,Efectivo,2,41.91,,Tienda 1,Miraflores,Oeste,Clavos,FIJACIONES,8.4,Rocio Campos,Ate,Regular,
+45,2026-03-02,3,8, 186.75 ,20,PrEsEnCiAl,Efectivo,5,185.34,,Tienda 7,San Juan de Lurigancho,Sur,Taladro,Herramientas,186.75,Miguel Rojas,Lima,regular,08-08-2025
+46, 2026-03-20 , 6 ,3,186.75,0,Presencial,Efectivo,4,214.24,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Taladro,Herramientas,186.75,Luis Gomez,,PrEmIuM,2025-04-13
+47,2026-04-28,6,2,10.08,5,Presencial,Tarjeta,3,28.04,Promocion,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,,Miraflores,Corporativo, 2025-05-28 
+48,2026-04-05,6,1,32.03,0,Presencial,YAPE,5,44.61,OK,Tienda 2,Los Olivos,Norte,cemento,Materiales,32.03,Lucia Torres,Chorrillos,Nuevo,2025-07-24
+49,2026-05-11,8,20,8.4,20,Telefono,Yape,3,53.51,,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Pedro Vargas,San Juan de Lurigancho,Regular,2025-10-28
+50,2026-02-28,7,3,4.28,10,Web,Efectivo,5 aprox,43.15,Revisar,Tienda 3,La Molina,EsTe,Lija,ACABADOS,4.28,Sofia Cruz,Chorrillos,Frecuente,
+51,2026-02-10,2,18,19.54,10,Web,Transferencia,5,41.09,Promocion,Tienda 5,Lima,Centro,Tubo PVC,Gasfiteria,19.54,Elena Rojas,Chorrillos,Corporativo,2025-06-11
+52,2026-06-22,8,10,43.57,0,Telefono,Efectivo,3,84.04,Cliente frecuente,Tienda 5,Lima,Centro,Cable electrico,Electricidad,43.57,Maria Soto,Los Olivos,Premium,2025-09-22
+53,2026-05-07,1,9,186.75,8,App,Yape,4,176.97,OK,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Diego Huaman,Comas,Premium,2025-08-12
+54,2026-01-25,5,15,186.75,0,Presencial,Tarjeta,3,195.52,Revisar,Tienda 3,La Molina,EsTe,Taladro,Herramientas,186.75,Elena Rojas,Chorrillos,Corporativo,2025-06-11
+55,2026-04-28,6,2,10.08,5,Presencial,Tarjeta,3,28.04,Promocion,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,,Miraflores,Corporativo, 2025-05-28 
+56,2026-03-24,6,14,8.4,8,WhAtSaPp,Transferencia,2,15.36,Cliente frecuente,Tienda 5,Lima,Centro,Clavos,FIJACIONES,8.4,Claudia Quispe,Miraflores,PrEmIuM,2025-04-17
+57,2026-04-20,3,7,19.54,20,Presencial,Transferencia,3,S/ 64.93,Revisar,Tienda 1,Miraflores,Oeste,Tubo PVC,Gasfiteria,19.54,Rocio Torres,Ate,  Regular ,2025/08/13
+58,2026-05-12,7,7,65.77,5,Presencial,  Tarjeta ,2,89.26,Revisar,Tienda 7,San Juan de Lurigancho,Sur,PINTURA BLANCA,Pinturas,65.77,Diego Huaman,Comas,Premium,2025-08-12
+59,2026-06-03,1,17,186.75,0,App,Yape,1,206.34,Revisar,Tienda 5,Lima,Centro,Taladro,Herramientas,186.75,Elena Castillo,LOS OLIVOS,Regular,2025-10-13
+60,2026-03-01,7,7 aprox,"4,28",,Web,Yape,5,,Revisar,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,,Ate,Frecuente,2025-08-23
+61,2026-02-23, 1 ,20 aprox,13.06,12,TeLeFoNo,transferencia,1,,,Tienda 4,Los Olivos,Este,Brocha,Herramientas,13.06,Rocio Ramos,LOS OLIVOS,Corporativo,2025-01-28
+62,2026-03-14,6,3,43.57,0,Telefono,Transferencia,,60.75,Promocion,Tienda 7,San Juan de Lurigancho,Sur,Cable electrico,Electricidad,43.57,Pedro Reyes,  Callao ,Frecuente,2025-04-26
+63,2026-01-09,4,7,65.77,0,WhatsApp,  Tarjeta ,, 83.77 ,,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Marco Reyes,La Molina,,2025-10-16
+64,2026-06-28,7, 19 ,43.57,12,App,Tarjeta,5,55.91,,Tienda 7,San Juan de Lurigancho,Sur,Cable electrico,Electricidad,43.57,Camila Sayan,Lima,Nuevo,2025/12/04
+65,2026-03-09,5,5,,5,Web,Plin,4,214.44,,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Victor Mendoza,LA MOLINA,Regular,2025-06-08
+66,15/01/2026,8,7,65.77,12,app,Transferencia,5,104.57,OK,Tienda 4,Los Olivos,Este,PINTURA BLANCA,Pinturas,65.77,Diego Flores,  San Miguel ,Nuevo,2025-04-16
+67,2026-06-06,4,16,65.77,0,WhatsApp,Efectivo,3,76.97,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,PINTURA BLANCA,Pinturas,65.77,Sofia Campos,Ventanilla,Premium,2025-12-18
+68,2026-02-26,2,16,S/ 19.54,15,WhatsApp,Yape,5,50.22,,TiEnDa 6,Los Olivos,Oeste,Tubo PVC,Gasfiteria,19.54,Marco Castillo,Chorrillos,nuevo,2025-05-05
+69,2026-04-07,1,12,32.03,20,Presencial,Yape,4,32.16,Revisar,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Camila Sayan,Lima,Nuevo,2025/12/04
+70,2026-05-28,4,13,10.08,,WhatsApp,Efectivo,5,23.41,OK,Tienda 2,Los Olivos,Norte,Foco LED,Electricidad,10.08,Fiorella Rojas,San Miguel,FrEcUeNtE,2025-04-15
+71,2026-05-22,2,11,10.08,8,Presencial,Yape,1,17.82,Cliente frecuente,Tienda 4,Los Olivos,Este,Foco LED,Electricidad,10.08,Claudia Paredes,Ate,Regular,2025-07-27
+72,2026-03-27,,3,8.4,5,Web,Transferencia,4,27.92,Promocion,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Maria Soto,Los Olivos,Premium,2025-09-22
+73,2026-02-01,4,17, 8.4 ,0,Presencial,Plin,2,47.6,,Tienda 5,Lima,Centro,Clavos,FIJACIONES,8.4,Andre Sayan,Ventanilla,Corporativo,2025-10-06
+74,2026-01-19,3,9,32.03,0,App,YAPE, 5 ,58.28,Revisar,Tienda 3,La Molina,EsTe,cemento,Materiales,32.03,Sofia Paredes,Lima,Premium,2025-08-02
+75,2026-04-13,8,6,8.4,12,Web,Transferencia,,25.26,OK,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Sofia Paredes,Lima,Premium,2025-08-02
+76,2026-01-02,4,6,43.57,8,App,Efectivo,2,83.42,,Tienda 3,La Molina,EsTe,Cable electrico,Electricidad,43.57,Marco Reyes,La Molina,,2025-10-16
+77,2026-05-11,3 aprox,8,65.77,12,PRESENCIAL,Efectivo,3,72.08,,Tienda 2,Los Olivos,Norte,PINTURA BLANCA,Pinturas,65.77,Jose Huaman,Lima,frecuente,2025-01-14
+78,2026-02-20,4 aprox,9,8.4 aprox,5,PrEsEnCiAl,Yape,4,"20,18",PROMOCION,Tienda 5,Lima,Centro,Clavos,FIJACIONES,8.4,Fiorella Ramos,San Juan de Lurigancho,Premium,2025-06-21
+79,2026-01-15, 7 ,19,43.57,0,Presencial,Tarjeta,2,,,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Elena Castillo,LOS OLIVOS,Regular,2025-10-13
+80,2026-02-21,2,14,32.03,0,App,Transferencia,5,50.32,OK,Tienda 7,San Juan de Lurigancho,Sur,cemento,Materiales,32.03,luis cruz,MiRaFlOrEs,Nuevo,2025-01-03
+81,2026-05-17,8,5,4.28,10,Telefono,Transferencia,1,23.7 aprox,OK,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,Diego Huaman,Comas,Premium,2025-08-12
+82,2026-06-23,4,3,13.06,0,web,Efectivo,3,17.41,,Tienda 2,Los Olivos,Norte,Brocha,Herramientas,13.06,Lucia Torres,Chorrillos,Nuevo,2025-07-24
+83,2026-02-03,8,9,,10,Presencial,Yape,2,41.47,Revisar,Tienda 3,La Molina,EsTe,Brocha,Herramientas,13.06,Diana Rojas,Villa El Salvador,frecuente,2025-05-27
+84,2026-06-12,6,8,10.08 aprox,12,  Telefono ,Tarjeta,4,33.91,Revisar,Tienda 7,San Juan de Lurigancho,Sur,Foco LED,Electricidad,10.08,Marco Campos,Miraflores,Regular,2025-01-02
+85,2026-05-14,6,19,32.03,12,PrEsEnCiAl,Transferencia,3,68.76,Cliente frecuente,Tienda 4,Los Olivos,Este,cemento,Materiales,32.03,Camila Mendoza,  Ventanilla ,Frecuente,2025-07-24
+86,2026-02-01,4,10,65.77,15,  Presencial ,Efectivo,2,90.18,Promocion,Tienda 4,Los Olivos,Este,PINTURA BLANCA,Pinturas,65.77,Sofia Cruz,Chorrillos,Frecuente,
+87,2026-02-27,8,16,8.4,0,App,Efectivo,5,S/ 176.8,,Tienda 5,Lima,Centro,Clavos,FIJACIONES,8.4,Marco Navarro,San Miguel,Nuevo,2025-09-07
+88,2026-06-06,8,19,S/ 19.54,0,Web,Tarjeta,5,30.66,OK,Tienda 5,Lima,Centro,Tubo PVC,Gasfiteria,19.54,Claudia Gomez,La  Molina,Premium,2025-12-25
+89,2026-05-16,8,5,65.77 aprox,20 aprox,  App ,Plin,2,80.74,,Tienda 7,San Juan de Lurigancho,Sur,PINTURA BLANCA,Pinturas,65.77,Ana Campos,San Miguel,Frecuente,2025-09-04
+90,2026-03-21,1,17,13.06,10,Web,Efectivo,3,33.45,Revisar,Tienda 3,La Molina,EsTe,Brocha,Herramientas,13.06,Sofia Cruz,Chorrillos,Frecuente,
+91,2026-04-07,4,11,13.06,5,WhatsApp,Yape,,54.74,Cliente frecuente,Tienda 2,Los Olivos,Norte,Brocha,Herramientas,13.06,Carlos Sayan,San Juan de Lurigancho,Regular,2025-12-02
+92,2026-03-07,6,,4.28,12,Web,Yape,4,41.02,Promocion,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,Diana Rojas,Villa El Salvador,frecuente,2025-05-27
+93,2026-04-20,8,17,186.75 aprox,8,Web,Efectivo,2,206.72,,Tienda 5,Lima,Centro,Taladro,Herramientas,186.75,,Ate,Frecuente,2025-08-23
+94,2026-04-22,1,13,43.57,0,Presencial,PlIn,4,67.6,Cliente frecuente,Tienda 5,Lima,Centro,Cable electrico,Electricidad,43.57,Rocio Ramos,LOS OLIVOS,Corporativo,2025-01-28
+95,2026-02-15,8,1,13.06,8,Presencial,YaPe,2,59.01,Revisar,Tienda 1,Miraflores,Oeste,Brocha,Herramientas,13.06,Maria Soto,Los Olivos,  Frecuente ,2025-07-08
+96,2026-03-16,7,9,10.08,0,  WhatsApp ,Tarjeta,3,45.9,Promocion,Tienda 2,Los Olivos,Norte,Foco LED,Electricidad,10.08,Lucia Torres,Chorrillos,Nuevo,2025-07-24
+97,2026-02-09,2,10,186.75,8,App,TARJETA,2,190.16,Promocion,Tienda 5,Lima,Centro,Taladro,Herramientas,186.75,Valeria Sayan,Independencia,Frecuente,2025-10-06
+98,2026-04-14,3,,19.54,0,ApP,Yape,3,30.97,Cliente frecuente,Tienda 2,Los Olivos,Norte,Tubo PVC,Gasfiteria,19.54,Marco Reyes,La Molina,,2025-10-16
+99,2026-03-06,1,1,43.57,5,App,yape,4,38.48,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Cable electrico,Electricidad,43.57,Marco Navarro,San Miguel,Nuevo,2025-09-07
+100,2026-02-08,1, 17 ,10.08,0,Web,Transferencia,1,21.58,,Tienda 2,Los Olivos,Norte,Foco LED,Electricidad,10.08,Camila Mendoza,Ate,Corporativo,2025-08-02
+101,2026-05-17,6,4,8.4,12,Telefono,Tarjeta,2,18.88,OK,Tienda 3,La Molina,EsTe,Clavos,FIJACIONES,8.4,Sofia Campos,Ventanilla,Premium,2025-12-18
+102,2026-05-24,4, 16 ,32.03,0,PRESENCIAL,EfEcTiVo,4,30.14 aprox,Promocion,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Jose Navarro,AtE,Corporativo,2025-10-12
+103,2026-01-02,2,2,4.28,8,WhatsApp,Efectivo,3,31.95,Cliente frecuente,Tienda 5,Lima,Centro,Lija,ACABADOS,4.28,,Ate,Frecuente,2025-08-23
+104,2026-05-09,,4,10.08,8,  WhatsApp ,,3,37.27,,Tienda 4,Los Olivos,Este,Foco LED,Electricidad,10.08,Rocio Rojas,Ate,Frecuente,2025-11-15
+105,2026-05-24,5,19,S/ 186.75,10,App,,3,190.81,Revisar,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Valeria Reyes,Lima,Corporativo,2025-11-06
+106,2026-02-15,3,5,65.77,0,Telefono,Efectivo,1,81.44,,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Jorge Sayan,Miraflores,Corporativo,2025-05-10
+107,2026-06-14, 5 ,11,10.08,0,WhatsApp,Transferencia,1,47.79,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Foco LED,Electricidad,10.08,Carlos Sayan,San Juan de Lurigancho,Regular,2025-12-02
+108,2026-01-14,,5,32.03,8,App,Plin,3,36.62,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,cemento,Materiales,32.03,Ana Campos,San Miguel,Frecuente,2025-09-04
+109,2026-04-08,4,18 aprox,32.03,0,Presencial,Transferencia,2,138.75,,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Sofia Cruz,Chorrillos,Frecuente,
+110,27/03/2026,4,6,13.06,8,WhatsApp,Transferencia,1,31.36,,Tienda 5,Lima,Centro,Brocha,Herramientas,13.06,Sofia Paredes,Lima,Premium,2025-08-02
+111,2026-04-02,2,56.44,8.4,,Telefono,Yape,2,62.07,Revisar,Tienda 5,Lima,Centro,Clavos,FIJACIONES,8.4,Camila Sayan,Lima,Nuevo,2025/12/04
+112,2026-06-24,1,4,43.57,5,App,Tarjeta,5,49.9,,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Jose Sayan,Los Olivos,Regular,2025-03-09
+113,2026-04-07, 7 ,7,43.57,20,,Efectivo,5,74.91,PROMOCION,Tienda 4,Los Olivos,Este,Cable electrico,Electricidad,43.57,Ana Vargas,Villa El Salvador,Premium,2025-09-04
+114,2026-05-04,8,5,13.06,10,Presencial,Plin,1,40.22,Cliente frecuente,Tienda 4,Los Olivos,Este,Brocha,Herramientas,13.06,Carlos Sayan,San Juan de Lurigancho,Regular,2025-12-02
+115,2026-02-26,2,16,S/ 19.54,15,WhatsApp,Yape,5,50.22,,TiEnDa 6,Los Olivos,Oeste,Tubo PVC,Gasfiteria,19.54,Marco Castillo,Chorrillos,nuevo,2025-05-05
+116,2026-05-11,5,2,43.57,15,WhatsApp,yape,3,74.99,,TiEnDa 6,Los Olivos,Oeste,Cable electrico,Electricidad,43.57,Sofia Paredes,Lima,Premium,2025-08-02
+117,2026-01-12,7,,19.54,8,Presencial,Tarjeta,2,74.33,OK,Tienda 1,Miraflores,Oeste,Tubo PVC,Gasfiteria,19.54,Andre Paredes,,,2025-02-03
+118,2026-03-18,1,14,8.4,15,Presencial,Efectivo,1,34.96,,Tienda 1,Miraflores,Oeste,Clavos,FIJACIONES,8.4,Lucia Campos,Comas,Premium,2025-10-27
+119,2026-02-08,8,4, 43.57 ,5,APP,Efectivo,2,70.02,OK,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Claudia Paredes,MiRaFlOrEs,Frecuente,2025-07-28
+120,2026-05-23,4,9,13.06,0,presencial,,1,30.13,,Tienda 1,Miraflores,Oeste,Brocha,Herramientas,13.06,Valeria Reyes,Lima,Corporativo,2025-11-06
+121,2026-06-28, 7 ,1,13.06,12,Telefono,yape,4,23.95,,TiEnDa 6,Los Olivos,Oeste,Brocha,Herramientas,13.06,Camila Sayan,Lima,Nuevo,2025/12/04
+122,,3,10,65.77,0,Telefono,Transferencia,3,108.16,OK,Tienda 4,Los Olivos,Este,PINTURA BLANCA,Pinturas,65.77,Jose Sayan,Los Olivos,Regular,2025-03-09
+123,2026-04-28,3,,186.75,8,Web,Plin,2,193.85,,TiEnDa 6,Los Olivos,Oeste,Taladro,Herramientas,186.75,,Miraflores,Corporativo, 2025-05-28 
+124,2026-02-28,8,14,13.06,0,WhatsApp,Transferencia, 2 ,57.85,Revisar,TiEnDa 6,Los Olivos,Oeste,Brocha,Herramientas,13.06,Lucia Campos,Comas,Premium,2025-10-27
+125,2026-06-26,1,3,,8,  Telefono ,Yape,4,0.5,Cliente  frecuente,Tienda 5,Lima,Centro,Lija,ACABADOS,4.28,Diego Flores,La mOlInA,Nuevo,2025-11-27
+126,2026-05-22, 2 ,9,186.75 aprox,,Telefono,Efectivo,1,180.94,OK,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Marco Paredes,,Regular,2025-08-08
+127,2026-05-27,3,6 aprox,4.28,10,Presencial,,3,18.31,,Tienda 3,La Molina,EsTe,Lija,ACABADOS,4.28,Diana Flores,Miraflores,,2025-08-14
+128,2026-04-19,7,,65.77,8,Presencial,Efectivo,5,102.37,Revisar,Tienda 4,Los Olivos,Este,PINTURA BLANCA,Pinturas,65.77,Victor Soto,Los Olivos,Nuevo,2025-05-04
+129,2026-03-10,2,10,65.77,20 aprox,Web,YAPE,5,39.93,Cliente frecuente,Tienda 4,Los Olivos,Este,PINTURA BLANCA,Pinturas,65.77,Camila Sayan,Villa El Salvador,  Corporativo ,2025-07-09
+130,2026-06-22,4,3,65.77, 5 ,WhatsApp,Transferencia,4,85.36,Promocion,Tienda 2,Los Olivos,Norte,PINTURA BLANCA,Pinturas,65.77,Rocio Campos,Ate,Regular,
+131,2026-04-07,4,11,13.06,5,WhatsApp,Yape,,54.74,Cliente frecuente,Tienda 2,Los Olivos,Norte,Brocha,Herramientas,13.06,Carlos Sayan,San Juan de Lurigancho,Regular,2025-12-02
+132,2026-02-21,7,4,10.08,15,WhatsApp,Tarjeta,1,32.72,Promocion,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,Maria Navarro,La Molina,Premium,2025-12-07
+133,2026-06-23,2,,10.08,0,WeB,Efectivo,1,11.1,Promocion,TiEnDa 6,Los Olivos,Oeste,Foco LED,Electricidad,10.08,Fiorella Mendoza,Miraflores,Premium,2025-02-09
+134,2026-02-19,3,11,10.08,0,Presencial,Efectivo,3,34.15,,Tienda 3,La Molina,EsTe,Foco LED,Electricidad,10.08,Elena Campos,San Juan de Lurigancho,Frecuente,2025-10-13
+135,2026-06-08,7, 8 ,43.57 aprox,5,TeLeFoNo,Transferencia,3,110.29,Promocion,TiEnDa 6,Los Olivos,Oeste,Cable electrico,Electricidad,43.57,Diego Flores,  San Miguel ,Nuevo,2025-04-16
+136,2026-04-03,5,5,65.77,0,Presencial,Yape,2,90.04 aprox,OK,Tienda 3,La Molina,EsTe,PINTURA BLANCA,Pinturas,65.77,Jose Huaman,Lima,frecuente,2025-01-14
+137,,5 aprox,13,186.75,0,Presencial,TRANSFERENCIA,1,162.96,Revisar,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Rocio Campos,Ate,Regular,
+138,2026-01-21,1,14,4.28,0,WhatsApp,Efectivo,5,53.12,OK,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,Elena Castillo,LOS OLIVOS,Regular,2025-10-13
+139,,1,5,10.08,10,WhatsApp,Plin,1,29.97,,Tienda 5,Lima,Centro,Foco LED,Electricidad,10.08,Diego Ramos,Comas,Regular,2025-09-27
+140,2026-03-10,5,18,186.75,0,App,Yape,,218.92,OK,Tienda 2,Los Olivos,Norte,Taladro,Herramientas,186.75,Diego Flores,La mOlInA,Nuevo,2025-11-27
+141,2026-04-26,6,19,65.77 aprox,5,Web,Yape,5,111.8,Ok,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Maria Cruz,chorrillos,Frecuente,2025/09/22
+142,2026-03-13,5,16,8.4,12,Web,Yape,1,21.43,Promocion,Tienda 3,La Molina,EsTe,Clavos,FIJACIONES,8.4,Lucia Torres,Chorrillos,Nuevo,2025-07-24
+143,2026-06-07,2,19,13.06,12,WhatsApp,Plin,2, 38.05 ,revisar,Tienda 5,Lima,Centro,Brocha,Herramientas,13.06,Claudia Paredes,Ate,Regular,2025-07-27
+144, 2026-01-08 ,1,3,186.75,8,Presencial,tarjeta,3,179.79,,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Lucia Campos,Comas,Premium,2025-10-27
+145,2026-01-24,6,15,186.75,,Telefono,Yape,1,185.79,OK,Tienda 5,Lima,Centro,Taladro,Herramientas,186.75,luis cruz,MiRaFlOrEs,Nuevo,2025-01-03
+146,2026-06-23,4,1,"13,06",0,App,Tarjeta,1,22.33,Cliente frecuente,Tienda 5,Lima,Centro,Brocha,Herramientas,13.06,Maria Soto,Los Olivos,  Frecuente ,2025-07-08
+147,2026-02-15,7,17,19.54,12 aprox,TELEFONO,Efectivo,1,49.52,Promocion,Tienda 1,Miraflores,Oeste,Tubo PVC,Gasfiteria,19.54,Elena Vargas,San Juan de Lurigancho,Corporativo, 2025-10-01 
+148,2026-02-02,5,8,4.28,0 aprox,Telefono,Tarjeta,4,49.55 aprox,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Lija,ACABADOS,4.28,Fiorella Ramos,San Juan de Lurigancho,Premium,2025-06-21
+149,2026-06-14,5,6,4.28,0,  WhatsApp ,Yape,5,48.49,OK,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,Sofia Cruz,Chorrillos,Frecuente,
+150,2026-01-14,4,12,43.57,8,WhatsApp,Yape,3,96.53,PROMOCION,Tienda 4,Los Olivos,Este,Cable electrico,Electricidad,43.57,Sofia Vargas,Miraflores,Nuevo,
+151,2026/05/17,8,9,4.28,20,Web,Efectivo,3,52.71,OK,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,Fiorella Gomez,Chorrillos,Premium,2025-08-27
+152,2026-01-28,2,11,"4,28",5,Web,Plin,4,37.84,Revisar,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Valeria Sayan,Independencia,Frecuente,2025-10-06
+153,2026-04-25,1,2,186.75,10,Web,EFECTIVO,5,186.51,promocion,Tienda 7,San Juan de Lurigancho,Sur,Taladro,Herramientas,186.75,Elena Campos,San Juan de Lurigancho,Frecuente,2025-10-13
+154,2026-01-11,3,12 aprox,8.4,5,WhatsApp,Transferencia,2,44.06,,Tienda 4,Los Olivos,Este,Clavos,FIJACIONES,8.4,Diego Ramos,Comas,Regular,2025-09-27
+155, 2026-04-25 ,6,11,19.54,15,WHATSAPP,Efectivo,4,15.05,Promocion,Tienda 4,Los Olivos,Este,Tubo PVC,Gasfiteria,19.54,Jorge Flores,Chorrillos,Regular,25-10-2025
+156,2026-04-28, 2 ,1, 186.75 ,0,WhatsApp,Tarjeta,3,202.12,Revisar,Tienda 7,San Juan de Lurigancho,Sur,Taladro,Herramientas,186.75,Lucia Campos,Comas,Premium,2025-10-27
+157,2026-03-21,5,11,186.75,12 aprox,WhatsApp,Yape,1,168.84,,Tienda 7,San Juan de Lurigancho,Sur,Taladro,Herramientas,186.75,Valeria Cruz,Lima,Corporativo,2025-04-07
+158,2026-05-27,4,18,13.06,0,Presencial,Transferencia,5,35.47,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Brocha,Herramientas,13.06,Luis Castillo,Surco,regular,2025-11-22
+159,2026-04-19,1,27.71,19.54,0,  App ,Plin,5,53.16,Revisar,Tienda 7,San Juan de Lurigancho,Sur,Tubo PVC,Gasfiteria,19.54,Victor Mendoza,LA MOLINA,Regular,2025-06-08
+160,2026-05-09,4,19,32.03,20,Web,Efectivo,2,60.97,OK,Tienda 7,San Juan de Lurigancho,Sur,cemento,Materiales,32.03,Ana Campos,San Miguel,Frecuente,2025-09-04
+161,24-05-2026,1,20,4.28,10,WhatsApp,Transferencia,3,2.63,OK,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Victor Mendoza,LA MOLINA,Regular,2025-06-08
+162,2026-06-28,1,3,32.03,0,Telefono,,2,9.49,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,cemento,Materiales,32.03,Valeria Cruz,Lima,Corporativo,2025-04-07
+163,2026-04-24,7,9,4.28, 0 ,Presencial,Efectivo,3,27.39,,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,Sofia Salazar,Independencia,Corporativo,2025-07-25
+164,2026-05-26,4,7,43.57,0,App,Transferencia,3,54.16,,Tienda 5,Lima,Centro,Cable electrico,Electricidad,43.57,Ana Rojas,Callao,Corporativo,2025-10-10
+165,2026-03-04,6,12,43.57,0,,Plin,4,38.41,Cliente frecuente,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Luis Flores,San Juan de Lurigancho,Corporativo,2025-11-24
+166,2026-02-04,5,9,4.28,20,Web,TaRjEtA,1,18.48,Revisar,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,Diana Rojas,Villa El Salvador,frecuente,2025-05-27
+167,2026-01-19,7,7,19.54,8,App,Efectivo,2,54.51,Revisar,Tienda 5,Lima,Centro,Tubo PVC,Gasfiteria,19.54,Camila Sayan,Villa El Salvador,  Corporativo ,2025-07-09
+168,2026-03-04,1, 8 ,19.54,20,Web,Tarjeta,5,39.63,,Tienda 5,Lima,Centro,Tubo PVC,Gasfiteria,19.54,Ana Rojas,Callao,Corporativo,2025-10-10
+169,,4,7,32.03,12,Web,Yape,2,55.79,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,cemento,Materiales,32.03,Andre Paredes,,,2025-02-03
+170,2026-02-20,8,11,"186,75",10,App,Yape,5,199.53,Revisar,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Lucia Campos,Comas,Premium,2025-10-27
+171,2026/01/20,8,19,19.54,8,App,Efectivo, 1 ,59.18,Cliente frecuente,Tienda 4,Los Olivos,Este,Tubo PVC,Gasfiteria,19.54,Valeria Sayan,Independencia,Frecuente,2025-10-06
+172,2026-06-24,3,6,4.28,12,App,Plin,3,37.01,cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,SOFIA SALAZAR,comas,Regular,2025-08-05
+173,2026-01-04,5,15,4.28,0 aprox,Telefono,Plin,2,"23,36",Revisar,Tienda 7,San Juan de Lurigancho,Sur,Lija,ACABADOS,4.28,luis cruz,MiRaFlOrEs,Nuevo,2025-01-03
+174,2026-05-23,2,10,10.08,10,Presencial,Efectivo,2,50.17 aprox,,TiEnDa 6,Los Olivos,Oeste,Foco LED,Electricidad,10.08,,Ventanilla,Premium,2025-03-03
+175,2026-01-04,1, 14 ,43.57,12,App,,5,43.2,,Tienda 5,Lima,Centro,Cable electrico,Electricidad,43.57,,Miraflores,Corporativo, 2025-05-28 
+176,2026-03-05,8,1,10.08 aprox,5,App,Yape,5,23.68,Promocion,Tienda 7,San Juan de Lurigancho,Sur,Foco LED,Electricidad,10.08,Sofia Paredes,Lima,Premium,2025-08-02
+177,2026-04-12,3,20,19.54,0,Web,Efectivo,3, 39.91 ,,Tienda 5,Lima,Centro,Tubo PVC,Gasfiteria,19.54,Luis Rojas,Surco,Regular,2025-09-15
+178,2026-02-16,8,1,4.28,12,WhatsApp,Plin,2,54.98,Cliente frecuente,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Claudia Paredes,Ate,Regular,2025-07-27
+179,2026-05-15,1,4,186.75,0,Presencial,Plin,5,167.36,OK,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,,Ventanilla,Premium,2025-03-03
+180,2026-01-14,7,45.53,32.03,12,App,Efectivo,1,109.61,Promocion,Tienda 3,La Molina,EsTe,cemento,Materiales,32.03,Marco Mendoza,,Nuevo,2025-08-18
+181,2026-06-06,5 aprox,8,13.06,12,WhatsApp,Yape,5,14.23,Promocion,Tienda 2,Los Olivos,Norte,Brocha,Herramientas,13.06,Luis Rojas,Surco,Regular,2025-09-15
+182,2026-02-11, 4 ,16,10.08,0,Telefono,Tarjeta, 3 , 29.59 ,OK,Tienda 7,San Juan de Lurigancho,Sur,Foco LED,Electricidad,10.08,Ana Vargas,Villa El Salvador,Premium,2025-09-04
+183,2026-05-11,5,11,19.54,15,App,Yape,3,32.74,,Tienda 5,Lima,Centro,Tubo PVC,Gasfiteria,19.54,Valeria Cruz,Lima,Corporativo,2025-04-07
+184,2026-02-18,4,6,43.57,5,App,Yape,1,69.94,Cliente frecuente,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Rocio Cruz,Chorrillos,Premium,2025-09-27
+185,2026-03-03,2,14,8.4,10,Presencial,Efectivo,3,8.57,Revisar,Tienda 3,La Molina,EsTe,Clavos,FIJACIONES,8.4,Andre Reyes,SaN JuAn dE LuRiGaNcHo,Regular,2025-09-03
+186,2026-04-07,7,3,4.28,0,Presencial,Plin,5,44.87,Revisar,Tienda 2,Los Olivos,Norte,Lija,ACABADOS,4.28,Claudia Gomez,La  Molina,Premium,2025-12-25
+187,2026-05-24,7,13,43.57,0,WhatsApp,PLIN,4,57.93,,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Jose Navarro,AtE,Corporativo,2025-10-12
+188, 2026-04-27 , 5 ,13,19.54,5,Telefono,Efectivo,5,54.71,REVISAR,Tienda 2,Los Olivos,Norte,Tubo PVC,Gasfiteria,19.54,Fiorella Ramos,San Juan de Lurigancho,Premium,2025-06-21
+189,2026-04-12,7,16,32.03,5,Telefono,Plin,4,64.88,Promocion,Tienda 1,Miraflores,Oeste,cemento,Materiales,32.03,Valeria Cruz,Lima,Corporativo,2025-04-07
+190,2026-05-26,4,7,4.28,0,WeB,Plin,3,8.89,,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,Camila Sayan,Lima,Nuevo,2025/12/04
+191,13/04/2026,8,9,186.75,15,Presencial,Yape,4,215.49 aprox,Promocion,Tienda 3,La Molina,EsTe,Taladro,Herramientas,186.75,Sofia Cruz,Chorrillos,Frecuente,
+192,26-01-2026,6,11,43.57,12,telefono,Tarjeta,5,77.31,OK,Tienda 3,La Molina,EsTe,Cable electrico,Electricidad,43.57,Marco Paredes,,Regular,2025-08-08
+193,2026-03-01,5,16,13.06,15,Web,,2,37.45,OK,Tienda 4,Los Olivos,Este,Brocha,Herramientas,13.06,Ana Vargas,Villa El Salvador,Premium,2025-09-04
+194,2026-01-04,8,14,4.28,0,WhatsApp,TRANSFERENCIA,5,60.39,ReViSaR,Tienda 2,Los Olivos,Norte,Lija,ACABADOS,4.28,Maria Cruz,chorrillos,Frecuente,2025/09/22
+195,2026-05-26,2,2,S/ 10.08,8,Telefono,Plin,4,87.96,Revisar,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,,Comas,Premium,2025-05-08
+196,2026-02-10,6,12,19.54,0,Telefono,Efectivo,3,55.76,Promocion,TiEnDa 6,Los Olivos,Oeste,Tubo PVC,Gasfiteria,19.54,Valeria Sayan,Independencia,Frecuente,2025-10-06
+197,2026-04-13,2, 6 ,32.03,8,Presencial,Tarjeta,5,28.11,OK,TiEnDa 6,Los Olivos,Oeste,cemento,Materiales,32.03,Marco Paredes,,Regular,2025-08-08
+198,2026-02-14,,12,65.77,12,Presencial,TRANSFERENCIA,2,120.99,Revisar,TiEnDa 6,Los Olivos,Oeste,PINTURA BLANCA,Pinturas,65.77,Luis Castillo,Surco,regular,2025-11-22
+199,2026-05-06,1,14,43.57,0,Presencial,,4,"41,28",OK,Tienda 3,La Molina,EsTe,Cable electrico,Electricidad,43.57,,Ventanilla,Premium,2025-03-03
+200,2026-05-28,7,12,186.75,0,Presencial,Tarjeta,5,208.91,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Taladro,Herramientas,186.75,Andre Sayan,Ventanilla,Corporativo,2025-10-06
+201,2026-06-10,5,11,8.4,12,App,Tarjeta,1,18.98,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Diana Flores,Miraflores,,2025-08-14
+202,2026-05-26,1,10,186.75,5,Telefono,Yape,5,185.27,,Tienda 1,Miraflores,Oeste,Taladro,Herramientas,186.75,diego rojas,Los Olivos,Nuevo,2025-08-07
+203,2026-05-28,7,12,186.75,0,Presencial,Tarjeta,5,208.91,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Taladro,Herramientas,186.75,Andre Sayan,Ventanilla,Corporativo,2025-10-06
+204,2026-03-20,4,18,43.57,12,Web,Transferencia,1,58.81,Promocion,TiEnDa 6,Los Olivos,Oeste,Cable electrico,Electricidad,43.57,Rocio Torres,Ate,  Regular ,2025/08/13
+205,2026-02-24,4,15,32.03,0,Presencial,Efectivo,5,37.46,OK,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Jose Huaman,Lima,frecuente,2025-01-14
+206,2026-03-02,8, 9 ,8.4,0,  Telefono ,Plin,3,28.75,Promocion,Tienda 5,Lima,Centro,Clavos,FIJACIONES,8.4,Rocio Torres,Ate,  Regular ,2025/08/13
+207,2026-05-22, 3 , 3 ,65.77,10,App,,4,66.05,OK,Tienda 2,Los Olivos,Norte,PINTURA BLANCA,Pinturas,65.77,luis cruz,MiRaFlOrEs,Nuevo,2025-01-03
+208,10-05-2026,4,4,4.28,12,Telefono,Plin,1,9.42,Promocion,Tienda 7,San Juan de Lurigancho,Sur,Lija,ACABADOS,4.28,Rocio Cruz,Chorrillos,Premium,2025-09-27
+209,04-03-2026,5,12,10.08,8,telefono,TRANSFERENCIA,1,40.38 aprox,Revisar,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,Andre Paredes,,,2025-02-03
+210,2026-01-23,6,6,43.57, 0 ,App,plin,4,72.03,Revisar,TiEnDa 6,Los Olivos,Oeste,Cable electrico,Electricidad,43.57,Jorge Flores,Chorrillos,Regular,25-10-2025
+211,2026-02-20,2,14,10.08,12,WhatsApp,Tarjeta,2,34.17,Promocion,TiEnDa 6,Los Olivos,Oeste,Foco LED,Electricidad,10.08,Ana Campos,San Miguel,Frecuente,2025-09-04
+212, 2026-03-05 ,8,9, 186.75 ,0,Presencial,Yape,1,233.18,OK,Tienda 3,La Molina,EsTe,Taladro,Herramientas,186.75,Claudia Paredes,San Juan de Lurigancho,Corporativo,2025-12-17
+213,24/05/2026,4,8,186.75,0,Web,Efectivo,4,204.69,Revisar,Tienda 3,La Molina,EsTe,Taladro,Herramientas,186.75,Rocio Flores,LiMa,Nuevo,2025/03/01
+214,2026-06-27,6,16,, 10 ,Web,Efectivo,2,30.28,Revisar,Tienda 3,La Molina,EsTe,Tubo PVC,Gasfiteria,19.54,Marco Mendoza,,Nuevo,2025-08-18
+215,2026-03-09,3,9,4.28,8,WhatsApp,Transferencia,5,37.0,,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,Diego Flores,La mOlInA,Nuevo,2025-11-27
+216,2026-06-09,7,18,S/ 10.08,20,Web,Transferencia, 1 ,37.86,Revisar,Tienda 7,San Juan de Lurigancho,Sur,Foco LED,Electricidad,10.08,Jose Navarro,AtE,Corporativo,2025-10-12
+217,2026-05-01,8,8,,12,,,3,96.31,Revisar,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Sofia Salazar,Independencia,Corporativo,2025-07-25
+218,12/03/2026,6,14,4.28,0,App,Efectivo,2,56.83 aprox,Cliente frecuente,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,Rocio Cruz,Chorrillos,Premium,2025-09-27
+219,2026-03-08,6,13,4.28,0,Telefono,Efectivo,1,15.54,Promocion,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Luis Flores,San Juan de Lurigancho,Corporativo,2025-11-24
+220,2026-01-05,2,9,10.08,0,WhatsApp,,4,53.36,CLIENTE FRECUENTE,Tienda 7,San Juan de Lurigancho,Sur,Foco LED,Electricidad,10.08,Fiorella Ramos,San Juan de Lurigancho,Premium,2025-06-21
+221,,3,17,10.08,20,WhatsApp,Tarjeta,5,37.21,Promocion,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,Rocio Cruz,Chorrillos,Premium,2025-09-27
+222,2026-04-20,4,16,13.06,0,Web,Efectivo,4,37.17,Promocion,Tienda 4,Los Olivos,Este,Brocha,Herramientas,13.06,Claudia Paredes,MiRaFlOrEs,Frecuente,2025-07-28
+223,09-02-2026,6,13,4.28,0,  Telefono ,Efectivo,1,48.84,Revisar,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,diego rojas,Los Olivos,Nuevo,2025-08-07
+224,2026-05-04,2,19, 4.28 ,12,App,Yape,5,26.21,Revisar,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,,Ventanilla,Premium,2025-03-03
+225,2026-06-08,7, 8 ,43.57 aprox,5,TeLeFoNo,Transferencia,3,110.29,Promocion,TiEnDa 6,Los Olivos,Oeste,Cable electrico,Electricidad,43.57,Diego Flores,  San Miguel ,Nuevo,2025-04-16
+226,2026-02-05,5,18,65.77,20,Telefono,Tarjeta,4,59.46,Promocion,Tienda 5,Lima,Centro,PINTURA BLANCA,Pinturas,65.77,Fiorella Campos,Villa El Salvador,Nuevo,2025-03-15
+227,2026-06-13,8, 9 ,13.06,12,  Telefono ,Yape,1,57.67,Cliente frecuente,Tienda 3,La Molina,EsTe,Brocha,Herramientas,13.06,Fiorella Mendoza,Miraflores,Premium,2025-02-09
+228,2026-04-12,2,4,32.03,0,Presencial,plin,2,"50,35",Cliente frecuente,Tienda 4,Los Olivos,Este,cemento,Materiales,32.03,Luis Flores,La Molina,REGULAR,2025-02-01
+229,2026-01-18,8,18,32.03,12,Web,Plin,3,103.11,Revisar,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Andre Reyes,SaN JuAn dE LuRiGaNcHo,Regular,2025-09-03
+230,2026-04-17,2,10 aprox,186.75,20 aprox,App,Yape,2, 195.66 ,Revisar,Tienda 2,Los Olivos,Norte,Taladro,Herramientas,186.75,Diana Flores,Miraflores,,2025-08-14
+231,2026-03-10,1,9,8.4,20,Presencial,Tarjeta,3,0.5,Cliente  frecuente,TiEnDa 6,Los Olivos,Oeste,Clavos,FIJACIONES,8.4,Victor Mendoza,LA MOLINA,Regular,2025-06-08
+232,2026-05-25,5,11,65.77,20,Web,TARJETA,5,82.91,Cliente frecuente,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Sofia Paredes,Lima,Premium,2025-08-02
+233,2026-05-11,7,10,43.57,0,Presencial,Plin,2,59.93,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Cable electrico,Electricidad,43.57,Ana Rojas,Callao,Corporativo,2025-10-10
+234,2026-03-16,8,,186.75,12,App,Efectivo, 4 ,213.42,OK,Tienda 1,Miraflores,Oeste,Taladro,Herramientas,186.75,Sofia Cruz,Chorrillos,Frecuente,
+235,2026-06-23,2, 13 ,43.57,12,Telefono,Yape,1,69.44,OK,Tienda 2,Los Olivos,Norte,Cable electrico,Electricidad,43.57,Rocio Rojas,Ate,Frecuente,2025-11-15
+236,2026-05-19,1,2,8.4,0,Web,Transferencia,3,9.62,,Tienda 4,Los Olivos,Este,Clavos,FIJACIONES,8.4,Diego Flores,La mOlInA,Nuevo,2025-11-27
+237,2026-05-16,4,6,10.08,12 aprox,WhatsApp,Transferencia,3,28.38,Cliente frecuente,Tienda 4,Los Olivos,Este,Foco LED,Electricidad,10.08,Claudia Paredes,San Juan de Lurigancho,Corporativo,2025-12-17
+238,09/05/2026,4,15,19.54,8,App,Efectivo,3,57.73,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Tubo PVC,Gasfiteria,19.54,Elena Campos,San Juan de Lurigancho,Frecuente,2025-10-13
+239,2026-01-13,6,14,,0,Presencial,Tarjeta,5,55.29 aprox,OK,Tienda 5,Lima,Centro,cemento,Materiales,32.03,,Miraflores,Corporativo, 2025-05-28 
+240,2026-03-15,7,1,65.77,0,WHATSAPP,Efectivo,2,84.84 aprox,,TiEnDa 6,Los Olivos,Oeste,PINTURA BLANCA,Pinturas,65.77,Elena Castillo,LOS OLIVOS,Regular,2025-10-13
+241,2026/05/18,1,20,,12,Telefono,  Efectivo ,1,29.5,OK,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Jose Sayan,Los Olivos,Regular,2025-03-09
+242,2026-05-20,7,51.87,43.57,20,WhatsApp,Transferencia,4,71.73,Revisar,Tienda 2,Los Olivos,Norte,Cable electrico,Electricidad,43.57,Maria Navarro,La Molina,Premium,2025-12-07
+243,2026-06-21,6,3,8.4,8,Web,Plin,1,24.13,,Tienda 4,Los Olivos,Este,Clavos,FIJACIONES,8.4,Diego Flores,La mOlInA,Nuevo,2025-11-27
+244, 2026-05-11 ,8,20,43.57,20,WhatsApp,Efectivo,5,106.36,Revisar,Tienda 5,Lima,Centro,Cable electrico,Electricidad,43.57,Luis Flores,San Juan de Lurigancho,Corporativo,2025-11-24
+245,27/04/2026,6,16,186.75,15,Presencial,Yape,,195.72,Promocion,Tienda 7,San Juan de Lurigancho,Sur,Taladro,Herramientas,186.75,Lucia Cruz,Miraflores,  Frecuente ,
+246,2026-04-23,4,18,10.08,20,Web,Transferencia,2,18.88,,Tienda 2,Los Olivos,Norte,Foco LED,Electricidad,10.08,Rocio Ramos,LOS OLIVOS,Corporativo,2025-01-28
+247,2026-01-09,4,7,65.77,0,WhatsApp,  Tarjeta ,, 83.77 ,,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Marco Reyes,La Molina,,2025-10-16
+248,2026-05-23,3,12,186.75,0,App,Tarjeta,2,174.5,,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,SOFIA SALAZAR,comas,Regular,2025-08-05
+249,2026-01-04,4,2,43.57,0,Presencial,Transferencia,3,30.31,Revisar,Tienda 2,Los Olivos,Norte,Cable electrico,Electricidad,43.57,Elena Campos,San Juan de Lurigancho,Frecuente,2025-10-13
+250,2026-02-02,2,3,32.03,10 aprox,Presencial,,4,37.44,,Tienda 1,Miraflores,Oeste,cemento,Materiales,32.03,Jorge Sayan,Miraflores,Corporativo,2025-05-10
+251,2026-02-01,4,10,43.57,20,Telefono,PlIn,5,46.99,Revisar,Tienda 4,Los Olivos,Este,Cable electrico,Electricidad,43.57,Marco Mendoza,,Nuevo,2025-08-18
+252,2026-04-03,8,2,19.54,10,WhatsApp,Tarjeta,1,61.09,  Revisar ,Tienda 3,La Molina,EsTe,Tubo PVC,Gasfiteria,19.54,Andre Reyes,SaN JuAn dE LuRiGaNcHo,Regular,2025-09-03
+253,2026-04-21,4,4,32.03,15,WEB,Tarjeta,2,S/ 44.39,,Tienda 4,Los Olivos,Este,cemento,Materiales,32.03,Rocio Ramos,LOS OLIVOS,Corporativo,2025-01-28
+254,2026-06-03,6,4,43.57,10,presencial,Efectivo,2,55.77,,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Rocio Rojas,Ate,Frecuente,2025-11-15
+255,2026-06-08, 3 ,,19.54,15 aprox,Web,Transferencia,2,35.61,Promocion,Tienda 7,San Juan de Lurigancho,Sur,Tubo PVC,Gasfiteria,19.54,Jorge Vargas,lima,Corporativo,2025-08-18
+256,2026/06/18,4,6,32.03,0,Telefono,Efectivo,3,63.29,,Tienda 3,La Molina,EsTe,cemento,Materiales,32.03,Claudia Gomez,La  Molina,Premium,2025-12-25
+257,2026-02-13, 8 ,6,8.4, 12 ,Telefono,Yape,3,31.29,Cliente frecuente,Tienda 2,Los Olivos,Norte,Clavos,FIJACIONES,8.4,diego rojas,Los Olivos,Nuevo,2025-08-07
+258,2026-05-03,8,11,S/ 8.4,20,App,Efectivo,5,39.22,Cliente frecuente,Tienda 2,Los Olivos,Norte,Clavos,FIJACIONES,8.4,Victor Mendoza,LA MOLINA,Regular,2025-06-08
+259,2026-04-26,4,18,10.08,15,App,Yape,3,40.55,Cliente frecuente,Tienda 2,Los Olivos,Norte,Foco LED,Electricidad,10.08,Diana Rojas,Villa El Salvador,frecuente,2025-05-27
+260,2026-05-10,4,,32.03,10,Web,Efectivo,4 aprox,74.8,Revisar,Tienda 3,La Molina,EsTe,cemento,Materiales,32.03,Valeria Sayan,Independencia,Frecuente,2025-10-06
+261,2026-06-03,7,12,4.28,10,WhatsApp,Plin,1,66.14,Promocion,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,Jose Huaman,Lima,frecuente,2025-01-14
+262,2026-06-03,1,14,186.75,5,Presencial,Efectivo,4,168.51,Cliente frecuente,Tienda 2,Los Olivos,Norte,Taladro,Herramientas,186.75,Pedro Reyes,  Callao ,Frecuente,2025-04-26
+263, 2026-05-13 ,6,18,32.03, 10 ,WhatsApp,TARJETA,4, 46.63 ,Revisar,TiEnDa 6,Los Olivos,Oeste,cemento,Materiales,32.03,Jorge Flores,Chorrillos,Regular,25-10-2025
+264,2026-05-10,8,8,10.08,20,WhatsApp,Tarjeta,4,0.5,,Tienda 4,Los Olivos,Este,Foco LED,Electricidad,10.08,Rocio Ramos,LOS OLIVOS,Corporativo,2025-01-28
+265,2026-06-16,7,8,19.54,0,App,,2,70.32,OK,Tienda 4,Los Olivos,Este,Tubo PVC,Gasfiteria,19.54,Luis Gomez,,PrEmIuM,2025-04-13
+266,2026-06-22,8,10,43.57,0,Telefono,Efectivo,3,84.04,Cliente frecuente,Tienda 5,Lima,Centro,Cable electrico,Electricidad,43.57,Maria Soto,Los Olivos,Premium,2025-09-22
+267,2026-04-07,8 aprox,5,32.03,0,Telefono,  Plin ,1,62.05,Promocion,Tienda 2,Los Olivos,Norte,cemento,Materiales,32.03,diego rojas,Los Olivos,Nuevo,2025-08-07
+268,2026-04-22,5,9,13.06,0,App,Transferencia, 5 ,61.45,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Brocha,Herramientas,13.06,,Ventanilla,Premium,2025-03-03
+269,2026-05-16,7,71.57,4.28,5,presencial,Plin,5,60.89,Promocion,Tienda 7,San Juan de Lurigancho,Sur,Lija,ACABADOS,4.28,Marco Mendoza,,Nuevo,2025-08-18
+270,2026-05-25,5,11,65.77,20,Web,TARJETA,5,82.91,Cliente frecuente,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Sofia Paredes,Lima,Premium,2025-08-02
+271,2026-03-09,8,5 aprox,10.08,8,App,Transferencia,1,51.97,,Tienda 4,Los Olivos,Este,Foco LED,Electricidad,10.08,,Miraflores,Corporativo, 2025-05-28 
+272,2026-02-14,5,15,65.77,0,WhatsApp,Transferencia,4,77.72,OK,Tienda 3,La Molina,EsTe,PINTURA BLANCA,Pinturas,65.77,Camila Mendoza,  Ventanilla ,Frecuente,2025-07-24
+273,2026-03-25, 2 ,18,43.57,8,App,Transferencia,1, 45.96 ,Promocion,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Andre Sayan,Ventanilla,Corporativo,2025-10-06
+274,23-03-2026,6,20,65.77,15,Presencial,Yape,3,103.21,Revisar,Tienda 5,Lima,Centro,PINTURA BLANCA,Pinturas,65.77,Claudia Paredes,Ate,Regular,2025-07-27
+275,2026-02-19,8,20,19.54,0,App,Transferencia,3,44.97 aprox,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Tubo PVC,Gasfiteria,19.54,Fiorella Gomez,Chorrillos,Premium,2025-08-27
+276,2026/04/08,8,15,8.4,5,WHATSAPP,Tarjeta,5,65.12,OK,Tienda 5,Lima,Centro,Clavos,FIJACIONES,8.4,Fiorella Mendoza,Miraflores,Premium,2025-02-09
+277,2026-01-14,6 aprox,8,8.4,20,PrEsEnCiAl,Yape,2,21.91,Promocion,TiEnDa 6,Los Olivos,Oeste,Clavos,FIJACIONES,8.4,Claudia Paredes,MiRaFlOrEs,Frecuente,2025-07-28
+278,2026-04-20, 1 ,15,186.75,8,Web,Efectivo,1,186.02,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Taladro,Herramientas,186.75,Diego Flores,La mOlInA,Nuevo,2025-11-27
+279,28-01-2026,7,18,186.75,0,  WhatsApp ,Yape,3,212.14,Revisar,TiEnDa 6,Los Olivos,Oeste,Taladro,Herramientas,186.75,Fiorella Mendoza,Miraflores,Premium,2025-02-09
+280,2026-01-06,5,18,10.08,12,Web,TRANSFERENCIA,4,24.35,Cliente frecuente,Tienda 3,La Molina,EsTe,Foco LED,Electricidad,10.08,Fiorella Rojas,San Miguel,FrEcUeNtE,2025-04-15
+281,11/01/2026,1,10,S/ 19.54,12,telefono,Transferencia,2,25.04,Promocion,Tienda 3,La Molina,EsTe,Tubo PVC,Gasfiteria,19.54,Rocio Flores,LiMa,Nuevo,2025/03/01
+282,2026-03-15,4,,32.03,10,Web,Plin,3,41.85 aprox,OK,TiEnDa 6,Los Olivos,Oeste,cemento,Materiales,32.03,Maria Navarro,La Molina,Premium,2025-12-07
+283,2026-03-03,1,19,,0,WhAtSaPp,Yape,2,95.31,,Tienda 4,Los Olivos,Este,PINTURA BLANCA,Pinturas,65.77,Carlos Sayan,San Juan de Lurigancho,Regular,2025-12-02
+284,2026-03-13,6,,13.06,0,Telefono,Plin,1,43.64,,Tienda 5,Lima,Centro,Brocha,Herramientas,13.06,,Comas,Premium,2025-05-08
+285,2026-01-13,5,20,186.75,10,Presencial,Tarjeta,4,220.43,OK,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Elena Castillo,LOS OLIVOS,Regular,2025-10-13
+286,2026-04-19,,17,19.54,8,Telefono,Efectivo,1,40.31,Promocion,Tienda 2,Los Olivos,Norte,Tubo PVC,Gasfiteria,19.54,Diego Huaman,Comas,Premium,2025-08-12
+287,2026-04-19,3,11,19.54,8,App,Plin,1,76.82 aprox,Promocion,Tienda 4,Los Olivos,Este,Tubo PVC,Gasfiteria,19.54,Victor Mendoza,LA MOLINA,Regular,2025-06-08
+288,08-02-2026,3,2,186.75,,  WhatsApp ,Efectivo,1,184.81,Revisar,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Andre Reyes,SaN JuAn dE LuRiGaNcHo,Regular,2025-09-03
+289,2026-06-16,5,12, 13.06 ,8,Web,  Plin ,1,53.6,Promocion,Tienda 1,Miraflores,Oeste,Brocha,Herramientas,13.06,Andre Paredes,,,2025-02-03
+290,2026-01-25, 6 ,16,186.75,5,Presencial,Yape,2,217.5,  Cliente frecuente ,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Elena Soto,Villa El Salvador,Corporativo,2025-11-26
+291,2026-02-02,6,,186.75,5,Presencial,YAPE,2,194.71,Revisar,Tienda 2,Los Olivos,Norte,Taladro,Herramientas,186.75,Victor Mendoza,LA MOLINA,Regular,2025-06-08
+292,2026-01-15,4,10 aprox,65.77,0,Web,Yape,,109.95,,Tienda 5,Lima,Centro,PINTURA BLANCA,Pinturas,65.77,Diego Ramos,Comas,Regular,2025-09-27
+293,2026-06-28,4,,S/ 43.57,8,,Transferencia,4,55.82,,Tienda 4,Los Olivos,Este,Cable electrico,Electricidad,43.57,Victor Soto,Los Olivos,Nuevo,2025-05-04
+294,2026-04-06,7,19,10.08,5 aprox,Telefono,Plin,4,49.9,cliente frecuente,Tienda 5,Lima,Centro,Foco LED,Electricidad,10.08,Elena Campos,San Juan de Lurigancho,Frecuente,2025-10-13
+295,10/05/2026,5,8,65.77,5,Presencial,Tarjeta,2,109.38,OK,Tienda 3,La Molina,EsTe,PINTURA BLANCA,Pinturas,65.77,Luis Flores,La Molina,REGULAR,2025-02-01
+296,2026-05-28,2,16,43.57,20,Telefono,Plin,4,47.51,Promocion,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Victor Soto,Los Olivos,Nuevo,2025-05-04
+297,2026-06-26,5,5 aprox,4.28,,Web,EFECTIVO,5,43.62,Revisar,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,Maria Cruz,chorrillos,Frecuente,2025/09/22
+298,2026/06/25,3,4,13.06,15,WhatsApp,Transferencia,1,,OK,Tienda 4,Los Olivos,Este,Brocha,Herramientas,13.06,Sofia Salazar,Independencia,Corporativo,2025-07-25
+299,2026-01-03,4,,65.77 aprox,5,Presencial,Tarjeta,1 aprox,89.73,Revisar,Tienda 3,La Molina,EsTe,PINTURA BLANCA,Pinturas,65.77,Fiorella Rojas,San Miguel,FrEcUeNtE,2025-04-15
+300,2026-05-18,3,17,S/ 19.54,8 aprox,Web,Efectivo,5,43.93,Promocion,Tienda 1,Miraflores,Oeste,Tubo PVC,Gasfiteria,19.54,Claudia Paredes,MiRaFlOrEs,Frecuente,2025-07-28
+301,2026-05-15,3,8,186.75,12,WeB,Tarjeta,3,,Revisar,Tienda 1,Miraflores,Oeste,Taladro,Herramientas,186.75,Elena Campos,San Juan de Lurigancho,Frecuente,2025-10-13
+302,2026/03/16,7,11,8.4,0,WEB,Tarjeta,5,53.08,Promocion,Tienda 3,La Molina,EsTe,Clavos,FIJACIONES,8.4,Elena Soto,Villa El Salvador,Corporativo,2025-11-26
+303,2026-01-21,6,2,S/ 4.28, 8 ,Telefono,transferencia, 4 ,41.55,Revisar,Tienda 5,Lima,Centro,Lija,ACABADOS,4.28,Maria Navarro,La Molina,Premium,2025-12-07
+304,2026-03-15,5 aprox,9 aprox,43.57,10,  WhatsApp ,Transferencia,3,66.95,Revisar,Tienda 5,Lima,Centro,Cable electrico,Electricidad,43.57,Fiorella Mendoza,Miraflores,Premium,2025-02-09
+305,2026/04/25,1,10,13.06,5,Presencial,Transferencia,4,22.8,,TiEnDa 6,Los Olivos,Oeste,Brocha,Herramientas,13.06,Elena Vargas,San Juan de Lurigancho,Corporativo, 2025-10-01 
+306,2026-05-11,5,13 aprox,10.08,0,WhatsApp,Plin,,45.27,Promocion,TiEnDa 6,Los Olivos,Oeste,Foco LED,Electricidad,10.08,Luis Flores,La Molina,REGULAR,2025-02-01
+307,2026/03/01,5,,8.4,0,Presencial,Transferencia,5,34.13,Revisar,Tienda 2,Los Olivos,Norte,Clavos,FIJACIONES,8.4,Diego Flores,La mOlInA,Nuevo,2025-11-27
+308,2026-02-23,2,4,19.54,8,Web,Yape, 5 , 27.16 ,,Tienda 7,San Juan de Lurigancho,Sur,Tubo PVC,Gasfiteria,19.54,Andre Reyes,SaN JuAn dE LuRiGaNcHo,Regular,2025-09-03
+309,2026-06-03,1,17,19.54,0,PRESENCIAL,Transferencia,1,42.93,Revisar,Tienda 7,San Juan de Lurigancho,Sur,Tubo PVC,Gasfiteria,19.54,Camila Gomez,CoMaS,Premium,2025-09-01
+310,2026-01-02,6,2,S/ 65.77,0,App,Yape,2,101.15,,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Valeria Reyes,Lima,Corporativo,2025-11-06
+311,2026-01-06,4,8,S/ 19.54,10,WhatsApp,Tarjeta,4,13.15,Revisar,Tienda 7,San Juan de Lurigancho,Sur,Tubo PVC,Gasfiteria,19.54,Lucia Torres,Chorrillos,Nuevo,2025-07-24
+312,2026-04-24,1,2,43.57,8,Presencial,Tarjeta,3, 70.7 ,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Cable electrico,Electricidad,43.57,Elena Campos,San Juan de Lurigancho,Frecuente,2025-10-13
+313,2026-01-07,1,18,43.57,20,Web,Tarjeta,5,44.07,OK,Tienda 2,Los Olivos,Norte,Cable electrico,Electricidad,43.57,Claudia Paredes,Ate,Regular,2025-07-27
+314,2026-02-09,2,3,10.08,8,App,Efectivo,3,12.35,OK,Tienda 7,San Juan de Lurigancho,Sur,Foco LED,Electricidad,10.08,Camila Mendoza,  Ventanilla ,Frecuente,2025-07-24
+315,2026-06-13,2,2,19.54,10,WhatsApp,Tarjeta,1,35.06,OK,Tienda 5,Lima,Centro,Tubo PVC,Gasfiteria,19.54,Elena Campos,San Juan de Lurigancho,Frecuente,2025-10-13
+316,2026-01-22,5, 18 ,65.77,8,TeLeFoNo,Tarjeta,1,96.57,,TiEnDa 6,Los Olivos,Oeste,PINTURA BLANCA,Pinturas,65.77,Elena Rojas,Chorrillos,Corporativo,2025-06-11
+317,2026-05-01,2,3,4.28,20,Presencial,Efectivo,4,0.5,Promocion,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,luis cruz,MiRaFlOrEs,Nuevo,2025-01-03
+318,2026-03-11,7,7,8.4,12,Telefono,Tarjeta,1, 44.9 ,Cliente frecuente,Tienda 2,Los Olivos,Norte,Clavos,FIJACIONES,8.4,Carlos Sayan,San Juan de Lurigancho,Regular,2025-12-02
+319,2026-01-03,3,4,10.08,15,WhatsApp,Efectivo,4,17.86,Promocion,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,Diego Flores,  San Miguel ,Nuevo,2025-04-16
+320,14-01-2026,8,19,S/ 4.28,20,Telefono,TaRjEtA,5,55.5,Revisar,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,Ana Vargas,Villa El Salvador,Premium,2025-09-04
+321,02-04-2026,6,7,186.75,15,PRESENCIAL,Transferencia,5,193.19,OK,Tienda 2,Los Olivos,Norte,Taladro,Herramientas,186.75,Andre Sayan,Ventanilla,Corporativo,2025-10-06
+322,2026-03-27,3,12,,12,WEB,YaPe,1,32.29,,Tienda 1,Miraflores,Oeste,cemento,Materiales,32.03,Andre Sayan,Ventanilla,Corporativo,2025-10-06
+323,2026-05-04,7,87.49,65.77,0,Web,Efectivo,1,124.5,,Tienda 3,La Molina,EsTe,PINTURA BLANCA,Pinturas,65.77,,Comas,Premium,2025-05-08
+324,2026-02-21,4,12,8.4,10,WHATSAPP,Efectivo,3,3.46,OK,Tienda 1,Miraflores,Oeste,Clavos,FIJACIONES,8.4,Fiorella Campos,Villa El Salvador,Nuevo,2025-03-15
+325,2026-03-11,3,2,43.57,15,,Efectivo,1,49.96,,Tienda 7,San Juan de Lurigancho,Sur,Cable electrico,Electricidad,43.57,Maria Soto,Los Olivos,Premium,2025-09-22
+326,2026-02-05,1,19,S/ 8.4,12,PrEsEnCiAl,Yape,3,26.53,Cliente frecuente,Tienda 5,Lima,Centro,Clavos,FIJACIONES,8.4,Carlos Sayan,San Juan de Lurigancho,Regular,2025-12-02
+327,,8,7,8.4,12 aprox,WhatsApp,Tarjeta,1,16.62,Revisar,Tienda 2,Los Olivos,Norte,Clavos,FIJACIONES,8.4,,Comas,Premium,2025-05-08
+328,2026-04-13,2,12, 19.54 ,0 aprox,Presencial,Tarjeta,3,42.46,Revisar,Tienda 4,Los Olivos,Este,Tubo PVC,Gasfiteria,19.54,luis cruz,MiRaFlOrEs,Nuevo,2025-01-03
+329,2026-02-20,1,16,32.03,15,Telefono,tarjeta,4,39.27,Revisar,Tienda 2,Los Olivos,Norte,cemento,Materiales,32.03,Elena Soto,Villa El Salvador,Corporativo,2025-11-26
+330,2026-02-10,3,9,"32,03",0,  Web ,Plin,2,49.44,  OK ,Tienda 1,Miraflores,Oeste,cemento,Materiales,32.03,Maria Soto,Los Olivos,Premium,2025-09-22
+331,2026-04-24,,8,186.75,10,Presencial,  Efectivo ,1,208.43,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Taladro,Herramientas,186.75,Luis Castillo,Surco,regular,2025-11-22
+332,2026-01-25,3,9,186.75,5,WhatsApp,Tarjeta,3,199.45,Cliente frecuente,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Claudia Mendoza,villa el salvador,FrEcUeNtE,2025-03-26
+333,2026-06-08,8,9,19.54,12,WhatsApp,Efectivo,3,57.72,,TiEnDa 6,Los Olivos,Oeste,Tubo PVC,Gasfiteria,19.54,Andre Sayan,Ventanilla,Corporativo,2025-10-06
+334,2026-06-04,7,3,186.75,0,Web,Efectivo,2,185.62,,Tienda 1,Miraflores,Oeste,Taladro,Herramientas,186.75,Elena Vargas,San Juan de Lurigancho,Corporativo, 2025-10-01 
+335,2026-06-13,7,11 aprox, 10.08 ,0,App,Transferencia,,37.07,,Tienda 7,San Juan de Lurigancho,Sur,Foco LED,Electricidad,10.08,Jorge Vargas,lima,Corporativo,2025-08-18
+336,2026-06-21,4,17,186.75,12,WhatsApp,Efectivo,5,208.77 aprox,,Tienda 5,Lima,Centro,Taladro,Herramientas,186.75,Victor Mendoza,LA MOLINA,Regular,2025-06-08
+337,2026-01-28,8,,186.75,8,WhatsApp,Transferencia,5,217.52,Cliente frecuente,Tienda 1,Miraflores,Oeste,Taladro,Herramientas,186.75,Elena Soto,Villa El Salvador,Corporativo,2025-11-26
+338,2026-06-15,3,5,4.28,0,Telefono,Transferencia,3,"67,31",Revisar,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Maria Cruz,chorrillos,Frecuente,2025/09/22
+339,2026-03-01,3,5,65.77,0,Web,Efectivo,2,58.19,ReViSaR,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Claudia Gomez,La  Molina,Premium,2025-12-25
+340,2026-01-07,5,,43.57,0,  App ,Tarjeta,2,"62,13",Promocion,Tienda 2,Los Olivos,Norte,Cable electrico,Electricidad,43.57,Camila Mendoza,Ate,Corporativo,2025-08-02
+341,,,18,19.54,15,Web,Yape,4,30.25,Promocion,Tienda 4,Los Olivos,Este,Tubo PVC,Gasfiteria,19.54,,Miraflores,Corporativo, 2025-05-28 
+342,2026/04/04,7,14,186.75,10,Web,Plin,1,217.23,Revisar,Tienda 3,La Molina,EsTe,Taladro,Herramientas,186.75,Jose Navarro,AtE,Corporativo,2025-10-12
+343,2026-03-28,1,14,186.75, 0 ,Web,Transferencia,1,174.22,Promocion,Tienda 3,La Molina,EsTe,Taladro,Herramientas,186.75,Camila Sayan,Villa El Salvador,  Corporativo ,2025-07-09
+344,21/01/2026,2,17,8.4,10,Telefono,,2,23.51,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Clavos,FIJACIONES,8.4,Fiorella Gomez,Chorrillos,Premium,2025-08-27
+345,2026-05-24,4,16,4.28,0,Web,Efectivo,4,45.74,,Tienda 7,San Juan de Lurigancho,Sur,Lija,ACABADOS,4.28,,Ate,Frecuente,2025-08-23
+346,2026-01-19, 1 ,8,65.77,0,Presencial,Tarjeta,3,73.29,Promocion,Tienda 7,San Juan de Lurigancho,Sur,PINTURA BLANCA,Pinturas,65.77,Pedro Reyes,  Callao ,Frecuente,2025-04-26
+347,2026-01-12,2,7 aprox,"8,4",0,Telefono,PLIN,3,27.34,,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Elena Soto,Villa El Salvador,Corporativo,2025-11-26
+348,2026-04-19,4,7,19.54,0,  Web ,Efectivo,4,21.58,OK,Tienda 4,Los Olivos,Este,Tubo PVC,Gasfiteria,19.54,Jose Navarro,AtE,Corporativo,2025-10-12
+349,08/03/2026,3,1,4.28,12,WHATSAPP,Yape,4,6.0,Promocion,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Andre Reyes,SaN JuAn dE LuRiGaNcHo,Regular,2025-09-03
+350,2026-06-10,5,11,8.4,12,App,Tarjeta,1,18.98,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Diana Flores,Miraflores,,2025-08-14
+351,2026-04-07,6,2,4.28, 0 ,App,Tarjeta,3,56.48,  Revisar ,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,Luis Rojas,Surco,Regular,2025-09-15
+352,2026-06-26,4,11,65.77,12,  Telefono ,,3,76.93,,TiEnDa 6,Los Olivos,Oeste,PINTURA BLANCA,Pinturas,65.77,Maria Cruz,chorrillos,Frecuente,2025/09/22
+353,2026-01-17,5,1,"10,08",0,Telefono,YaPe,1,49.05,,Tienda 5,Lima,Centro,Foco LED,Electricidad,10.08,Fiorella Campos,Villa El Salvador,Nuevo,2025-03-15
+354,2026-06-20,1,11,32.03,5,WhatsApp,Plin,3,37.84,OK,Tienda 1,Miraflores,Oeste,cemento,Materiales,32.03,Claudia Mendoza,villa el salvador,FrEcUeNtE,2025-03-26
+355,,5,9,4.28,10,Presencial,Efectivo,5,24.79,,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,Victor Soto,Los Olivos,Nuevo,2025-05-04
+356,,3, 13 ,8.4,12,App,Yape,1,18.52,,Tienda 1,Miraflores,Oeste,Clavos,FIJACIONES,8.4,Elena Campos,San Juan de Lurigancho,Frecuente,2025-10-13
+357,2026-05-12,8,2,13.06,0,App,Plin,1,27.72,Promocion,Tienda 2,Los Olivos,Norte,Brocha,Herramientas,13.06,Elena Soto,Villa El Salvador,Corporativo,2025-11-26
+358,2026-06-03,5,5,8.4,15,Telefono,Plin,4,0.5,Revisar,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,SOFIA SALAZAR,comas,Regular,2025-08-05
+359,2026-01-14,4,13 aprox,186.75,5,Telefono,Efectivo,4,196.18,OK,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,Luis Rojas,Surco,Regular,2025-09-15
+360,2026-04-17,1,18,"32,03",12,web,Yape,5,S/ 26.39,Revisar,TiEnDa 6,Los Olivos,Oeste,cemento,Materiales,32.03,Ana Vargas,Villa El Salvador,Premium,2025-09-04
+361,2026-01-14,,10,,0,Presencial,  Tarjeta ,2,54.74 aprox,,TiEnDa 6,Los Olivos,Oeste,Tubo PVC,Gasfiteria,19.54,Elena Rojas,Chorrillos,Corporativo,2025-06-11
+362,2026-03-12,6,7,43.57,5,WhatsApp,Yape,1,63.32,,TiEnDa 6,Los Olivos,Oeste,Cable electrico,Electricidad,43.57,Maria Navarro,La Molina,Premium,2025-12-07
+363,2026-06-05, 1 , 8 ,"4,28",0,Presencial,Plin,1,0.5,OK,Tienda 3,La Molina,EsTe,Lija,ACABADOS,4.28,Valeria Cruz,Lima,Corporativo,2025-04-07
+364,2026-02-11,4,7,13.06,0,Web,Yape,3,18.76,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Brocha,Herramientas,13.06,,Comas,Premium,2025-05-08
+365,2026-01-08,8,8,65.77,0,Presencial,plin,2, 119.3 ,Revisar,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Andre Sayan,Ventanilla,Corporativo,2025-10-06
+366,2026-06-18,5,12,32.03,10,Telefono,Efectivo,3,"39,15",Revisar,Tienda 1,Miraflores,Oeste,cemento,Materiales,32.03,Claudia Paredes,San Juan de Lurigancho,Corporativo,2025-12-17
+367,2026-05-28,6,14, 13.06 ,15,App,Plin,4,59.96,,Tienda 2,Los Olivos,Norte,Brocha,Herramientas,13.06,Maria Soto,Los Olivos,  Frecuente ,2025-07-08
+368,2026-05-07,8,20 aprox,10.08,8,App,Transferencia,1,68.22,,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,Maria Cruz,chorrillos,Frecuente,2025/09/22
+369,2026-03-23,7,15,65.77,0,Presencial,Tarjeta,4,75.42,,Tienda 5,Lima,Centro,PINTURA BLANCA,Pinturas,65.77,Camila Mendoza,  Ventanilla ,Frecuente,2025-07-24
+370,2026-06-01,7,,186.75,10,Telefono,Plin,5,210.79,Promocion,Tienda 4,Los Olivos,Este,Taladro,Herramientas,186.75,SOFIA SALAZAR,comas,Regular,2025-08-05
+371,2026-05-13,2,16,186.75,8,App,Plin,4,196.36,Revisar,Tienda 2,Los Olivos,Norte,Taladro,Herramientas,186.75,Andre Sayan,Ventanilla,Corporativo,2025-10-06
+372,18/01/2026,4,7,4.28,0,WhatsApp,EfEcTiVo,4,,Promocion,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,Marco Mendoza,,Nuevo,2025-08-18
+373,2026-02-14,3,9,43.57,10,WhatsApp,Efectivo,4,62.6 aprox,,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,,Comas,Premium,2025-05-08
+374,2026-04-02,6,12,32.03,15,WhatsApp,Tarjeta,2 aprox,65.8,Revisar,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Camila Sayan,Lima,Nuevo,2025/12/04
+375,2026-06-06,3,5,43.57,15,web,Yape,5,76.17,OK,Tienda 5,Lima,Centro,Cable electrico,Electricidad,43.57,Luis Flores,La Molina,REGULAR,2025-02-01
+376,2026/03/07,6,10,13.06,5,Web,Efectivo,3,44.53,ReViSaR,Tienda 3,La Molina,EsTe,Brocha,Herramientas,13.06,Sofia Vargas,Miraflores,Nuevo,
+377,2026-06-11,4,14,4.28,0,Web,Plin,5,48.7,Cliente frecuente,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,Lucia Campos,Comas,Premium,2025-10-27
+378,2026-06-17,8,12,186.75,0,web,Tarjeta,5,235.13,Revisar,Tienda 5,Lima,Centro,Taladro,Herramientas,186.75,Ana Campos,San Miguel,Frecuente,2025-09-04
+379,2026-02-11,2, 19 ,19.54,0,PrEsEnCiAl,Yape,3,20.31,,Tienda 7,San Juan de Lurigancho,Sur,Tubo PVC,Gasfiteria,19.54,Marco Reyes,La Molina,,2025-10-16
+380,2026-01-21,5, 19 ,"32,03",5,App,  Yape ,4,64.57,,TiEnDa 6,Los Olivos,Oeste,cemento,Materiales,32.03,Luis Flores,La Molina,REGULAR,2025-02-01
+381,17/04/2026,2,4,43.57,15,Telefono,Transferencia,1,57.24,Revisar,Tienda 4,Los Olivos,Este,Cable electrico,Electricidad,43.57,Maria Soto,Los Olivos,  Frecuente ,2025-07-08
+382,19-05-2026,6,12,13.06,5,Telefono,Yape,3,,Promocion,Tienda 3,La Molina,EsTe,Brocha,Herramientas,13.06,Rocio Rojas,Ate,Frecuente,2025-11-15
+383,2026-02-14,3,9,43.57,10,WhatsApp,Efectivo,4,62.6 aprox,,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,,Comas,Premium,2025-05-08
+384,2026-01-12,4, 1 ,13.06,8,Telefono,Efectivo,,15.6,Revisar,Tienda 1,Miraflores,Oeste,Brocha,Herramientas,13.06,Elena Soto,Villa El Salvador,Corporativo,2025-11-26
+385,2026-03-22,4,3,186.75,15,App,YAPE,4,211.24,,Tienda 7,San Juan de Lurigancho,Sur,Taladro,Herramientas,186.75,Maria Soto,Los Olivos,Premium,2025-09-22
+386,2026-05-19,1,12,19.54 aprox, 8 ,  Web ,Tarjeta,4,23.75,OK,Tienda 1,Miraflores,Oeste,Tubo PVC,Gasfiteria,19.54,Rocio Cruz,Chorrillos,Premium,2025-09-27
+387,2026-03-25,3,20,10.08,15,WhatsApp,Efectivo,3,41.72,Revisar,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,Sofia Cruz,Chorrillos,Frecuente,
+388,2026-03-05,7,13 aprox,186.75,0,Telefono,Plin,3,204.14,Revisar,Tienda 2,Los Olivos,Norte,Taladro,Herramientas,186.75,Pedro Reyes,  Callao ,Frecuente,2025-04-26
+389,2026-04-28,6,2,10.08,5,Presencial,Tarjeta,3,28.04,Promocion,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,,Miraflores,Corporativo, 2025-05-28 
+390,2026-04-16,2,10,8.4,20,App,Yape,4,42.16,Cliente frecuente,Tienda 1,Miraflores,Oeste,Clavos,FIJACIONES,8.4,Camila Gomez,CoMaS,Premium,2025-09-01
+391,2026-03-24,,11,13.06,8 aprox,App,Yape,2,29.27,OK,TiEnDa 6,Los Olivos,Oeste,Brocha,Herramientas,13.06,Elena Campos,San Juan de Lurigancho,Frecuente,2025-10-13
+392,2026-04-10,4,12,8.4,0,Telefono,Efectivo,1,20.92,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Clavos,FIJACIONES,8.4,Jorge Sayan,Miraflores,Corporativo,2025-05-10
+393,2026-04-07,4,11,13.06,5,WhatsApp,Yape,,54.74,Cliente frecuente,Tienda 2,Los Olivos,Norte,Brocha,Herramientas,13.06,Carlos Sayan,San Juan de Lurigancho,Regular,2025-12-02
+394,2026-02-13,5,17 aprox,19.54,12 aprox,Web,TaRjEtA,5,39.16,Cliente frecuente,Tienda 2,Los Olivos,Norte,Tubo PVC,Gasfiteria,19.54,Victor Soto,Los Olivos,Nuevo,2025-05-04
+395,2026-04-18,3,8,19.54,8,Web,Plin,3,68.19,Revisar,Tienda 2,Los Olivos,Norte,Tubo PVC,Gasfiteria,19.54,Claudia Mendoza,villa el salvador,FrEcUeNtE,2025-03-26
+396,2026-01-11,3,7,"4,28",15 aprox,Web,Plin,2 aprox,33.11,,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Maria Navarro,La Molina,Premium,2025-12-07
+397,2026-03-09,8,5 aprox,10.08,8,App,Transferencia,1,51.97,,Tienda 4,Los Olivos,Este,Foco LED,Electricidad,10.08,,Miraflores,Corporativo, 2025-05-28 
+398,2026-02-26,2,6,4.28,20,Web,yape,4,0.5,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Lija,ACABADOS,4.28,Lucia Campos,Comas,Premium,2025-10-27
+399,2026-03-27,8,7,65.77,15,Web,,3,83.14,,Tienda 3,La Molina,EsTe,PINTURA BLANCA,Pinturas,65.77,Maria Cruz,chorrillos,Frecuente,2025/09/22
+400,2026-05-25,7,17,4.28,12,Web,Plin,,24.93,  Promocion ,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Andre Sayan,Ventanilla,Corporativo,2025-10-06
+401,2026-02-11,6,12,13.06,12,App,Transferencia,1,32.4,Cliente frecuente,Tienda 4,Los Olivos,Este,Brocha,Herramientas,13.06,Fiorella Ramos,San Juan de Lurigancho,Premium,2025-06-21
+402,2026-01-21,6,8,4.28,5,Presencial,,2,48.47,Revisar,Tienda 3,La Molina,EsTe,Lija,ACABADOS,4.28,Claudia Mendoza,villa el salvador,FrEcUeNtE,2025-03-26
+403, 2026-02-01 ,5,16,8.4,0,Presencial,Transferencia,3,43.1,,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Rocio Cruz,Chorrillos,Premium,2025-09-27
+404,2026-04-27,6,12,43.57,15,Telefono,Efectivo,5 aprox,77.96,Cliente frecuente,Tienda 5,Lima,Centro,Cable electrico,Electricidad,43.57,Victor Mendoza,LA MOLINA,Regular,2025-06-08
+405,2026-01-09,6,13,"43,57",20,WeB,Tarjeta,2,62.02,OK,Tienda 7,San Juan de Lurigancho,Sur,Cable electrico,Electricidad,43.57,Elena Rojas,Chorrillos,Corporativo,2025-06-11
+406,04-04-2026,1,13,32.03,0,Presencial,Yape,1,56.72,Promocion,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Victor Mendoza,LA MOLINA,Regular,2025-06-08
+407,15/01/2026,7,16,32.03,12,WhatsApp,Tarjeta,5,58.98,Promocion,Tienda 3,La Molina,EsTe,cemento,Materiales,32.03,Fiorella Mendoza,Miraflores,Premium,2025-02-09
+408,2026-05-20,1,13,43.57,15,,Plin,3,,  Cliente frecuente ,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Luis Rojas,Surco,Regular,2025-09-15
+409,2026-04-17,7,2,32.03,10,WhatsApp,Efectivo,5,63.77,Cliente frecuente,Tienda 4,Los Olivos,Este,cemento,Materiales,32.03,Camila Mendoza,  Ventanilla ,Frecuente,2025-07-24
+410,2026-03-11,6,13,S/ 10.08,0,WhatsApp,transferencia,2,22.07,Revisar,Tienda 5,Lima,Centro,Foco LED,Electricidad,10.08,Andre Reyes,SaN JuAn dE LuRiGaNcHo,Regular,2025-09-03
+411,2026-02-15,6,14,32.03,0,Telefono,Efectivo,2,53.02 aprox,Revisar,Tienda 1,Miraflores,Oeste,cemento,Materiales,32.03,Luis Gomez,,PrEmIuM,2025-04-13
+412,2026-01-06,3,20,13.06,8,WhatsApp,Yape,5,49.33,,Tienda 7,San Juan de Lurigancho,Sur,Brocha,Herramientas,13.06,Rocio Rojas,Ate,Frecuente,2025-11-15
+413,2026-04-03,4,13,43.57,10,Telefono,TARJETA,2,42.09,Cliente frecuente,Tienda 4,Los Olivos,Este,Cable electrico,Electricidad,43.57,Lucia Cruz,Miraflores,  Frecuente ,
+414,2026-02-22,1,5,13.06,12,Presencial,TARJETA,4,11.9,,Tienda 1,Miraflores,Oeste,Brocha,Herramientas,13.06,,Comas,Premium,2025-05-08
+415,2026-02-25,8,6,186.75,12,Presencial,Tarjeta,5,202.62,Cliente frecuente,Tienda 2,Los Olivos,Norte,Taladro,Herramientas,186.75,Rocio Cruz,Chorrillos,Premium,2025-09-27
+416,2026-06-03,4,8,13.06, 10 ,Web,Efectivo,5,49.51 aprox,OK,Tienda 7,San Juan de Lurigancho,Sur,Brocha,Herramientas,13.06,Marco Castillo,Chorrillos,nuevo,2025-05-05
+417,13/03/2026,5,14,186.75,0,App,Plin,2,200.71,Promocion,Tienda 2,Los Olivos,Norte,Taladro,Herramientas,186.75,SOFIA SALAZAR,comas,Regular,2025-08-05
+418,2026-02-19,1,9.42,19.54,8,,TaRjEtA, 1 ,14.68,,Tienda 4,Los Olivos,Este,Tubo PVC,Gasfiteria,19.54,Maria Soto,Los Olivos,Premium,2025-09-22
+419,2026-03-20,6,16,65.77,0,Web,Transferencia,2,98.34,Revisar,Tienda 2,Los Olivos,Norte,PINTURA BLANCA,Pinturas,65.77,Sofia Salazar,Independencia,Corporativo,2025-07-25
+420,2026-05-26,8,13,8.4,5,Web,Transferencia,4,42.17,,Tienda 4,Los Olivos,Este,Clavos,FIJACIONES,8.4,Rocio Flores,LiMa,Nuevo,2025/03/01
+421,2026-02-18,3,2,10.08,0,Telefono,Efectivo,5,31.77,Promocion,Tienda 7,San Juan de Lurigancho,Sur,Foco LED,Electricidad,10.08,Elena Vargas,San Juan de Lurigancho,Corporativo, 2025-10-01 
+422,2026-06-04,6,8,13.06,20,Telefono,PLIN,3,41.16,OK,Tienda 4,Los Olivos,Este,Brocha,Herramientas,13.06,Pedro Reyes,  Callao ,Frecuente,2025-04-26
+423,19/01/2026,4,19,19.54,15,WhatsApp,plin,1,37.71,,Tienda 3,La Molina,EsTe,Tubo PVC,Gasfiteria,19.54,Pedro Vargas,San Juan de Lurigancho,Regular,2025-10-28
+424,2026-06-08,7,12 aprox,"32,03",5,,  Efectivo ,3,52.28,,Tienda 4,Los Olivos,Este,cemento,Materiales,32.03,Marco Mendoza,,Nuevo,2025-08-18
+425,2026-02-12,8,1,186.75,20,App,Efectivo,1,658.91,OK,Tienda 5,Lima,Centro,Taladro,Herramientas,186.75,Maria Soto,Los Olivos,Premium,2025-09-22
+426,2026-03-05,,20,186.75,10,Web,Efectivo,2,192.75 aprox,Revisar,TiEnDa 6,Los Olivos,Oeste,Taladro,Herramientas,186.75,Luis Rojas,Surco,Regular,2025-09-15
+427,2026-04-08,5,5,19.54,0,Presencial,  Plin ,3,S/ 63.68,Revisar,Tienda 3,La Molina,EsTe,Tubo PVC,Gasfiteria,19.54,Pedro Vargas,San Juan de Lurigancho,Regular,2025-10-28
+428,2026-02-16,2,11,S/ 43.57,,Telefono,,4,63.03,Cliente frecuente,Tienda 3,La Molina,EsTe,Cable electrico,Electricidad,43.57,Luis Flores,La Molina,REGULAR,2025-02-01
+429,2026-05-28,2,3, 10.08 ,10 aprox,App,Plin,3,12.74,Promocion,Tienda 3,La Molina,EsTe,Foco LED,Electricidad,10.08,Rocio Campos,Ate,Regular,
+430,2026-01-12,7,19,"4,28",5,App,TrAnSfErEnCiA,1,53.41,ReViSaR,Tienda 7,San Juan de Lurigancho,Sur,Lija,ACABADOS,4.28,Fiorella Campos,Villa El Salvador,Nuevo,2025-03-15
+431,2026-06-24,3,1,13.06,0,  Web ,Tarjeta,4, 22.52 ,Revisar,Tienda 7,San Juan de Lurigancho,Sur,Brocha,Herramientas,13.06,Maria Cruz,chorrillos,Frecuente,2025/09/22
+432,2026-02-21,3,8, 19.54 ,10,App,Plin,4,43.2,Cliente frecuente,Tienda 4,Los Olivos,Este,Tubo PVC,Gasfiteria,19.54,Jorge Flores,Chorrillos,Regular,25-10-2025
+433,, 8 ,18,32.03,0,Telefono,Tarjeta,4,60.2,Cliente frecuente,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Claudia Quispe,Miraflores,PrEmIuM,2025-04-17
+434,2026-01-08,3,15,10.08,12,Presencial,YaPe,4,24.49 aprox,OK,Tienda 7,San Juan de Lurigancho,Sur,Foco LED,Electricidad,10.08,Rocio Torres,Ate,  Regular ,2025/08/13
+435,2026-02-25,5,11,65.77,15,Telefono,Plin,2,95.57,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,PINTURA BLANCA,Pinturas,65.77,Claudia Paredes,San Juan de Lurigancho,Corporativo,2025-12-17
+436,2026-03-04,7,6,4.28,15,  Web ,Plin,1,37.68 aprox,OK,TiEnDa 6,Los Olivos,Oeste,Lija,ACABADOS,4.28,,Ventanilla,Premium,2025-03-03
+437,2026-06-12,5,15,186.75,15,WhatsApp,Efectivo,1,636.25,Revisar,Tienda 5,Lima,Centro,Taladro,Herramientas,186.75,Elena Rojas,Chorrillos,Corporativo,2025-06-11
+438,2026-04-16,,16,13.06,,TeLeFoNo,Tarjeta,2,27.54,,TiEnDa 6,Los Olivos,Oeste,Brocha,Herramientas,13.06,,Miraflores,Corporativo, 2025-05-28 
+439,06/02/2026,8,14,13.06 aprox,12,App,Yape,1,55.83,Cliente frecuente,Tienda 4,Los Olivos,Este,Brocha,Herramientas,13.06,Diego Ramos,Comas,Regular,2025-09-27
+440,2026-05-08,8,19,32.03,8,WhatsApp,Plin,5,46.11,,Tienda 7,San Juan de Lurigancho,Sur,cemento,Materiales,32.03,Andre Paredes,,,2025-02-03
+441,2026-02-11,3,20,65.77,12,APP,Plin,4,76.04,Cliente frecuente,Tienda 4,Los Olivos,Este,PINTURA BLANCA,Pinturas,65.77,Claudia Paredes,San Juan de Lurigancho,Corporativo,2025-12-17
+442,2026-06-24,2,5,32.03,0,Telefono,Plin,,23.78,OK,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Luis Flores,La Molina,REGULAR,2025-02-01
+443,2026-02-09,3,12,43.57, 20 ,Web,TaRjEtA,3,33.94,OK,Tienda 2,Los Olivos,Norte,Cable electrico,Electricidad,43.57,Lucia Campos,Comas,Premium,2025-10-27
+444,2026-04-14,6,18.65,"43,57",8,WhatsApp,Plin,1,60.0,,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,Jorge Flores,Chorrillos,Regular,25-10-2025
+445,2026-05-09,8,4,13.06,10,telefono,Tarjeta,4,,,Tienda 5,Lima,Centro,Brocha,Herramientas,13.06,Sofia Cruz,Chorrillos,Frecuente,
+446,2026-04-27,8,2,10.08,8,WhatsApp,Yape,3,27.1,OK,Tienda 4,Los Olivos,Este,Foco LED,Electricidad,10.08,Carlos Sayan,San Juan de Lurigancho,Regular,2025-12-02
+447,2026-03-02,5,8,186.75,12,Presencial,Plin,2,214.96,OK,Tienda 5,Lima,Centro,Taladro,Herramientas,186.75,Valeria Cruz,Lima,Corporativo,2025-04-07
+448,2026-03-22,1,14,10.08,5,App,Transferencia,2,13.97,  Promocion ,Tienda 2,Los Olivos,Norte,Foco LED,Electricidad,10.08,Camila Sayan,Villa El Salvador,  Corporativo ,2025-07-09
+449,2026-01-23,5,5,65.77,0,WEB,Transferencia,4,S/ 66.66,,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Maria Cruz,chorrillos,Frecuente,2025/09/22
+450,2026-06-13,5,12,32.03,12,Presencial,Plin,4,"48,45",,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Fiorella Campos,Villa El Salvador,Nuevo,2025-03-15
+451,2026-01-09,5,7,10.08,0,APP,Transferencia,2 aprox, 23.42 ,Promocion,Tienda 1,Miraflores,Oeste,Foco LED,Electricidad,10.08,Sofia Reyes,Ate,Nuevo,2025-09-18
+452,,6,18,19.54,10,,Plin,3,56.56,OK,Tienda 1,Miraflores,Oeste,Tubo PVC,Gasfiteria,19.54,Ana Campos,San Miguel,Frecuente,2025-09-04
+453,2026-05-10,1,15,186.75,20,WhatsApp,Transferencia,,182.1,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,Taladro,Herramientas,186.75,Carlos Sayan,San Juan de Lurigancho,Regular,2025-12-02
+454,2026-03-12,3, 4 ,65.77,15,Web,Tarjeta,2,73.01,,Tienda 1,Miraflores,Oeste,PINTURA BLANCA,Pinturas,65.77,Lucia Campos,Comas,Premium,2025-10-27
+455,2026-06-06,6,4,19.54, 10 ,Telefono,Transferencia,3,58.87,,Tienda 1,Miraflores,Oeste,Tubo PVC,Gasfiteria,19.54,Diana Flores,Miraflores,,2025-08-14
+456,2026-05-20,4,16,65.77,0 aprox,web,tarjeta,5,84.92,Revisar,Tienda 5,Lima,Centro,PINTURA BLANCA,Pinturas,65.77,Marco Paredes,,Regular,2025-08-08
+457,2026-04-01,2,9,32.03,5,Presencial,Plin,3,54.88,OK,Tienda 1,Miraflores,Oeste,cemento,Materiales,32.03,SOFIA SALAZAR,comas,Regular,2025-08-05
+458,2026-01-16,6,13,4.28, 12 ,,  Transferencia ,4,20.45,Revisar,Tienda 5,Lima,Centro,Lija,ACABADOS,4.28,Rocio Cruz,Chorrillos,Premium,2025-09-27
+459,2026-02-19,6,6,S/ 8.4,12,App,Yape,4,60.62,ClIeNtE FrEcUeNtE,Tienda 5,Lima,Centro,Clavos,FIJACIONES,8.4,Diego Flores,La mOlInA,Nuevo,2025-11-27
+460,2026-05-07,5,17,32.03,0,Telefono,Tarjeta,2 aprox,42.57,Cliente frecuente,TiEnDa 6,Los Olivos,Oeste,cemento,Materiales,32.03,Ana Rojas,Callao,Corporativo,2025-10-10
+461,2026-01-28,2,14,32.03,8,Presencial,Efectivo,1,60.15,Cliente frecuente,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Luis Gomez,,PrEmIuM,2025-04-13
+462,2026-04-06,4,1,4.28,12,App,Yape,1,0.5,Cliente frecuente,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,Diego Ramos,Comas,Regular,2025-09-27
+463,2026-04-05,4,,, 10 ,WhatsApp,Yape,1,38.64,OK,Tienda 2,Los Olivos,Norte,Brocha,Herramientas,13.06,Camila Sayan,Villa El Salvador,  Corporativo ,2025-07-09
+464,2026-06-20,5,13 aprox,8.4,15,Web,Plin,5,32.69,,Tienda 1,Miraflores,Oeste,Clavos,FIJACIONES,8.4,Ana Rojas,Callao,Corporativo,2025-10-10
+465,2026-05-06,5,12,10.08,0,WhatsApp,Plin,5,28.5,OK,Tienda 7,San Juan de Lurigancho,Sur,Foco LED,Electricidad,10.08,Andre Paredes,,,2025-02-03
+466, 2026-01-15 ,4,8,10.08,0,App,Tarjeta,5,46.24,OK,Tienda 5,Lima,Centro,Foco LED,Electricidad,10.08,,Ventanilla,Premium,2025-03-03
+467,02-05-2026,6,5,43.57,15,Telefono,Plin,4,49.77 aprox,,Tienda 3,La Molina,EsTe,Cable electrico,Electricidad,43.57,Fiorella Mendoza,Miraflores,Premium,2025-02-09
+468,2026/01/01,2, 10 ,4.28,15,Telefono,Yape,5,45.89,,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Victor Soto,Los Olivos,Nuevo,2025-05-04
+469,2026-02-09,,20,32.03 aprox,20,,Plin,5,21.44,,Tienda 7,San Juan de Lurigancho,Sur,cemento,Materiales,32.03,Jorge Vargas,lima,Corporativo,2025-08-18
+470,20-02-2026,8,5, 19.54 ,10,Telefono,Tarjeta,3,60.07,,Tienda 1,Miraflores,Oeste,Tubo PVC,Gasfiteria,19.54,Jose Navarro,AtE,Corporativo,2025-10-12
+471,2026-01-21,8,16,4.28,20,Web,Transferencia,2,59.07,Promocion,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Ana Vargas,Villa El Salvador,Premium,2025-09-04
+472,2026-03-07,7,9,,12,Web,Yape,4,18.99,Cliente frecuente,Tienda 1,Miraflores,Oeste,Brocha,Herramientas,13.06,Diana Rojas,Villa El Salvador,frecuente,2025-05-27
+473,2026-05-17,1,11,32.03,10,Presencial,transferencia,4,27.81,OK,Tienda 4,Los Olivos,Este,cemento,Materiales,32.03,Valeria Cruz,Lima,Corporativo,2025-04-07
+474,2026-04-26,2,10,4.28,8,Presencial,Plin,4,44.04,OK,Tienda 4,Los Olivos,Este,Lija,ACABADOS,4.28,Ana Rojas,Callao,Corporativo,2025-10-10
+475,2026/06/11,4,17,13.06,20 aprox,WhatsApp,EFECTIVO,3,21.11,Revisar,Tienda 3,La Molina,EsTe,Brocha,Herramientas,13.06,Andre Sayan,Ventanilla,Corporativo,2025-10-06
+476,2026-03-13,4,12,43.57,5,WeB,Plin,3,242.71,,Tienda 1,Miraflores,Oeste,Cable electrico,Electricidad,43.57,diego rojas,Los Olivos,Nuevo,2025-08-07
+477,2026-03-26,6,13,19.54,20,whatsapp,Efectivo,4,,Revisar,Tienda 2,Los Olivos,Norte,Tubo PVC,Gasfiteria,19.54,Sofia Cruz,Chorrillos,Frecuente,
+478,2026-05-17,1,11,65.77,5,Web,YaPe,5,67.73,,TiEnDa 6,Los Olivos,Oeste,PINTURA BLANCA,Pinturas,65.77,Camila Gomez,CoMaS,Premium,2025-09-01
+479,2026-02-13,5,6,S/ 10.08,5,presencial,plin,2,46.97,Promocion,Tienda 4,Los Olivos,Este,Foco LED,Electricidad,10.08,Andre Reyes,SaN JuAn dE LuRiGaNcHo,Regular,2025-09-03
+480,2026-01-18,5,5,32.03,0,App,Plin,4,26.7,Revisar,Tienda 4,Los Olivos,Este,cemento,Materiales,32.03,Luis Gomez,,PrEmIuM,2025-04-13
+481,2026-06-12,2,78.58,32.03,,Web,Yape,1,81.05,OK,Tienda 5,Lima,Centro,cemento,Materiales,32.03,Maria Navarro,La Molina,Premium,2025-12-07
+482,2026-03-11,6,9,43.57,0,Presencial,Transferencia,2,55.35,Cliente frecuente,Tienda 7,San Juan de Lurigancho,Sur,Cable electrico,Electricidad,43.57,Jose Huaman,Lima,frecuente,2025-01-14
+483,2026-04-25,5,11,13.06,0,app,Efectivo,5,16.46,  OK ,TiEnDa 6,Los Olivos,Oeste,Brocha,Herramientas,13.06,Luis Gomez,,PrEmIuM,2025-04-13
+484,2026-02-16,1,16,65.77,5,Presencial,Efectivo,4,71.39,OK,Tienda 7,San Juan de Lurigancho,Sur,PINTURA BLANCA,Pinturas,65.77,Camila Mendoza,  Ventanilla ,Frecuente,2025-07-24
+485,2026-03-28,7,2,13.06, 12 ,,Transferencia,1,46.36,OK,Tienda 3,La Molina,EsTe,Brocha,Herramientas,13.06,Fiorella Ramos,San Juan de Lurigancho,Premium,2025-06-21
+486,2026-03-10,7,9,32.03,0,WhAtSaPp,  Efectivo ,3,48.11,Revisar,Tienda 1,Miraflores,Oeste,cemento,Materiales,32.03,Miguel Rojas,Lima,regular,08-08-2025
+487,20/02/2026,7,8,4.28,0,App,Tarjeta,1,28.94,Promocion,Tienda 2,Los Olivos,Norte,Lija,ACABADOS,4.28,Ana Rojas,Callao,Corporativo,2025-10-10
+488,,2,8,186.75,12,WhAtSaPp,,1,205.63,Cliente frecuente,Tienda 5,Lima,Centro,Taladro,Herramientas,186.75,Claudia Paredes,MiRaFlOrEs,Frecuente,2025-07-28
+489,2026-05-19,8,11 aprox,10.08,0,Web,Plin,2,33.89,Revisar,TiEnDa 6,Los Olivos,Oeste,Foco LED,Electricidad,10.08,Sofia Vargas,Miraflores,Nuevo,
+490,2026-02-16, 1 ,15,43.57,20,whatsapp,YAPE,1,64.94,,Tienda 5,Lima,Centro,Cable electrico,Electricidad,43.57,diego rojas,Los Olivos,Nuevo,2025-08-07
+491,2026-02-15, 1 ,12,4.28,12,Web,Plin,1,S/ 6.12,,Tienda 1,Miraflores,Oeste,Lija,ACABADOS,4.28,Marco Campos,Miraflores,Regular,2025-01-02
+492,2026-01-20,, 5 ,43.57,5,Telefono,Tarjeta,4,84.24,,Tienda 7,San Juan de Lurigancho,Sur,Cable electrico,Electricidad,43.57,Ana Campos,San Miguel,Frecuente,2025-09-04
+493,2026/05/18,1,20,,12,Telefono,  Efectivo ,1,29.5,OK,Tienda 7,San Juan de Lurigancho,Sur,Clavos,FIJACIONES,8.4,Jose Sayan,Los Olivos,Regular,2025-03-09
+494,2026-04-18,8,10,43.57,8,Web,TaRjEtA,2,79.37,Promocion,Tienda 7,San Juan de Lurigancho,Sur,Cable electrico,Electricidad,43.57,Claudia Quispe,Miraflores,PrEmIuM,2025-04-17
+495,2026-02-13,4,5,65.77,0,App,Tarjeta,5,78.14,OK,Tienda 7,San Juan de Lurigancho,Sur,PINTURA BLANCA,Pinturas,65.77,Ana Rojas,Callao,Corporativo,2025-10-10
+496,2026-04-26,,15,4.28,0,Telefono,  Efectivo ,2,19.46,Revisar,Tienda 5,Lima,Centro,Lija,ACABADOS,4.28,Lucia Cruz,Miraflores,  Frecuente ,
+497,2026-01-28,8,,186.75,8,WhatsApp,Transferencia,5,217.52,Cliente frecuente,Tienda 1,Miraflores,Oeste,Taladro,Herramientas,186.75,Elena Soto,Villa El Salvador,Corporativo,2025-11-26
+498,05/05/2026,5,20,S/ 8.4,8,WhatsApp,Efectivo,1,15.44,OK,Tienda 3,La Molina,EsTe,Clavos,FIJACIONES,8.4,Marco Paredes,,Regular,2025-08-08
+499,2026-01-06,4,,10.08, 0 ,Telefono,Transferencia,2,21.94,Revisar,Tienda 2,Los Olivos,Norte,Foco LED,Electricidad,10.08,,Comas,Premium,2025-05-08
+500,13-04-2026,8,16,32.03,0,WhatsApp,Yape,2,45.22,,Tienda 3,La Molina,EsTe,cemento,Materiales,32.03,Diego Flores,La mOlInA,Nuevo,2025-11-27

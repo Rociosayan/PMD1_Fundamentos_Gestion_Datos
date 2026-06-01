@@ -1,0 +1,501 @@
+id_parada,fecha_operacion,tiempo_operacion_h,unidades_producidas,defectos_unidades,temperatura_promedio_c,velocidad_real_u_h,causa_parada,criticidad,duracion_parada_min,costo_parada_soles,observacion,turnos_nombre,turnos_supervisor,turnos_hora_inicio,turnos_hora_fin,procesos_nombre,procesos_familia,procesos_temperatura_objetivo_c,procesos_velocidad_objetivo_u_h,maquinas_nombre,maquinas_linea,maquinas_tipo_maquina,maquinas_antiguedad_anios
+1,2026-03-20,9.09,1580, 23 ,159.38,218.1,Falta de insumo,alta,53.86,1686.91 aprox,,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Empacadora 04,Linea B,Empaque,3.64
+2,2026-04-18,10.84,5726,34,29.16,641.04,Limpieza  no  programada,Media,68.26,2164.96,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Corte de piezas,transformacion,38.0,620.0,Empacadora 04,Linea B,Empaque,3.64
+3,2026-03-22,4.36,1846,12,43.65,491.68,  Falla mecanica ,Baja,51.22,1119.83,,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,prensa 02,Linea A,Prensado,6.78
+4,2026-04-21, 5.81 ,,,27.12,"312,74",Mantenimiento correctivo,Alta,109.64,2499.95,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+5,2026-04-26,8.83,2228,23,78.78,330.9,ESPERA DE OPERADOR,media, 36.63 ,1319.67,Validar causa,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Mezcladora 01,Linea A,Mezclado,4.18
+6,2026-04-18,6.2,1563,25, 146.73 ,270.94,Falla electrica,Alta,88.75,2035.74,,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Selladora 08,Linea D,Sellado,7.96
+7,2026-06-16,10.23,1921 aprox,23,30.1,277.07,  Mantenimiento correctivo ,  Critica , 90.1 ,2915.24,Validar causa,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,Llenadora 07,Linea D,Llenado,5.65
+8,2026-04-17,9.48,3104,13,66.7,425.02,FaLtA De iNsUmO,Media,49.58,1156.53,Revisar sensor,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+9,2026-04-11,3.12, 794 ,19,63.91,377.44,CAMBIO DE FORMATO,Baja,40.03,1093.66,,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,prensa 02,Linea A,Prensado,6.78
+10,2026-04-05,,5063,15,25.03,584.58,Cambio de formato,Baja,26.37,994.54,Validar causa,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,prensa 02,Linea A,Prensado,6.78
+11,2026-03-08,2.1,353,16,157.83,205.99,Mantenimiento correctivo,  Alta ,62.82,1549.83,Revisar sensor,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Empacadora 04,Linea B,Empaque,3.64
+12,2026-02-02, 5.71 ,1138,13,151.95,264.6,CaMbIo dE FoRmAtO,Media,43.38,1407.02,,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,prensa 02,Linea A,Prensado,6.78
+13,2026-06-18,7.57,5472,20,17.36,,Ajuste de calidad,Baja,19.55,766.72 aprox,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+14, 2026-05-28 ,11.39,4018,17,73.25,"437,87",LiMpIeZa nO PrOgRaMaDa,Media,30.48,1074.51,,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+15,2026-01-27,8.82,4114,12,,504.96,Falla mecanica,MeDiA,53.7,1144.2 aprox,OK,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Llenadora 07,Linea D,Llenado,5.65
+16,2026-01-24,8.18,5404,18,29.95,804.89,  Falla electrica ,Alta,65.52,1789.75,Revisar sensor,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,prensa 02,Linea A,Prensado,6.78
+17,2026-03-15,8.84,5986,19,19.26,774.46,Espera de operador,Baja,41.04,1233.07,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Horno 05,linea c,TeRmIcO,10.14
+18,2026-02-10,"10,6",7109,14,19.17,690.13,Limpieza no programada,Baja,41.98, 948.73 ,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Empacadora 04,Linea B,Empaque,3.64
+19,2026-06-25,3.16,776,22,25.33,293.79,Limpieza no programada,MeDiA,43.9,1444.78,,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+20, 2026-04-08 ,9.1,2762,12,76.36,395.56,MANTENIMIENTO CORRECTIVO,Media,49.19,1139.77,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Cortadora 03,Linea B,Corte,5.06
+21,2026-06-20,4.52,2289,10,36.04,557.41,Cambio de formato,Media,42.66,1112.86,Revisar sensor,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,prensa 02,Linea A,Prensado,6.78
+22,2026-06-23,5.24,1527,13,39.08,398.41,cambio de formato,Media,44.04,1347.47,Validar causa,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,prensa 02,Linea A,Prensado,6.78
+23,2026-04-07,10.5,2042,19,,243.75,Espera de operador,CRITICA, 85.07 ,,,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Selladora 08,Linea D,Sellado,7.96
+24,06/01/2026,10.78,2348,23,78.7,319.53,Espera de operador,Media,34.69,917.48,Revisar sensor,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Cortadora 03,Linea B,Corte,5.06
+25,2026-01-27,10.39,1684,17,158.49,197.82,Cambio de formato,Media,35.96,1166.01,,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Mezcladora 01,Linea A,Mezclado,4.18
+26,2026-03-26,4.12 aprox,2334,26,16.06,760.91,Espera  de  operador,Alta,52.85,1302.05,,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Empacadora 04,Linea B,Empaque,3.64
+27,2026-03-10,10.25,4241,30,44.6,470.28,Falla mecanica,Baja,44.89,1192.94,,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,prensa 02,Linea A,Prensado,6.78
+28,2026-01-16,7.77,4052,11, 28.17 ,603.32,Espera de operador,Baja,40.03,953.05,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Horno 05,linea c,TeRmIcO,10.14
+29,2026-06-22,8.77,1776,33,167.23 aprox,220.89,Falla electrica,Baja,51.01,1577.8,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Selladora 08,Linea D,Sellado,7.96
+30,2026-01-07,4.47,1558,24,25.53,364.24,,Media,38.85,1131.25,Validar causa,Manana,Ana Torres,06:00,14:00,Control de calidad,CaLiDaD,23.0,350.0,Horno 05,linea c,TeRmIcO,10.14
+31, 2026-03-22 ,2.57, 1023 ,14, 22.81 ,523.08,Espera de operador,ALTA,47.06,1270.18,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Llenadora 07,Linea D,Llenado,5.65
+32,2026-02-22,2.34,469,21,35.7,264.87,Falla electrica,alta,55.04,1406.72,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Selladora 08,Linea D,Sellado,7.96
+33,2026-03-10,10.25,4241,30,44.6,470.28,Falla mecanica,Baja,44.89,1192.94,,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,prensa 02,Linea A,Prensado,6.78
+34,,8.46,2009,11,149.25,244.31,Falla electrica,Media, 67.54 ,"1861,48",,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,prensa 02,Linea A,Prensado,6.78
+35,2026-04-25,"2,83",813,19,43.35,426.77,Falta de insumo,Baja,40.5,1538.69,Revisar sensor,Noche,Diana Flores,22:00,06:00,Preparacion de insumo,Preparacion,45.0,520.0,Llenadora 07,Linea D,Llenado,5.65
+36,2026-03-04,,1245,20,64.11,299.99,LiMpIeZa nO PrOgRaMaDa,MeDiA,38.72,1256.95,Revisar sensor,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+37,2026-06-21,2.31,802,23,16.33,506.58,Cambio de formato,Media,53.8 aprox,S/ 1364.69,OK,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,prensa 02,Linea A,Prensado,6.78
+38,2026-04-10,,1137,23,74.27,310.38,Falla electrica,Media,48.71,1515.04,Revisar sensor,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Mezcladora 01,Linea A,Mezclado,4.18
+39,2026-02-25,11.3,2120,31,29.7,253.04,ESPERA DE OPERADOR,Media,44.18,1204.72,,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Selladora 08,Linea D,Sellado,7.96
+40,02/03/2026,7.12,2408,29,38.51,464.15,LIMPIEZA NO PROGRAMADA,Media,60.13,2046.25,,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Horno 05,linea c,TeRmIcO,10.14
+41,2026-01-08,2.97,934,7,"47,09",400.29,Ajuste de calidad,MEDIA,40.52,1287.62,OK,Noche,Diana Flores,22:00,06:00,Preparacion de insumo,Preparacion,45.0,520.0,Empacadora 04,Linea B,Empaque,3.64
+42,2026-06-04,"10,94",,30,49.17,664.05,Mantenimiento correctivo,Media,"69,02",,,Manana,Ana Torres,06:00,14:00,Corte de piezas,transformacion,38.0,620.0,Horno 05,linea c,TeRmIcO,10.14
+43,21-03-2026,"3,83",736,15,20.23,293.74,Falla mecanica,Alta,65.97,1641.96,Revisar sensor,Manana,Ana Torres,06:00,14:00,Control de calidad,CaLiDaD,23.0,350.0,prensa 02,Linea A,Prensado,6.78
+44,2026-02-07,4.92,1218,23,20.41, 254.25 ,Espera de operador,Baja,31.85, 961.9 ,,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,prensa 02,Linea A,Prensado,6.78
+45,2026-04-28,3.44,1146,21,23.88,506.27,Espera de operador,Media,51.89,1485.48,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Horno 05,linea c,TeRmIcO,10.14
+46,2026-05-10, 10.17 ,4320,23,28.3,615.87,Cambio  de  formato,Media,41.16,1146.32,OK,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+47,2026-02-20,10.15,4039,9,36.04,529.81,FALLA ELECTRICA,Media,59.68,1803.38,OK,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+48,2026-02-20,10.15,4039,9,36.04,529.81,FALLA ELECTRICA,Media,59.68,1803.38,OK,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+49,2026-04-17,7.1,2990,28,36.54 aprox, 640.17 ,Falta de insumo,Media,51.65,,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+50,2026-05-20,5.92,1991,13,39.09,,Falla mecanica,Media,49.09,1367.13,,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Empacadora 04,Linea B,Empaque,3.64
+51,2026-04-18,6.2,1563,25, 146.73 ,270.94,Falla electrica,Alta,88.75,2035.74,,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Selladora 08,Linea D,Sellado,7.96
+52,2026-04-22,2.57, 857 ,7,44.61,502.14,Falla mecanica,,42.36,1057.23,,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,prensa 02,Linea A,Prensado,6.78
+53,,2.55,389,28,18.52,221.61,Cambio  de  formato,critica,76.28,3226.97,,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+54,,11.09,6311,34,29.49 aprox,777.6,Cambio de formato,Alta,54.11,1189.8,,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Horno 05,linea c,TeRmIcO,10.14
+55,2026-06-18,,1837,34,78.15,393.98,Falla mecanica,Media,47.18,1231.21 aprox,,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,prensa 02,Linea A,Prensado,6.78
+56,2026-05-04,2.63,1789,15,21.3,745.15,Mantenimiento correctivo,BaJa,42.79,1294.23,Validar causa,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Cortadora 03,Linea B,Corte,5.06
+57,2026-05-18,5.56,1413,20,32.44,267.36,Espera de operador,Alta,60.81,1611.36,OK,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+58,2026-05-02,5.99, 3675 ,31,30.85,775.0,Ajuste de calidad,Media,59.37,"1875,98",,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Cortadora 03,Linea B,Corte,5.06
+59,2026-06-27,8.99,2164,25, 31.09 ,326.24 aprox,Ajuste de calidad,Media,66.3,2336.18,,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Mezcladora 01,Linea A,Mezclado,4.18
+60,2026-03-14,"3,58",1475,19 aprox,16.78,621.03,cambio de formato,  Alta ,"59,02",1531.31,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Empacadora 04,Linea B,Empaque,3.64
+61,2026-04-25,8.92,2457,27,31.43,325.47,Falla mecanica,Media,61.43,1535.91,Revisar sensor,Manana,Ana Torres,06:00,14:00,Control de calidad,CaLiDaD,23.0,350.0,Selladora 08,Linea D,Sellado,7.96
+62,2026-02-01,6.24,1862,10,70.47,322.76,Espera de operador,Alta,44.75,1274.57,ok,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Empacadora 04,Linea B,Empaque,3.64
+63,2026-02-04,7.04,3851,17,25.7,706.63,Ajuste de calidad,Media,52.31,1821.99,Revisar sensor,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+64,2026-02-01,4.98, 1247 ,14,23.22,282.72,Falla mecanica,Baja,51.48,1417.45,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Control de calidad,CaLiDaD,23.0,350.0,Selladora 08,Linea D,Sellado,7.96
+65,2026-04-18,6.2,1563,25, 146.73 ,270.94,Falla electrica,Alta,88.75,2035.74,,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Selladora 08,Linea D,Sellado,7.96
+66,28/01/2026,2.98,1103,19,19.41,536.77,Mantenimiento correctivo,Alta,69.2,"2065,66",Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,prensa 02,Linea A,Prensado,6.78
+67,2026-05-27,9.33,2487,21,37.67,322.04,Espera  de  operador,,51.12,1568.57,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,prensa 02,Linea A,Prensado,6.78
+68,2026-03-20,9.57,3274,11,44.83,454.07,Espera de operador,Media,37.53,984.5,,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,prensa 02,Linea A,Prensado,6.78
+69,2026-03-09,9.31,1392,29,148.53 aprox,183.66,Falla mecanica,Media,"46,93",1166.38,OK,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Mezcladora 01,Linea A,Mezclado,4.18
+70,2026-04-15,10.88,3192, 19 ,72.31,327.86,Falla electrica,MEDIA,55.17,1432.73,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+71,2026-06-14,5.63,1669,20,77.6,307.52,Limpieza no programada,Media,37.63,1301.28,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+72,2026-05-19,4.0,2646,20,27.97,713.35,Falta de insumo,Baja, 43.68 , 1135.63 ,,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+73,2026-03-18,7.43,4008,11,22.14,752.39,Falta de insumo,Baja, 25.88 ,834.88,,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Mezcladora 01,Linea A,Mezclado,4.18
+74,2026-01-28,2.42,,17,29.05,515.22,Espera de operador,Critica,177.54,7042.6,,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Cortadora 03,Linea B,Corte,5.06
+75,2026-03-17,5.73 aprox,3199, 14 ,"21,69",714.36,Ajuste de calidad,Media,50.07,1224.49,,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Mezcladora 01,Linea A,Mezclado,4.18
+76,2026-01-10,"10,61",1451,7,154.82,199.11,Limpieza no programada,Baja,29.14,,OK,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+77,2026-04-14,9.69,6845,29,14.2,925.44,Ajuste de calidad,baja,62.15,1858.27,Revisar sensor,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Selladora 08,Linea D,Sellado,7.96
+78,2026-04-05,5.54,1093,18,152.32,231.08,falta de insumo,CRITICA,67.64,3199.35,,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Cortadora 03,Linea B,Corte,5.06
+79,2026-06-12,6.78,1603,23,"17,68",355.71,,Media, 45.25 ,1577.17,,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Mezcladora 01,Linea A,Mezclado,4.18
+80,2026-06-07,2.45,2001,23,27.17,926.5,Mantenimiento correctivo,Media,53.23,1827.98,Revisar sensor,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Horno 05,linea c,TeRmIcO,10.14
+81,2026-05-21,7.73,3062,36,51.86,556.75,Falla electrica,Media,65.99,1481.58,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Llenadora 07,Linea D,Llenado,5.65
+82,24-04-2026,"8,82",3897,22,45.54,524.14,Mantenimiento correctivo,Media,64.45,1919.72,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Horno 05,linea c,TeRmIcO,10.14
+83,22-02-2026,5.01,1976,23,47.33,523.35,Limpieza no programada,Media, 35.59 ,840.92,Validar causa,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+84,2026-03-04,6.29,2156,14,45.15,490.26,Limpieza no programada,Media, 35.82 ,1260.79,,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,prensa 02,Linea A,Prensado,6.78
+85,2026/03/26,4.6,2336 aprox,27,27.93,647.15,Ajuste de calidad,Alta,71.57,2490.17,Validar causa,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Horno 05,linea c,TeRmIcO,10.14
+86,2026-03-25,7.66,2815,18,76.58,403.54,Falta de insumo,alta, 55.31 ,1920.43,OK,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Cortadora 03,Linea B,Corte,5.06
+87,2026-01-21,9.14,3081,15,44.8,437.69,Limpieza no programada,Media,46.52,"1083,33",VALIDAR CAUSA,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Horno 05,linea c,TeRmIcO,10.14
+88,2026-01-18,8.37,5621,26,17.39,753.84,Falla electrica,Baja,51.07,1859.54,Validar causa,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+89,2026-06-07, 8.39 ,2636,8,47.27,431.28,Falla mecanica,Alta,52.38,1192.44,,Noche,Diana Flores,22:00,06:00,Preparacion de insumo,Preparacion,45.0,520.0,Mezcladora 01,Linea A,Mezclado,4.18
+90,2026-05-07,10.91,1940,32,161.79,226.28,  Mantenimiento correctivo ,Media,58.18,1864.36,OK,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Empacadora 04,Linea B,Empaque,3.64
+91,2026-06-19,7.24, 3918 ,19,17.55,692.09,,Baja,50.53,1718.59,ReViSaR SeNsOr,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,prensa 02,Linea A,Prensado,6.78
+92,2026-02-10,9.74,2139,19,149.89,225.67,Falla electrica,Alta,60.29,,,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Horno 05,linea c,TeRmIcO,10.14
+93,2026-05-13,6.71,3746,11 aprox,28.0,773.44,Falla electrica,Critica,76.94,2410.71,OK,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Mezcladora 01,Linea A,Mezclado,4.18
+94,2026-02-10,2.49,1319,27,18.41,738.21,Falta de insumo,MEDIA,50.22,1314.54,,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+95,2026-06-10,9.73,2023, 30 ,32.62,258.23,Ajuste de calidad,Media,48.65,1159.28,OK,Manana,Ana Torres,06:00,14:00,Control de calidad,CaLiDaD,23.0,350.0,Horno 05,linea c,TeRmIcO,10.14
+96,2026-06-08,6.34,1266,14,22.68,251.55,Falla mecanica,Baja,26.82,811.47,,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Llenadora 07,Linea D,Llenado,5.65
+97,2026-06-08,6.57,2634,20 aprox,32.24,551.52,Limpieza no programada,Baja,"28,3",988.56,OK,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Selladora 08,Linea D,Sellado,7.96
+98,2026-04-24,6.54,3794,8,24.16 aprox,661.17,Ajuste  de  calidad,Critica,54.21,1901.08,,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Cortadora 03,Linea B,Corte,5.06
+99,2026-06-05,9.65,5810,27,32.9,759.16,Mantenimiento correctivo,Alta,55.91,1626.78,,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+100,2026-03-17,5.77,3132,27,34.11,554.67,mantenimiento correctivo,Media,57.95,1290.15,OK,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Llenadora 07,Linea D,Llenado,5.65
+101,2026-04-25,8.02,3276,4,45.06,520.12,Falta de insumo,Media,30.42,893.28,,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Cortadora 03,Linea B,Corte,5.06
+102,23-06-2026,6.55,3255,20,44.09,561.67,Espera de operador,Critica,"57,84",2633.71,,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Mezcladora 01,Linea A,Mezclado,4.18
+103,05/05/2026, 6.24 ,2695,15,36.87,491.35,Espera de operador,Media,36.64,S/ 928.76,,Manana,Ana Torres,06:00,14:00,Corte de piezas,transformacion,38.0,620.0,Llenadora 07,Linea D,Llenado,5.65
+104,2026-04-27,6.89,1390,19, 150.36 ,225.33,Mantenimiento correctivo,Baja,35.81,1095.97,Validar causa,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+105,16/01/2026,10.1,1763,16,158.34,255.91,Ajuste de calidad,,24.98,573.99,,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Llenadora 07,Linea D,Llenado,5.65
+106,2026-01-22,7.49,1905, 8 ,66.49,362.68,Falla electrica,ALTA,53.97,1567.94,,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+107,2026-05-26,6.33, 1458 ,8,29.61,246.95,,Alta,35.09,1060.17,,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+108,2026-01-22,6.11,2488,13,39.82,481.99,Cambio de formato,Media,45.43,1069.78,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Corte de piezas,transformacion,38.0,620.0,Horno 05,linea c,TeRmIcO,10.14
+109,2026-05-03,2.92,945,19,50.62,463.51,Limpieza no programada,Baja,34.97,817.84,,Noche,Diana Flores,22:00,06:00,Preparacion de insumo,Preparacion,45.0,520.0,Cortadora 03,Linea B,Corte,5.06
+110,2026-05-21,2.92,761,4,69.01,355.64,Falta de insumo,media,41.75,1556.84,Validar causa,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Cortadora 03,Linea B,Corte,5.06
+111,2026-04-07,8.85,4428,33,13.7,703.65,Cambio de formato,baja,48.14,1263.78,OK,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Mezcladora 01,Linea A,Mezclado,4.18
+112,2026-01-09,4.51,1286,18,18.69,348.31,Cambio de formato,Baja,"24,97","885,21",OK,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Empacadora 04,Linea B,Empaque,3.64
+113,2026-02-22,4.55 aprox,774,23,149.51,217.14,Falla electrica,Critica,93.98,2938.37,OK,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Selladora 08,Linea D,Sellado,7.96
+114,18/04/2026,11.06,9133,25, 29.02 ,852.13,Cambio de formato,Media,46.04,"1232,46",AtEnCiOn mAnTeNiMiEnTo,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+115,23/05/2026,,483,5,152.78,279.43,Limpieza no programada,Baja,124.94,2583.49,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Cortadora 03,Linea B,Corte,5.06
+116,2026-04-19,3.55,1453,18,32.03,506.62,Falta de insumo,Media,,1529.37,REVISAR SENSOR,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Llenadora 07,Linea D,Llenado,5.65
+117,2026-01-25,7.35,1596,16,156.5,238.62,falta de insumo,Media,35.17,1311.5,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+118,2026-06-27,8.04,2652,22,21.72,"351,93",EsPeRa dE OpErAdOr,Media,37.61,944.37,Revisar sensor,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Selladora 08,Linea D,Sellado,7.96
+119,2026-06-03,10.27,3198,8,44.13,424.68,Falta de insumo,Alta,36.27,1368.43,,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+120,2026-05-04,2.63,1789,15,21.3,745.15,Mantenimiento correctivo,BaJa,42.79,1294.23,Validar causa,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Cortadora 03,Linea B,Corte,5.06
+121,2026-05-23,7.86,1392,20,160.76,217.3,Espera de operador,Media,33.37,1071.99,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,prensa 02,Linea A,Prensado,6.78
+122,2026-02-10,"10,6",7109,14,19.17,690.13,Limpieza no programada,Baja,41.98, 948.73 ,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Empacadora 04,Linea B,Empaque,3.64
+123,26/04/2026,11.5,2577,22,23.16,243.39,ajuste de calidad,Alta,74.25,2211.89,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Selladora 08,Linea D,Sellado,7.96
+124,2026-02-28,4.32,2337,26,28.2,776.12,  Cambio de formato ,CrItIcA,69.94,3495.09,,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+125,2026-06-20,8.97,4135,30,13.69,514.79,Limpieza no programada,Alta,63.8,2188.57,Validar causa,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+126,2026-01-19,11.38,3817,13,64.75,442.54,Espera de operador,CRITICA,93.51,2100.3,,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Horno 05,linea c,TeRmIcO,10.14
+127,2026-05-14,6.95,2025,38,34.12,330.49,Falta de insumo,,63.1,1674.99,,Manana,Ana Torres,06:00,14:00,Control de calidad,CaLiDaD,23.0,350.0,Mezcladora 01,Linea A,Mezclado,4.18
+128,2026-04-12,8.94,2535,16,65.69,343.98,Ajuste de calidad,Media,42.27,1148.84,Revisar sensor,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,Llenadora 07,Linea D,Llenado,5.65
+129,2026-05-04,5.92,899,13,151.28,222.65,CaMbIo dE FoRmAtO,baja,37.19,830.15,Revisar sensor,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Selladora 08,Linea D,Sellado,7.96
+130,2026-05-13,2.11,512,8,31.11,293.95,Ajuste  de  calidad,BAJA,30.99,1027.19,,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+131,2026-02-08,3.69,2084,17,32.09 aprox,"683,22",Cambio de formato,Critica,59.1 aprox,2266.22,OK,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Cortadora 03,Linea B,Corte,5.06
+132,2026-04-18,10.27,2154,16,30.24,260.16,  Ajuste de calidad ,Baja,24.0, 767.77 ,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Empacadora 04,Linea B,Empaque,3.64
+133,2026-02-05,10.87 aprox,2500,17,"153,16",239.74,Espera de operador,Media,23.72,897.9,,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Empacadora 04,Linea B,Empaque,3.64
+134,2026-03-22,2.77,932,30,59.8,406.29,Ajuste de calidad,media,57.65,1497.42,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,prensa 02,Linea A,Prensado,6.78
+135,2026-05-17,4.27,580,24,160.4,187.88,Falta de insumo,Baja,20.1,630.5,,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Mezcladora 01,Linea A,Mezclado,4.18
+136,2026-06-17,,3167,11,38.97,450.81,Falla mecanica,Media,47.09,1226.27,Revisar sensor,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Selladora 08,Linea D,Sellado,7.96
+137, 2026-03-27 ,9.06,3281,19,43.52,372.28,mantenimiento correctivo,Media,59.93,1668.27,Validar causa,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,prensa 02,Linea A,Prensado,6.78
+138,2026-04-24,8.25,5018,16,28.8,888.98,Mantenimiento correctivo,Baja,37.44,1223.76,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Mezcladora 01,Linea A,Mezclado,4.18
+139,2026-04-03, 2.15 , 433 ,21,22.91,231.46,Mantenimiento correctivo,Media,57.33,2046.88,,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,prensa 02,Linea A,Prensado,6.78
+140,2026-06-13,11.07,3858,6,66.7,373.04,Cambio de formato,Media,36.9,1079.3,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+141,2026-06-27,5.33 aprox,2143,13,36.02,605.4,Falla  electrica,Alta,71.07,1693.51,Validar causa,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Selladora 08,Linea D,Sellado,7.96
+142,2026-05-23, 9.56 ,2701,31,38.11,300.88,Espera de operador,Critica,77.56,2697.55,OK,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+143,2026-01-23,6.73,3322,11,40.62,560.8,Limpieza no programada,  Baja ,19.3 aprox,569.83,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Cortadora 03,Linea B,Corte,5.06
+144,2026-01-15,5.68 aprox,2678,28,43.03,612.12,Espera de operador,Media,47.59,1594.08,,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Horno 05,linea c,TeRmIcO,10.14
+145,2026-05-01,2.73,674, 17 , 26.61 ,266.85,Cambio de formato,Critica, 71.72 ,2076.8,,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+146,2026-03-17,5.77,3132,27,34.11,554.67,mantenimiento correctivo,Media,57.95,1290.15,OK,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Llenadora 07,Linea D,Llenado,5.65
+147,2026-05-12,2.87,1621,12,23.67,703.68,Espera de operador,Alta,49.68,1191.37,,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Selladora 08,Linea D,Sellado,7.96
+148, 2026-01-09 , 6.54 ,3509,16,25.36,753.96,  Falta de insumo ,Media,33.15,852.21,   ,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Mezcladora 01,Linea A,Mezclado,4.18
+149,2026-06-13,6.48,1329,15,157.66,242.76,Mantenimiento correctivo,Media,53.9,1804.54,atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Horno 05,linea c,TeRmIcO,10.14
+150,2026-04-09,2.83,856,15,30.63,322.92,Falta de insumo,Baja,33.72, 988.81 ,Validar causa,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+151,2026-04-24,11.41,6965,31,14.26,748.55,Cambio de formato,Alta,61.65 aprox,1682.34,,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Selladora 08,Linea D,Sellado,7.96
+152,2026-05-09,10.63,2470,19,24.52,269.31,Falta de insumo,MeDiA,50.74,1405.55,OK,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Cortadora 03,Linea B,Corte,5.06
+153,2026-04-21,2.83,1502,20,32.55,572.03,Cambio de formato,Alta,49.69,S/ 1513.33,OK,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Empacadora 04,Linea B,Empaque,3.64
+154,2026-06-24,8.53,3684,2,23.99,542.88 aprox,Falla electrica,,54.61 aprox,1510.58,ReViSaR SeNsOr,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Empacadora 04,Linea B,Empaque,3.64
+155,2026-02-05,10.79 aprox,5984,19,29.39,836.82,Falta de insumo,Media,42.92,1452.89,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,prensa 02,Linea A,Prensado,6.78
+156,2026-04-24,7.63,2238,14,38.78, 451.04 ,Mantenimiento correctivo,Media,47.87,1731.04,OK,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Selladora 08,Linea D,Sellado,7.96
+157,2026-05-09,8.33,5163,12,23.44,,Falla mecanica,Media,45.51,1334.22,Validar causa,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Cortadora 03,Linea B,Corte,5.06
+158,2026-02-20,5.79 aprox,954,23,161.72 aprox,233.43,Falla electrica,Baja,33.7,1106.98,Revisar sensor,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Llenadora 07,Linea D,Llenado,5.65
+159,20-01-2026,2.94,1733,5,24.8,677.8,Falla mecanica,Media,38.81 aprox,1397.56,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Cortadora 03,Linea B,Corte,5.06
+160,2026-03-19,2.02,358,17,"157,05",207.56,Falla mecanica,Baja,30.4,983.67,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+161,2026-05-21,,1611,14,45.97 aprox,526.88,ajuste de calidad,Media,41.46 aprox,984.37,Validar causa,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Selladora 08,Linea D,Sellado,7.96
+162,2026-05-13,8.91,3821,16 aprox, 18.88 ,658.22,Cambio de formato,Alta,49.34,1540.45,Revisar sensor,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Horno 05,linea c,TeRmIcO,10.14
+163,2026-03-15,6.08,1088,12,31.33,269.11,Mantenimiento correctivo,Baja,49.25,1315.7,OK,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+164,2026-04-03,4.32,3648,19,28.59,869.51,Falta de insumo,Media,46.99,1177.68,,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Selladora 08,Linea D,Sellado,7.96
+165,27/05/2026,9.21,1580,14,154.18,257.32,  Falla electrica ,CrItIcA,61.32, 1821.1 ,,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Empacadora 04,Linea B,Empaque,3.64
+166,2026-04-20,3.76,544,6,31.05,"220,42",Limpieza no programada,Baja,29.25,937.26,Atencion  mantenimiento,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+167,2026-05-10,9.8,8423,17,27.35,937.77,Falla mecanica,Alta,56.32,1774.4,OK,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Empacadora 04,Linea B,Empaque,3.64
+168,2026-05-26,10.74,4924,13,23.27,617.9,Falta de insumo,Critica,68.17,1983.47,OK,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Cortadora 03,Linea B,Corte,5.06
+169,2026-05-11,"3,63",2024,24,35.18,652.37,Mantenimiento  correctivo,Baja,59.76,1990.51,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Horno 05,linea c,TeRmIcO,10.14
+170,2026-02-05,7.63,2601,25,38.77,434.21,Cambio de formato,Alta,46.62,1354.06,OK,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Cortadora 03,Linea B,Corte,5.06
+171,2026-01-22,5.71, 1207 ,20,62.78,292.02,falla electrica,Alta,71.64,1664.61,Validar causa,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Llenadora 07,Linea D,Llenado,5.65
+172,2026-02-27,6.86,3261 aprox,22,41.37,546.96,Falla electrica,Baja,31.64,1127.76,,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Empacadora 04,Linea B,Empaque,3.64
+173,2026-05-22,4.36,840,30,39.07,294.1,FaLlA MeCaNiCa,Media,"58,67",1396.91,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+174,2026/01/27,2.57,520,14,30.5,308.02,Falla electrica,Media,35.59,905.12,,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+175,2026-06-01,4.2,891,20,32.12,310.52,Falla electrica,Alta,41.28,999.98,,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+176,2026-04-10,,1137,23,74.27,310.38,Falla electrica,Media,48.71,1515.04,Revisar sensor,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Mezcladora 01,Linea A,Mezclado,4.18
+177,2026-06-04,7.73,,18,39.84,652.33,Mantenimiento  correctivo,Alta,75.15,2204.71,,Manana,Ana Torres,06:00,14:00,Corte de piezas,transformacion,38.0,620.0,Selladora 08,Linea D,Sellado,7.96
+178,2026-02-14,"9,03",4860,9,23.57,747.58,Ajuste de calidad,Media,45.61,1453.3,OK,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Horno 05,linea c,TeRmIcO,10.14
+179,2026-04-14,7.89,2307,14,28.54,310.5,Cambio de formato,Baja,22.11,838.26,Validar causa,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+180,2026-03-06,,2996,17,29.85,890.62,Limpieza no programada,Media,34.52,754.16,,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+181,2026-05-07,2.34,506,32,37.95,322.45,Mantenimiento correctivo,MeDiA, 48.39 ,1283.66,Validar causa,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+182,2026-06-22,5.57,2590,14,35.4,652.3,AJUSTE DE CALIDAD,Alta,73.52 aprox,2591.14 aprox,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Horno 05,linea c,TeRmIcO,10.14
+183,2026-02-15,4.83,1326,23,66.36,327.48,CAMBIO DE FORMATO,Baja,"30,58",1122.5,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Llenadora 07,Linea D,Llenado,5.65
+184,2026-01-14,6.07,1023,25,160.61,225.57,,AlTa,41.26,1102.7 aprox,VaLiDaR CaUsA,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Llenadora 07,Linea D,Llenado,5.65
+185,2026-01-07,8.14, 1633 ,30,40.62,251.93,Falta de insumo,Media,"59,79",1703.48,,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Cortadora 03,Linea B,Corte,5.06
+186,2026-01-26, 8.49 ,2535,21,30.13,316.22,Cambio de formato,Media,54.95,1862.09,,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+187,2026-04-20,9.71,2256,16,"24,32",273.85,Espera de operador,Alta,61.92,1586.31,,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,prensa 02,Linea A,Prensado,6.78
+188,2026/06/26,3.65,739,30,146.51,226.91,Cambio de formato,Media,57.82,1511.56,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Mezcladora 01,Linea A,Mezclado,4.18
+189,2026-06-16,3.2,497,,34.02,219.86,Ajuste de calidad,Critica,68.63,2756.97,  Revisar sensor ,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+190,23/06/2026,5.01,2995,22,28.14,767.3,Limpieza no programada,Baja,42.57,1118.42,Revisar sensor,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Horno 05,linea c,TeRmIcO,10.14
+191,2026-01-24,9.79,2402,16,31.44,295.53,Espera de operador,Media,20.94,776.79,,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+192,2026-02-03,2.39 aprox,661,21,39.05,304.47,CAMBIO DE FORMATO,Critica,64.41, 2346.65 ,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+193,2026-06-13,3.3,2356,19,21.64,748.13,Falla mecanica,Critica,88.51,,Revisar sensor,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Horno 05,linea c,TeRmIcO,10.14
+194,18-05-2026,9.4,4356,31 aprox, 13.07 ,,  Limpieza no programada ,Media,36.07,1142.64,Revisar sensor,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+195,2026-04-27, 10.12 ,2836,24,78.0,329.52,Falla mecanica,media,50.84,1648.57,OK,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Mezcladora 01,Linea A,Mezclado,4.18
+196,2026-02-18,9.61,,22,148.6,264.03 aprox,Cambio de formato,Alta,"65,93",1638.76,AtEnCiOn mAnTeNiMiEnTo,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Selladora 08,Linea D,Sellado,7.96
+197,2026-05-12,6.9,2073,27,40.36,381.22,LiMpIeZa nO PrOgRaMaDa,Media,45.64,1493.46,OK,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Selladora 08,Linea D,Sellado,7.96
+198,2026-03-18,9.4 aprox,5067,14,40.41 aprox,621.34 aprox,Cambio de formato,Baja,21.45,636.41,OK,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Llenadora 07,Linea D,Llenado,5.65
+199,2026-06-03,11.33,6771,33,35.93,855.96,LIMPIEZA NO PROGRAMADA,Alta,53.87,1599.86,OK,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+200,2026-04-10,2.37 aprox,785 aprox,35,"36,03",478.39,Espera de operador,Media,40.82,1109.61,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,prensa 02,Linea A,Prensado,6.78
+201,2026-03-05,6.97,,22,17.92,717.33,Espera de operador,  Alta ,59.6,1854.75,Validar causa,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,prensa 02,Linea A,Prensado,6.78
+202,,5.83, 1666 ,12,71.53,406.52,Espera de operador,Media,"48,56",1839.4,ATENCION MANTENIMIENTO,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+203,12-05-2026,2.74,656 aprox,21,33.96,323.21,  Cambio de formato ,  Baja ,30.46,1188.32,Revisar sensor,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+204,2026-01-24,7.73 aprox,1426,13,31.7,267.73,Falla mecanica,Alta,64.72,1816.56,OK,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+205,2026-06-19,,1953,26,43.38,466.97,Cambio de formato,Media, 49.92 ,1632.8,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Horno 05,linea c,TeRmIcO,10.14
+206,2026-03-02,"3,29",746,26,35.61,265.23,MANTENIMIENTO CORRECTIVO,Critica,86.36 aprox,2617.06,OK,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,prensa 02,Linea A,Prensado,6.78
+207,2026-04-20,3.74,970,8 aprox,155.8 aprox,269.03 aprox,Mantenimiento correctivo,,38.44,1285.33,,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Empacadora 04,Linea B,Empaque,3.64
+208,2026-05-26,3.85,3248,18,16.96,906.6,Falta de insumo,Media,51.75,1504.74,OK,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Selladora 08,Linea D,Sellado,7.96
+209,2026-06-02,7.86,1993,29,"24,51",376.64,Ajuste de calidad,Alta,64.28,1869.27,Revisar sensor,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Horno 05,linea c,TeRmIcO,10.14
+210,2026/05/10,"3,13",1074,19, 50.08 ,411.7,MaNtEnImIeNtO CoRrEcTiVo,Baja,36.04,1231.17,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Empacadora 04,Linea B,Empaque,3.64
+211,2026-04-26,"3,83",1602,20,19.05,554.77,Falla electrica,Baja,57.57,1788.15,OK,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+212,2026-01-04,10.79,3179,31,64.09,338.23,Falla mecanica,Alta,60.22,1545.97,,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Horno 05,linea c,TeRmIcO,10.14
+213,2026-05-03,4.84,883,16,16.84,271.35 aprox,  Falta de insumo ,Baja,29.61, 814.63 ,Validar causa,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+214,2026-05-12,7.2,4508,12,27.29,724.01,Ajuste de calidad,Baja,32.82,909.19,,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Empacadora 04,Linea B,Empaque,3.64
+215,2026-06-21,2.15,559,18,67.95 aprox,379.81,FALTA DE INSUMO,Baja,40.76,"1510,61",OK,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+216,2026-05-28,9.68,5544,9,,"589,72",Ajuste de calidad,Baja,25.49,916.62,Revisar sensor,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,prensa 02,Linea A,Prensado,6.78
+217,2026-04-13,6.99 aprox,3119,18,31.27,619.33,Ajuste de calidad,Alta,58.0,1844.16,OK,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,prensa 02,Linea A,Prensado,6.78
+218,2026-06-07,10.12,2081,20,76.83,300.55,Cambio de formato,Baja,23.61,737.87,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Cortadora 03,Linea B,Corte,5.06
+219,2026-05-09,10.81,5544,21,"42,73",523.59,Falla mecanica,Alta,59.16,1682.91,Revisar sensor,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Selladora 08,Linea D,Sellado,7.96
+220,2026-06-05,10.74,5894,21,29.04,741.44,Falla mecanica,Media,"57,68",1984.53,,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Cortadora 03,Linea B,Corte,5.06
+221,2026-05-20,5.94,1536,9,"70,44",315.17,Espera de operador,Baja,23.75,,,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+222,2026-06-01,9.51,4678,22,20.12,747.71,ajuste de calidad,Baja,43.02,1355.15,VaLiDaR CaUsA,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Horno 05,linea c,TeRmIcO,10.14
+223,2026-03-26,2.65,1586 aprox,19,25.8,657.79,Mantenimiento correctivo,Media, 49.46 ,1482.22,OK,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Llenadora 07,Linea D,Llenado,5.65
+224,2026-04-08, 3.18 ,2196,29,17.49,724.11,Falta de insumo,Alta,60.41,2116.02,Revisar sensor,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Cortadora 03,Linea B,Corte,5.06
+225,2026-01-23,9.03,5036,20,17.07,755.53,Espera de operador,Media,52.11,1778.5,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Llenadora 07,Linea D,Llenado,5.65
+226, 2026-06-22 ,6.26,1611,,"21,14","272,45",Mantenimiento correctivo,Baja,47.69,1343.96,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,Llenadora 07,Linea D,Llenado,5.65
+227,2026-03-18,6.53, 3555 , 5 ,26.94,627.54,Falla mecanica,Media,35.81,871.48,Revisar sensor,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Llenadora 07,Linea D,Llenado,5.65
+228,2026-05-17,5.92,3169,30,17.41,623.37,Limpieza no programada,Baja,33.7,931.47,,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Empacadora 04,Linea B,Empaque,3.64
+229,2026-03-18,10.9,6824,18,19.95,734.06,Cambio de formato,  Media ,56.96,1209.48,Revisar sensor,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Selladora 08,Linea D,Sellado,7.96
+230,2026-05-23,7.86,1392,20,160.76,217.3,Espera de operador,Media,33.37,1071.99,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,prensa 02,Linea A,Prensado,6.78
+231,2026-03-10,4.06,2237,6,24.54, 619.79 ,CaMbIo dE FoRmAtO,Baja,20.01,820.0,OK,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+232,2026-02-07,8.31,5025,18,33.49,625.84,Ajuste de calidad,Media,42.3,915.34,,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+233,2026-03-03,11.14,3309,12,74.37,406.59,Falla mecanica,Baja,45.91 aprox,1429.26 aprox,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,Empacadora 04,Linea B,Empaque,3.64
+234,2026-04-01,10.33,3072,29 aprox,22.76,313.3,Ajuste de calidad,Baja,25.49,,Validar causa,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Cortadora 03,Linea B,Corte,5.06
+235,2026-02-07,11.22,3080, 17 ,70.04,421.95,Mantenimiento correctivo,BAJA, 58.24 ,1888.48,Revisar sensor,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,prensa 02,Linea A,Prensado,6.78
+236,2026-06-20,4.89,1154,25,19.95,316.49,FaLtA De iNsUmO,Media,52.28 aprox,1510.38,,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,Mezcladora 01,Linea A,Mezclado,4.18
+237,2026-02-26,3.26,560,35,164.74,205.2,Falla mecanica,Baja,,1242.02,OK,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Selladora 08,Linea D,Sellado,7.96
+238,2026-02-15,10.83,3629,29 aprox,59.56,379.11,Limpieza no programada,Alta, 68.44 ,2047.15,,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+239, 2026-03-26 ,5.35 aprox,1319,20,,288.07,EsPeRa dE OpErAdOr,Baja,35.72,928.94,,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Horno 05,linea c,TeRmIcO,10.14
+240,2026-03-16, 3.69 ,1190,19,43.64,407.36,FALLA MECANICA,MEDIA,49.18,1244.63,  OK ,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Llenadora 07,Linea D,Llenado,5.65
+241,2026-05-10,8.67,5047,28,48.22,668.9 aprox,Ajuste de calidad,Media, 42.1 ,1406.93,Validar causa,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+242,2026-01-21,9.14,3081,15,44.8,437.69,Limpieza no programada,Media,46.52,"1083,33",VALIDAR CAUSA,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Horno 05,linea c,TeRmIcO,10.14
+243,2026-03-19,8.22,4510,19,34.33,565.44,MaNtEnImIeNtO CoRrEcTiVo,Alta,67.49,1950.68 aprox,Validar causa,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Selladora 08,Linea D,Sellado,7.96
+244,2026-03-14,9.57,2331,11 aprox,73.45 aprox,370.91,Cambio de formato,Baja,30.68,691.34,OK,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Mezcladora 01,Linea A,Mezclado,4.18
+245,18/04/2026,10.92,4190,7,70.49, 441.06 ,Espera de operador,Media,32.79,S/ 857.67,,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Llenadora 07,Linea D,Llenado,5.65
+246,2026-06-07,4.1,2857,27,26.36,718.59,,Alta,79.48,1959.14,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Horno 05,linea c,TeRmIcO,10.14
+247,2026-03-11,4.34,894,28, 78.48 ,287.87 aprox,Falla  electrica,Baja,35.1,1166.55,Revisar sensor,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Empacadora 04,Linea B,Empaque,3.64
+248,2026-02-03,9.11,3964, 15 ,"35,78",536.46,Espera de operador,Media,44.5,1055.99,Validar causa,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Mezcladora 01,Linea A,Mezclado,4.18
+249,2026-06-02,6.59,5868,0,23.39,943.37,Mantenimiento correctivo,Baja,"35,37",1153.58,,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+250,,7.08,1787,32,36.77,373.65,Falla mecanica,Alta,69.68,,Validar causa,Manana,Ana Torres,06:00,14:00,Control de calidad,CaLiDaD,23.0,350.0,Cortadora 03,Linea B,Corte,5.06
+251,2026-05-01,7.85,3029,9,71.84,412.74,Ajuste de calidad,ALTA,59.08,2011.79 aprox,OK,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Cortadora 03,Linea B,Corte,5.06
+252,2026-06-09,11.5,5379 aprox,21,19.77,528.92,Limpieza no programada,Media,49.95,1132.73,Validar causa,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Llenadora 07,Linea D,Llenado,5.65
+253, 2026-03-14 ,11.49,7715, 30 ,17.15,909.57,,AlTa,74.01,1833.77,OK,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Mezcladora 01,Linea A,Mezclado,4.18
+254,2026/06/26,3.65,739,30,146.51,226.91,Cambio de formato,Media,57.82,1511.56,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Mezcladora 01,Linea A,Mezclado,4.18
+255,2026-04-18,6.2,1563,25, 146.73 ,270.94,Falla electrica,Alta,88.75,2035.74,,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Selladora 08,Linea D,Sellado,7.96
+256,2026-05-03,11.4,5922,22,32.93,548.1,  Falla electrica ,Media,58.45,1251.55,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+257,18-04-2026,8.99,5545,24,19.52,744.68,Ajuste de calidad,Alta,61.31,1524.74,Validar causa,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Llenadora 07,Linea D,Llenado,5.65
+258,2026-05-13,"7,87",2937, 14 ,44.24,383.99,Mantenimiento correctivo,Baja,31.82,748.29,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Preparacion de insumo,Preparacion,45.0,520.0,Empacadora 04,Linea B,Empaque,3.64
+259,2026-02-23,4.55,791,23,31.85,253.56,Falla mecanica,Baja, 47.05 ,1457.35,OK,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+260,2026-06-13,10.28,3496,15,73.04,,Limpieza no programada,Alta,43.61,1208.72,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Mezcladora 01,Linea A,Mezclado,4.18
+261,2026-04-08,4.84,994,20,27.21,258.84,Cambio de formato,Media,40.14,1489.01,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Selladora 08,Linea D,Sellado,7.96
+262,2026-03-02,9.91,2755,20,28.0,285.55,Falla mecanica,Baja, 44.12 ,1390.7,,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+263,2026-03-07,3.78,1230,35,61.16,356.5,Cambio de formato,Alta,64.75,2170.88,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Mezcladora 01,Linea A,Mezclado,4.18
+264,2026-03-11,6.46,1319,24,33.14, 307.98 ,Mantenimiento correctivo,Baja,,1415.83,OK,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+265,2026-02-11,5.53,5021,27,30.96,931.37,Cambio de formato,Alta,60.45,1500.82,,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Horno 05,linea c,TeRmIcO,10.14
+266,2026-03-12, 11.29 ,8645,38,9.06,837.7,Ajuste de calidad,Critica,92.22,3497.62,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,prensa 02,Linea A,Prensado,6.78
+267,2026-03-22,5.84,2870,6,24.43,568.83,Cambio de formato,Media,37.32,1319.2,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+268,2026-04-12,5.55,1046,29,144.94,206.62,Ajuste de calidad,Baja,"43,08",1376.48,atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Empacadora 04,Linea B,Empaque,3.64
+269,2026-01-16,5.05,2207,7,34.69,551.2,Cambio de formato,Media,30.65,859.68,Validar  causa,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Mezcladora 01,Linea A,Mezclado,4.18
+270,2026-06-11,6.26 aprox,3001,34 aprox,15.2,685.77,Mantenimiento correctivo,Media,64.03,1374.51,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Horno 05,linea c,TeRmIcO,10.14
+271,01/05/2026,9.25,1675,11,28.43,271.86,Falla mecanica,Alta,59.35,1827.82,Revisar sensor,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+272,2026-02-09,3.38,1738,31 aprox,30.87,643.74,Falla electrica,Media,66.14, 1513.78 ,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Horno 05,linea c,TeRmIcO,10.14
+273,2026-01-09,6.34,1565,,45.92,,Espera de operador,Media,28.81,1046.69,,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Llenadora 07,Linea D,Llenado,5.65
+274,2026-04-01, 9.27 ,,14,35.31,588.33,Limpieza no programada,Baja,39.98,1024.12,,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+275,2026-04-18,8.02,2438,4,69.9,422.59,Cambio de formato,media,28.85,572.76,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+276,2026-03-22,11.06,1872,19, 30.37 ,221.97,Falla mecanica,baja,35.05,"1222,0",OK,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+277,2026/03/04,6.24,1395,9,22.84 aprox,305.83,Mantenimiento correctivo,Media,57.2 aprox,,Revisar sensor,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,prensa 02,Linea A,Prensado,6.78
+278,2026-03-01,2.37,508,17,26.74,313.63,FALTA DE INSUMO,Baja,30.51,1010.67,AtEnCiOn mAnTeNiMiEnTo,Manana,Ana Torres,06:00,14:00,Control de calidad,CaLiDaD,23.0,350.0,Mezcladora 01,Linea A,Mezclado,4.18
+279,04/03/2026,4.6,2001,10,40.61,485.53,Espera de operador,Baja,35.67,1094.92,Revisar sensor,Noche,Diana Flores,22:00,06:00,Preparacion de insumo,Preparacion,45.0,520.0,Empacadora 04,Linea B,Empaque,3.64
+280,2026-05-03,7.72,2495,15,"64,68",405.51,Limpieza no programada,Media,39.02 aprox,1034.73,OK,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+281,2026-03-02,4.69,1240,17,32.28,284.06,Cambio de formato,Baja,39.72,1315.1,,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,prensa 02,Linea A,Prensado,6.78
+282, 2026-05-03 ,3.62,721,4,"27,73",275.1,Mantenimiento correctivo,Media, 46.91 ,1032.32,Validar causa,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+283,2026-02-19,8.99,1960,14,32.17,263.23,Falla mecanica,Critica,69.45,2122.61,Revisar sensor,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Selladora 08,Linea D,Sellado,7.96
+284,2026-06-11,9.99,5216,22,46.41,615.18,Falla mecanica,Baja,58.36,S/ 1461.47,,Manana,Ana Torres,06:00,14:00,Corte de piezas,transformacion,38.0,620.0,Horno 05,linea c,TeRmIcO,10.14
+285,2026-04-27,10.46,3596,34,59.12,356.98,Mantenimiento correctivo,baja, 63.51 ,2120.78,OK,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,Horno 05,linea c,TeRmIcO,10.14
+286,2026-02-22,2.51,520,20, 26.64 ,307.7,Limpieza no programada,Media,36.56,1220.07,OK,Manana,Ana Torres,06:00,14:00,Control de calidad,CaLiDaD,23.0,350.0,Cortadora 03,Linea B,Corte,5.06
+287,2026-01-01,11.39,4213,16 aprox,40.04,388.59,Limpieza no programada,media,51.05,1530.68,Revisar sensor,Noche,Diana Flores,22:00,06:00,Preparacion de insumo,Preparacion,45.0,520.0,Cortadora 03,Linea B,Corte,5.06
+288,2026-05-26,10.59,6184,23, 34.65 ,653.07,Mantenimiento correctivo,Baja,43.59 aprox,S/ 1263.42,Validar causa,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Selladora 08,Linea D,Sellado,7.96
+289,2026-04-14,6.94,3730,16,20.18,595.8,FaLtA De iNsUmO,Baja,30.47,976.02,OK,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+290,19/02/2026,7.42,1413,23,27.26,253.62,  Cambio de formato ,Alta,46.59,"1408,91",Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+291,2026-01-23,3.34,644,18,"26,23",295.35,Mantenimiento correctivo,Baja,58.3,1341.09,,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+292,2026-01-16,2.04,443,18,156.12,225.78 aprox,Mantenimiento correctivo,Media,"55,06",1708.47 aprox,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Mezcladora 01,Linea A,Mezclado,4.18
+293,2026-01-19,5.81,,16,28.1, 229.53 ,Falla electrica,Baja,41.93,1183.93,Validar causa,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+294,2026-02-25,9.88,3449,14,69.96,395.92,Falta de insumo,ALTA,50.82,1385.4 aprox,OK,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Horno 05,linea c,TeRmIcO,10.14
+295,2026-06-26,,2686, 30 ,75.55, 314.36 ,mantenimiento correctivo,Critica,89.83,4049.67,,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Horno 05,linea c,TeRmIcO,10.14
+296,02/01/2026,7.96,2522, 17 ,69.15,374.99,MaNtEnImIeNtO CoRrEcTiVo,Baja,52.47,1273.74,,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,prensa 02,Linea A,Prensado,6.78
+297,2026-04-22,6.25,1783,30,58.51,384.39,Cambio de formato,,31.38,803.35,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+298,,5.56 aprox,2804,25,32.92,685.48,Falla mecanica,BAJA,30.86,"981,82",OK,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Mezcladora 01,Linea A,Mezclado,4.18
+299,2026-04-21, 11.16 ,5816,6,24.12,539.47,Limpieza no programada,Media,26.15,879.08,OK,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Mezcladora 01,Linea A,Mezclado,4.18
+300,2026-02-05,4.51,1948,17,19.35,630.09,Falla mecanica,Baja,31.56,1167.9,Revisar sensor,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+301,2026-01-21,6.52,1191,15,"149,32",258.63,Falla mecanica,Media,40.83 aprox,982.07,,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Mezcladora 01,Linea A,Mezclado,4.18
+302,2026-01-27,4.38,976,6,29.74,319.72,Falta de insumo,,34.61,818.68,,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+303,2026-01-24,,1301,14,156.82 aprox,238.7,Mantenimiento correctivo,Baja,54.54,1590.21,,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Horno 05,linea c,TeRmIcO,10.14
+304,2026-01-26,10.6,6950,21,21.65,841.33,FALTA DE INSUMO,media,43.12,"1375,98",,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Llenadora 07,Linea D,Llenado,5.65
+305,2026-04-28,7.8,2864,10,42.37,377.01,Limpieza no programada,Critica,61.21,2022.75,Validar causa,Noche,Diana Flores,22:00,06:00,Preparacion de insumo,Preparacion,45.0,520.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+306,2026-04-04,6.5,1766,35,,327.5,Ajuste de calidad,media,44.9,1666.52,,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+307,2026-04-06,9.17,1926,38,16.81,296.29,Mantenimiento correctivo,Baja,74.8,1756.56,Revisar sensor,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Selladora 08,Linea D,Sellado,7.96
+308,2026-05-03,6.22,1273,15,31.86,271.45,  Ajuste de calidad ,Media,41.56,1174.53,,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,prensa 02,Linea A,Prensado,6.78
+309,2026-03-07,3.78,1230,35,61.16,356.5,Cambio de formato,Alta,64.75,2170.88,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Mezcladora 01,Linea A,Mezclado,4.18
+310,2026-01-07,2.46,1002,23,67.39,424.1,Falta de insumo,Media,57.75,2045.35,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Horno 05,linea c,TeRmIcO,10.14
+311,2026-06-06,5.67,999,18,"151,43",255.01,Ajuste de calidad,Baja,49.47, 1445.04 ,  OK ,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Horno 05,linea c,TeRmIcO,10.14
+312,2026-05-12,7.88,4274,13,22.83,581.31,Limpieza no programada,Alta,36.49,1380.79,Validar causa,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Mezcladora 01,Linea A,Mezclado,4.18
+313,2026-06-07,3.82,843 aprox,20,33.34,264.57,Cambio de formato,Media,"55,42",1569.33,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Selladora 08,Linea D,Sellado,7.96
+314,2026-01-24,5.08 aprox,3626,13,23.23,915.17,Espera de operador,  Baja ,38.88,1159.94,,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,prensa 02,Linea A,Prensado,6.78
+315,2026-05-24,8.64,7194,12,19.09,"933,87",Cambio de formato,Media,46.08,1563.0,OK,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Llenadora 07,Linea D,Llenado,5.65
+316,2026-05-07,11.24,2349,25,37.45,226.85,,Critica,54.55,2994.29,,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+317,2026-05-24,5.76,1482,21,30.77,267.8,Ajuste de calidad,Critica,"62,53",1693.56,,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,prensa 02,Linea A,Prensado,6.78
+318,2026-05-10,9.2,2263,15,26.38,368.82,Falla electrica,BAJA,38.09,1035.01,,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,Horno 05,linea c,TeRmIcO,10.14
+319,2026-04-03,5.65,1575, 27 ,64.23,372.65,Falta de insumo,Baja,39.13,1139.06,Validar causa,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,prensa 02,Linea A,Prensado,6.78
+320,2026-05-18,3.56,900,,38.98,282.55,Cambio de formato,Media,43.54,,   ,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+321,2026-02-28,7.84,5567,7,24.01,829.94,Mantenimiento correctivo,  Critica ,78.93,2863.06,OK,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+322,2026-05-11,9.52,2203,37,20.21,293.09,Falla mecanica,Baja,53.8,1488.56,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,prensa 02,Linea A,Prensado,6.78
+323,2026-01-02,4.09,1234,8,31.71 aprox,322.89,Ajuste de calidad,  Media ,47.78,1670.01,Validar causa,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Selladora 08,Linea D,Sellado,7.96
+324,2026-05-01,5.64,1110,24,156.21,202.41,Cambio de formato,AlTa,56.67,1597.27,VALIDAR CAUSA,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Selladora 08,Linea D,Sellado,7.96
+325,2026-03-21,5.14,1142,38,16.98,227.6,Mantenimiento correctivo,Media,71.97 aprox,2467.32,,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+326,2026-06-20,8.29,1409,18,151.25,186.73,Espera de operador,Media,45.15, 929.49 ,Revisar sensor,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Mezcladora 01,Linea A,Mezclado,4.18
+327,2026-04-01,8.61,1905,5,32.01,"300,79",Espera de operador,Critica,68.59,2819.61,OK,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,prensa 02,Linea A,Prensado,6.78
+328,2026-06-09,8.63,3257,26,43.57,503.25,Falla electrica,Alta,62.35 aprox,1661.34,Validar causa,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Horno 05,linea c,TeRmIcO,10.14
+329,2026-03-08, 11.43 ,5107,9,17.87,658.7,,BAJA,39.93,989.48,OK,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Empacadora 04,Linea B,Empaque,3.64
+330,2026-01-11,7.14,3204,1,24.44,662.27,Limpieza no programada,Baja,22.51 aprox,"541,11",Revisar sensor,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+331,28/04/2026,9.91,2561,27,57.35,331.07,Cambio de formato,Alta,165.84,4505.1,Validar causa,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+332,2026-06-16,2.76,840,24,76.68,413.8,  Espera de operador ,Media,37.4,979.88,OK,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,prensa 02,Linea A,Prensado,6.78
+333,2026-03-11,7.65,,18,26.59,659.43,Ajuste de calidad,Alta,55.05,1233.37,Validar causa,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+334,2026-02-27,8.49,2601,25,52.36,454.03,Limpieza no programada,Baja,33.69,1012.85,Revisar sensor,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Cortadora 03,Linea B,Corte,5.06
+335,2026-01-09,8.35,1869,20,26.83,297.27,Falla electrica,baja,49.07,1312.93,OK,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+336,2026-05-03,9.17,5360, 14 ,23.03,801.44,Mantenimiento correctivo,Media,"63,32",1765.21,  Revisar sensor ,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,prensa 02,Linea A,Prensado,6.78
+337,2026-06-02,8.81,2182,13,21.27,298.5,Falta  de  insumo,CRITICA,66.06,3195.97,,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Cortadora 03,Linea B,Corte,5.06
+338,2026/04/05,10.42,2442,22,157.46,273.94,FALTA DE INSUMO,Media,43.51,1206.35,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Selladora 08,Linea D,Sellado,7.96
+339,2026-06-04,4.84,2756, 9 ,26.85,655.24,CaMbIo dE FoRmAtO,Media,38.68,1171.2,OK,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+340,2026-01-04,3.62,600,35,17.55,212.84,Ajuste de calidad,Critica,84.23,3456.23,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+341,2026-04-03,6.31,1877,18,68.86,"309,95",LiMpIeZa nO PrOgRaMaDa,Critica,55.35,1764.46,Validar causa,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Llenadora 07,Linea D,Llenado,5.65
+342,2026-04-18,10.14,1338,,156.92,188.29,FALLA MECANICA,Media,41.66,1279.43,OK,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+343,2026-01-16,5.05,2207,7,34.69,551.2,Cambio de formato,Media,30.65,859.68,Validar  causa,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Mezcladora 01,Linea A,Mezclado,4.18
+344,2026-06-06,4.39,715,24,147.66 aprox,192.72,Espera de operador,Alta,60.12,1421.46,revisar sensor,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Horno 05,linea c,TeRmIcO,10.14
+345,2026-03-27,"9,02",5069,17,30.48 aprox,576.76,Cambio de formato,Media,29.28,1066.81,Atencion  mantenimiento,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+346,2026-06-23,3.99,1151,14,46.37,376.85,Falla mecanica,Media,33.06,923.53,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Empacadora 04,Linea B,Empaque,3.64
+347, 2026-01-20 ,10.99 aprox,3079,16,67.2,,Falta de insumo,Media,46.75,1406.03,OK,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+348,2026-04-09,9.6,3006,33,62.51,386.09,Falla electrica,,67.41,2032.04,,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+349,2026-03-11,8.78,3870,22,53.15,559.22,Falla mecanica,Media,53.77,1686.48,OK,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Cortadora 03,Linea B,Corte,5.06
+350,2026-04-06,3.47,1531,15,36.92,"647,58",Falta de insumo,Media,31.54,S/ 1122.54,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,prensa 02,Linea A,Prensado,6.78
+351,11-02-2026,4.36,1344,20,40.06,400.13,Falta  de  insumo,Media,51.8,1814.09,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Horno 05,linea c,TeRmIcO,10.14
+352,2026-03-14,5.85,1811,20,78.34,352.65,Falla mecanica,Baja,"40,82",1042.28,,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,Empacadora 04,Linea B,Empaque,3.64
+353,2026-06-20,2.71,765,23,42.61,410.9,  Falta de insumo ,Baja,43.68,1330.73,OK,Noche,Diana Flores,22:00,06:00,Preparacion de insumo,Preparacion,45.0,520.0,Selladora 08,Linea D,Sellado,7.96
+354,2026-04-01,9.97, 2527 ,24,33.94,281.35,Cambio de formato,Baja, 109.59 ,2863.88,Validar causa,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+355,2026-04-20,2.4,843 aprox,29,55.65,"503,38",Cambio de formato,Baja,28.7,1098.9,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Preparacion de insumo,Preparacion,45.0,520.0,Selladora 08,Linea D,Sellado,7.96
+356,2026-02-27,5.76,1209,22,23.39,247.68,Falta  de  insumo,Baja,34.01,1203.62,  Atencion mantenimiento ,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+357,2026-03-23,3.0,725,17,31.72,270.51,FALTA DE INSUMO,Baja,,913.25,Validar causa,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+358,25-03-2026,2.88,1250,20,36.65,499.49,Cambio de formato,Media,43.83,1160.41,,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,prensa 02,Linea A,Prensado,6.78
+359,2026-05-18,3.33 aprox,1205,35,59.64,381.49,Falla mecanica,Alta,66.29 aprox,1548.75,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+360,2026-04-23,6.9,2734,27,"12,73",598.18,Falla mecanica,Baja,55.61,1876.77,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Mezcladora 01,Linea A,Mezclado,4.18
+361,2026-02-19,7.92,3060,28,78.08,413.39,Falla mecanica,BAJA,40.67,1372.7,,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Empacadora 04,Linea B,Empaque,3.64
+362,2026-04-25,2.01,1143,9,"18,6",648.92,Ajuste de calidad,Alta,51.13,1318.4,,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Cortadora 03,Linea B,Corte,5.06
+363, 2026-01-18 ,8.59,4843,28,45.72,593.84,Falta  de  insumo,Baja,47.28 aprox,S/ 1603.82,OK,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Cortadora 03,Linea B,Corte,5.06
+364,2026-06-20, 9.78 ,1532,14,26.4,212.49,Espera de operador,MEDIA,48.36,1208.69,OK,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Llenadora 07,Linea D,Llenado,5.65
+365,2026-01-01,3.98,1992,15 aprox,37.18,612.63,  Cambio de formato ,Media,29.35,796.22,,Manana,Ana Torres,06:00,14:00,Corte de piezas,transformacion,38.0,620.0,Empacadora 04,Linea B,Empaque,3.64
+366,2026-05-02,"6,4",2622,21,42.59,574.01,Falla mecanica,MeDiA,"49,09",1147.62,OK,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Empacadora 04,Linea B,Empaque,3.64
+367,2026-02-22,3.36,986,16,21.36,307.41,Falla electrica,Critica,"73,28",3232.98,Validar causa,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,Mezcladora 01,Linea A,Mezclado,4.18
+368,2026-03-15,,1184,22,27.34,226.22,Falta de insumo,Critica,76.3,3025.1,OK,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+369,2026-06-09,6.23,2145,16,47.73,441.53 aprox,MaNtEnImIeNtO CoRrEcTiVo,Media,49.48,1362.46,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Mezcladora 01,Linea A,Mezclado,4.18
+370,2026-02-27,4.84,2189,16,35.71,596.47,LIMPIEZA NO PROGRAMADA,  Baja ,30.84,711.76,,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Empacadora 04,Linea B,Empaque,3.64
+371,2026-03-27,10.6,2845,16,26.1,275.23 aprox,Limpieza no programada,MEDIA,30.59,1074.61,OK,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,prensa 02,Linea A,Prensado,6.78
+372,2026-06-19,8.46 aprox,2648,21,66.71,395.69,ajuste de calidad,Media,49.06,1078.72,Validar causa,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Mezcladora 01,Linea A,Mezclado,4.18
+373,2026-01-12,10.42,2689,11,147.89,275.87,FaLlA ElEcTrIcA,Media,59.69,1985.85,Validar causa,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Empacadora 04,Linea B,Empaque,3.64
+374,2026-06-06,5.39,1556 aprox,9,67.63,349.71,Falla electrica,Media,51.33,1515.54,VALIDAR CAUSA,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Empacadora 04,Linea B,Empaque,3.64
+375,,6.84,4075,25,"18,89",836.04,AjUsTe dE CaLiDaD,MEDIA, 58.4 ,"1883,43",Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Cortadora 03,Linea B,Corte,5.06
+376,2026-03-20,6.26,4656,15,24.86,784.4,Falla electrica,Media,57.39,1253.34,OK,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Horno 05,linea c,TeRmIcO,10.14
+377,2026-04-06,3.71,,16, 21.22 ,310.67,Ajuste de calidad,media,32.54,911.96,AtEnCiOn mAnTeNiMiEnTo,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,Llenadora 07,Linea D,Llenado,5.65
+378,2026-04-09,8.14,1835,24,37.01,310.44,Limpieza no programada,Baja,30.55,875.27,OK,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Selladora 08,Linea D,Sellado,7.96
+379,2026-02-24,10.71,2001,12,25.37,"257,96",,Critica,54.97,1947.93,Revisar sensor,Manana,Ana Torres,06:00,14:00,Control de calidad,CaLiDaD,23.0,350.0,Empacadora 04,Linea B,Empaque,3.64
+380,03-03-2026,7.25,4333,24 aprox,21.03,918.29,FaLtA De iNsUmO,Media,50.25,,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Horno 05,linea c,TeRmIcO,10.14
+381,2026-06-06,"10,32",1542,21,32.78,219.54,Limpieza  no  programada,Alta,54.29,1879.38,,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+382,2026-03-23,9.6,1619,14,"154,42",244.8,Falla electrica,Baja,41.74,1041.01,,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,prensa 02,Linea A,Prensado,6.78
+383,2026-03-25,8.35 aprox,1799,11,155.9,"229,87",Limpieza no programada,Media,33.39,1063.55,Revisar sensor,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,prensa 02,Linea A,Prensado,6.78
+384,2026-02-27,10.18,2358,21,149.0,237.42,Ajuste de calidad,Media,39.87 aprox,1411.75,Validar causa,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Empacadora 04,Linea B,Empaque,3.64
+385,,4.55,2236,14, 34.47 ,656.88,FaLtA De iNsUmO,Media,48.94,1490.58 aprox,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Corte de piezas,transformacion,38.0,620.0,Mezcladora 01,Linea A,Mezclado,4.18
+386,2026-05-01,7.77,3514,6,35.37,526.24,Ajuste de calidad,Media,32.53,843.24,OK,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+387,2026-01-01,5.22,2699,10,22.27,,Ajuste de calidad,Alta,37.82,1029.57,Validar causa,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,prensa 02,Linea A,Prensado,6.78
+388,2026-03-05,8.64,2638,27,65.65,336.38,Falla electrica,Baja,61.51,1993.74,Revisar sensor,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+389,2026-01-09,"6,83",3246,11,39.39,664.27,,Alta,56.2,1727.91,AtEnCiOn mAnTeNiMiEnTo,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Llenadora 07,Linea D,Llenado,5.65
+390,2026-04-03,5.93,1323,19,24.15,"269,9",Ajuste de calidad,,164.86,5444.08,OK,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+391,02-06-2026,4.44,1342 aprox,24 aprox,30.87,367.17,Espera de operador,Critica,55.98,2369.03,Revisar sensor,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+392,2026-02-05,5.67,1441,15, 31.68 ,"294,61",LiMpIeZa nO PrOgRaMaDa,Baja,26.04,962.57,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+393,25/01/2026,"5,93",,19,149.23,191.63,Cambio de formato,Media, 58.42 ,1265.11,Revisar sensor,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,prensa 02,Linea A,Prensado,6.78
+394,2026-01-05,7.46,2380,14,"67,23",412.75,  Limpieza no programada ,Baja,33.61,1235.9,,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,Mezcladora 01,Linea A,Mezclado,4.18
+395,2026-05-04,7.44,2273,31,56.45,384.43 aprox,Falta de insumo,Baja,36.2,896.57,Validar causa,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,prensa 02,Linea A,Prensado,6.78
+396,2026-06-24,5.21,713,22,158.01,190.2,Limpieza no programada,Media,51.19,1292.7,OK,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Horno 05,linea c,TeRmIcO,10.14
+397,2026-04-16,2.64,1591,28 aprox,33.41,919.25,Limpieza no programada,media,43.34,S/ 973.98,  Validar causa ,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,prensa 02,Linea A,Prensado,6.78
+398,2026-06-24, 4.81 ,1293,16,36.16 aprox,379.45,Limpieza no programada,  Alta ,48.23,1121.89,atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+399,2026-03-15,,2557,26,, 248.1 ,Falla mecanica,Media,62.14,1808.48,Revisar sensor,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Cortadora 03,Linea B,Corte,5.06
+400,20/03/2026,3.59,2610 aprox,9,22.05,755.37,Limpieza no programada,ALTA,44.96,1520.5,OK,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Empacadora 04,Linea B,Empaque,3.64
+401,2026-01-15,9.45,3846,18, 20.48 ,538.35,Ajuste  de  calidad,Alta,"61,17",1678.31,,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+402,01/02/2026,3.13,2191,22,18.63,800.54,Falta de insumo,Media,42.63,,Revisar sensor,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Selladora 08,Linea D,Sellado,7.96
+403,2026-06-14,2.23,396,28,40.38,234.82,Cambio de formato,Baja,46.93,1531.51,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+404,2026-03-12,,2764,16,67.6,365.06,Limpieza no programada,Media,173.21,4095.99,OK,Manana,Ana Torres,06:00,14:00,Moldeado inicial,Transformacion,70.0,410.0,prensa 02,Linea A,Prensado,6.78
+405,2026-06-25,8.47,4104,18,39.7,592.86,Falla mecanica,Baja,45.42,S/ 1437.31,OK,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Cortadora 03,Linea B,Corte,5.06
+406, 2026-05-26 ,6.38,1613,30,23.42,262.44,Falta de insumo,Media,55.86,1299.56,Validar causa,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+407,2026-02-20,4.88,2240,21,33.63,521.96,Espera de operador,Alta,61.13,1395.23,,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Selladora 08,Linea D,Sellado,7.96
+408,2026-06-21,9.68,3946,25, 46.09 ,521.57,espera de operador,Baja,36.02,1479.42,,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,prensa 02,Linea A,Prensado,6.78
+409,2026-03-24,7.57,3471, 30 ,15.29,,Mantenimiento correctivo,Media,65.97,1552.2,,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,prensa 02,Linea A,Prensado,6.78
+410,2026-04-01,3.02,796,5,25.13,340.23,,  Baja ,25.75,689.22,OK,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,Mezcladora 01,Linea A,Mezclado,4.18
+411,2026-02-11,5.48,1396 aprox,30,39.32,268.22,FALLA ELECTRICA,Alta,69.33,1542.83,,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,Mezcladora 01,Linea A,Mezclado,4.18
+412,2026-02-22,4.09,2345,,,625.81,Falla electrica,Alta,72.17,1875.51,,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Llenadora 07,Linea D,Llenado,5.65
+413,2026-01-01,10.83,2167,17 aprox,24.5,"292,98",Falla mecanica,Media,63.59,1835.99 aprox,,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Horno 05,linea c,TeRmIcO,10.14
+414,2026-03-18,4.04,1668 aprox,13,37.58,441.89,Ajuste de calidad,Critica,66.43,3224.87,OK,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+415, 2026-06-07 ,11.28,4528,16,34.17,597.07,Ajuste de calidad,Alta,44.67,1363.91,,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Empacadora 04,Linea B,Empaque,3.64
+416,2026-01-25,10.43,6307,34,15.3,780.79,Cambio de formato,Alta,63.47,S/ 1471.45,OK,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Llenadora 07,Linea D,Llenado,5.65
+417,2026-04-01,7.85,1741, 20 ,151.58,"259,35",Cambio de formato,Media,43.38,1530.15,OK,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+418, 2026-01-20 ,10.99 aprox,3079,16,67.2,,Falta de insumo,Media,46.75,1406.03,OK,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+419,11/06/2026,2.49,1639,25,30.46,939.02,Cambio de formato,media,33.21,863.34,Validar causa,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Llenadora 07,Linea D,Llenado,5.65
+420,2026-06-23,9.16,4667,18,28.9,"673,08",Mantenimiento correctivo,Media,48.57,1277.58,,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Cortadora 03,Linea B,Corte,5.06
+421,2026-06-04,,3411,11,43.88,575.98,Falla electrica,Baja,33.69,1135.05,,Manana,Ana Torres,06:00,14:00,Corte de piezas,transformacion,38.0,620.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+422,10-06-2026,9.71,4277,24,31.62,619.35,FALTA DE INSUMO,Alta,52.75,1787.91,,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Llenadora 07,Linea D,Llenado,5.65
+423,2026-04-25,9.04,1855,39,17.39,261.94,Espera de operador,Alta,80.99,1827.93,Revisar sensor,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,prensa 02,Linea A,Prensado,6.78
+424,2026-05-03,10.63,3101,32,63.38,304.08,Falla mecanica,  Baja ,52.79,S/ 1194.0,OK,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,prensa 02,Linea A,Prensado,6.78
+425, 2026-01-09 , 6.54 ,3509,16,25.36,753.96,  Falta de insumo ,Media,33.15,852.21,   ,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Mezcladora 01,Linea A,Mezclado,4.18
+426,2026-02-03,6.77,2280 aprox, 23 ,47.19,467.28,Falla  mecanica,Baja,54.07,1368.31,OK,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Horno 05,linea c,TeRmIcO,10.14
+427,2026-04-04,7.28,2929,17 aprox,27.76,549.43,Falla  electrica,Critica,,2472.82,Validar causa,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+428,2026-05-14,7.54,2970,29,36.95,500.32,Mantenimiento correctivo,Media,51.73,1639.91,Revisar sensor,Noche,Diana Flores,22:00,06:00,Preparacion de insumo,Preparacion,45.0,520.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+429,2026-06-02,3.21,1598,19,19.13,"757,54",falla electrica,Alta,64.06,1865.21,OK,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Llenadora 07,Linea D,Llenado,5.65
+430,2026-03-04,11.12,6300,18 aprox,25.93,670.08,  Mantenimiento correctivo ,Media,51.54,1572.01,OK,Manana,Ana Torres,06:00,14:00,Empaque primario,Empaque,24.0,720.0,Horno 05,linea c,TeRmIcO,10.14
+431,2026-06-03,10.42,3965,2,24.41,551.39,Falla mecanica,Critica, 78.61 ,2084.53,Validar causa,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Cortadora 03,Linea B,Corte,5.06
+432,2026-03-04,5.17,1577,12,23.02,"358,57",Falta de insumo,Alta,44.84,1541.05,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,prensa 02,Linea A,Prensado,6.78
+433,18/05/2026,"5,61",1054,20,160.41,275.83,Limpieza no programada,Alta,46.25,1261.68,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Tratamiento termico,Termico,155.0,260.0,Mezcladora 01,Linea A,Mezclado,4.18
+434,,7.82,4586,6, 18.04 ,628.1 aprox,Falla electrica,Media,32.13,,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+435,2026-03-23,5.39,2824,13,,683.94,Mantenimiento correctivo,Baja,41.33,1146.67,,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Empacadora 04,Linea B,Empaque,3.64
+436,2026/04/15,9.22,3714,13,74.55,431.56,Cambio de formato,Media,35.7,1173.54,OK,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Cortadora 03,Linea B,Corte,5.06
+437,2026-04-09,8.85,1901,24,161.57,223.44,Mantenimiento correctivo,Media,52.29,1586.24,Validar causa,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+438,2026-03-17,5.77,3132,27,34.11,554.67,mantenimiento correctivo,Media,57.95,1290.15,OK,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Llenadora 07,Linea D,Llenado,5.65
+439,2026-05-07, 9.54 ,2172,15,158.21,280.49,Falta de insumo,Baja,26.93,961.77,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Cortadora 03,Linea B,Corte,5.06
+440,2026-05-23,7.94,4424,10,40.22,603.49,FALLA MECANICA,Baja,39.71,S/ 1186.35,,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Mezcladora 01,Linea A,Mezclado,4.18
+441,2026-03-08,7.19,2618,10,47.24,554.83,Cambio de formato,Alta,64.6,1817.84,OK,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Horno 05,linea c,TeRmIcO,10.14
+442,2026-05-06,3.43,597,10,29.83 aprox,215.29,Cambio de formato,Media,24.43,710.82,Validar causa,Tarde,Luis Ramos,14:00,22:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+443,2026-06-03,8.53,2152,21,77.24,296.99,Falta  de  insumo,Baja,41.37,1391.91,  Atencion mantenimiento ,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Empacadora 04,Linea B,Empaque,3.64
+444,2026-02-21,8.67,2657,16,26.16,355.0,Cambio de formato,Baja,41.89,1553.25,,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,Horno 05,linea c,TeRmIcO,10.14
+445,2026-05-27,7.7,3372,32,31.78,542.47,Limpieza no programada,Media,55.29,1141.21,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Selladora 08,Linea D,Sellado,7.96
+446,2026-02-02,9.76,1624,29,158.87,184.63,LIMPIEZA NO PROGRAMADA,Media,51.36,1443.01 aprox,OK,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Horno 05,linea c,TeRmIcO,10.14
+447,2026-01-19,10.8,5746,32,34.96,682.36,Falta de insumo,Media,55.11,1416.77,,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Selladora 08,Linea D,Sellado,7.96
+448,2026-02-27, 11.08 ,4883,25,32.36 aprox,637.83,,Media,41.41,1240.47,Validar causa,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Cortadora 03,Linea B,Corte,5.06
+449,18-04-2026,7.25,2877,40,24.43,567.48,Falta de insumo,BaJa,49.75,1577.76,Revisar sensor,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,prensa 02,Linea A,Prensado,6.78
+450,2026-01-26, 10.18 ,4777,20,37.51, 551.27 ,Cambio de formato,Baja,38.8,1388.23,,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,prensa 02,Linea A,Prensado,6.78
+451,2026-03-24,8.22,3798,7,39.14,636.28,AjUsTe dE CaLiDaD,Alta,32.52,952.95,Atencion mantenimiento,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Empacadora 04,Linea B,Empaque,3.64
+452,2026-05-18,5.66,2312,17,"39,75",567.29,Falla electrica,Media,63.35,1406.86,,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Selladora 08,Linea D,Sellado,7.96
+453,2026/05/16,4.21,653,25,,219.35,falla mecanica,Critica,78.86,2796.04,Revisar sensor,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+454,2026-05-23,8.6,3010,19,38.65,462.73,FALLA ELECTRICA,,36.59,992.83,Validar causa,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,Empacadora 04,Linea B,Empaque,3.64
+455,2026-01-25, 5.27 ,1318,20, 67.35 , 329.77 ,Mantenimiento correctivo,Media,54.43,1886.68,Revisar  sensor,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+456,2026-02-03,9.56 aprox,2275,19, 23.44 ,252.09,Falla mecanica,Baja,44.16,1577.68,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Mezcladora 01,Linea A,Mezclado,4.18
+457, 2026-02-07 ,6.81,6040,23,17.23,945.85,Espera de operador,Alta,47.98,1437.69,Revisar sensor,Noche,Diana Flores,22:00,06:00,Etiquetado final,Empaque,24.0,880.0,Empacadora 04,Linea B,Empaque,3.64
+458,2026-04-06,10.45,3698,26,28.23,455.32,Mantenimiento correctivo,media,63.53,1809.08,Revisar sensor,Manana,Ana Torres,06:00,14:00,Corte de piezas,transformacion,38.0,620.0,Selladora 08,Linea D,Sellado,7.96
+459,2026-02-10,11.13,1996,18,26.64,254.37,  Mantenimiento correctivo ,ALTA,73.53,2207.22,OK,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,Llenadora 07,Linea D,Llenado,5.65
+460,2026-03-01,3.64,994,17,20.8,278.89,Ajuste de calidad,Media,31.83,1052.41,,Manana,Ana Torres,06:00,14:00,Control de calidad,CaLiDaD,23.0,350.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+461,2026-01-07,10.96,3171,26,,367.13,Espera de operador,Media,48.63,1149.06,OK,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,prensa 02,Linea A,Prensado,6.78
+462,2026-03-05,10.0,1853,6,154.57,207.76,Mantenimiento correctivo,Baja, 41.62 ,S/ 1183.62,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Cortadora 03,Linea B,Corte,5.06
+463,2026-03-13,9.09,1630,6,30.09,263.05,Falla mecanica,Critica,68.18,3037.23,OK,Noche,Diana Flores,22:00,06:00,Enfriamiento controlado,Termico,30.0,300.0,Empacadora 04,Linea B,Empaque,3.64
+464,2026-06-19,4.0,1209,26,64.58,345.87,Falla mecanica,Media,38.76,1023.14,,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Cortadora 03,Linea B,Corte,5.06
+465,04-06-2026,2.95,738,24,28.96,366.53,Falla electrica,Baja,41.41,1250.71,OK,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,prensa 02,Linea A,Prensado,6.78
+466,2026-03-21,10.17 aprox,2437,15,156.1,261.6 aprox,MaNtEnImIeNtO CoRrEcTiVo,Baja,65.96,1965.85,OK,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Horno 05,linea c,TeRmIcO,10.14
+467,2026-04-21,4.09,730,13,157.12,265.08,Falla mecanica,Media,33.17,1200.78,,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+468,2026-03-27,5.57,2050,31,63.36,395.98,Limpieza no programada,Media,57.48,1951.93,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Horno 05,linea c,TeRmIcO,10.14
+469,2026-06-17,6.27,3032 aprox,7,40.34,552.17,Falla  mecanica,Media,44.08,1236.76,atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Corte de piezas,transformacion,38.0,620.0,Llenadora 07,Linea D,Llenado,5.65
+470,2026-04-24,10.36,4084,27,79.71,419.44,Espera de operador,  Alta ,60.64,1411.66,ATENCION MANTENIMIENTO,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Horno 05,linea c,TeRmIcO,10.14
+471, 2026-05-10 ,7.8,3647,16,27.09,598.46,Cambio de formato,Media,37.55,1210.14,Validar causa,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Llenadora 07,Linea D,Llenado,5.65
+472,2026-06-05,7.95,3898,24,47.01,,Falta de insumo,Media,"37,54","917,53",Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+473,2026-02-12,6.77,3837, 15 ,20.01,855.87,Mantenimiento correctivo,Media,49.05,1595.76,Validar causa,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Cortadora 03,Linea B,Corte,5.06
+474,2026-05-26,10.02,4801,32,27.59,651.34,Mantenimiento correctivo,Baja,75.6,2584.95,Validar causa,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,Horno 05,linea c,TeRmIcO,10.14
+475,2026-04-10,6.23,2423,17,21.25,571.33,ajuste de calidad,ALTA,59.57,1791.35,,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Horno 05,linea c,TeRmIcO,10.14
+476, 2026-04-07 ,"9,0",4155,32,52.47,532.3,Limpieza no programada,  Media ,"52,36",1674.77,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Horno 05,linea c,TeRmIcO,10.14
+477,2026-04-16,2.71,,,148.07,220.94,Ajuste de calidad,Media,64.41,2228.52,Revisar  sensor,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,prensa 02,Linea A,Prensado,6.78
+478,2026/01/20,4.89,1945,30 aprox,25.3,589.59,Falta de insumo,Alta,89.51 aprox,2220.33,OK,Noche,Diana Flores,22:00,06:00,Corte de piezas,transformacion,38.0,620.0,prensa 02,Linea A,Prensado,6.78
+479,2026-03-13,"10,41",5199,31,36.33,617.87,Mantenimiento correctivo,Alta,64.6,2200.79,Revisar sensor,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Empacadora 04,Linea B,Empaque,3.64
+480,2026-03-11,7.65,,18,26.59,659.43,Ajuste de calidad,Alta,55.05,1233.37,Validar causa,Noche,Diana Flores,22:00,06:00,Empaque primario,Empaque,24.0,720.0,Selladora 08,Linea D,Sellado,7.96
+481,2026-01-10,2.83,1103,11,75.14,407.92,Espera de operador,MEDIA,39.46,994.33,,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Selladora 08,Linea D,Sellado,7.96
+482,2026-04-14,11.31,5384,19,44.98,501.95,Limpieza no programada,Baja,50.45,1749.31,validar causa,Tarde,Luis Ramos,14:00,22:00,Preparacion de insumo,Preparacion,45.0,520.0,Horno 05,linea c,TeRmIcO,10.14
+483,2026-01-03,8.54,1897,11,152.72,230.81,Limpieza no programada,Baja,32.77,1197.28,Revisar sensor,Noche,Diana Flores,22:00,06:00,Tratamiento termico,Termico,155.0,260.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+484,2026-01-05,8.18,2390,13,"73,38",317.58,Espera de operador,,33.95,1019.03,,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,prensa 02,Linea A,Prensado,6.78
+485,2026-01-24,6.62,3572,18,21.89,707.63,Mantenimiento correctivo,Critica,89.44 aprox,3181.0,Atencion mantenimiento,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,prensa 02,Linea A,Prensado,6.78
+486,2026-03-04,,,32,"39,75",,Espera de operador,Alta,57.72,1713.04,,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Selladora 08,Linea D,Sellado,7.96
+487,2026-03-02,7.41,,24,37.71,537.86,Limpieza  no  programada,BAJA,46.62,1495.05,OK,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Selladora 08,Linea D,Sellado,7.96
+488, 2026-06-12 ,9.3,3493,11,42.31,532.72,FALLA ELECTRICA,Media,56.01,1896.32,ATENCION MANTENIMIENTO,Tarde,Luis Ramos,14:00,22:00,Corte de piezas,transformacion,38.0,620.0,prensa 02,Linea A,Prensado,6.78
+489,2026-03-18,4.31,1257,12,74.07,,  Cambio de formato ,Media,16.83,500.92,,Tarde,Luis Ramos,14:00,22:00,Moldeado inicial,Transformacion,70.0,410.0,Mezcladora 01,Linea A,Mezclado,4.18
+490,,3.98,1909,16,44.36,525.47,,Media,33.29,975.89,Validar causa,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,prensa 02,Linea A,Prensado,6.78
+491,2026-02-12,9.3,3975,24,29.85,541.2,Espera de operador,Baja,33.06,726.61,,Tarde,Luis Ramos,14:00,22:00,Empaque primario,Empaque,24.0,720.0,Horno 05,linea c,TeRmIcO,10.14
+492,06-06-2026,5.27,2632,18,25.95,,EsPeRa dE OpErAdOr,MEDIA,41.25,1403.72,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Horno 05,linea c,TeRmIcO,10.14
+493,2026-05-07,"4,67",720,15,30.01,220.64,falta de insumo,Alta,57.63,1364.98,,Manana,Ana Torres,06:00,14:00,Enfriamiento controlado,Termico,30.0,300.0,Horno 05,linea c,TeRmIcO,10.14
+494,2026-06-08, 10.53 ,3633, 3 ,44.23,456.42,Cambio de formato,,,692.46,  Atencion mantenimiento ,Manana,Ana Torres,06:00,14:00,Preparacion de insumo,Preparacion,45.0,520.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+495,2026-02-23, 5.62 ,1253,16,151.04,254.28,  Mantenimiento correctivo ,Alta,79.34,2579.08,Validar causa,Tarde,Luis Ramos,14:00,22:00,Tratamiento termico,Termico,155.0,260.0,Cortadora 03,Linea B,Corte,5.06
+496,2026-01-12,8.49,2103,17,22.37,327.56,Mantenimiento correctivo,  Media ,51.93,1551.96,Atencion mantenimiento,Noche,Diana Flores,22:00,06:00,Control de calidad,CaLiDaD,23.0,350.0,Etiquetadora 06,Linea C,Etiquetado,2.46
+497,2026-06-25,6.44,1791,14,77.09,350.05,Espera de operador,Critica,70.8,1838.26,OK,Noche,Diana Flores,22:00,06:00,Moldeado inicial,Transformacion,70.0,410.0,Empacadora 04,Linea B,Empaque,3.64
+498,2026/02/08,6.49,5365,14,21.5,901.65,Espera de operador,Media,52.81,1115.28,,Manana,Ana Torres,06:00,14:00,Etiquetado final,Empaque,24.0,880.0,Mezcladora 01,Linea A,Mezclado,4.18
+499,2026-03-18,5.03,1216,34,36.89,254.87,Ajuste de calidad,Baja,47.78,1515.64,,Tarde,Luis Ramos,14:00,22:00,Control de calidad,CaLiDaD,23.0,350.0,prensa 02,Linea A,Prensado,6.78
+500,2026-05-19,6.91,4330,20,16.84,640.04,Mantenimiento correctivo,, 56.19 ,1543.17,Revisar sensor,Tarde,Luis Ramos,14:00,22:00,Etiquetado final,Empaque,24.0,880.0,Cortadora 03,Linea B,Corte,5.06

@@ -12,31 +12,28 @@ DB_PATH = BASE_DIR / "industria_paradas_procesos.db"
 
 QUERY = """
 SELECT
-    f.id_parada,
-    m.nombre AS maquina,
-    m.linea,
-    m.tipo_maquina,
-    m.antiguedad_anios,
-    p.nombre AS proceso,
-    p.familia,
-    p.temperatura_objetivo_c,
-    p.velocidad_objetivo_u_h,
-    t.nombre AS turno,
-    t.supervisor,
-    f.fecha_operacion,
-    f.tiempo_operacion_h,
-    f.unidades_producidas,
-    f.defectos_unidades,
-    f.temperatura_promedio_c,
-    f.velocidad_real_u_h,
-    f.causa_parada,
-    f.criticidad,
-    f.duracion_parada_min,
-    f.costo_parada_soles
-FROM paradas f
-LEFT JOIN maquinas m ON f.id_maquina = m.id_maquina
-LEFT JOIN procesos p ON f.id_proceso = p.id_proceso
-LEFT JOIN turnos t ON f.id_turno = t.id_turno;
+    id_parada,
+    maquinas_nombre AS maquina,
+    maquinas_linea AS linea,
+    maquinas_tipo_maquina AS tipo_maquina,
+    maquinas_antiguedad_anios AS antiguedad_anios,
+    procesos_nombre AS proceso,
+    procesos_familia AS familia,
+    procesos_temperatura_objetivo_c AS temperatura_objetivo_c,
+    procesos_velocidad_objetivo_u_h AS velocidad_objetivo_u_h,
+    turnos_nombre AS turno,
+    turnos_supervisor AS supervisor,
+    fecha_operacion,
+    tiempo_operacion_h,
+    unidades_producidas,
+    defectos_unidades,
+    temperatura_promedio_c,
+    velocidad_real_u_h,
+    causa_parada,
+    criticidad,
+    duracion_parada_min,
+    costo_parada_soles
+FROM paradas_original;
 """
 
 

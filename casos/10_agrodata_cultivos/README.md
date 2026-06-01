@@ -1,52 +1,34 @@
-# AgroData - Produccion de cultivos
+# Caso 10 - Agrodata Cultivos
 
-## Contexto
-Una asociacion agricola analiza rendimiento de cultivos por parcela.
+## Enfoque del caso
 
-## Tablas
-- `parcelas`: datos de parcelas.
-- `cultivos`: catalogo de cultivos.
-- `zonas`: sedes, zonas o puntos de operacion.
-- `produccion`: tabla principal con 500 registros y claves foraneas.
+Este caso entrega una sola tabla desnormalizada para que el estudiante identifique datos repetidos y proponga el modelo normalizado.
+
+La base no incluye tablas normalizadas, claves foraneas ni una solucion relacional ya construida.
+
+## Archivo SQLite
+
+- `agrodata_cultivos.db`
+
+## Tabla disponible
+
+- `produccion_original`: tabla de partida con 500 registros. Mezcla datos de la operacion principal con datos descriptivos de clientes, productos, sedes, categorias u otras entidades del caso.
 
 ## Reto PMD1
-Predecir el rendimiento en kilogramos segun las hectareas sembradas.
+
+1. Explorar la tabla original.
+2. Detectar patrones repetidos y dependencias entre columnas.
+3. Proponer entidades, claves primarias y claves foraneas.
+4. Crear las tablas normalizadas en SQLite.
+5. Insertar los datos desde `produccion_original` hacia las nuevas tablas.
+6. Reconstruir un reporte con `JOIN` para validar que no se perdio informacion.
+7. Limpiar datos con Pandas y preparar un dataset analitico.
 
 Variable objetivo sugerida: `rendimiento_kg`.
 Variable predictora basica sugerida: `hectareas`.
 
-## Suciedad incluida
-- Espacios en blanco al inicio/final.
-- Mayusculas y minusculas inconsistentes.
-- Valores nulos.
-- Fechas con formatos mezclados.
-- Numeros guardados como texto, con coma decimal o simbolo `S/`.
-- Duplicados parciales en la tabla principal.
-- Algunos valores extremos.
+## Archivo CSV
 
-## Consulta base para Pandas
+La carpeta `csv/` contiene solo la tabla original:
 
-```sql
-SELECT
-    f.id_produccion,
-    p.nombre AS parcela,
-    p.distrito AS distrito_parcela,
-    p.segmento,
-    i.nombre AS cultivo,
-    i.categoria,
-    l.nombre AS zona,
-    l.zona,
-    f.fecha_operacion,
-    f.cantidad_jornales,
-    f.hectareas,
-    f.costo_insumo,
-    f.descuento_pct,
-    f.canal,
-    f.metodo_pago,
-    f.calificacion,
-    f.rendimiento_kg
-FROM produccion f
-LEFT JOIN parcelas p ON f.id_parcela = p.id_parcela
-LEFT JOIN cultivos i ON f.id_cultivo = i.id_cultivo
-LEFT JOIN zonas l ON f.id_zona = l.id_zona;
-```
+- `produccion_original.csv`

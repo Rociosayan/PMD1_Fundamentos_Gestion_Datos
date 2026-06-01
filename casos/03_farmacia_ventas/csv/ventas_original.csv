@@ -1,0 +1,501 @@
+id_venta,fecha_operacion,cantidad,cantidad_medicamentos,precio_unitario,descuento_pct,canal,metodo_pago,calificacion,monto_boleta,observacion,sucursales_nombre,sucursales_distrito,sucursales_zona,medicamentos_nombre,medicamentos_categoria,medicamentos_precio_unitario,clientes_nombre,clientes_distrito,clientes_segmento,clientes_fecha_registro
+1,2026/03/25,2,9,41.38,0,Web,Plin,4,45.05,Revisar,Sucursal 7,SuRcO,NoRtE,Protector solar,Dermocosmetica,41.38,AnA CaMpOs,Miraflores,Regular,2025-11-09
+2,21-01-2026,5,7,8.03,0,Web,  Transferencia ,,15.99,OK,SUCURSAL 5,Ventanilla,OESTE,Suero oral,Hidratacion,8.03,Ana Cruz,Independencia,Premium,2025-04-13
+3,2026-02-16,4,4, 4.89 ,12,WhatsApp,Transferencia,4,13.78,Cliente frecuente,,Lima,  Norte ,Paracetamol,Analgesico,4.89,Luis Sayan,Comas,Nuevo,2025-12-09
+4,2026-05-23,5,9,8.25,0,WhatsApp,Transferencia,3,34.22,promocion,Sucursal 7,SuRcO,NoRtE,ALCOHOL GEL,higiene,8.25,Lucia Ramos,Miraflores,  Frecuente ,2025-08-07
+5,2026-06-02,1, 11 ,8.25,0,WhatsApp,Yape,1,16.73,OK,SUCURSAL 5,Ventanilla,OESTE,ALCOHOL GEL,higiene,8.25,Ana Cruz,Independencia,Premium,2025-04-13
+6,2026-05-18,3,4,8.25,20,Web,Tarjeta,2,10.87,,Sucursal 7,SuRcO,NoRtE,ALCOHOL GEL,higiene,8.25,Diego Castillo,San Juan de Lurigancho,Frecuente,2025-12-25
+7,2026-03-14, 3 ,7,41.38,0,WhatsApp,YaPe,2,,,Sucursal 7,SuRcO,NoRtE,Protector solar,Dermocosmetica,41.38,Miguel Torres,Comas,Frecuente,
+8,2026-04-22,6,10,4.89,15,Web,Efectivo,3,16.82,,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Raul Sayan,Ventanilla,Premium,2025-02-16
+9,2026-04-17,6,6,41.38,0,Presencial,Plin,1,62.47,,Sucursal 7,SuRcO,NoRtE,Protector solar,Dermocosmetica,41.38,Camila Rojas,San Miguel,Frecuente,2025-10-22
+10,2026-05-26,8,3,5.65, 0 ,Telefono,Yape,1,25.22,Cliente frecuente,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Luis Sayan,Comas,Nuevo,2025-12-09
+11,2026-05-13,7,5 aprox,44.46,8,Web,Transferencia,5,58.98,ok,,Lima,  Norte ,panal adulto,Cuidado,44.46,Maria Campos,Callao,Nuevo,2025-06-18
+12,2026-01-13,7,10,8.25,0,WhatsApp,Transferencia,3,,Revisar,Sucursal 3,San Juan de Lurigancho,Este,ALCOHOL GEL,higiene,8.25,Marco Huaman,Ate,Regular,2025-02-25
+13,2026-05-14,4,10,5.65,5,Presencial,Yape,1,17.53,Revisar,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Miguel Salazar,Ventanilla,Regular,2025-10-15
+14,2026-05-24, 7 ,1,"8,25",20,WhatsApp,Transferencia,2,18.14,Revisar,  Sucursal 6 ,Comas,  Norte ,ALCOHOL GEL,higiene,8.25,Marco Flores,Callao,Nuevo,2025-10-18
+15,2026-01-12,5,3,6.11,8,Presencial,Yape,3,19.53,Promocion,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Diego Castillo,  Villa El Salvador ,Nuevo,2025-09-15
+16,,2,3,5.65,0,web,Efectivo,3,11.39,,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Miguel Salazar,Ventanilla,Regular,2025-10-15
+17,2026-01-17, 3 , 12 ,5.65,0,App,Plin,1,9.46,,Sucursal 7,SuRcO,NoRtE,Jabon antibacterial,Higiene,5.65,,villa el salvador,Premium, 2025-08-15 
+18,2026-01-28,8,5,41.38,10,Presencial,Efectivo,2,60.31,Cliente frecuente,Sucursal 1,Ventanilla,centro,Protector solar,Dermocosmetica,41.38,  Sofia Paredes ,Lima,Premium,2025-07-19
+19,2026-02-03,5 aprox,6,"15,74",0,Telefono,Transferencia,3,"39,44",Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Vitamina C,Suplemento,15.74,Rocio Cruz,Los Olivos,Nuevo,2025-12-23
+20,2026-02-20,2,7,,0,WhatsApp,,4,62.68,,Sucursal 7,SuRcO,NoRtE,Protector solar,Dermocosmetica,41.38,Luis Salazar,Callao,Nuevo,2025-10-20
+21,2026-02-06,,4,4.89,5,Telefono,TaRjEtA,3,92.82,,Sucursal 1,Ventanilla,centro,Paracetamol,Analgesico,4.89,Jose Cruz,Chorrillos,premium,2025-05-14
+22,2026-02-22,1,1,8.03,20,WhatsApp,Efectivo,4,0.99,,Sucursal 3,San Juan de Lurigancho,Este,Suero oral,Hidratacion,8.03,Victor Sayan,  Surco ,Corporativo, 2025-10-15 
+23,2026-06-07,8,7,8.25,0,Presencial,Plin,3, 37.59 ,OK,Sucursal 3,San Juan de Lurigancho,Este,ALCOHOL GEL,higiene,8.25,Rocio Cruz,Los Olivos,Nuevo,2025-12-23
+24,2026-06-28,2,6 aprox,6.11,0,Telefono,Plin,4,16.94,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,Ibuprofeno,Analgesico,6.11,Luis Salazar,Callao,Nuevo,2025-10-20
+25,2026-02-10,4,10,8.03,0,Telefono,Yape,4, 22.7 ,Cliente frecuente,Sucursal 7,SuRcO,NoRtE,Suero oral,Hidratacion,8.03,Lucia Huaman,LIMA,Regular,2025-06-08
+26,2026-06-05,3,9,5.65,8,App,  Tarjeta ,5,13.87,Revisar,Sucursal 4,San Juan de Lurigancho,Centro,Jabon antibacterial,Higiene,5.65,Jose Cruz,Chorrillos,premium,2025-05-14
+27,2026-05-07,2,2,4.89,8,Telefono,Transferencia,5,,OK,Sucursal 3,San Juan de Lurigancho,Este,Paracetamol,Analgesico,4.89,  Sofia Paredes ,Lima,Premium,2025-07-19
+28,2026-02-10,1, 5 ,8.03,10,App,Efectivo,4,1.99,Cliente frecuente,Sucursal 7,SuRcO,NoRtE,Suero oral,Hidratacion,8.03,Claudia Vargas,LoS OlIvOs,Premium,2025-08-07
+29,2026-01-10,3 aprox,2,15.74,0,app,Transferencia,2,14.89,OK,Sucursal 1,Ventanilla,centro,Vitamina C,Suplemento,15.74,Valeria Soto,Chorrillos,Frecuente,2025-08-20
+30,2026-05-14,4,10,5.65,5,Presencial,Yape,1,17.53,Revisar,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Miguel Salazar,Ventanilla,Regular,2025-10-15
+31,2026-03-09,8,5,6.11,15 aprox,WhatsApp,Yape,4,31.25,Promocion,Sucursal 3,San Juan de Lurigancho,Este,Ibuprofeno,Analgesico,6.11,Marco Flores,Callao,Nuevo,2025-10-18
+32,2026-03-19,3,10,11.07,12,Presencial,Transferencia,1, 17.21 ,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Antigripal,respiratorio,11.07,Camila Campos,,Regular,2025-01-02
+33,2026-06-17,4,1,5.65,,Web,Tarjeta,4,,ClIeNtE FrEcUeNtE,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,ana torres,  Callao ,Corporativo,2025-06-26
+34,2026-05-24,3,5,,0,Web,Tarjeta,5,8.32,Cliente frecuente,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,Valeria Paredes,  San Juan de Lurigancho ,Regular,
+35,2026-02-17,4,10 aprox,44.46,12,Web,Plin,5,,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,panal adulto,Cuidado,44.46,Diego Castillo,San Juan de Lurigancho,Frecuente,2025-12-25
+36,2026-02-18,8,11,"4,89",8,WhatsApp,,1,33.48,Revisar,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Miguel Reyes,Surco,Premium,2025-07-09
+37,2026-05-14,4,10,5.65,5,Presencial,Yape,1,17.53,Revisar,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Miguel Salazar,Ventanilla,Regular,2025-10-15
+38,2026-04-16,3,1, 11.07 ,0,Telefono,Tarjeta,2,"22,83",,Sucursal 7,SuRcO,NoRtE,Antigripal,respiratorio,11.07,Marco Flores,Callao,Nuevo,2025-10-18
+39,2026-05-17,6,7,5.65,5,Telefono,Plin,3,19.71,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,AnA CaMpOs,Miraflores,Regular,2025-11-09
+40,2026-02-01,5,9 aprox,15.74,,,Yape,4,23.04 aprox,Promocion,  Sucursal 6 ,Comas,  Norte ,Vitamina C,Suplemento,15.74,Sofia Torres,  Comas ,nuevo,2025-07-14
+41,2026-02-13,8,3,5.65,12,WhatsApp,,5,18.7,Cliente frecuente,SUCURSAL 5,Ventanilla,OESTE,Jabon antibacterial,Higiene,5.65,,La Molina,Regular,17-07-2025
+42,2026-03-13,6,6,4.89,0,Web,Transferencia,5,17.8,Cliente frecuente,SUCURSAL 5,Ventanilla,OESTE,Paracetamol,Analgesico,4.89,Valeria Reyes,Miraflores,Frecuente,2025-03-04
+43,2026-04-25,8,12,11.07,12,WhatsApp,YaPe,5,27.38,,  Sucursal 6 ,Comas,  Norte ,Antigripal,respiratorio,11.07,Lucia Huaman,LIMA,Regular,2025-06-08
+44,2026-02-08,3,4,4.89,8,App,Efectivo,4,16.9,Revisar,,Lima,  Norte ,Paracetamol,Analgesico,4.89,Diego Soto,Los Olivos,Regular,2025-12-11
+45,2026-04-22,6,12,41.38,15,Presencial,Efectivo,2,65.5,,Sucursal 1,Ventanilla,centro,Protector solar,Dermocosmetica,41.38,Raul Salazar,Chorrillos,Frecuente,2025-03-03
+46,2026-01-12,8,11,41.38,20,Web,Tarjeta,1,49.52,Promocion,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,  Miguel Huaman ,  Villa El Salvador ,Corporativo,2025/01/10
+47,2026-01-18,7,3,8.25,8,PrEsEnCiAl,Efectivo,2,29.55,Revisar,Sucursal 4,San Juan de Lurigancho,Centro,ALCOHOL GEL,higiene,8.25,Luis Huaman,Miraflores,regular,2025-02-20
+48,2026-04-21,7,8,6.11,15,App,Plin,5, 23.18 ,,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Carlos Ramos,Villa El Salvador,Corporativo,16-10-2025
+49,2026-03-15,5,5,6.11,8,Presencial,Transferencia,5,15.94,,SUCURSAL 5,Ventanilla,OESTE,Ibuprofeno,Analgesico,6.11,Claudia Reyes,Independencia,Regular,2025-09-02
+50,06/01/2026,,8, 6.11 ,10,WhatsApp,Yape,3,19.33,Revisar,Sucursal 3,San Juan de Lurigancho,Este,Ibuprofeno,Analgesico,6.11,Valeria Sayan,SuRcO,Corporativo,22-12-2025
+51,2026-06-21,4,3,44.46,0,  Presencial ,Tarjeta,2,58.15,Promocion,Sucursal 4,San Juan de Lurigancho,Centro,panal adulto,Cuidado,44.46,Diego Castillo,  Villa El Salvador ,Nuevo,2025-09-15
+52,2026-02-05, 3 ,,S/ 8.03,12,Telefono,Efectivo,5,20.52,,Sucursal 7,SuRcO,NoRtE,Suero oral,Hidratacion,8.03,Victor Cruz,independencia,Nuevo,2025/06/20
+53,2026-06-12,1,8,44.46,20,App,Plin,4,49.28,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,panal adulto,Cuidado,44.46,Claudia Gomez,LIMA,Corporativo,19/11/2025
+54,2026-01-20,6, 8 ,6.11,10,,Efectivo,3,24.32,Promocion,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Andre Castillo,San Miguel,Corporativo,2025-12-20
+55,2026-04-21,6,1,41.38,0,App,YAPE,5,51.25,promocion,,Lima,  Norte ,Protector solar,Dermocosmetica,41.38,Jose Soto,Ventanilla,Nuevo,26-01-2025
+56,2026-04-24,4, 4 ,15.74 aprox, 0 ,WhatsApp,Transferencia,2,14.65,Revisar,Sucursal 7,SuRcO,NoRtE,Vitamina C,Suplemento,15.74,Luis Huaman,Miraflores,regular,2025-02-20
+57,2026-01-15,3,11,"8,25",0,TELEFONO,Transferencia,3,13.6,Revisar,Sucursal 7,SuRcO,NoRtE,ALCOHOL GEL,higiene,8.25,Diego Campos,Callao,Corporativo,2025-07-19
+58,2026-04-12,7,7,8.03,0,Web,Efectivo,4,26.52,Revisar,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Marco Quispe,Ate,Premium,24/05/2025
+59,2026-05-26,,9,4.89,5,WHATSAPP,Yape,5,21.23,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,Paracetamol,Analgesico,4.89,Maria Campos,Callao,Nuevo,2025-06-18
+60,2026-05-15,2,7 aprox,5.65,8,App,Transferencia,2,9.58,Promocion,Sucursal 7,SuRcO,NoRtE,Jabon antibacterial,Higiene,5.65,Andre Castillo,San Miguel,Corporativo,2025-12-20
+61,2026-03-15,4,3,6.11,15,WhatsApp,Yape,3,6.51,OK,Sucursal 3,San Juan de Lurigancho,Este,Ibuprofeno,Analgesico,6.11,Claudia Vargas,LoS OlIvOs,Premium,2025-08-07
+62,01/03/2026,3,6,44.46,,Web,Plin,5 aprox,54.85 aprox,,,Lima,  Norte ,panal adulto,Cuidado,44.46,Camila Campos,,Regular,2025-01-02
+63,2026-04-18,2,11,5.65,5,  Telefono ,Yape, 1 ,22.2,Promocion,Sucursal 4,San Juan de Lurigancho,Centro,Jabon antibacterial,Higiene,5.65,Ana Torres,La Molina,Frecuente,2025-10-05
+64,2026-02-06,4,5,15.74,8,App,Transferencia,2,20.01,Promocion,Sucursal 3,San Juan de Lurigancho,Este,Vitamina C,Suplemento,15.74,Diego Ramos,Ate,Frecuente,2025-09-07
+65,2026-04-24,3,3,8.03,0,Web,Plin,2 aprox,21.22,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Suero oral,Hidratacion,8.03,Camila Quispe,Comas,Nuevo,27/07/2025
+66,2026-06-10,2,3, 5.65 ,12,Presencial,Efectivo,3,0.5,Promocion,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Maria Campos,Callao,Nuevo,2025-06-18
+67,,6,10,4.89,10,Telefono,Efectivo,3,10.21,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Marco Vargas,Lima,Frecuente,2025-10-22
+68,2026-05-05,3,10,"5,65",5,Telefono,Yape,5,13.78,Promocion,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,Miguel Salazar,Ventanilla,Regular,2025-10-15
+69,2026-02-27,4, 6 ,,15,,Transferencia,5,11.14,Revisar,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,Valeria Paredes,  San Juan de Lurigancho ,Regular,
+70,2026-04-16,7,2,44.46,12,WhatsApp,Transferencia,1,71.96,Promocion,Sucursal 3,San Juan de Lurigancho,Este,panal adulto,Cuidado,44.46,Camila Quispe,Comas,Nuevo,27/07/2025
+71,2026-06-02,7,3,5.65,5,Telefono,Yape,1,,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Jabon antibacterial,Higiene,5.65,Luis Salazar,Callao,Nuevo,2025-10-20
+72,2026-02-01,6,9,4.89, 0 ,Telefono,YaPe,3,17.8,Revisar,SUCURSAL 5,Ventanilla,OESTE,Paracetamol,Analgesico,4.89,Valeria Reyes,Miraflores,Frecuente,2025-03-04
+73,2026-04-24,3,9, 8.25 ,5,Telefono,Tarjeta,3,25.0,,SUCURSAL 5,Ventanilla,OESTE,ALCOHOL GEL,higiene,8.25,Marco Flores,Lima,PREMIUM,10-09-2025
+74,2026-03-04,1,7 aprox,4.89,8,WhatsApp,Tarjeta,3,18.24,OK,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,Valeria Reyes,Miraflores,Frecuente,2025-03-04
+75,2026-02-24,1,11,4.89,0,App,Tarjeta,5,,,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Marco Vargas,Lima,Frecuente,2025-10-22
+76,2026-05-13,5,7,6.11,0,Telefono,EfEcTiVo,1,27.75,,,Lima,  Norte ,Ibuprofeno,Analgesico,6.11,Ana Paredes,Surco,Nuevo,2025-09-07
+77,2026-01-06,4,8,11.07,12,app,Plin, 2 ,,Promocion,Sucursal 7,SuRcO,NoRtE,Antigripal,respiratorio,11.07,Claudia Vargas,LoS OlIvOs,Premium,2025-08-07
+78,2026-05-14,4,10,5.65,5,Presencial,Yape,1,17.53,Revisar,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Miguel Salazar,Ventanilla,Regular,2025-10-15
+79,2026-04-16,4,9,41.38,8,App,Transferencia,,48.17,OK,SUCURSAL 5,Ventanilla,OESTE,Protector solar,Dermocosmetica,41.38,Elena Ramos,Villa El Salvador,Regular,2025-11-16
+80, 2026-01-11 ,8,5,41.38,20,Telefono,Plin,3,48.89,Revisar,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,Marco Paredes,Ventanilla,,2025-04-14
+81,2026-01-16,8,4,41.38,0,Web,Tarjeta,3,S/ 56.1,Cliente frecuente,Sucursal 1,Ventanilla,centro,Protector solar,Dermocosmetica,41.38,Andre Salazar,San Juan de Lurigancho,Corporativo,24/06/2025
+82,2026-03-14,7,7, 8.25 ,15,Web,Transferencia,3,26.09,,  Sucursal 6 ,Comas,  Norte ,ALCOHOL GEL,higiene,8.25,Diana Paredes,Lima,Premium,2025-05-06
+83,2026-05-02,8,12,8.03,,Web,Transferencia,3,34.0 aprox,,Sucursal 1,Ventanilla,centro,Suero oral,Hidratacion,8.03,Camila Quispe,Comas,Nuevo,27/07/2025
+84,2026-03-20,2,2,41.38,8,Web,Plin,3,44.67,OK,,Lima,  Norte ,Protector solar,Dermocosmetica,41.38,Jose Cruz,Chorrillos,premium,2025-05-14
+85,2026-02-08,2 aprox,5,"8,25",12,Web,efectivo,5,,Revisar,SUCURSAL 5,Ventanilla,OESTE,ALCOHOL GEL,higiene,8.25,Andre Castillo,San Miguel,Corporativo,2025-12-20
+86,2026-01-06,1,12,6.11,0,WHATSAPP,Efectivo,3,8.29,Cliente frecuente,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Diego Soto,Los Olivos,Regular,2025-12-11
+87,2026-03-06,8,10,15.74,10,Web,Yape,5,47.13,OK,  Sucursal 6 ,Comas,  Norte ,Vitamina C,Suplemento,15.74,Elena Paredes,Callao,Premium,2025-11-22
+88,2026-05-27,1,8,6.11,0,App,Tarjeta,4,16.67,OK,Sucursal 7,SuRcO,NoRtE,Ibuprofeno,Analgesico,6.11,Fiorella Rojas,Miraflores,,
+89,2026-01-15,6,6,6.11,20 aprox,Web,Tarjeta,3,12.21,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Ibuprofeno,Analgesico,6.11,Diego Torres,Ventanilla,Premium,2025-09-17
+90,2026-01-27,4,10,41.38, 15 ,Web,tarjeta,3, 58.4 ,,SUCURSAL 5,Ventanilla,OESTE,Protector solar,Dermocosmetica,41.38,  Miguel Huaman ,  Villa El Salvador ,Corporativo,2025/01/10
+91,2026-05-24,2,5,11.07,8,App,Plin,3,13.18,,,Lima,  Norte ,Antigripal,respiratorio,11.07,Diego Soto,Los Olivos,Regular,2025-12-11
+92,2026-02-09,3,3,4.89,5,App,Tarjeta,4,16.0,,SUCURSAL 5,Ventanilla,OESTE,Paracetamol,Analgesico,4.89,Fiorella Rojas,Miraflores,,
+93,2026-05-26,6,6,6.11,5,Telefono,Efectivo,2,25.66,Promocion,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Sofia Vargas,LA MOLINA,Nuevo,2025-09-27
+94,2026-01-26,5,6,15.74,20,  Telefono ,Plin,4,12.59,,SUCURSAL 5,Ventanilla,OESTE,Vitamina C,Suplemento,15.74,Marco Vargas,Lima,Frecuente,2025-10-22
+95,2026-05-21,4,4,5.65,0,Presencial,Yape,5,7.59,,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Camila Rojas,San Miguel,Frecuente,2025-10-22
+96,2026/02/22,8,7,S/ 41.38,10,Telefono,Tarjeta,3,67.31,Revisar,,Lima,  Norte ,Protector solar,Dermocosmetica,41.38,,villa el salvador,Premium, 2025-08-15 
+97,2026-06-22,8,11,5.65,5,Presencial,Transferencia,4 aprox,25.16,cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,  Miguel Huaman ,  Villa El Salvador ,Corporativo,2025/01/10
+98,2026-06-13,7,8,44.46,15,WhatsApp,Tarjeta, 5 ,59.21,OK,,Lima,  Norte ,panal adulto,Cuidado,44.46,Diego Campos,Callao,Corporativo,2025-07-19
+99,2026-02-02,5,11, 11.07 ,15,Telefono,Tarjeta,1,19.43,,  Sucursal 6 ,Comas,  Norte ,Antigripal,respiratorio,11.07,Valeria Paredes,  San Juan de Lurigancho ,Regular,
+100,24/02/2026,7,12,4.89,10,Telefono,Tarjeta,1,25.2,Revisar,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Raul Salazar,Chorrillos,Frecuente,2025-03-03
+101,2026-03-04,5,3,4.89,15,App,Plin,4,18.52,Cliente frecuente,Sucursal 1,Ventanilla,centro,Paracetamol,Analgesico,4.89,Diego Ramos,Ate,Frecuente,2025-09-07
+102,2026-01-07,1 aprox,2,11.07,5,Presencial,Efectivo,5,5.98,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,Antigripal,respiratorio,11.07,Maria Flores,Lima,Nuevo,2025-08-17
+103,2026-01-17, 1 ,3,15.74,5,Presencial,Efectivo,4 aprox,22.38,Promocion,Sucursal 3,San Juan de Lurigancho,Este,Vitamina C,Suplemento,15.74,Luis Cruz,Callao,Frecuente,2025-05-28
+104,22/04/2026,1,12,41.38,0,Web,TrAnSfErEnCiA,3,40.62,Revisar,Sucursal 7,SuRcO,NoRtE,Protector solar,Dermocosmetica,41.38,Valeria Soto,Chorrillos,Frecuente,2025-08-20
+105,2026-06-27,8,6,15.74,5,Telefono,Tarjeta,5,32.65 aprox,Promocion,  Sucursal 6 ,Comas,  Norte ,Vitamina C,Suplemento,15.74,,villa el salvador,Premium, 2025-08-15 
+106,2026-04-26,1, 10 ,44.46,,Web,Plin,2,59.91,,SUCURSAL 5,Ventanilla,OESTE,panal adulto,Cuidado,44.46,Luis Salazar,Callao,Nuevo,2025-10-20
+107,2026-05-09,1,11 aprox,5.65,15,Web,Transferencia,2 aprox,5.28,OK,Sucursal 4,San Juan de Lurigancho,Centro,Jabon antibacterial,Higiene,5.65,Valeria Quispe,San  Juan  de  Lurigancho,Nuevo,2025-06-10
+108,2026-06-14,2,12, 44.46 ,0,Telefono,Efectivo,1,53.1,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,panal adulto,Cuidado,44.46,CARLOS ROJAS,callao,Corporativo, 2025-09-24 
+109,2026-06-17,8,12, 15.74 ,0,  WhatsApp ,Efectivo,4,"46,56",Cliente frecuente,Sucursal 1,Ventanilla,centro,Vitamina C,Suplemento,15.74,LUIS CASTILLO,CaLlAo,Frecuente,2025-08-09
+110,2026-01-12,5,3,6.11,8,Presencial,Yape,3,19.53,Promocion,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Diego Castillo,  Villa El Salvador ,Nuevo,2025-09-15
+111,2026-06-13,5, 12 ,S/ 41.38,0,WhatsApp,Yape,5,52.18,,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,Maria Campos,Callao,Nuevo,2025-06-18
+112,2026/02/03,7,6,4.89,5,Web,YAPE,1, 24.25 ,,  Sucursal 6 ,Comas,  Norte ,Paracetamol,Analgesico,4.89,Luis Salazar,Callao,Nuevo,2025-10-20
+113,2026-02-18,2,11,8.25,15,Presencial,Tarjeta,4,"16,52",Promocion,Sucursal 7,SuRcO,NoRtE,ALCOHOL GEL,higiene,8.25,,Villa  El  Salvador,Premium,2025-01-25
+114,2026-01-08,4, 11 ,8.03,15,WhatsApp,Plin,4,8.72,,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Jose Soto,Ventanilla,Nuevo,26-01-2025
+115,2026-04-11,5,,41.38,20,Presencial,Tarjeta,5 aprox,57.6,Promocion,SUCURSAL 5,Ventanilla,OESTE,Protector solar,Dermocosmetica,41.38,Ana Paredes,Chorrillos,corporativo,2025-12-13
+116,2026-03-17,4,6, 6.11 ,0,Telefono,Transferencia,5,9.79,,SUCURSAL 5,Ventanilla,OESTE,Ibuprofeno,Analgesico,6.11,Miguel Reyes,Surco,Premium,2025-07-09
+117,2026-06-19,1,12,44.46,12,,Yape,1,43.88,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,panal adulto,Cuidado,44.46,Marco Paredes,Ventanilla,,2025-04-14
+118,2026-01-10,1,5, 44.46 ,0,Telefono,Yape,4,45.18,OK,Sucursal 1,Ventanilla,centro,panal adulto,Cuidado,44.46,  Sofia Paredes ,Lima,Premium,2025-07-19
+119,2026-04-12,3,7,4.89,,WhatsApp,  Yape ,4,17.55,,Sucursal 1,Ventanilla,centro,Paracetamol,Analgesico,4.89,Diego Campos,Callao,Corporativo,2025-07-19
+120,2026-05-15,3,7, 6.11 ,5,Web,Tarjeta,3,9.08,PROMOCION,Sucursal 4,San Juan de Lurigancho,Centro,Ibuprofeno,Analgesico,6.11,Andre Castillo,San Miguel,Corporativo,2025-12-20
+121,2026-02-25,6,4,,0,WhatsApp,Yape,2,27.84,OK,  Sucursal 6 ,Comas,  Norte ,Paracetamol,Analgesico,4.89,Camila Campos,,Regular,2025-01-02
+122,2026-05-25,5,3,8.03, 0 ,App,Plin,4,26.89,OK,Sucursal 4,San Juan de Lurigancho,Centro,Suero oral,Hidratacion,8.03,Sofia Torres,  Comas ,nuevo,2025-07-14
+123,2026-04-24,5,1,44.46,8,TeLeFoNo,efectivo,2,59.37,Promocion,Sucursal 7,SuRcO,NoRtE,panal adulto,Cuidado,44.46,Diego Campos,Callao,Corporativo,2025-07-19
+124,2026-04-07,6,11,8.25,10,TeLeFoNo,Tarjeta,2,28.4,Revisar,SUCURSAL 5,Ventanilla,OESTE,ALCOHOL GEL,higiene,8.25,Luis Navarro,Surco,Nuevo,2025-12-28
+125,2026-04-04,,4,41.38,12,Presencial,Yape,1,S/ 45.3,,SUCURSAL 5,Ventanilla,OESTE,Protector solar,Dermocosmetica,41.38,Luis Salazar,Callao,Nuevo,2025-10-20
+126,2026-04-15,8,6,8.25,10 aprox,App,Plin,5,26.17,Revisar,,Lima,  Norte ,ALCOHOL GEL,higiene,8.25,Luis Huaman,Miraflores,regular,2025-02-20
+127,2026-04-10,4,10,S/ 11.07,0,Web,EFECTIVO,5,16.71,,Sucursal 4,San Juan de Lurigancho,Centro,Antigripal,respiratorio,11.07,Valeria Sayan,Ate,Frecuente,2025-12-16
+128,2026-01-03,1,7,6.11,8,APP,Plin,5,13.69,Promocion,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Raul Sayan,Ventanilla,Premium,2025-02-16
+129,2026-01-12,4,1,4.89,8,telefono,Transferencia,1,24.32,,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,Diego Castillo,San Juan de Lurigancho,Frecuente,2025-12-25
+130,2026-06-28,3,4 aprox,8.03,5,WHATSAPP,Efectivo,2 aprox,18.46,Cliente frecuente,,Lima,  Norte ,Suero oral,Hidratacion,8.03,AnA CaMpOs,Miraflores,Regular,2025-11-09
+131,2026-03-16,2,1 aprox,S/ 6.11,12,Telefono,transferencia,3,8.52,,Sucursal 7,SuRcO,NoRtE,Ibuprofeno,Analgesico,6.11,Marco Ramos,San Miguel,Corporativo,2025-08-11
+132,2026-02-24,1,11,4.89,0,App,Tarjeta,5,,,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Marco Vargas,Lima,Frecuente,2025-10-22
+133, 2026-04-16 ,3,4,S/ 41.38,8,App,Tarjeta,1,44.01,ok,SUCURSAL 5,Ventanilla,OESTE,Protector solar,Dermocosmetica,41.38,Claudia Vargas,LoS OlIvOs,Premium,2025-08-07
+134,2026-01-13,1,8,5.65,0,App,TaRjEtA,3,12.5,OK,Sucursal 7,SuRcO,NoRtE,Jabon antibacterial,Higiene,5.65,Miguel Salazar,Ventanilla,Regular,2025-10-15
+135,2026-01-27,8,8,44.46,20,Telefono,Yape,1,61.04,Promocion,,Lima,  Norte ,panal adulto,Cuidado,44.46,Ana Paredes,Surco,Nuevo,2025-09-07
+136,2026/03/21,3,6,5.65,0,App,PLIN,2,4.8,Promocion,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,Lucia Huaman,LIMA,Regular,2025-06-08
+137,2026-03-05,,6,8.03,12,WhatsApp,Tarjeta,1,17.56,OK,Sucursal 7,SuRcO,NoRtE,Suero oral,Hidratacion,8.03,,Villa  El  Salvador,Premium,2025-01-25
+138,2026-02-02,6,4,8.25,10,Telefono,Yape,4 aprox,S/ 29.93,,Sucursal 3,San Juan de Lurigancho,Este,ALCOHOL GEL,higiene,8.25,Luis Cruz,Callao,Frecuente,2025-05-28
+139,2026-06-18,8,7, 8.25 ,8,App,Tarjeta,2,32.23,,Sucursal 3,San Juan de Lurigancho,Este,ALCOHOL GEL,higiene,8.25,Carlos Ramos,Villa El Salvador,Corporativo,16-10-2025
+140,2026-02-17,1,8, 44.46 , 10 ,Web,Plin,4,45.11,,Sucursal 3,San Juan de Lurigancho,Este,panal adulto,Cuidado,44.46,Fiorella Reyes,San Miguel,Premium,2025-10-28
+141,2026-01-11,2 aprox,3,44.46,20,WhatsApp,Yape,4,56.84,PrOmOcIoN,Sucursal 3,San Juan de Lurigancho,Este,panal adulto,Cuidado,44.46,Camila Campos,,Regular,2025-01-02
+142,24-04-2026,,3,44.46,15,App,Tarjeta,4, 72.44 ,Promocion,SUCURSAL 5,Ventanilla,OESTE,panal adulto,Cuidado,44.46,Miguel Torres,Comas,Frecuente,
+143,2026-06-06,3,3,44.46,10,WhatsApp,Tarjeta,3,49.27 aprox,OK,,Lima,  Norte ,panal adulto,Cuidado,44.46,Elena Paredes,Callao,Premium,2025-11-22
+144,2026-01-17,3,9, 8.25 ,0,TeLeFoNo,,1,17.71,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,ALCOHOL GEL,higiene,8.25,Miguel Salazar,Ventanilla,Regular,2025-10-15
+145,2026-06-14,7,17.09,8.25,10,Web,Transferencia,2,28.14,OK,Sucursal 1,Ventanilla,centro,ALCOHOL GEL,higiene,8.25,Camila Campos,,Regular,2025-01-02
+146,2026-03-15,1,9,15.74,5,Telefono,Efectivo,2,S/ 12.17,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,Vitamina C,Suplemento,15.74,,Villa  El  Salvador,Premium,2025-01-25
+147,2026-03-07,4,9,8.25,20,ApP,Plin,2,4.32,,Sucursal 7,SuRcO,NoRtE,ALCOHOL GEL,higiene,8.25,Jose Cruz,Chorrillos,premium,2025-05-14
+148,2026-05-11,6, 5 ,15.74,10,Presencial,Efectivo,3,27.31,,Sucursal 3,San Juan de Lurigancho,Este,Vitamina C,Suplemento,15.74,Sofia Vargas,LA MOLINA,Nuevo,2025-09-27
+149,2026-05-06,7,9,5.65,0,App,Yape,2,33.02,Revisar,,Lima,  Norte ,Jabon antibacterial,Higiene,5.65,Valeria Sayan,SuRcO,Corporativo,22-12-2025
+150,2026-01-16,8,9,41.38,15,Telefono,Efectivo,2 aprox,45.43,OK,Sucursal 3,San Juan de Lurigancho,Este,Protector solar,Dermocosmetica,41.38,Miguel Reyes,Surco,Premium,2025-07-09
+151,2026-01-24,1,8,8.03,0,APP,Yape,5,7.29,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Suero oral,Hidratacion,8.03,Raul Sayan,Ventanilla,Premium,2025-02-16
+152,,6,5,S/ 11.07,0,Presencial,Efectivo,5,16.26,,Sucursal 3,San Juan de Lurigancho,Este,Antigripal,respiratorio,11.07,Diego Torres,Ventanilla,Premium,2025-09-17
+153,2026-02-18,6,6,11.07,8,Telefono,Yape, 1 ,33.58,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,Antigripal,respiratorio,11.07,,Villa  El  Salvador,Premium,2025-01-25
+154,2026-01-20,6, 8 ,6.11,10,,Efectivo,3,24.32,Promocion,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Andre Castillo,San Miguel,Corporativo,2025-12-20
+155,2026-03-04,5,3,4.89,15,App,Plin,4,18.52,Cliente frecuente,Sucursal 1,Ventanilla,centro,Paracetamol,Analgesico,4.89,Diego Ramos,Ate,Frecuente,2025-09-07
+156,2026-06-13,3,7,8.03,5,WhatsApp,PLIN,1,13.39,Promocion,,Lima,  Norte ,Suero oral,Hidratacion,8.03,,Villa  El  Salvador,Premium,2025-01-25
+157,2026/05/15,8,9,4.89 aprox,20,,EFECTIVO,3,32.94,,SUCURSAL 5,Ventanilla,OESTE,Paracetamol,Analgesico,4.89,Victor Sayan,  Surco ,Corporativo, 2025-10-15 
+158,2026-02-17,8,11,8.03,15,App,Transferencia,1,25.43,Revisar,Sucursal 1,Ventanilla,centro,Suero oral,Hidratacion,8.03,Maria Flores,Lima,Nuevo,2025-08-17
+159,2026-06-23,1,8,8.03,10,App,Yape,1,,PROMOCION,Sucursal 7,SuRcO,NoRtE,Suero oral,Hidratacion,8.03,Jose Rojas,Comas,Premium,2025-03-04
+160,2026-02-08,6,1,4.89,8,WhatsApp,Yape, 1 ,14.09,,Sucursal 3,San Juan de Lurigancho,Este,Paracetamol,Analgesico,4.89,Valeria Quispe,San  Juan  de  Lurigancho,Nuevo,2025-06-10
+161,2026-02-25,7,5,4.89 aprox,0,Telefono,Efectivo,5,19.22,Promocion,Sucursal 1,Ventanilla,centro,Paracetamol,Analgesico,4.89,Diego Campos,Callao,Corporativo,2025-07-19
+162,2026-01-06,2,7,8.03,5,Presencial,Efectivo,4,19.9,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Suero oral,Hidratacion,8.03,Valeria Quispe,San  Juan  de  Lurigancho,Nuevo,2025-06-10
+163,2026-04-05,6,2,11.07,20,App,Transferencia,3, 22.62 ,,Sucursal 4,San Juan de Lurigancho,Centro,Antigripal,respiratorio,11.07,,La Molina,Regular,17-07-2025
+164, 2026-04-07 ,2,8,41.38,0 aprox,Telefono,Transferencia,5,43.76,Cliente frecuente,Sucursal 1,Ventanilla,centro,Protector solar,Dermocosmetica,41.38,Sofia Vargas,LA MOLINA,Nuevo,2025-09-27
+165,2026-04-07,6,11,8.25,10,TeLeFoNo,Tarjeta,2,28.4,Revisar,SUCURSAL 5,Ventanilla,OESTE,ALCOHOL GEL,higiene,8.25,Luis Navarro,Surco,Nuevo,2025-12-28
+166,2026-01-24,8,4,15.74,10,Presencial,Tarjeta,4,29.07,Promocion,Sucursal 4,San Juan de Lurigancho,Centro,Vitamina C,Suplemento,15.74,Marco Quispe,Ate,Premium,24/05/2025
+167,28-06-2026,5,1,6.11,15,Telefono,Transferencia,2,18.17,OK,Sucursal 4,San Juan de Lurigancho,Centro,Ibuprofeno,Analgesico,6.11,Luis Navarro,Surco,Nuevo,2025-12-28
+168,2026-04-06,3,4,15.74,0,Telefono,Plin,4,25.7,,Sucursal 4,San Juan de Lurigancho,Centro,Vitamina C,Suplemento,15.74,Marco Flores,Callao,Nuevo,2025-10-18
+169,2026-01-17,3,7,4.89,5,App,Tarjeta,2,22.17,Revisar,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Ana Torres,La Molina,Frecuente,2025-10-05
+170,2026-02-19,,12,8.03,8,App,tarjeta,4,30.07,Promocion,Sucursal 1,Ventanilla,centro,Suero oral,Hidratacion,8.03,Victor Navarro,san juan de lurigancho,Premium, 2025-12-27 
+171,2026-03-08,1,1,6.11,10,WhatsApp,Yape,, 6.31 ,OK,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,AnA CaMpOs,Miraflores,Regular,2025-11-09
+172,2026-02-12,6 aprox,7,41.38,0,Web,Transferencia,1, 56.98 ,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,Rocio Vargas,Ventanilla,Frecuente,2025-11-12
+173,2026-01-24,3,7,11.07,10,Presencial,Yape,5,S/ 17.61,,Sucursal 7,SuRcO,NoRtE,Antigripal,respiratorio,11.07,Luis Salazar,Callao,Nuevo,2025-10-20
+174,2026-06-17,5,12,"8,03",20,Presencial,Plin,5,25.4,OK,Sucursal 4,San Juan de Lurigancho,Centro,Suero oral,Hidratacion,8.03,Raul Castillo,Callao,Nuevo,2025-09-11
+175,2026-01-14,7,11,6.11,20,Web,transferencia,4,20.02,,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Luis Mendoza,Callao,Frecuente,2025-04-12
+176,2026-03-13,8,7,5.65,15 aprox,Web,Plin,2,17.19,revisar,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Fiorella Salazar,Comas,Corporativo,2025-10-09
+177,28/03/2026,1,2,S/ 11.07,,  Web ,Efectivo,5,,Revisar,Sucursal 1,Ventanilla,centro,Antigripal,respiratorio,11.07,Elena Paredes,Callao,Premium,2025-11-22
+178,2026-03-24,2,5,8.25,20,Presencial,Tarjeta,1, 11.22 ,,  Sucursal 6 ,Comas,  Norte ,ALCOHOL GEL,higiene,8.25,Camila Campos,,Regular,2025-01-02
+179,2026-04-11,7,11,5.65 aprox,20,Web,Efectivo,3,19.56,CLIENTE FRECUENTE,Sucursal 7,SuRcO,NoRtE,Jabon antibacterial,Higiene,5.65,Diego Castillo,  Villa El Salvador ,Nuevo,2025-09-15
+180,2026-04-07,6,11,8.25,10,TeLeFoNo,Tarjeta,2,28.4,Revisar,SUCURSAL 5,Ventanilla,OESTE,ALCOHOL GEL,higiene,8.25,Luis Navarro,Surco,Nuevo,2025-12-28
+181,19/02/2026,5,6,6.11,12,whatsapp,Plin,5,21.14,OK,,Lima,  Norte ,Ibuprofeno,Analgesico,6.11,Valeria Quispe,San  Juan  de  Lurigancho,Nuevo,2025-06-10
+182,2026-02-22,1,40.54,8.03,0,ApP,  Tarjeta ,2,10.43,OK,SUCURSAL 5,Ventanilla,OESTE,Suero oral,Hidratacion,8.03,Camila Rojas,San Miguel,Frecuente,2025-10-22
+183,2026-03-13,5,2,15.74,10,Presencial,Transferencia,1,29.41,,Sucursal 1,Ventanilla,centro,Vitamina C,Suplemento,15.74,Ana Paredes,Surco,Nuevo,2025-09-07
+184,10-05-2026,1,5,6.11,8,WhatsApp,Tarjeta,4,17.49,,Sucursal 3,San Juan de Lurigancho,Este,Ibuprofeno,Analgesico,6.11,ana torres,  Callao ,Corporativo,2025-06-26
+185,2026-04-14,1,7,8.25,15,WhAtSaPp,Yape,5,3.27,,,Lima,  Norte ,ALCOHOL GEL,higiene,8.25,Diego Soto,Los Olivos,Regular,2025-12-11
+186,2026/06/22,5,1 aprox,15.74,0,WhatsApp,Tarjeta,2 aprox,18.16,OK,Sucursal 1,Ventanilla,centro,Vitamina C,Suplemento,15.74,Diego Ramos,Ate,Frecuente,2025-09-07
+187,2026-05-21, 8 ,5,8.25,5,Presencial,Plin,1,26.23,,Sucursal 4,San Juan de Lurigancho,Centro,ALCOHOL GEL,higiene,8.25,Camila Campos,,Regular,2025-01-02
+188,2026-03-15,5,10,,10,Telefono,Plin,5,14.38,OK,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Lucia Quispe,Miraflores,Frecuente,2025-10-18
+189,2026-02-28,7,8,8.25,0,Web,Tarjeta, 1 ,22.75,,Sucursal 1,Ventanilla,centro,ALCOHOL GEL,higiene,8.25,Diego Castillo,San Juan de Lurigancho,Frecuente,2025-12-25
+190,2026-06-14,1 aprox,1,41.38,10,Telefono,Yape,1,35.68,OK,,Lima,  Norte ,Protector solar,Dermocosmetica,41.38,Diego Ramos,Ate,Frecuente,2025-09-07
+191,2026-03-06,7,8,,15,Telefono,,2,"21,48",Cliente frecuente,,Lima,  Norte ,Ibuprofeno,Analgesico,6.11,CARLOS ROJAS,callao,Corporativo, 2025-09-24 
+192,2026/06/03,2,2,5.65,,WhatsApp,Plin,1,12.39,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Jabon antibacterial,Higiene,5.65,Luis Cruz,Callao,Frecuente,2025-05-28
+193,2026-04-26,3,12,15.74,12,TELEFONO,Plin,5,23.67,,Sucursal 4,San Juan de Lurigancho,Centro,Vitamina C,Suplemento,15.74,Jose Sayan,COMAS,Premium,2025-08-16
+194,2026-03-15,3,1,8.25,8,WhatsApp,Plin,2,12.19,,Sucursal 1,Ventanilla,centro,ALCOHOL GEL,higiene,8.25,Diego Campos,Callao,Corporativo,2025-07-19
+195,2026-06-01,5,4,41.38,20 aprox,Web,Plin,1,43.34,,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,LUIS CASTILLO,CaLlAo,Frecuente,2025-08-09
+196,2026-06-16,,5,11.07,15,Presencial,Efectivo,1,17.05,Revisar,SUCURSAL 5,Ventanilla,OESTE,Antigripal,respiratorio,11.07,Lucia Ramos,Miraflores,  Frecuente ,2025-08-07
+197,2026-06-14,2,12, 44.46 ,0,Telefono,Efectivo,1,53.1,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,panal adulto,Cuidado,44.46,CARLOS ROJAS,callao,Corporativo, 2025-09-24 
+198,2026-06-27,1,5 aprox,5.65,20,App,Tarjeta,2,10.17,,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,Miguel Salazar,Ventanilla,Regular,2025-10-15
+199,2026-03-28, 4 ,1,41.38,15,App,Efectivo,2,S/ 57.89,OK,,Lima,  Norte ,Protector solar,Dermocosmetica,41.38,Rocio Vargas,Ventanilla,Frecuente,2025-11-12
+200,2026-04-13,7,5,4.89,0,WhatsApp,,2,16.64,OK,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,Sofia Vargas,LA MOLINA,Nuevo,2025-09-27
+201,2026-04-16,2,6, 44.46 ,15,Presencial,Yape,1,52.82,Cliente frecuente,SUCURSAL 5,Ventanilla,OESTE,panal adulto,Cuidado,44.46,Luis Cruz,Callao,Frecuente,2025-05-28
+202,2026-03-12,8,1,"41,38",8,Telefono,Transferencia,4,56.57,OK,Sucursal 1,Ventanilla,centro,Protector solar,Dermocosmetica,41.38,  Miguel Huaman ,  Villa El Salvador ,Corporativo,2025/01/10
+203,2026-05-15,8,11,S/ 15.74,5 aprox,App,Efectivo,3,33.67,OK,Sucursal 7,SuRcO,NoRtE,Vitamina C,Suplemento,15.74,Marco Huaman,Ate,Regular,2025-02-25
+204,2026-05-05,5,12,44.46,0,Web,Tarjeta,1,57.87,,,Lima,  Norte ,panal adulto,Cuidado,44.46,Rocio Vargas,Ventanilla,Frecuente,2025-11-12
+205,2026-02-23,1,12,4.89,20,Presencial,Plin,5,5.77,Promocion,Sucursal 3,San Juan de Lurigancho,Este,Paracetamol,Analgesico,4.89,Victor Navarro,san juan de lurigancho,Premium, 2025-12-27 
+206,,3,3,8.03,8,ApP,TrAnSfErEnCiA,1,3.46,Cliente frecuente,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Victor Reyes,SAN MIGUEL,Nuevo,2025-09-06
+207,2026-02-28,8,10,41.38,10,Web,Transferencia,4,62.02,OK,Sucursal 1,Ventanilla,centro,Protector solar,Dermocosmetica,41.38,Marco Huaman,Ate,Regular,2025-02-25
+208,2026-02-27,1,22.56,4.89,5,WhatsApp,Plin,4,17.31,OK,,Lima,  Norte ,Paracetamol,Analgesico,4.89,Miguel Mendoza,,Frecuente,2025-04-06
+209,2026-02-14,2,12,44.46,5,Telefono,Plin,5,59.74,OK,Sucursal 1,Ventanilla,centro,panal adulto,Cuidado,44.46,Marco Flores,Lima,PREMIUM,10-09-2025
+210,2026-02-28,2,8,,12,Telefono,Plin,1,32.1,,Sucursal 3,San Juan de Lurigancho,Este,Vitamina C,Suplemento,15.74,Claudia Gomez,LIMA,Corporativo,19/11/2025
+211,2026-03-08,5,2,5.65,0,App,Efectivo,1,18.4,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Jabon antibacterial,Higiene,5.65,  Sofia Paredes ,Lima,Premium,2025-07-19
+212,2026/06/03,4,6,"15,74",0,Web,Yape,3,27.1,Promocion,Sucursal 3,San Juan de Lurigancho,Este,Vitamina C,Suplemento,15.74,  Sofia Paredes ,Lima,Premium,2025-07-19
+213,2026-04-18,1,9, 8.25 ,15,Presencial,EFECTIVO,3,9.36,Revisar,,Lima,  Norte ,ALCOHOL GEL,higiene,8.25,Marco Flores,Lima,PREMIUM,10-09-2025
+214,2026-05-17,7,4.2,15.74,0,App,Yape,2,"36,93",Cliente frecuente,Sucursal 7,SuRcO,NoRtE,Vitamina C,Suplemento,15.74,Diego Ramos,Ate,Frecuente,2025-09-07
+215,2026-02-24,5,1,4.89, 8 ,WhatsApp,Efectivo,2,6.46,,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Camila Quispe,Comas,Nuevo,27/07/2025
+216,2026-02-15,7,1 aprox,6.11,5,Telefono,,2,19.54,,  Sucursal 6 ,Comas,  Norte ,Ibuprofeno,Analgesico,6.11,Marco Huaman,Ate,Regular,2025-02-25
+217,2026-05-28,8,12 aprox,S/ 8.25,20,App,Yape,3,38.25,PROMOCION,Sucursal 1,Ventanilla,centro,ALCOHOL GEL,higiene,8.25,Diego Soto,Los Olivos,Regular,2025-12-11
+218,2026-02-13,6,12,15.74,15,Telefono,Transferencia,2,29.66,OK,Sucursal 3,San Juan de Lurigancho,Este,Vitamina C,Suplemento,15.74,Valeria Soto,Chorrillos,Frecuente,2025-08-20
+219,2026-01-25,1,3,4.89,10,App,Plin,5,1.5,OK,Sucursal 1,Ventanilla,centro,Paracetamol,Analgesico,4.89,Raul Quispe,VeNtAnIlLa,Corporativo,
+220,2026-02-14,6,1,11.07, 10 ,WhatsApp,Yape,4,8.5,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Antigripal,respiratorio,11.07,Camila Quispe,Comas,Nuevo,27/07/2025
+221,2026-04-06,8,2,4.89,15,Presencial,Efectivo,4,6.84,Promocion,Sucursal 1,Ventanilla,centro,Paracetamol,Analgesico,4.89,Diego Castillo,San Juan de Lurigancho,Frecuente,2025-12-25
+222,2026-05-22,7,3,5.65,5,Presencial,Plin,3, 24.23 ,Promocion,,Lima,  Norte ,Jabon antibacterial,Higiene,5.65,Valeria Sayan,SuRcO,Corporativo,22-12-2025
+223,2026-03-15,3,10,4.89,0 aprox,Telefono,Yape,4,15.47,,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,Andre Salazar,San Juan de Lurigancho,Corporativo,24/06/2025
+224,2026-02-27,1,,4.89,5,  Presencial ,Transferencia,3 aprox,15.97,Promocion,Sucursal 1,Ventanilla,centro,Paracetamol,Analgesico,4.89,Marco Huaman,Ate,Regular,2025-02-25
+225,2026-06-03,5,10 aprox,S/ 44.46,12,Presencial,Efectivo,1,S/ 55.23,OK,SUCURSAL 5,Ventanilla,OESTE,panal adulto,Cuidado,44.46,Camila Rojas,San Miguel,Frecuente,2025-10-22
+226,2026-02-24,1,11,4.89,0,App,Tarjeta,5,,,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Marco Vargas,Lima,Frecuente,2025-10-22
+227,2026-02-25,6,11,8.03,10,WhatsApp,Plin,4 aprox,27.64,Revisar,Sucursal 4,San Juan de Lurigancho,Centro,Suero oral,Hidratacion,8.03,Miguel Reyes,Surco,Premium,2025-07-09
+228,2026-01-10,5,4,4.89,0,WhatsApp,Efectivo,5,18.15,,  Sucursal 6 ,Comas,  Norte ,Paracetamol,Analgesico,4.89,Carlos Paredes,Ventanilla,Frecuente,2025-06-20
+229,2026-02-22,7,3,41.38,10,ApP,Efectivo,5,54.71,Promocion,,Lima,  Norte ,Protector solar,Dermocosmetica,41.38,Maria Campos,Callao,Nuevo,2025-06-18
+230,2026-01-18,8,7,6.11,,Presencial,Plin,2,S/ 24.38,,SUCURSAL 5,Ventanilla,OESTE,Ibuprofeno,Analgesico,6.11,Victor Navarro,san juan de lurigancho,Premium, 2025-12-27 
+231,26-05-2026,8,4,8.03,12,Telefono,Tarjeta,5,31.34 aprox,,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Diego Soto,Los Olivos,Regular,2025-12-11
+232,2026-03-09,7,11,8.03,5,Telefono,Plin,1,17.28,OK,Sucursal 1,Ventanilla,centro,Suero oral,Hidratacion,8.03,Miguel Reyes,Surco,Premium,2025-07-09
+233,2026-03-11,3, 1 ,8.03,12,  App ,Efectivo,4,"22,4",,SUCURSAL 5,Ventanilla,OESTE,Suero oral,Hidratacion,8.03,,Villa  El  Salvador,Premium,2025-01-25
+234,2026-02-26,7,11,5.65,8,WhatsApp,Efectivo,5,21.29,Revisar,,Lima,  Norte ,Jabon antibacterial,Higiene,5.65,Carlos Paredes,Ventanilla,Frecuente,2025-06-20
+235,15/06/2026,1,12,41.38,5,Web,Tarjeta,1,38.53,Promocion,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,Diego Torres,Ventanilla,Premium,2025-09-17
+236,2026-04-07,7,6,44.46,20,Telefono,  Plin ,1,51.54,,SUCURSAL 5,Ventanilla,OESTE,panal adulto,Cuidado,44.46,Claudia Gomez,LIMA,Corporativo,19/11/2025
+237,2026-04-15,7,11,15.74,10,Telefono,Transferencia,3,37.78,   ,Sucursal 3,San Juan de Lurigancho,Este,Vitamina C,Suplemento,15.74,Camila Quispe,Comas,Nuevo,27/07/2025
+238,2026-04-23,3,10,8.25 aprox,0 aprox,WhatsApp,Efectivo,3,20.96,,Sucursal 4,San Juan de Lurigancho,Centro,ALCOHOL GEL,higiene,8.25,Fiorella Salazar,Comas,Corporativo,2025-10-09
+239,2026-06-06,1,2,8.25,8,  Telefono ,Plin, 5 ,18.58,Promocion,  Sucursal 6 ,Comas,  Norte ,ALCOHOL GEL,higiene,8.25,Rocio Cruz,Los Olivos,Nuevo,2025-12-23
+240,2026-01-16,6,4,11.07,10 aprox,,,1,,Cliente frecuente,Sucursal 7,SuRcO,NoRtE,Antigripal,respiratorio,11.07,Fiorella Mendoza,Lima,Premium,2025-07-11
+241,2026-02-23,3,9,11.07,20,App,Transferencia,2,23.78,OK,  Sucursal 6 ,Comas,  Norte ,Antigripal,respiratorio,11.07,,La Molina,Regular,17-07-2025
+242,2026-02-06,6,7,41.38,12,Presencial,Tarjeta,1,59.44,Revisar,Sucursal 7,SuRcO,NoRtE,Protector solar,Dermocosmetica,41.38,Maria Campos,Callao,Nuevo,2025-06-18
+243,2026-01-18,3,7,S/ 6.11,0,  Presencial ,Plin,2,18.74,,,Lima,  Norte ,Ibuprofeno,Analgesico,6.11,Fiorella Reyes,San Miguel,Premium,2025-10-28
+244,2026-01-11,7,1,15.74,12,PRESENCIAL,,2,32.9,,Sucursal 4,San Juan de Lurigancho,Centro,Vitamina C,Suplemento,15.74,Ana Paredes,Surco,Nuevo,2025-09-07
+245,2026-05-03,4,12,44.46, 20 ,WhatsApp,  Yape ,2,56.87,Revisar,Sucursal 1,Ventanilla,centro,panal adulto,Cuidado,44.46,,Villa  El  Salvador,Premium,2025-01-25
+246,2026-05-18,8,9,11.07,0,PrEsEnCiAl,Efectivo,1,33.83,OK,SUCURSAL 5,Ventanilla,OESTE,Antigripal,respiratorio,11.07,Ana Cruz,Independencia,Premium,2025-04-13
+247,2026-05-11,4,6,8.25,12,Telefono,Yape,1,14.09,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,ALCOHOL GEL,higiene,8.25,  Sofia Paredes ,Lima,Premium,2025-07-19
+248,2026-03-28,5,,S/ 4.89,0,Telefono,Plin,1 aprox,,Revisar,Sucursal 3,San Juan de Lurigancho,Este,Paracetamol,Analgesico,4.89,Rocio Vargas,Ventanilla,Frecuente,2025-11-12
+249,2026-01-23,4,2,8.25,10,App,Efectivo,3,19.27,Revisar,Sucursal 1,Ventanilla,centro,ALCOHOL GEL,higiene,8.25,Diego Ramos,Ate,Frecuente,2025-09-07
+250,2026-02-19,5,4,8.03,,WhatsApp,Yape,4,10.63,Revisar,Sucursal 1,Ventanilla,centro,Suero oral,Hidratacion,8.03,Diana Paredes,Lima,Premium,2025-05-06
+251,2026-01-03,3,3,5.65,20,App,Plin,2,8.94,  Cliente frecuente ,Sucursal 7,SuRcO,NoRtE,Jabon antibacterial,Higiene,5.65,Lucia Huaman,LIMA,Regular,2025-06-08
+252,2026-02-27,6,7,5.65,10,WhatsApp,Tarjeta,4,9.24,Revisar,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Elena Ramos,Villa El Salvador,Regular,2025-11-16
+253,2026-02-12,3,7,44.46,15,Presencial,TRANSFERENCIA,4,43.08,Cliente frecuente,Sucursal 1,Ventanilla,centro,panal adulto,Cuidado,44.46,Lucia Huaman,LIMA,Regular,2025-06-08
+254,,4,2,8.25,20,App,Plin,2,20.85,,Sucursal 7,SuRcO,NoRtE,ALCOHOL GEL,higiene,8.25,Maria Ramos,  Surco ,Frecuente,12/01/2025
+255,2026-06-18, 5 , 7 ,8.03,0,Telefono,Yape,3,17.07 aprox,,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Elena Ramos,Surco,Premium,21-03-2025
+256,2026-03-07,7,6,15.74,5,WhatsApp,,1,30.64,promocion,Sucursal 7,SuRcO,NoRtE,Vitamina C,Suplemento,15.74,Ana Paredes,Surco,Nuevo,2025-09-07
+257,2026-04-22,4,11,41.38,0,App,Efectivo,5,49.19,,Sucursal 7,SuRcO,NoRtE,Protector solar,Dermocosmetica,41.38,Elena Ramos,Surco,Premium,21-03-2025
+258,2026-05-21,8,7,44.46,5,Telefono,Yape,3,66.85,OK,,Lima,  Norte ,panal adulto,Cuidado,44.46,,La Molina,Regular,17-07-2025
+259,2026-05-05,8,5,41.38,0,Web,Plin,3, 60.52 ,,SUCURSAL 5,Ventanilla,OESTE,Protector solar,Dermocosmetica,41.38,Fiorella Rojas,Miraflores,,
+260,2026-05-28,5,35.62,15.74,10,Presencial,Plin,4 aprox,29.92,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Vitamina C,Suplemento,15.74,Maria Flores,Lima,Nuevo,2025-08-17
+261, 2026-06-28 ,1,4,11.07,0,WhatsApp,Efectivo,1,16.27,Cliente frecuente,SUCURSAL 5,Ventanilla,OESTE,Antigripal,respiratorio,11.07,LUIS CASTILLO,CaLlAo,Frecuente,2025-08-09
+262, 2026-05-16 ,2,9,8.25,0,Web,Transferencia,3,32.18,Revisar,Sucursal 3,San Juan de Lurigancho,Este,ALCOHOL GEL,higiene,8.25,Ana Paredes,Surco,Nuevo,2025-09-07
+263,2026-01-18,8,12,"8,03",0,App,Yape,4,21.96,OK,Sucursal 3,San Juan de Lurigancho,Este,Suero oral,Hidratacion,8.03,Valeria Quispe,San  Juan  de  Lurigancho,Nuevo,2025-06-10
+264, 2026-04-07 ,7,8,8.25,20,Telefono,Transferencia,3,26.82,,  Sucursal 6 ,Comas,  Norte ,ALCOHOL GEL,higiene,8.25,,villa el salvador,Premium, 2025-08-15 
+265,2026-01-02,,5,6.11,0,Web,Plin,1,12.81,,SUCURSAL 5,Ventanilla,OESTE,Ibuprofeno,Analgesico,6.11,Fiorella Mendoza,Lima,Premium,2025-07-11
+266,2026-06-02,3,6,6.11,8,App,Plin,5,9.25,Revisar,Sucursal 3,San Juan de Lurigancho,Este,Ibuprofeno,Analgesico,6.11,Fiorella Mendoza,Lima,Premium,2025-07-11
+267,2026-04-23,1,9 aprox,8.25,5,Presencial,Efectivo,5,8.43,,,Lima,  Norte ,ALCOHOL GEL,higiene,8.25,Marco Ramos,San Miguel,Corporativo,2025-08-11
+268,,5,10,8.03,0,Presencial,,5,S/ 21.91,OK,Sucursal 1,Ventanilla,centro,Suero oral,Hidratacion,8.03,Raul Quispe,VeNtAnIlLa,Corporativo,
+269,2026-04-07,5,2,11.07,15,Telefono,Efectivo,2,26.8,OK,Sucursal 1,Ventanilla,centro,Antigripal,respiratorio,11.07,Lucia Huaman,LIMA,Regular,2025-06-08
+270,2026-02-09,8, 10 ,11.07,0,Presencial,,4,29.0,OK,SUCURSAL 5,Ventanilla,OESTE,Antigripal,respiratorio,11.07,Lucia Huaman,LIMA,Regular,2025-06-08
+271,2026-03-02,2,2,4.89,10,Presencial,Tarjeta,2,12.02,Promocion,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Jose Soto,La mOlInA,NuEvO,2025/02/28
+272,2026-06-05,4,12,5.65,8,Web,Tarjeta,3,,Revisar,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Fiorella Mendoza,Lima,Premium,2025-07-11
+273,2026-03-20,5,6,15.74,0,,Yape,2, 39.21 ,Revisar,Sucursal 1,Ventanilla,centro,Vitamina C,Suplemento,15.74,Marco Quispe,Ate,Premium,24/05/2025
+274,2026-04-07,6,11,8.25,10,TeLeFoNo,Tarjeta,2,28.4,Revisar,SUCURSAL 5,Ventanilla,OESTE,ALCOHOL GEL,higiene,8.25,Luis Navarro,Surco,Nuevo,2025-12-28
+275,2026-03-10,6,1,11.07,15,,Tarjeta,1,33.68,,Sucursal 7,SuRcO,NoRtE,Antigripal,respiratorio,11.07,Sofia Vargas,LA MOLINA,Nuevo,2025-09-27
+276,2026-05-06,6,12,4.89,,WhatsApp,Transferencia,3,14.06,   ,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,Fiorella Salazar,Comas,Corporativo,2025-10-09
+277,2026-06-07,3,8,6.11,0,Web,Efectivo,2,S/ 23.65,,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Fiorella Rojas,Miraflores,,
+278,2026-04-13,8,7,4.89, 0 ,Telefono,Transferencia, 2 ,17.49,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,Paracetamol,Analgesico,4.89,Diana Paredes,MIRAFLORES,Premium,2025-08-12
+279,2026-04-04,4,12,S/ 15.74,12 aprox,Telefono,Tarjeta,4,18.16,Cliente frecuente,Sucursal 7,SuRcO,NoRtE,Vitamina C,Suplemento,15.74,  Miguel Huaman ,  Villa El Salvador ,Corporativo,2025/01/10
+280,2026-02-27,5,9,5.65,10,App,PLIN,2,29.6,Revisar,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,,La Molina,Regular,17-07-2025
+281,26/05/2026,6,2,6.11, 20 ,Presencial,,5,20.21,Promocion,  Sucursal 6 ,Comas,  Norte ,Ibuprofeno,Analgesico,6.11,Marco Flores,Callao,Nuevo,2025-10-18
+282, 2026-02-16 ,2,11,15.74,0,  WhatsApp ,Tarjeta,5,24.32,OK,,Lima,  Norte ,Vitamina C,Suplemento,15.74,Diego Soto,Los Olivos,Regular,2025-12-11
+283,2026-05-02,6, 9 ,8.03,0,WhatsApp,Transferencia,5,27.89,,SUCURSAL 5,Ventanilla,OESTE,Suero oral,Hidratacion,8.03,Valeria Paredes,  San Juan de Lurigancho ,Regular,
+284,2026-02-07, 2 ,9,15.74,8,Web,Yape,5,15.06 aprox,Cliente frecuente,Sucursal 1,Ventanilla,centro,Vitamina C,Suplemento,15.74,Lucia Quispe,Miraflores,Frecuente,2025-10-18
+285,2026-03-04,1,7,41.38,12,App,Plin,1,56.01 aprox,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Protector solar,Dermocosmetica,41.38,Victor Cruz,independencia,Nuevo,2025/06/20
+286,2026-04-12,3,4,8.25 aprox,15,App,Efectivo,5,19.02,Revisar,Sucursal 7,SuRcO,NoRtE,ALCOHOL GEL,higiene,8.25,Rocio Vargas,Ventanilla,Frecuente,2025-11-12
+287,2026-06-08,1 aprox,4,15.74,8,WhatsApp,Plin,3,11.87,OK,Sucursal 1,Ventanilla,centro,Vitamina C,Suplemento,15.74,Valeria Reyes,Miraflores,Frecuente,2025-03-04
+288,2026-02-16, 2 ,4,44.46,0,Telefono,Efectivo,3,52.93,,Sucursal 1,Ventanilla,centro,panal adulto,Cuidado,44.46,Elena Paredes,Callao,Premium,2025-11-22
+289,2026-01-16,6 aprox,11,44.46, 0 ,App,Yape,4,61.35,OK,  Sucursal 6 ,Comas,  Norte ,panal adulto,Cuidado,44.46,Marco Ramos,San Miguel,Corporativo,2025-08-11
+290,2026-01-17,7,3,8.25,15,Web,Plin,4,14.97,Cliente frecuente,Sucursal 7,SuRcO,NoRtE,ALCOHOL GEL,higiene,8.25,AnA CaMpOs,Miraflores,Regular,2025-11-09
+291,2026-02-08,3,3,4.89,12,TELEFONO,Plin,5,13.77 aprox,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,Paracetamol,Analgesico,4.89,Victor Sayan,  Surco ,Corporativo, 2025-10-15 
+292,2026-05-10,8,11,8.25,0,App,YAPE,1,18.16,,Sucursal 1,Ventanilla,centro,ALCOHOL GEL,higiene,8.25,Elena Paredes,Callao,Premium,2025-11-22
+293,2026-06-20,7,2,41.38,15,Telefono,Efectivo,4,50.85,OK,Sucursal 3,San Juan de Lurigancho,Este,Protector solar,Dermocosmetica,41.38,Sofia Vargas,LA MOLINA,Nuevo,2025-09-27
+294,08-04-2026,5,7,8.03,0,whatsapp,Plin,4,"22,84",OK,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Rocio Vargas,Ventanilla,Frecuente,2025-11-12
+295,2026-05-16,1,1,6.11,12,Web,Tarjeta,5,11.63,OK,Sucursal 7,SuRcO,NoRtE,Ibuprofeno,Analgesico,6.11,Marco Huaman,Ate,Regular,2025-02-25
+296,2026-01-05,7,25.96,11.07,0,Web,Yape,5,20.89,OK,Sucursal 7,SuRcO,NoRtE,Antigripal,respiratorio,11.07,Lucia Huaman,LIMA,Regular,2025-06-08
+297,2026-03-28,1,5,11.07,20,Web,Tarjeta,4,13.5,OK,Sucursal 4,San Juan de Lurigancho,Centro,Antigripal,respiratorio,11.07,Diego Castillo,San Juan de Lurigancho,Frecuente,2025-12-25
+298,2026-02-16,7,5,15.74,12,TeLeFoNo,Tarjeta,2,21.36,,  Sucursal 6 ,Comas,  Norte ,Vitamina C,Suplemento,15.74,Miguel Torres,Comas,Frecuente,
+299,2026-01-02,3,5,6.11,0,App,Transferencia,3,15.96,,SUCURSAL 5,Ventanilla,OESTE,Ibuprofeno,Analgesico,6.11,Jose Rojas,Comas,Premium,2025-03-04
+300,2026-02-15,5,7,6.11,12,,  Transferencia ,2,47.79,OK,Sucursal 7,SuRcO,NoRtE,Ibuprofeno,Analgesico,6.11,Victor Reyes,SAN MIGUEL,Nuevo,2025-09-06
+301,2026/04/27,1,9,5.65,0,WhatsApp,Tarjeta,5,13.26,Promocion,SUCURSAL 5,Ventanilla,OESTE,Jabon antibacterial,Higiene,5.65,Diego Castillo,San Juan de Lurigancho,Frecuente,2025-12-25
+302,2026-06-20,5,4,4.89,15,Web,  Plin ,3,8.96,OK,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,Victor Sayan,  Surco ,Corporativo, 2025-10-15 
+303,2026-01-01,4,9,6.11,5,Web,Plin,3,5.36,Revisar,SUCURSAL 5,Ventanilla,OESTE,Ibuprofeno,Analgesico,6.11,Valeria Soto,Chorrillos,Frecuente,2025-08-20
+304,2026-04-04, 3 ,1,6.11,5,Web,Tarjeta,4,13.3,Revisar,Sucursal 3,San Juan de Lurigancho,Este,Ibuprofeno,Analgesico,6.11,Maria Campos,Callao,Nuevo,2025-06-18
+305,2026/01/27,3,11,6.11,20,Presencial,Efectivo,1,5.08,   ,  Sucursal 6 ,Comas,  Norte ,Ibuprofeno,Analgesico,6.11,CARLOS ROJAS,callao,Corporativo, 2025-09-24 
+306,2026-04-24,,9,6.11,0,WhatsApp,Transferencia,2,24.61,OK,Sucursal 7,SuRcO,NoRtE,Ibuprofeno,Analgesico,6.11,Ana Paredes,Chorrillos,corporativo,2025-12-13
+307,2026-05-11,8,9,15.74,8,WhatsApp,Transferencia,5,32.81,Promocion,,Lima,  Norte ,Vitamina C,Suplemento,15.74,Jose Rojas,Comas,Premium,2025-03-04
+308,2026-04-12,4,11,44.46,12,telefono,Yape,1,49.66,Revisar,Sucursal 1,Ventanilla,centro,panal adulto,Cuidado,44.46,Raul Quispe,VeNtAnIlLa,Corporativo,
+309,2026-06-21, 6 , 7 ,11.07,0,Telefono,Tarjeta,3,30.11,Promocion,Sucursal 7,SuRcO,NoRtE,Antigripal,respiratorio,11.07,CARLOS ROJAS,callao,Corporativo, 2025-09-24 
+310,2026-02-17,6,12,6.11,15,Web,Plin,,20.68,Cliente frecuente,SUCURSAL 5,Ventanilla,OESTE,Ibuprofeno,Analgesico,6.11,Valeria Sayan,Ate,Frecuente,2025-12-16
+311,2026-04-06,2,6,S/ 6.11,20,Presencial,Tarjeta,5,7.92,Revisar,SUCURSAL 5,Ventanilla,OESTE,Ibuprofeno,Analgesico,6.11,Jose Rojas,Comas,Premium,2025-03-04
+312, 2026-03-28 ,5,10,5.65,0,Presencial,,4 aprox,22.55,,Sucursal 4,San Juan de Lurigancho,Centro,Jabon antibacterial,Higiene,5.65,Ana Paredes,Chorrillos,corporativo,2025-12-13
+313,2026-05-23,2,5,11.07,0,Presencial,TARJETA,,10.83,OK,Sucursal 3,San Juan de Lurigancho,Este,Antigripal,respiratorio,11.07,Maria Campos,Callao,Nuevo,2025-06-18
+314,2026-03-02,4,4,4.89,0,WhatsApp,Efectivo,4,22.58,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,Paracetamol,Analgesico,4.89,Marco Quispe,Ate,Premium,24/05/2025
+315,2026-03-15,6,6,,15,App,Transferencia,3,,OK,Sucursal 1,Ventanilla,centro,Antigripal,respiratorio,11.07,Maria Flores,Lima,Nuevo,2025-08-17
+316,2026-02-11,8,3,4.89, 0 ,WhatsApp,Tarjeta,2,34.21,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Maria Flores,Lima,Nuevo,2025-08-17
+317,2026-01-04,2,6,S/ 6.11,20,WhatsApp,Efectivo,5,11.01,Cliente frecuente,,Lima,  Norte ,Ibuprofeno,Analgesico,6.11,Carlos Paredes,Ventanilla,Frecuente,2025-06-20
+318,20/02/2026,2,3,5.65,8,Telefono,Yape,3,11.27 aprox,Cliente frecuente,Sucursal 7,SuRcO,NoRtE,Jabon antibacterial,Higiene,5.65,,villa el salvador,Premium, 2025-08-15 
+319,05-03-2026,7,,41.38,15,WhatsApp,Plin,3,67.42,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,Maria Campos,Callao,Nuevo,2025-06-18
+320,2026-04-09,8,9,8.25,0,Web,Transferencia,3,"31,08",Revisar,Sucursal 3,San Juan de Lurigancho,Este,ALCOHOL GEL,higiene,8.25,Andre Salazar,San Juan de Lurigancho,Corporativo,24/06/2025
+321,2026-01-14,6,11,,0,App,Efectivo,5,S/ 23.69,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Antigripal,respiratorio,11.07,Jorge Soto,Miraflores,Regular,2025-02-14
+322,2026-01-01,3,3,11.07,10,Web,Transferencia, 3 ,19.46,OK,  Sucursal 6 ,Comas,  Norte ,Antigripal,respiratorio,11.07,Camila Quispe,Comas,Nuevo,27/07/2025
+323,2026-06-26,6,7,11.07,20,WHATSAPP,Tarjeta,4,13.03,Promocion,,Lima,  Norte ,Antigripal,respiratorio,11.07,ana torres,  Callao ,Corporativo,2025-06-26
+324,2026-02-26, 6 ,1,5.65,0 aprox,,Yape,4,26.97,Cliente frecuente,Sucursal 7,SuRcO,NoRtE,Jabon antibacterial,Higiene,5.65,Jose Sayan,COMAS,Premium,2025-08-16
+325,2026-05-15,4,2,15.74,20,,Efectivo,1,34.43,Promocion,  Sucursal 6 ,Comas,  Norte ,Vitamina C,Suplemento,15.74,Camila Campos,,Regular,2025-01-02
+326,2026-03-23,4,1,15.74,10,ApP,Yape,1,20.12,,,Lima,  Norte ,Vitamina C,Suplemento,15.74,Fiorella Reyes,San Miguel,Premium,2025-10-28
+327,2026-05-09,4,12,41.38,12,presencial,Plin,1,32.38,Promocion,Sucursal 7,SuRcO,NoRtE,Protector solar,Dermocosmetica,41.38,Sofia Torres,  Comas ,nuevo,2025-07-14
+328,2026-04-16,,10,41.38,10,App,Tarjeta,1,61.82,Revisar,Sucursal 3,San Juan de Lurigancho,Este,Protector solar,Dermocosmetica,41.38,,Villa  El  Salvador,Premium,2025-01-25
+329,2026-06-02,1,10,6.11 aprox,0,app,Yape,,4.74,  OK ,Sucursal 7,SuRcO,NoRtE,Ibuprofeno,Analgesico,6.11,Luis Huaman,Miraflores,regular,2025-02-20
+330,17-02-2026,1,10, 6.11 ,8,WhatsApp,Efectivo,1,13.06,Revisar,  Sucursal 6 ,Comas,  Norte ,Ibuprofeno,Analgesico,6.11,Ana Paredes,Surco,Nuevo,2025-09-07
+331,2026-03-28,1,4,44.46,0,,Tarjeta,3,48.13,,Sucursal 7,SuRcO,NoRtE,panal adulto,Cuidado,44.46,Elena Ramos,Surco,Premium,21-03-2025
+332,2026-01-12,5,1,4.89,0,WhatsApp,Transferencia,4 aprox,20.05,,  Sucursal 6 ,Comas,  Norte ,Paracetamol,Analgesico,4.89,Diego Ramos,Ate,Frecuente,2025-09-07
+333,2026-06-21,6,6,S/ 5.65,0,,Plin,4,26.14,Revisar,,Lima,  Norte ,Jabon antibacterial,Higiene,5.65,AnA CaMpOs,Miraflores,Regular,2025-11-09
+334,2026-03-14,2,5,8.03,0,WhatsApp,Efectivo,5,25.83,,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Miguel Reyes,Surco,Premium,2025-07-09
+335, 2026-04-24 ,5,9,4.89,15 aprox,Telefono,Plin,2,0.5,,Sucursal 1,Ventanilla,centro,Paracetamol,Analgesico,4.89,Jose Cruz,Chorrillos,premium,2025-05-14
+336,2026-01-22,6, 2 ,11.07,10,web,Yape,1,"24,79",ClIeNtE FrEcUeNtE,Sucursal 1,Ventanilla,centro,Antigripal,respiratorio,11.07,Diana Paredes,Lima,Premium,2025-05-06
+337,2026-02-19,5,6,41.38,5,App,Yape,2,68.5,  Promocion ,Sucursal 3,San Juan de Lurigancho,Este,Protector solar,Dermocosmetica,41.38,Marco Flores,Lima,PREMIUM,10-09-2025
+338,2026-06-14,1,2,11.07,0,Presencial,Tarjeta,2,16.99,OK,Sucursal 4,San Juan de Lurigancho,Centro,Antigripal,respiratorio,11.07,Jose Soto,Ventanilla,Nuevo,26-01-2025
+339,2026-03-18,6,8,8.25,10,App,Transferencia,4,21.97,CLIENTE FRECUENTE,  Sucursal 6 ,Comas,  Norte ,ALCOHOL GEL,higiene,8.25,Lucia Huaman,LIMA,Regular,2025-06-08
+340,2026-03-23,6,11,5.65,10,,Tarjeta,4,23.29,Revisar,Sucursal 3,San Juan de Lurigancho,Este,Jabon antibacterial,Higiene,5.65,Diego Castillo,  Villa El Salvador ,Nuevo,2025-09-15
+341,2026-01-24,6,2,4.89,,Web,Tarjeta,2,15.36,OK,,Lima,  Norte ,Paracetamol,Analgesico,4.89,Andre Castillo,San Miguel,Corporativo,2025-12-20
+342,2026-05-20,6,10,44.46,0,Presencial,Efectivo,5,"60,42",Promocion,SUCURSAL 5,Ventanilla,OESTE,panal adulto,Cuidado,44.46,Fiorella Rojas,Miraflores,,
+343,2026-01-21,1,4,4.89,15,App,Plin,1,12.78,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Paracetamol,Analgesico,4.89,Diana Paredes,MIRAFLORES,Premium,2025-08-12
+344,2026-05-10,7,9,S/ 6.11,8,Web,Yape,5,18.13,,,Lima,  Norte ,Ibuprofeno,Analgesico,6.11,Elena Paredes,Callao,Premium,2025-11-22
+345,2026-05-11,6, 12 ,5.65,10,TeLeFoNo,Efectivo,5,20.1,Revisar,Sucursal 4,San Juan de Lurigancho,Centro,Jabon antibacterial,Higiene,5.65,Marco Huaman,Ate,Regular,2025-02-25
+346,2026-06-05,2,12,8.25,0,Presencial,Tarjeta,5,,OK,Sucursal 4,San Juan de Lurigancho,Centro,ALCOHOL GEL,higiene,8.25,Marco Flores,Lima,PREMIUM,10-09-2025
+347,2026-02-27,2,9,15.74,8,Telefono,Tarjeta,4,5.77,   ,,Lima,  Norte ,Vitamina C,Suplemento,15.74,Raul Quispe,VeNtAnIlLa,Corporativo,
+348,2026-01-14,1,4,11.07, 0 ,WhatsApp,Yape,2,38.31 aprox,,Sucursal 4,San Juan de Lurigancho,Centro,Antigripal,respiratorio,11.07,Maria Flores,Lima,Nuevo,2025-08-17
+349,2026-06-22,7,6,5.65,10,Web,Tarjeta,5,13.24 aprox,OK,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,Victor Cruz,independencia,Nuevo,2025/06/20
+350,2026-06-15,2,6,8.03,8,Web,Efectivo,5,3.53,Promocion,Sucursal 4,San Juan de Lurigancho,Centro,Suero oral,Hidratacion,8.03,Claudia Gomez,LIMA,Corporativo,19/11/2025
+351,2026-06-12,1,9,8.25,10,Web,Efectivo,5,15.05,OK,SUCURSAL 5,Ventanilla,OESTE,ALCOHOL GEL,higiene,8.25,Carlos Ramos,Villa El Salvador,Corporativo,16-10-2025
+352,2026-04-04,8,11,4.89,12,,Tarjeta,5,11.08,,Sucursal 1,Ventanilla,centro,Paracetamol,Analgesico,4.89,Marco Huaman,Ate,Regular,2025-02-25
+353,18/02/2026,7,4 aprox,6.11,5,Telefono,Transferencia,1,58.78,PROMOCION,SUCURSAL 5,Ventanilla,OESTE,Ibuprofeno,Analgesico,6.11,Rocio Vargas,Ventanilla,Frecuente,2025-11-12
+354,2026-02-23,2,7,4.89,0,App,Plin,1,24.88,PrOmOcIoN,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,Diana Paredes,MIRAFLORES,Premium,2025-08-12
+355,2026-04-24,3,9,41.38,10,Presencial,Yape,2,58.95,,SUCURSAL 5,Ventanilla,OESTE,Protector solar,Dermocosmetica,41.38,Marco Huaman,Ate,Regular,2025-02-25
+356,2026-01-21,2,2,6.11,0 aprox,Telefono,Efectivo,4,1.81,Promocion,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Diego Ramos,Ate,Frecuente,2025-09-07
+357,2026-02-28,7, 4 ,8.03,0,Web,  Tarjeta ,3,33.68,,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Elena Ramos,Surco,Premium,21-03-2025
+358,2026-06-01,1,9,4.89,10,APP,Transferencia,1,0.5,,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,Marco Flores,Lima,PREMIUM,10-09-2025
+359,2026-05-05,1,2,8.03,8,Web,Efectivo,3,14.41,,Sucursal 3,San Juan de Lurigancho,Este,Suero oral,Hidratacion,8.03,Victor Sayan,  Surco ,Corporativo, 2025-10-15 
+360,2026-03-07,2,10,4.89,0,web,Transferencia,2 aprox,7.58,Cliente frecuente,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,  Miguel Huaman ,  Villa El Salvador ,Corporativo,2025/01/10
+361,2026-04-01,3,1,41.38,0,Presencial,Tarjeta,1,63.17,,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,Raul Sayan,Ventanilla,Premium,2025-02-16
+362,2026-05-20,2,1,11.07,20 aprox,Telefono,Efectivo,3,10.8,,Sucursal 3,San Juan de Lurigancho,Este,Antigripal,respiratorio,11.07,Elena Ramos,Surco,Premium,21-03-2025
+363,2026-02-01,4,8,6.11,,Web,Yape,5,8.26,Revisar,,Lima,  Norte ,Ibuprofeno,Analgesico,6.11,Rocio Vargas,Ventanilla,Frecuente,2025-11-12
+364,2026/06/18,,9 aprox,4.89,12,App,Tarjeta,4,29.03,Promocion,  Sucursal 6 ,Comas,  Norte ,Paracetamol,Analgesico,4.89,Claudia Gomez,LIMA,Corporativo,19/11/2025
+365,2026/04/11,4,5,11.07,0,Telefono,Plin,1,27.3,promocion,,Lima,  Norte ,Antigripal,respiratorio,11.07,Valeria Reyes,Miraflores,Frecuente,2025-03-04
+366, 2026-02-17 ,4,2,41.38,8,Web,Efectivo,1,41.45,OK,Sucursal 1,Ventanilla,centro,Protector solar,Dermocosmetica,41.38,Ana Paredes,Chorrillos,corporativo,2025-12-13
+367,2026-03-27,5,6,8.25,10 aprox,WeB,Transferencia,1,25.84,,Sucursal 4,San Juan de Lurigancho,Centro,ALCOHOL GEL,higiene,8.25,Valeria Sayan,SuRcO,Corporativo,22-12-2025
+368,2026-06-07,3,2,8.03,0,App,Plin,4,24.02,Promocion,  Sucursal 6 ,Comas,  Norte ,Suero oral,Hidratacion,8.03,Fiorella Salazar,Comas,Corporativo,2025-10-09
+369,2026-02-25,5 aprox,11,8.25,20,App,Transferencia,5,13.08,OK,Sucursal 7,SuRcO,NoRtE,ALCOHOL GEL,higiene,8.25,Camila Campos,,Regular,2025-01-02
+370,2026-02-22,,6,8.03,15,App,Efectivo,3,32.78 aprox,REVISAR,SUCURSAL 5,Ventanilla,OESTE,Suero oral,Hidratacion,8.03,Raul Sayan,Ventanilla,Premium,2025-02-16
+371,2026-04-11,7, 9 ,,15,Telefono,Efectivo,5,22.78,Promocion,SUCURSAL 5,Ventanilla,OESTE,Jabon antibacterial,Higiene,5.65,Lucia Huaman,LIMA,Regular,2025-06-08
+372,2026-01-04,1 aprox,5,8.25,12,Web,TrAnSfErEnCiA,3,0.5,Cliente frecuente,Sucursal 7,SuRcO,NoRtE,ALCOHOL GEL,higiene,8.25,Valeria Reyes,Miraflores,Frecuente,2025-03-04
+373,2026-04-06,7,4, 6.11 ,0,Web,Plin,5,20.93,Revisar,,Lima,  Norte ,Ibuprofeno,Analgesico,6.11,Diego Torres,Ventanilla,Premium,2025-09-17
+374,2026-06-16,3,7 aprox,8.03,0,Web,Efectivo,3,21.99,,Sucursal 1,Ventanilla,centro,Suero oral,Hidratacion,8.03,Valeria Sayan,Ate,Frecuente,2025-12-16
+375,2026-02-26,1,2,41.38,5,App,Tarjeta,3,44.8,OK,Sucursal 3,San Juan de Lurigancho,Este,Protector solar,Dermocosmetica,41.38,Victor Cruz,independencia,Nuevo,2025/06/20
+376,2026-06-06,5,12,41.38,8,,Transferencia,4,54.1,Revisar,Sucursal 1,Ventanilla,centro,Protector solar,Dermocosmetica,41.38,Raul Sayan,Ventanilla,Premium,2025-02-16
+377,2026-01-28,2,12,44.46,15,ApP,Yape,4,49.0,Revisar,  Sucursal 6 ,Comas,  Norte ,panal adulto,Cuidado,44.46,Sofia Torres,  Comas ,nuevo,2025-07-14
+378,2026-05-22,3 aprox,8,41.38,10,WhatsApp,Transferencia,2,56.44,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,Lucia Ramos,Miraflores,  Frecuente ,2025-08-07
+379,2026-04-02,3,12,15.74,8,  Telefono ,Tarjeta,2,22.5,Promocion,  Sucursal 6 ,Comas,  Norte ,Vitamina C,Suplemento,15.74,Miguel Mendoza,,Frecuente,2025-04-06
+380,2026-06-16,7,7,S/ 15.74,15,Telefono,Tarjeta,5,33.26,,SUCURSAL 5,Ventanilla,OESTE,Vitamina C,Suplemento,15.74,Diana Paredes,MIRAFLORES,Premium,2025-08-12
+381,01-05-2026,7,9,8.03,5,WEB,Transferencia,5,19.91 aprox,,SUCURSAL 5,Ventanilla,OESTE,Suero oral,Hidratacion,8.03,Marco Quispe,Ate,Premium,24/05/2025
+382,2026-01-20,4,5,11.07,0,WhatsApp,Yape,4,21.39,Promocion,Sucursal 3,San Juan de Lurigancho,Este,Antigripal,respiratorio,11.07,Sofia Vargas,LA MOLINA,Nuevo,2025-09-27
+383,2026-02-14,8,5.66,S/ 5.65,0,ApP,EfEcTiVo,2,23.83,Promocion,Sucursal 3,San Juan de Lurigancho,Este,Jabon antibacterial,Higiene,5.65,Valeria Reyes,Miraflores,Frecuente,2025-03-04
+384,2026-03-08,5,11 aprox,44.46,0,Telefono,Efectivo,1,62.69,Promocion,SUCURSAL 5,Ventanilla,OESTE,panal adulto,Cuidado,44.46,Elena Ramos,Villa El Salvador,Regular,2025-11-16
+385,2026-05-20,8,5,5.65,20,Presencial,Efectivo,1,28.85,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,Victor Reyes,SAN MIGUEL,Nuevo,2025-09-06
+386,2026-05-06,5,5,44.46,8,WhatsApp,Transferencia,1,72.27,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,panal adulto,Cuidado,44.46,Carlos Paredes,Ventanilla,Frecuente,2025-06-20
+387,2026-02-06,1,12,6.11,15,Web,TRANSFERENCIA,4,2.91,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Ibuprofeno,Analgesico,6.11,Marco Ramos,San Miguel,Corporativo,2025-08-11
+388,2026-01-07,2,12,15.74,0,WhatsApp,Transferencia,4,23.39,Cliente frecuente,Sucursal 1,Ventanilla,centro,Vitamina C,Suplemento,15.74,Luis Sayan,Comas,Nuevo,2025-12-09
+389,2026-02-25, 8 ,6,4.89,0,Presencial,Yape,5,20.92,Promocion,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Miguel Mendoza,,Frecuente,2025-04-06
+390,2026-04-20,5, 5 ,8.25,20,App,Transferencia,2,22.63,OK,,Lima,  Norte ,ALCOHOL GEL,higiene,8.25,Diego Castillo,  Villa El Salvador ,Nuevo,2025-09-15
+391,2026/01/18,8,7,8.25,0,WhatsApp,Tarjeta,4,48.38,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,ALCOHOL GEL,higiene,8.25,Valeria Paredes,  San Juan de Lurigancho ,Regular,
+392,2026-02-13,2,10,5.65,12,WhAtSaPp,Yape,1,8.6,Promocion,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,Ana Torres,La Molina,Frecuente,2025-10-05
+393,2026-04-01,5,5,6.11 aprox,15 aprox,Presencial,Plin,2,,OK,SUCURSAL 5,Ventanilla,OESTE,Ibuprofeno,Analgesico,6.11,Valeria Soto,Chorrillos,Frecuente,2025-08-20
+394,2026-02-17,2,2,8.03,15,WhatsApp,Plin,5,,ReViSaR,  Sucursal 6 ,Comas,  Norte ,Suero oral,Hidratacion,8.03,Luis Cruz,Callao,Frecuente,2025-05-28
+395,,3,1,15.74,20,Telefono,Yape,1,10.92,Revisar,Sucursal 7,SuRcO,NoRtE,Vitamina C,Suplemento,15.74,LUIS CASTILLO,CaLlAo,Frecuente,2025-08-09
+396,2026-03-01,5,11,6.11,0,  App ,,2,19.51,OK,Sucursal 7,SuRcO,NoRtE,Ibuprofeno,Analgesico,6.11,Miguel Reyes,Surco,Premium,2025-07-09
+397,2026-01-09,6,5,11.07,8,Web,Efectivo,2,27.54,OK,SUCURSAL 5,Ventanilla,OESTE,Antigripal,respiratorio,11.07,Miguel Mendoza,,Frecuente,2025-04-06
+398,2026-02-24,,4,41.38,20,Web,Tarjeta,5,56.12,Promocion,Sucursal 7,SuRcO,NoRtE,Protector solar,Dermocosmetica,41.38,Jorge Soto,Miraflores,Regular,2025-02-14
+399,2026-02-05,8,12,41.38,8,WhatsApp,Efectivo,,52.2,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,Camila Rojas,San Miguel,Frecuente,2025-10-22
+400,2026-04-06,5,6,41.38,10,Presencial,Tarjeta,2,58.77,Promocion,Sucursal 3,San Juan de Lurigancho,Este,Protector solar,Dermocosmetica,41.38,Diego Torres,Ventanilla,Premium,2025-09-17
+401,2026-06-28,,6,5.65,20,App,Efectivo,2,11.21,Cliente frecuente,Sucursal 1,Ventanilla,centro,Jabon antibacterial,Higiene,5.65,Claudia Gomez,LIMA,Corporativo,19/11/2025
+402,2026-05-24,1,7,44.46,0,Presencial,Transferencia,3,51.46,,Sucursal 7,SuRcO,NoRtE,panal adulto,Cuidado,44.46,Ana Paredes,Surco,Nuevo,2025-09-07
+403,2026/03/14,3,1,8.25,8,Telefono,Tarjeta,4,,PROMOCION,Sucursal 3,San Juan de Lurigancho,Este,ALCOHOL GEL,higiene,8.25,Claudia Vargas,LoS OlIvOs,Premium,2025-08-07
+404,2026-04-27,6,7,8.25, 5 ,Web,TARJETA,2,35.62,Revisar,  Sucursal 6 ,Comas,  Norte ,ALCOHOL GEL,higiene,8.25,Victor Navarro,san juan de lurigancho,Premium, 2025-12-27 
+405,2026/06/03,6 aprox,10,8.25,0,App,Plin,1,"8,26",OK,Sucursal 7,SuRcO,NoRtE,ALCOHOL GEL,higiene,8.25,,Villa  El  Salvador,Premium,2025-01-25
+406,2026-04-25,2,7,5.65,12,Presencial,Efectivo,5,16.15,,Sucursal 7,SuRcO,NoRtE,Jabon antibacterial,Higiene,5.65,Elena Paredes,Callao,Premium,2025-11-22
+407,2026-04-24,,9,6.11,0,WhatsApp,Transferencia,2,24.61,OK,Sucursal 7,SuRcO,NoRtE,Ibuprofeno,Analgesico,6.11,Ana Paredes,Chorrillos,corporativo,2025-12-13
+408,2026-02-05,2,10,"8,25",0,Presencial,Yape,5,4.24,,  Sucursal 6 ,Comas,  Norte ,ALCOHOL GEL,higiene,8.25,Fiorella Salazar,Comas,Corporativo,2025-10-09
+409,17-05-2026,8, 11 ,11.07, 0 ,Telefono,,4,31.83,Ok,SUCURSAL 5,Ventanilla,OESTE,Antigripal,respiratorio,11.07,Victor Cruz,independencia,Nuevo,2025/06/20
+410,2026-01-13,2,5 aprox,5.65,8,Web,Efectivo,1,0.5,Revisar,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,Raul Salazar,Chorrillos,Frecuente,2025-03-03
+411,2026-03-02,3,28.48,S/ 4.89,0,Telefono,tarjeta, 3 ,22.07,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Paracetamol,Analgesico,4.89,Miguel Salazar,Ventanilla,Regular,2025-10-15
+412,2026-06-11,5,2,S/ 8.25,0,Web,Transferencia,2,28.74,OK,Sucursal 3,San Juan de Lurigancho,Este,ALCOHOL GEL,higiene,8.25,Sofia Torres,  Comas ,nuevo,2025-07-14
+413,2026/02/22,8,7,S/ 41.38,10,Telefono,Tarjeta,3,67.31,Revisar,,Lima,  Norte ,Protector solar,Dermocosmetica,41.38,,villa el salvador,Premium, 2025-08-15 
+414,2026-02-06,3, 6 ,S/ 11.07, 0 ,Presencial,Transferencia,2,27.86,OK,Sucursal 1,Ventanilla,centro,Antigripal,respiratorio,11.07,Sofia Vargas,LA MOLINA,Nuevo,2025-09-27
+415,26-06-2026,2,3,4.89,0,Telefono,Efectivo,5,7.37,Revisar,Sucursal 4,San Juan de Lurigancho,Centro,Paracetamol,Analgesico,4.89,Sofia Torres,  Comas ,nuevo,2025-07-14
+416,2026-05-10,3,12,8.03,0,presencial,,4,19.21,,Sucursal 7,SuRcO,NoRtE,Suero oral,Hidratacion,8.03,Diego Campos,Callao,Corporativo,2025-07-19
+417,2026-03-21,3,2,S/ 8.25,8,Web,Plin,3,8.96,Promocion,  Sucursal 6 ,Comas,  Norte ,ALCOHOL GEL,higiene,8.25,Fiorella Rojas,Miraflores,,
+418,2026-02-21,2,6,44.46,0,  Presencial ,Yape,1,51.19,OK,Sucursal 7,SuRcO,NoRtE,panal adulto,Cuidado,44.46,Fiorella Reyes,San Miguel,Premium,2025-10-28
+419,2026-06-21,7,10,41.38,15,Telefono,Tarjeta,2,53.65,OK,,Lima,  Norte ,Protector solar,Dermocosmetica,41.38,Luis Cruz,Callao,Frecuente,2025-05-28
+420,2026-05-03,6,6,8.03,,  WhatsApp ,Transferencia,2, 30.26 ,Revisar,Sucursal 3,San Juan de Lurigancho,Este,Suero oral,Hidratacion,8.03,  Sofia Paredes ,Lima,Premium,2025-07-19
+421,2026-03-20,1,6,6.11,10,WhatsApp,Transferencia,3, 14.77 ,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Ibuprofeno,Analgesico,6.11,Marco Flores,Lima,PREMIUM,10-09-2025
+422,2026-03-05,2,3,44.46,10,Web,Plin,2,40.06,OK,Sucursal 4,San Juan de Lurigancho,Centro,panal adulto,Cuidado,44.46,Elena Ramos,Surco,Premium,21-03-2025
+423, 2026-05-01 ,6, 1 ,8.25,15,Web,Transferencia,5,15.4,,Sucursal 4,San Juan de Lurigancho,Centro,ALCOHOL GEL,higiene,8.25,Luis Mendoza,Callao,Frecuente,2025-04-12
+424,2026-04-04,4,3,8.25,12,App,Yape,4,26.97,Revisar,,Lima,  Norte ,ALCOHOL GEL,higiene,8.25,  Miguel Huaman ,  Villa El Salvador ,Corporativo,2025/01/10
+425,2026-01-20,2,6,15.74,15,WhatsApp,Tarjeta,2,22.18,,SUCURSAL 5,Ventanilla,OESTE,Vitamina C,Suplemento,15.74,Luis Salazar,Callao,Nuevo,2025-10-20
+426,2026-06-09,6,3,,0,App,Transferencia, 4 ,"27,26",Cliente frecuente,Sucursal 7,SuRcO,NoRtE,Vitamina C,Suplemento,15.74,Diana Paredes,Lima,Premium,2025-05-06
+427,2026-03-26,5,12 aprox,41.38,8,App,Efectivo,1,"187,03",Revisar,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,Jose Cruz,Chorrillos,premium,2025-05-14
+428,2026-05-25,5,2,6.11,12,Presencial,Efectivo,5,14.33,,Sucursal 4,San Juan de Lurigancho,Centro,Ibuprofeno,Analgesico,6.11,Luis Huaman,Miraflores,regular,2025-02-20
+429,02-01-2026,1,9,15.74,8,Telefono,Tarjeta,1,22.31,,Sucursal 1,Ventanilla,centro,Vitamina C,Suplemento,15.74,Fiorella Rojas,Miraflores,,
+430,2026-05-10,2,2,11.07,8,WhatsApp,Efectivo,1,22.96,,Sucursal 4,San Juan de Lurigancho,Centro,Antigripal,respiratorio,11.07,LUIS CASTILLO,CaLlAo,Frecuente,2025-08-09
+431,13/06/2026,3 aprox,11,5.65,12,,,1,17.45,Promocion,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,Valeria Soto,Chorrillos,Frecuente,2025-08-20
+432,2026-06-03,6 aprox,6,15.74, 15 ,Telefono,  Plin ,3,37.3,OK,Sucursal 7,SuRcO,NoRtE,Vitamina C,Suplemento,15.74,Andre Salazar,San Juan de Lurigancho,Corporativo,24/06/2025
+433,2026-05-22,8 aprox,1,5.65,0,Presencial,PlIn,1,32.29,,Sucursal 4,San Juan de Lurigancho,Centro,Jabon antibacterial,Higiene,5.65,Valeria Paredes,  San Juan de Lurigancho ,Regular,
+434,,7,11,41.38,12,  Telefono ,EFECTIVO,3,56.43 aprox,OK,Sucursal 7,SuRcO,NoRtE,Protector solar,Dermocosmetica,41.38,Maria Ramos,  Surco ,Frecuente,12/01/2025
+435,2026-04-28,5,12,"8,25",0,Presencial,Tarjeta,1, 15.51 ,  Cliente frecuente ,,Lima,  Norte ,ALCOHOL GEL,higiene,8.25,Sofia Torres,  Comas ,nuevo,2025-07-14
+436,2026-02-04,8,11,8.25,0,  Web ,Yape,4,16.95,Promocion,,Lima,  Norte ,ALCOHOL GEL,higiene,8.25,Elena Ramos,Villa El Salvador,Regular,2025-11-16
+437,2026-04-17,7,10,44.46,10,  Web ,Plin,2,71.52,,  Sucursal 6 ,Comas,  Norte ,panal adulto,Cuidado,44.46,Valeria Quispe,San  Juan  de  Lurigancho,Nuevo,2025-06-10
+438, 2026-03-21 ,1,12,8.03,10,Presencial,Efectivo,3,S/ 10.22,,SUCURSAL 5,Ventanilla,OESTE,Suero oral,Hidratacion,8.03,Andre Castillo,San Miguel,Corporativo,2025-12-20
+439,2026-02-20,3,11,4.89,5,WhatsApp,Yape,4,5.99,,Sucursal 7,SuRcO,NoRtE,Paracetamol,Analgesico,4.89,Valeria Sayan,SuRcO,Corporativo,22-12-2025
+440,2026-06-03,3,3,15.74,,WhatsApp,Tarjeta,2,11.82,OK,  Sucursal 6 ,Comas,  Norte ,Vitamina C,Suplemento,15.74,Rocio Vargas,Ventanilla,Frecuente,2025-11-12
+441,2026-06-19,4,2,5.65,12,WhatsApp,Plin,2,14.69,Cliente frecuente,,Lima,  Norte ,Jabon antibacterial,Higiene,5.65,Luis Cruz,Callao,Frecuente,2025-05-28
+442,2026-04-05,3,5,41.38 aprox,0,  Presencial ,Yape,2,47.5,Ok,Sucursal 1,Ventanilla,centro,Protector solar,Dermocosmetica,41.38,Victor Sayan,  Surco ,Corporativo, 2025-10-15 
+443,2026-06-07,3,5,6.11,0,telefono,TRANSFERENCIA,1,28.63,,Sucursal 4,San Juan de Lurigancho,Centro,Ibuprofeno,Analgesico,6.11,Andre Salazar,San Juan de Lurigancho,Corporativo,24/06/2025
+444,25/04/2026,8,6,8.03,8,WhatsApp,Plin,2,39.94,Promocion,Sucursal 4,San Juan de Lurigancho,Centro,Suero oral,Hidratacion,8.03,  Sofia Paredes ,Lima,Premium,2025-07-19
+445,2026-01-21,6,12,44.46,8,App,Yape,4,51.22,,SUCURSAL 5,Ventanilla,OESTE,panal adulto,Cuidado,44.46,Luis Salazar,Callao,Nuevo,2025-10-20
+446,2026-04-15,8,5,5.65,20,Presencial,Transferencia,3,16.25,,Sucursal 3,San Juan de Lurigancho,Este,Jabon antibacterial,Higiene,5.65,Sofia Torres,  Comas ,nuevo,2025-07-14
+447,,8,1,S/ 8.03,12,WhatsApp,Transferencia,,29.06,OK,Sucursal 1,Ventanilla,centro,Suero oral,Hidratacion,8.03,Ana Cruz,Independencia,Premium,2025-04-13
+448,2026-02-20,4,2,11.07,12,  Web ,Yape,3,23.13,Revisar,  Sucursal 6 ,Comas,  Norte ,Antigripal,respiratorio,11.07,,villa el salvador,Premium, 2025-08-15 
+449,2026-02-04,7,3,44.46,5,Web,Tarjeta,1,63.72,Cliente frecuente,,Lima,  Norte ,panal adulto,Cuidado,44.46,Maria Ramos,  Surco ,Frecuente,12/01/2025
+450,2026-02-05,2,4,11.07,0,,Efectivo,4,11.39,Cliente frecuente,Sucursal 1,Ventanilla,centro,Antigripal,respiratorio,11.07,Marco Quispe,Ate,Premium,24/05/2025
+451,2026-02-25,3, 6 ,8.03,0,Presencial,Tarjeta,2,25.02,,Sucursal 4,San Juan de Lurigancho,Centro,Suero oral,Hidratacion,8.03,Diana Paredes,MIRAFLORES,Premium,2025-08-12
+452,2026-02-24,2,3,4.89,20,Telefono,Transferencia,1,5.29,ReViSaR,  Sucursal 6 ,Comas,  Norte ,Paracetamol,Analgesico,4.89,Elena Paredes,Callao,Premium,2025-11-22
+453,2026-06-06,1 aprox,11,8.03,12,  Telefono ,Efectivo,5,17.78,Revisar,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Ana Torres,La Molina,Frecuente,2025-10-05
+454,2026-01-08,5,11,8.03,5 aprox,App,Transferencia,5,20.17,,  Sucursal 6 ,Comas,  Norte ,Suero oral,Hidratacion,8.03,Diego Torres,Ventanilla,Premium,2025-09-17
+455,2026-05-23,4,8,,20 aprox,App,Transferencia,3,52.16,,SUCURSAL 5,Ventanilla,OESTE,Protector solar,Dermocosmetica,41.38,Claudia Reyes,Independencia,Regular,2025-09-02
+456,2026-04-20,6,10,S/ 5.65,12,,Transferencia,2,14.7,Cliente  frecuente,,Lima,  Norte ,Jabon antibacterial,Higiene,5.65,Marco Flores,Lima,PREMIUM,10-09-2025
+457,2026-05-26,8,2,41.38,8,WhatsApp,,2,61.62,Cliente frecuente,Sucursal 4,San Juan de Lurigancho,Centro,Protector solar,Dermocosmetica,41.38,Victor Sayan,  Surco ,Corporativo, 2025-10-15 
+458,2026-02-01,3,6,11.07 aprox,0,Web,Transferencia,2,17.67,Promocion,Sucursal 7,SuRcO,NoRtE,Antigripal,respiratorio,11.07,Jorge Soto,Miraflores,Regular,2025-02-14
+459,2026-04-26,4,8,41.38,15,Telefono,Transferencia,5,51.11,Promocion,SUCURSAL 5,Ventanilla,OESTE,Protector solar,Dermocosmetica,41.38,Marco Quispe,Ate,Premium,24/05/2025
+460,20/06/2026,3,4,5.65,0,Telefono,EfEcTiVo,1,12.0,Revisar,Sucursal 4,San Juan de Lurigancho,Centro,Jabon antibacterial,Higiene,5.65,Fiorella Reyes,San Miguel,Premium,2025-10-28
+461,2026-01-09,8,,44.46,0,telefono,Tarjeta,3,70.34,OK,,Lima,  Norte ,panal adulto,Cuidado,44.46,Lucia Huaman,LIMA,Regular,2025-06-08
+462,2026-03-27,3,2,8.03,12,WhatsApp,,1,0.5,,Sucursal 3,San Juan de Lurigancho,Este,Suero oral,Hidratacion,8.03,AnA CaMpOs,Miraflores,Regular,2025-11-09
+463,2026-05-23,2,8,6.11,20,Telefono,Efectivo,3,10.89,ReViSaR,Sucursal 7,SuRcO,NoRtE,Ibuprofeno,Analgesico,6.11,,Villa  El  Salvador,Premium,2025-01-25
+464,2026-06-15,8 aprox,10,4.89,8,App,Yape,4,22.7,,,Lima,  Norte ,Paracetamol,Analgesico,4.89,Claudia Reyes,Independencia,Regular,2025-09-02
+465,2026-02-19,,11,8.25,0,WhatsApp,Yape,3,18.87,OK,  Sucursal 6 ,Comas,  Norte ,ALCOHOL GEL,higiene,8.25,Fiorella Rojas,Miraflores,,
+466,2026-04-08,1,7,8.03,0 aprox,Telefono,Transferencia,4,10.55,,Sucursal 1,Ventanilla,centro,Suero oral,Hidratacion,8.03,Marco Ramos,San Miguel,Corporativo,2025-08-11
+467,2026-01-07,8,,8.03,10,Telefono,, 2 ,32.6,OK,  Sucursal 6 ,Comas,  Norte ,Suero oral,Hidratacion,8.03,Marco Flores,Lima,PREMIUM,10-09-2025
+468,2026-02-03,8,8 aprox,8.03,5,Web,  Transferencia ,2,19.8,OK,  Sucursal 6 ,Comas,  Norte ,Suero oral,Hidratacion,8.03,Miguel Torres,Comas,Frecuente,
+469,2026-04-25,1,10,8.03,12 aprox,Web,Efectivo,2,17.25,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,Suero oral,Hidratacion,8.03,ana torres,  Callao ,Corporativo,2025-06-26
+470,26-05-2026,8,4,8.03,12,Telefono,Tarjeta,5,31.34 aprox,,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Diego Soto,Los Olivos,Regular,2025-12-11
+471,2026-05-02,4 aprox,8,6.11,0,WhatsApp,Yape,4,4.18,,  Sucursal 6 ,Comas,  Norte ,Ibuprofeno,Analgesico,6.11,Victor Sayan,  Surco ,Corporativo, 2025-10-15 
+472,2026/04/24,5,1,6.11,8,WhatsApp,Tarjeta,5,21.95,OK,  Sucursal 6 ,Comas,  Norte ,Ibuprofeno,Analgesico,6.11,Lucia Quispe,Miraflores,Frecuente,2025-10-18
+473,2026-01-26,1,5,S/ 5.65,10,WEB,Tarjeta,3,0.5,Revisar,SUCURSAL 5,Ventanilla,OESTE,Jabon antibacterial,Higiene,5.65,Ana Cruz,Independencia,Premium,2025-04-13
+474,2026-06-15,3,8,41.38,8,WhatsApp,Plin,5,32.22,Cliente frecuente,  Sucursal 6 ,Comas,  Norte ,Protector solar,Dermocosmetica,41.38,Marco Paredes,Ventanilla,,2025-04-14
+475,2026-04-13,6 aprox,10,8.25,10,App,Tarjeta,4,21.54 aprox,Revisar,,Lima,  Norte ,ALCOHOL GEL,higiene,8.25,Marco Ramos,San Miguel,Corporativo,2025-08-11
+476,2026-06-23,7,9,8.03,10,App,Yape,2,23.88,Promocion,,Lima,  Norte ,Suero oral,Hidratacion,8.03,Luis Huaman,Miraflores,regular,2025-02-20
+477,2026-02-05,4,4,44.46,10,Presencial,Plin,3,54.29,,Sucursal 7,SuRcO,NoRtE,panal adulto,Cuidado,44.46,Raul Salazar,Chorrillos,Frecuente,2025-03-03
+478,2026-04-27,4,2,44.46,5,App,Tarjeta,2,55.97,Revisar,  Sucursal 6 ,Comas,  Norte ,panal adulto,Cuidado,44.46,  Miguel Huaman ,  Villa El Salvador ,Corporativo,2025/01/10
+479,2026-06-03,2,7,8.25,12,Web,Tarjeta,3,21.55,Cliente frecuente,Sucursal 3,San Juan de Lurigancho,Este,ALCOHOL GEL,higiene,8.25,Jose Rojas,Comas,Premium,2025-03-04
+480,2026-03-24,8,6,6.11,8,Web,Plin,3,33.9,Promocion,,Lima,  Norte ,Ibuprofeno,Analgesico,6.11,Ana Cruz,Independencia,Premium,2025-04-13
+481,2026-02-03,7,5,S/ 11.07,0,WhatsApp,Yape,3,25.54,Promocion,Sucursal 4,San Juan de Lurigancho,Centro,Antigripal,respiratorio,11.07,Diego Castillo,San Juan de Lurigancho,Frecuente,2025-12-25
+482,2026-04-13, 2 ,7,"5,65",12,Telefono,  Plin ,1,16.56,Promocion,  Sucursal 6 ,Comas,  Norte ,Jabon antibacterial,Higiene,5.65,ana torres,  Callao ,Corporativo,2025-06-26
+483,2026-02-25,6,7,8.25,,,Transferencia,1,11.45,Revisar,  Sucursal 6 ,Comas,  Norte ,ALCOHOL GEL,higiene,8.25,Fiorella Reyes,San Miguel,Premium,2025-10-28
+484,2026-03-14,7,7,, 0 ,Presencial,  Yape ,5,30.76,OK,  Sucursal 6 ,Comas,  Norte ,Paracetamol,Analgesico,4.89,Marco Huaman,Ate,Regular,2025-02-25
+485,2026-01-19,3,8,41.38,10,Web,Transferencia,1,44.34,,Sucursal 3,San Juan de Lurigancho,Este,Protector solar,Dermocosmetica,41.38,Elena Paredes,Callao,Premium,2025-11-22
+486,2026-04-22,7,4,11.07,12,Presencial,, 5 ,,Promocion,  Sucursal 6 ,Comas,  Norte ,Antigripal,respiratorio,11.07,Camila Quispe,Comas,Nuevo,27/07/2025
+487,2026-01-02,,12,44.46,12,PrEsEnCiAl,EfEcTiVo,5,50.14,PrOmOcIoN,  Sucursal 6 ,Comas,  Norte ,panal adulto,Cuidado,44.46,Jose Soto,Ventanilla,Nuevo,26-01-2025
+488,2026-02-22,5,3,41.38,10,Web,Tarjeta,,45.68,OK,,Lima,  Norte ,Protector solar,Dermocosmetica,41.38,ana torres,  Callao ,Corporativo,2025-06-26
+489,2026/06/07,1,5,6.11,0,Telefono,Efectivo,4,20.64,Revisar,Sucursal 7,SuRcO,NoRtE,Ibuprofeno,Analgesico,6.11,Fiorella Reyes,San Miguel,Premium,2025-10-28
+490,2026-01-28,1,,S/ 4.89,20,Web,Tarjeta,2,0.8,Cliente frecuente,Sucursal 1,Ventanilla,centro,Paracetamol,Analgesico,4.89,Raul Castillo,Callao,Nuevo,2025-09-11
+491,2026-02-07,6,4,11.07,15,WhatsApp,Tarjeta,4,S/ 20.71,Promocion,  Sucursal 6 ,Comas,  Norte ,Antigripal,respiratorio,11.07,Jose Sayan,COMAS,Premium,2025-08-16
+492,2026-05-15,2,10,8.03 aprox,0,WhatsApp,Yape,5,21.12,Promocion,Sucursal 7,SuRcO,NoRtE,Suero oral,Hidratacion,8.03,Valeria Soto,Chorrillos,Frecuente,2025-08-20
+493,2026-03-09,2,12,11.07,8,TeLeFoNo,Plin,3,18.13,Revisar,Sucursal 1,Ventanilla,centro,Antigripal,respiratorio,11.07,,La Molina,Regular,17-07-2025
+494,2026-06-23,5,1 aprox,41.38,0,Telefono,Yape,3,67.45,Revisar,,Lima,  Norte ,Protector solar,Dermocosmetica,41.38,  Sofia Paredes ,Lima,Premium,2025-07-19
+495,2026-02-28,,6,15.74,20,App,Yape,2,21.79,OK,Sucursal 3,San Juan de Lurigancho,Este,Vitamina C,Suplemento,15.74,Luis Sayan,Comas,Nuevo,2025-12-09
+496,2026-03-10,5,4 aprox,6.11,15,WhatsApp,Transferencia,2,28.91,Cliente frecuente,Sucursal 1,Ventanilla,centro,Ibuprofeno,Analgesico,6.11,Camila Campos,,Regular,2025-01-02
+497,2026-04-17,2,1,41.38,10,Presencial,,2,42.16,Promocion,Sucursal 4,San Juan de Lurigancho,Centro,Protector solar,Dermocosmetica,41.38,Ana Paredes,Surco,Nuevo,2025-09-07
+498,2026-04-24,1,7, 15.74 ,8,WhatsApp,Tarjeta,5,9.64,OK,Sucursal 3,San Juan de Lurigancho,Este,Vitamina C,Suplemento,15.74,Luis Mendoza,Callao,Frecuente,2025-04-12
+499,2026-02-15,4,7 aprox,6.11,8,WhatsApp,Plin,1,18.08,,  Sucursal 6 ,Comas,  Norte ,Ibuprofeno,Analgesico,6.11,AnA CaMpOs,Miraflores,Regular,2025-11-09
+500,2026-05-15,7,5,4.89,0,presencial,Tarjeta,1,15.41,,,Lima,  Norte ,Paracetamol,Analgesico,4.89,Claudia Reyes,Independencia,Regular,2025-09-02

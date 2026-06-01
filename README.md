@@ -1,6 +1,8 @@
 # PMD1 - Bases desnormalizadas para Fundamentos de Gestion de Datos
 
-Este paquete contiene casos cotidianos para el PMD1. Cada caso incluye una base SQLite con una tabla grande desnormalizada, un CSV equivalente, un `schema.sql` minimo y una guia breve.
+Este paquete contiene casos cotidianos para el PMD1. En general, cada caso incluye una base SQLite con una tabla grande desnormalizada, un CSV equivalente, un `schema.sql` minimo y una guia breve.
+
+Excepcion: el caso 17 de panaderia se mantiene con `ventas_original` y tablas normalizadas porque ya fue usado en clase con esa estructura.
 
 La idea didactica es que el estudiante:
 
@@ -32,7 +34,7 @@ La idea didactica es que el estudiante:
 | 14 | Taller Mecanico Ordenes | `taller_mecanico_ordenes.db` | `ordenes_original` | `costo_reparacion` | `horas_trabajo` |
 | 15 | Industria Paradas Procesos | `industria_paradas_procesos.db` | `paradas_original` | `costo_parada_soles` | `duracion_parada_min` |
 | 16 | Abarrotes Ventas Inventario | `abarrotes_ventas_inventario.db` | `ventas_original` | `monto_venta_soles` | `cantidad_unidades` |
-| 17 | Panaderia Normalizacion | `panaderia_normalizacion.db` | `ventas_original` | `total_venta` | `cantidad` |
+| 17 | Panaderia Normalizacion | `panaderia_normalizacion.db` | `ventas_original` + tablas normalizadas | `total_venta` | `cantidad` |
 | 18 | Minimarket Normalizacion | `minimarket_normalizacion.db` | `ventas_original` | `total_venta` | `cantidad` |
 
 ## Ejemplo para descargar desde GitHub en Colab
@@ -54,7 +56,7 @@ df
 
 ## Nota sobre normalizacion
 
-Las bases de estudiantes no traen el modelo normalizado resuelto. El trabajo consiste en partir de la tabla original, reconocer repeticion de datos y construir las tablas normalizadas.
+Las bases de estudiantes no traen el modelo normalizado resuelto, excepto el caso 17 de panaderia que se conserva como material ya trabajado en clase. En los demas casos, el trabajo consiste en partir de la tabla original, reconocer repeticion de datos y construir las tablas normalizadas.
 
 El `schema.sql` de cada caso muestra solamente la estructura de la tabla original. Las claves primarias, claves foraneas y tablas finales deben ser propuestas por el estudiante.
 

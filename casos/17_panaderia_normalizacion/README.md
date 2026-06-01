@@ -1,34 +1,112 @@
-# Caso 17 - Panaderia Normalizacion
+# Panaderia - Normalizacion y SQL basico
 
-## Enfoque del caso
+## Contexto
 
-Este caso entrega una sola tabla desnormalizada para que el estudiante identifique datos repetidos y proponga el modelo normalizado.
+La panaderia "Dulce Migaja" vende panes, pasteles, bebidas y productos salados en tres locales. La administracion necesita entender por que conviene separar clientes, productos, categorias, locales y ventas en tablas distintas.
 
-La base no incluye tablas normalizadas, claves foraneas ni una solucion relacional ya construida.
+Este caso fue preparado para:
 
-## Archivo SQLite
+- Semana 4: normalizacion relacional, claves primarias, claves foraneas y JOIN.
+- Laboratorio Calificado 2: interpretacion de consultas SQL basicas de semanas 3 y 4.
+
+## Base SQLite
+
+Archivo principal:
 
 - `panaderia_normalizacion.db`
 
-## Tabla disponible
+URL raw para Google Colab:
 
-- `ventas_original`: tabla de partida con 18 registros. Mezcla datos de la operacion principal con datos descriptivos de clientes, productos, sedes, categorias u otras entidades del caso.
+```text
+https://raw.githubusercontent.com/Rociosayan/PMD1_Fundamentos_Gestion_Datos/main/casos/17_panaderia_normalizacion/panaderia_normalizacion.db
+```
 
-## Reto PMD1
+## Tablas incluidas
 
-1. Explorar la tabla original.
-2. Detectar patrones repetidos y dependencias entre columnas.
-3. Proponer entidades, claves primarias y claves foraneas.
-4. Crear las tablas normalizadas en SQLite.
-5. Insertar los datos desde `ventas_original` hacia las nuevas tablas.
-6. Reconstruir un reporte con `JOIN` para validar que no se perdio informacion.
-7. Limpiar datos con Pandas y preparar un dataset analitico.
+### Tabla para explicar el problema
 
-Variable objetivo sugerida: `total_venta`.
-Variable predictora basica sugerida: `cantidad`.
+- `ventas_original`: tabla desnormalizada. Repite datos de cliente, producto, categoria y local en cada venta.
 
-## Archivo CSV
+### Tablas normalizadas
 
-La carpeta `csv/` contiene solo la tabla original:
+- `categorias`: catalogo de categorias.
+- `productos`: productos vendidos y su categoria.
+- `clientes`: datos basicos de clientes.
+- `locales`: locales de venta.
+- `ventas`: tabla transaccional con IDs y cantidad vendida.
+
+## Uso didactico sugerido
+
+### Semana 4
+
+1. Descargar la base desde GitHub.
+2. Observar `ventas_original`.
+3. Identificar datos repetidos.
+4. Comparar con las tablas normalizadas.
+5. Explicar por que `ventas` guarda `id_cliente`, `id_producto` e `id_local`.
+6. Reconstruir la informacion con `INNER JOIN`.
+
+### Laboratorio Calificado 2
+
+Usar consultas cortas:
+
+- `SELECT`
+- `INNER JOIN`
+- `LEFT JOIN`
+- `GROUP BY`
+- `ORDER BY`
+
+No requiere subconsultas, vistas, indices ni temas avanzados.
+
+## Consulta base para reconstruir ventas
+
+```sql
+SELECT
+    v.id_venta,
+    v.fecha,
+    c.nombre AS cliente,
+    c.distrito AS distrito_cliente,
+    p.nombre AS producto,
+    cat.nombre AS categoria,
+    l.nombre AS local,
+    l.distrito AS distrito_local,
+    v.cantidad,
+    p.precio_unitario,
+    v.cantidad * p.precio_unitario AS total_venta,
+    v.metodo_pago
+FROM ventas v
+INNER JOIN clientes c ON v.id_cliente = c.id_cliente
+INNER JOIN productos p ON v.id_producto = p.id_producto
+INNER JOIN categorias cat ON p.id_categoria = cat.id_categoria
+INNER JOIN locales l ON v.id_local = l.id_local
+ORDER BY v.id_venta;
+```
+
+## Ejemplo de descarga en Colab
+
+```python
+from pathlib import Path
+import urllib.request
+import sqlite3
+import pandas as pd
+
+url = "https://raw.githubusercontent.com/Rociosayan/PMD1_Fundamentos_Gestion_Datos/main/casos/17_panaderia_normalizacion/panaderia_normalizacion.db"
+db_path = Path("panaderia_normalizacion.db")
+urllib.request.urlretrieve(url, db_path)
+
+conn = sqlite3.connect(db_path)
+
+ventas_original = pd.read_sql_query("SELECT * FROM ventas_original;", conn)
+ventas_original.head()
+```
+
+## Archivos CSV
+
+La carpeta `csv/` contiene una copia de cada tabla para revision rapida:
 
 - `ventas_original.csv`
+- `categorias.csv`
+- `productos.csv`
+- `clientes.csv`
+- `locales.csv`
+- `ventas.csv`

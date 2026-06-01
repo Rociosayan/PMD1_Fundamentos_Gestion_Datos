@@ -2,7 +2,7 @@
 
 ## Enfoque recomendado
 
-Cada grupo elige un caso distinto. Todos los casos comparten la misma logica didactica:
+Cada grupo elige un caso distinto. En general, los casos comparten la misma logica didactica:
 
 1. Base SQLite con una tabla desnormalizada.
 2. Datos repetidos de varias entidades en la misma tabla.
@@ -12,6 +12,8 @@ Cada grupo elige un caso distinto. Todos los casos comparten la misma logica did
 6. Carga de datos desde la tabla original hacia el modelo normalizado.
 7. Validacion con consultas `JOIN`.
 8. Limpieza en Pandas y analisis simple.
+
+Nota: el caso 17 de panaderia se conserva con `ventas_original` y tablas normalizadas porque ya fue usado en clase con esa estructura. Los demas casos quedan como tablas desnormalizadas para que el estudiante normalice.
 
 ## Como explicar PK y FK
 

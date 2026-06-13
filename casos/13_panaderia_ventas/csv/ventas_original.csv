@@ -1,501 +1,501 @@
 id_venta,fecha_operacion,cantidad,cantidad_unidades,precio_unitario,descuento_pct,canal,metodo_pago,calificacion,ingreso_venta,observacion,locales_nombre,locales_distrito,locales_zona,productos_nombre,productos_categoria,productos_precio_unitario,clientes_nombre,clientes_distrito,clientes_segmento,clientes_fecha_registro
-1, 2026-03-05 , 7 ,53,29.17,15,Telefono,Plin,3,34.24,Promocion,Local 1,Callao,Centro,Paneton,Temporada,29.17,Rocio Torres,comas,Premium,2025-03-08
-2,2026-04-13,4,35,4.73,8,,  Plin ,3,1.58,Promocion,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Sofia Flores,Chorrillos,Regular,2025-11-21
-3,2026-05-24,6,19,"45,67",0,,Transferencia,5,49.73,OK,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Sofia Flores,Chorrillos,Regular,2025-11-21
-4,2026-05-19,8,5,6.46, 0 ,WhatsApp,Transferencia,3,13.31,,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
-5,2026-06-15, 3 , 33 ,29.17,20,Telefono,Yape,3,26.68,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Jose Campos,lima,Regular,09-12-2025
-6,2026-06-17,7,39,6.46,10,WhatsApp,Efectivo,4,10.35,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Jose Ramos,Callao,  Frecuente ,2025-10-09
-7,2026-03-10,2,24,4.73,20,Presencial,Yape,1,S/ 8.31,Cliente frecuente,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Fiorella Ramos,Surco,Corporativo,2025-01-15
-8,2026-05-10,4, 37 ,3.0,8,web,Tarjeta,2,8.48,Cliente frecuente,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Camila Salazar,Miraflores,nuevo,2025-12-22
-9,2026-02-24,6,2,29.17,0,App,efectivo,5,28.59,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Claudia Navarro,Comas,Corporativo,2025-06-01
-10,2026-04-02,7,4,0.51,20,APP,Yape,5,8.37,Cliente frecuente,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Fiorella Huaman,Lima,Nuevo,2025-05-08
-11,,4,18,0.51,5,App,Tarjeta,2,10.15,Cliente frecuente,Local 6,Independencia,Centro,Pan integral,  Panes ,0.51,Luis Rojas,Comas,Regular,2025-07-15
-12,2026/03/01,8,31,6.46,0,WhatsApp,Yape,1,21.01,Cliente frecuente,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Marco Reyes,Independencia,Regular,2025-12-15
-13,2026-02-28,1,12,0.51,20,Web,yape,2,2.14,Promocion,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Jorge Mendoza,Callao,Premium,2025-06-26
-14,07-01-2026,5,18,6.46 aprox,0,Telefono,Plin,4,16.18,OK,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Elena Paredes,Comas,Frecuente,2025-01-26
-15,2026-01-28,4,7,0.37,0,WhatsApp,Transferencia,4,4.34,Promocion,Local 3,Lima,Norte,Pan frances,PaNeS,0.37,,AtE,Frecuente,2025-03-02
-16,2026-01-15, 8 ,60,17.5,10,WhatsApp,Tarjeta,3,34.05,,,Comas,Centro,Queque,PaStElEs,17.5,Camila Ramos,Independencia,Corporativo,2025-10-11
-17,2026-05-10,1,32,4.73,0,Presencial,Yape, 2 ,10.67 aprox,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
-18,2026-06-15,3,52,17.5,5,Presencial,,1 aprox,26.05,Promocion,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
-19,2026-02-06,3,35,S/ 4.73,20,presencial,Efectivo,3,6.27,Revisar,Local 6,Independencia,Centro,CaFe pAsAdO,Bebidas,4.73,Jose Campos,lima,Regular,09-12-2025
-20,2026-02-12,4,15 aprox,0.51,10 aprox,Web,tarjeta,5,S/ 0.5,Cliente frecuente,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Raul Campos,COMAS,Nuevo,2025-05-16
-21,2026-04-24,1,9,0.37,0,WhatsApp,Transferencia,5,7.44,Revisar,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Diana Campos,Ate,Regular,2025-05-27
-22,2026-05-13,5,51, 0.37 ,10,App,Plin,3,0.5,OK,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Raul Campos,COMAS,Nuevo,2025-05-16
-23,2026-02-12,,16,4.73,0 aprox,Presencial,Transferencia,5,7.52,Cliente frecuente,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Raul Cruz,Callao,Regular,2025-12-11
-24,2026-02-21,7,45,29.17,0,Presencial,Tarjeta,4,S/ 35.77,,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Lucia Reyes,Comas,regular, 2025-11-27 
-25,,4,8,4.73,20,App,Transferencia, 3 ,10.03,Cliente frecuente,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Jorge Vargas,CoMaS,Nuevo,2025-10-04
-26,2026-06-10,3,33,4.24,15,web,Tarjeta,2,0.5,Cliente frecuente,Local 6,Independencia,Centro,Empanada,salados,4.24,,callao,Nuevo,2025-09-09
-27,2026-01-25, 3 ,51,17.5,20,,Transferencia,2,25.69,OK,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
-28,2026-05-09,6,16,6.46,0,App,tarjeta,3, 13.35 ,,,Comas,Centro,Jugo natural,Bebidas,6.46,,,Frecuente,2025/12/07
-29, 2026-06-18 ,3,15,6.46,8,PRESENCIAL,Transferencia,,5.4,OK,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,,Lima,Premium,2025/12/17
-30,2026-01-03,6,14,29.17,10,App,Tarjeta,3,37.36,Cliente frecuente,Local 1,Callao,Centro,Paneton,Temporada,29.17,Camila Flores,Miraflores,frecuente,2025-01-03
-31,2026-03-25,3,41,4.73,0,app,Transferencia,2,10.93,ok,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Diana Sayan,Miraflores,Regular,2025-02-14
-32,2026-05-24,6,19,"45,67",0,,Transferencia,5,49.73,OK,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Sofia Flores,Chorrillos,Regular,2025-11-21
-33,2026-03-22,7,24,0.51,,whatsapp,Transferencia,4, 3.35 ,,,Comas,Centro,Pan integral,  Panes ,0.51,Lucia Vargas,San Miguel,Frecuente,2025-01-02
-34,2026-03-15,8,50,17.5,5,Presencial,Efectivo,4,37.34,OK,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Jorge Rojas,Surco,regular,2025-02-05
-35,,4,8,4.73,20,App,Transferencia, 3 ,10.03,Cliente frecuente,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Jorge Vargas,CoMaS,Nuevo,2025-10-04
-36,2026-05-16,8,3,3.0,8,Web,Transferencia,2,11.32,Promocion,,Comas,Centro,Alfajor,Dulces,3.0,Diana Vargas,  Miraflores ,Regular,2025-02-03
-37,2026-01-18,5,23,4.73,10,App,Transferencia, 3 ,4.69,Revisar,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Sofia Salazar,Lima,NuEvO,2025-03-18
-38,2026-05-26,1,24,6.46,12,Presencial,Efectivo,4,10.33,Revisar,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Rocio Torres,comas,Premium,2025-03-08
-39,2026-03-03,8,51,45.67,10,Presencial,Transferencia,,59.09,OK,Local 1,Callao,Centro,Torta chocolate,Pasteles,45.67,Diana Torres,Surco,Nuevo,2025-03-23
-40,2026-06-20,2,24,4.24,0,WhatsApp,Transferencia,3,22.33,Cliente frecuente,Local 3,Lima,Norte,Empanada,salados,4.24,Pedro Torres,Independencia,Regular,2025-04-07
-41,2026-02-02,2,48,"45,67",0,Telefono,Efectivo,5,51.15,  OK ,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
-42,2026-04-19,3,36,0.37,10,Web,EfEcTiVo,3,3.2,CLIENTE FRECUENTE,Local 3,Lima,Norte,Pan frances,PaNeS,0.37,Maria Sayan,San Juan de Lurigancho,,2025-07-11
-43,2026-03-26,4,33,"4,24",0,App,Tarjeta,1,16.75,,Local 3,Lima,Norte,Empanada,salados,4.24,Andre Rojas,Ventanilla,Nuevo,2025-08-09
-44,2026-02-05,1,4,29.17,15,Web,Efectivo,1,21.62,,Local 1,Callao,Centro,Paneton,Temporada,29.17,Rocio Ramos,LIMA,Nuevo,2025-11-14
-45, 2026-05-16 ,7,50,0.37,20,Web,PLIN,3,9.32,,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Sofia Flores,Chorrillos,Regular,2025-11-21
-46,,3,30,"3,0",20 aprox,Web,Transferencia,3,6.03,Promocion,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Lucia Gomez,Comas,Premium,2025-01-13
-47,2026-01-09,5,9,45.67,10 aprox,Web,Efectivo,1,54.6,  OK ,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
-48,2026-04-03,1,49,6.46,20,Presencial,Tarjeta,5,S/ 2.32,,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Jose Gomez,Ate,  Frecuente ,2025-02-09
-49,2026-05-03,8,33,6.46,10 aprox,Web,transferencia,1,16.72,Revisar,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
-50,2026-02-05,6,6,45.67, 0 ,web,Tarjeta,4,"45,81",Cliente  frecuente,Local 1,Callao,Centro,Torta chocolate,Pasteles,45.67,Camila Salazar,Miraflores,nuevo,2025-12-22
-51,2026-05-04,6,52,4.24,10,App,YaPe,3,6.62,revisar,Local 6,Independencia,Centro,Empanada,salados,4.24,Jorge Vargas,CoMaS,Nuevo,2025-10-04
-52,2026-02-15,6,53,29.17,0,Web,Tarjeta,2,S/ 45.17,Revisar,,San Juan de Lurigancho,Centro,Paneton,Temporada,29.17,Lucia Vargas,San Miguel,Frecuente,2025-01-02
-53,2026-05-23,3,50,0.51,0,Web,Yape,5,"11,86",OK,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Miguel Mendoza,Ventanilla,Premium,2025-10-14
-54,2026-02-26,3,4,4.24,0,App,,,,OK,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Sofia Reyes,Ventanilla,Frecuente,2025-05-22
-55,2026-05-24, 3 ,58 aprox,3.0,,  Web ,Tarjeta,3,8.11,OK,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Jose Ramos,Callao,  Frecuente ,2025-10-09
-56,2026-02-14,6,45,0.51,0,Telefono,Efectivo,4,2.93,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Pedro Torres,Independencia,Regular,2025-04-07
-57,2026/02/16,4,,0.37,5,App,Efectivo,3,6.33,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Carlos Rojas,la molina,Regular,2025-08-05
-58,2026-02-22,2,14,3.0,12 aprox,Web,Yape,4,0.5,,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Camila Soto,Miraflores,Premium,2025-09-04
-59,13-02-2026,2,7,17.5,15,App,Tarjeta,,"3,82",Promocion,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Luis Huaman,Independencia,Nuevo,
-60,2026-04-24,3,30,0.37,20 aprox,Telefono,Tarjeta,5,0.64,Revisar,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Andre Rojas,Ventanilla,Nuevo,2025-08-09
-61,2026-05-10,6,4,4.73,8,WhatsApp,Efectivo,4,9.71,,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
-62,,1,12,4.73,0,ApP,Efectivo,4 aprox,6.2,,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Claudia Navarro,Comas,Corporativo,2025-06-01
-63,2026-06-02,5,24,4.24,8,Web,,5,0.5,Revisar,Local 4,Surco,Norte,Empanada,salados,4.24,Miguel Mendoza,Ventanilla,Premium,2025-10-14
-64,2026-01-12,7,18,4.73,10 aprox,Web,Yape,4,10.16,OK,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Andre Rojas,La Molina,,2025-01-13
-65,2026-02-13,5,57,"17,5",5,Web,Efectivo,1,21.8,Promocion,,Comas,Centro,Queque,PaStElEs,17.5,Fiorella Ramos,Surco,Corporativo,2025-01-15
-66,2026-06-08,2,13,6.46,8,Presencial,Plin,3,7.61,OK,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
-67,2026-03-05,4,24,17.5,0,Telefono,Transferencia,5,20.37,Revisar,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Andre Rojas,La Molina,,2025-01-13
-68,2026-01-24,6,50,6.46,0,telefono,Tarjeta,4,17.87,Promocion,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Marco Paredes,Miraflores,Frecuente,2025-09-01
-69,2026-02-28,6,36,4.24,8,Web,TARJETA,2,10.95,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Sofia Reyes,Ventanilla,Frecuente,2025-05-22
-70,2026-04-02,2,14,0.37,15,Web,Yape,1,0.5,OK,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Lucia Reyes,Comas,Premium,2025-05-08
-71,2026-04-25,7,21,29.17,12,App,plin,4, 27.91 ,Cliente frecuente,Local 4,Surco,Norte,Paneton,Temporada,29.17,DIANA CAMPOS,Comas,Nuevo,2025-01-04
-72,2026-01-23,1,36,45.67,12,Telefono,Efectivo,1, 45.31 ,Revisar,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,,callao,Nuevo,2025-09-09
-73,2026-02-11,6, 52 ,3.0,12,Presencial,Tarjeta,3,14.05,,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Andre Rojas,Ventanilla,Nuevo,2025-08-09
-74,2026-01-20,1,13, 0.37 ,8,PrEsEnCiAl,Efectivo,2,2.15,,,Comas,Centro,Pan frances,PaNeS,0.37,Andre Rojas,Ventanilla,Nuevo,2025-08-09
-75,2026-05-03,3,44,6.46,0,WhatsApp,  Tarjeta ,2 aprox,7.6,OK,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,ana vargas,Independencia,Corporativo,2025-04-28
-76,2026-03-07,7,35,6.46, 10 ,Presencial,Tarjeta,4,16.7,OK,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Lucia Vargas,San Miguel,Frecuente,2025-01-02
-77,2026-05-17,1,17,3.0,5,  Presencial ,Tarjeta,3,5.52,OK,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Miguel Mendoza,Ventanilla,Premium,2025-10-14
-78,2026-06-09,8 aprox,12,0.37,5,Presencial,Plin,4,10.19,,Local 6,Independencia,Centro,Pan frances,PaNeS,0.37,Claudia Flores,Chorrillos,Regular,2025-08-13
-79,2026-02-20,1,54,"0,37",20,Presencial,Tarjeta,2,4.4,Cliente frecuente,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Carlos Rojas,la molina,Regular,2025-08-05
-80,2026-06-28,1,54,4.24,8,TELEFONO,Transferencia,4,9.04,OK,Local 1,Callao,Centro,Empanada,salados,4.24,Fiorella Huaman,Lima,Nuevo,2025-05-08
-81,2026-02-28,4,2 aprox,17.5,20,App,Transferencia,1,22.61,,Local 4,Surco,Norte,Queque,PaStElEs,17.5,Sofia Flores,Chorrillos,Regular,2025-11-21
-82,13-02-2026,4,35,45.67 aprox,10,ApP,Tarjeta,2,51.22,OK,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,Elena Reyes,Villa El Salvador,Corporativo,2025-10-21
-83,2026-06-04,1,48,6.46,10,App,Plin,5,4.42,OK,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Raul Campos,COMAS,Nuevo,2025-05-16
-84,2026/01/15,3,18,S/ 6.46,20,Web,  Efectivo ,5,5.18,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Jose Ramos,Callao,  Frecuente ,2025-10-09
-85,2026-06-18,7,33,3.0 aprox,10,Telefono,tarjeta,3,"11,45",Promocion,,Comas,Centro,Alfajor,Dulces,3.0,Rocio  Salazar,  Surco ,Regular,2025-07-21
-86,2026-04-17,8,153.67 aprox,0.51,5,App,Efectivo,3,19.2,,Local 6,Independencia,Centro,Pan integral,  Panes ,0.51,Diana Vargas,  Miraflores ,Regular,2025-02-03
-87,2026-03-19,2,9,6.46,10,web,Plin,2,3.76,Promocion,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Rocio Gomez,Independencia,  Corporativo ,2025-04-02
-88,2026-05-03,6,50,4.73,12,Telefono,Plin,4,2.07,PrOmOcIoN,Local 6,Independencia,Centro,CaFe pAsAdO,Bebidas,4.73,Lucia Gomez,Comas,Premium,2025-01-13
-89,2026-01-04,2,19,3.0,0,App,Transferencia,1,13.78,Revisar,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Diana Vargas,  Miraflores ,Regular,2025-02-03
-90,2026-01-28,8,29,,0,App,yape,5,2.25,,,Comas,Centro,Pan frances,PaNeS,0.37,,callao,Nuevo,2025-09-09
-91,2026/02/16,4,,0.37,5,App,Efectivo,3,6.33,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Carlos Rojas,la molina,Regular,2025-08-05
-92,2026-04-05,5,9,17.5,20,App,Plin,5 aprox,16.06,Revisar,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Ana Sayan,Surco,Corporativo,2025-04-09
-93,2026-01-22,5,55,6.46,0,Presencial,Efectivo,1,24.59,,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
-94,2026-03-21,6,27,45.67,5,Telefono,Tarjeta,5,51.3 aprox,,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,Marco Reyes,Independencia,Regular,2025-12-15
-95,2026-01-07,5,9,17.5,12,Presencial,Transferencia,3,16.78,OK,,Comas,Centro,Queque,PaStElEs,17.5,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
-96,2026-05-14,5,56,0.51,12,  Web ,EfEcTiVo,4,9.26,,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Ana Cruz,  Surco ,Regular,2025-10-05
-97,2026-03-23,2,48, 29.17 ,20,Telefono,Plin,2,,,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Andre Soto,Callao,FrEcUeNtE,2025-12-09
-98,2026-03-05,3,45,4.24,8,telefono,Plin,5, 13.1 ,,Local 6,Independencia,Centro,Empanada,salados,4.24,Lucia Gomez,Comas,Premium,2025-01-13
-99,2026-03-09,1 aprox,19,S/ 45.67,12,App,Plin,,47.67,,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,Miguel Mendoza,Ventanilla,Premium,2025-10-14
-100,2026-05-08,1,4,0.51,15,,EFECTIVO,3,0.5,Promocion,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
-101,2026-06-10,1,178.23,4.73,8,Telefono,,5,22.7,OK,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
-102,2026-01-14, 8 ,51,6.46,15,Telefono,Efectivo,4,S/ 7.81,Cliente frecuente,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Rocio Ramos,LIMA,Nuevo,2025-11-14
-103,2026-06-06,3,53,0.51,5,WhAtSaPp,Plin, 3 ,8.81 aprox,,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Victor Ramos,Ate,Premium,2025/06/07
-104,19-02-2026,2,28,,20,TELEFONO,Transferencia,5,0.5,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Diana Vargas,  Miraflores ,Regular,2025-02-03
-105,2026-01-04,5,52,0.51,10,WHATSAPP,TRANSFERENCIA,4,0.52,OK,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Lucia Reyes,Comas,Premium,2025-05-08
-106,2026-03-18,2,14,4.73,5,App,Efectivo,2,5.08,OK,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Camila Flores,Miraflores,frecuente,2025-01-03
-107,2026-04-27,8,120.61,3.0,0,WhatsApp,Transferencia,5,25.17,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,DiAnA ToRrEs,Comas,frecuente,2025-02-03
-108,2026-02-11,6, 52 ,3.0,12,Presencial,Tarjeta,3,14.05,,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Andre Rojas,Ventanilla,Nuevo,2025-08-09
-109,2026-04-07,7,44,0.51,8,App,Tarjeta,4,16.74,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Ana Sayan,Surco,Corporativo,2025-04-09
-110,11/05/2026,7,11,45.67,8,TELEFONO,yape,3,46.4,,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Andre Quispe,Ventanilla,Premium,2025-12-04
-111,2026-06-16,2,2,4.24,8,Telefono,Transferencia,3,8.6,Revisar,,Comas,Centro,Empanada,salados,4.24,Lucia Reyes,Comas,Premium,2025-05-08
-112,2026-02-18,2,40,17.5,8,  Telefono ,Plin,1,16.71,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Maria Sayan,San Juan de Lurigancho,,2025-07-11
-113,07-04-2026,3,49,4.73 aprox,0,WhatsApp,Transferencia,5,13.89,Cliente frecuente,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Diana Sayan,Miraflores,Regular,2025-02-14
-114, 2026-01-27 ,3,58, 3.0 ,0,,YaPe,5,2.51,,,Comas,Centro,Alfajor,Dulces,3.0,Luis Torres,Ate,Corporativo,20/07/2025
-115,2026-02-28,1,30, 3.0 ,15,Telefono,,2,0.5,,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Jose Gomez,Ate,  Frecuente ,2025-02-09
-116,2026/06/10,,51,29.17,0,WHATSAPP,YAPE,5,37.85,,,San Juan de Lurigancho,Centro,Paneton,Temporada,29.17,Andre Quispe,Ventanilla,Premium,2025-12-04
-117,2026-03-18,2,20 aprox,4.73,0,App,Plin,1,4.82,Cliente frecuente,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Rocio  Salazar,  Surco ,Regular,2025-07-21
-118,2026-03-26,2,2,4.73,0,WhatsApp,Tarjeta, 3 ,5.76,,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Lucia Gomez,Comas,Premium,2025-01-13
-119,2026-04-15,8,39,17.5,0,Telefono,Yape,1,24.79,PrOmOcIoN,,Comas,Centro,Queque,PaStElEs,17.5,Miguel Mendoza,Ventanilla,Premium,2025-10-14
-120,2026-02-07,7,24,0.37,0,Web,Plin,4,4.68,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,,,Frecuente,2025/12/07
-121,2026-01-22,8,18, 17.5 ,15,Web,TARJETA,2,24.14,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Ana Torres,Ventanilla,Premium,2025-06-13
-122,2026-06-04,6,13,,8,PRESENCIAL,Yape,2,0.69,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,,Miraflores,corporativo,2025-07-16
-123,2026-04-04,4,33,4.24,0,App,Transferencia,2,57.58,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Diana Torres,Surco,Nuevo,2025-03-23
-124,2026-04-04,1, 25 ,"0,37",10,Web,Efectivo,3,0.5,,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,Maria Sayan,San Juan de Lurigancho,,2025-07-11
-125,2026/06/17,8,38,45.67,20,Telefono,Transferencia,4,47.74,Cliente frecuente,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Jose Gomez,Ate,  Frecuente ,2025-02-09
-126,2026-06-25,4,41,29.17,0,WhatsApp,Plin,3 aprox,28.73,Cliente frecuente,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Ana Sayan,Surco,Corporativo,2025-04-09
-127,2026-04-26,3,27,0.51,5,WeB,Transferencia,2,1.05,OK,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Jose Gomez,Ate,  Frecuente ,2025-02-09
-128,2026-01-01,8, 44 ,0.37,10,PRESENCIAL,Efectivo,4,7.6,Promocion,Local 6,Independencia,Centro,Pan frances,PaNeS,0.37,Luis Vargas,Comas,Nuevo,2025-11-11
-129,2026-06-17,4,5,29.17,0,WhatsApp,tarjeta,1,31.57 aprox,OK,,Comas,Centro,Paneton,Temporada,29.17,Maria Paredes,Lima,  Premium ,2025-06-21
-130,2026-01-27,6,48,4.73,10,WhatsApp,EFECTIVO,3,19.34,Promocion,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Raul Campos,COMAS,Nuevo,2025-05-16
-131,2026-04-16,3,8,3.0,0,Telefono,Tarjeta,5,10.19,,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Pedro Torres,Independencia,Regular,2025-04-07
-132,2026-06-23,8,16,4.24,10,Web,efectivo,5 aprox,5.29,,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Maria Gomez,Comas,Corporativo,2025-05-21
-133,2026-03-04,8,31,17.5,20,Telefono,Plin,3,26.76,OK,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
-134,2026-04-15,2,44,45.67,20,whatsapp,Plin,4,44.26,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Jose Gomez,La Molina,Corporativo,2025-07-05
-135,2026-04-11,7,53,6.46,12,App,Plin,1,10.08,Revisar,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
-136,2026-02-26,5,24,0.37,15 aprox,WhatsApp,EFECTIVO,5,10.43,Promocion,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,Andre Rojas,Ventanilla,Nuevo,2025-08-09
-137,2026-04-15,3,24,6.46,10,Web,TARJETA,4,13.84,Cliente frecuente,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Luis Huaman,Independencia,Nuevo,
-138,2026-03-23,6,16 aprox,S/ 0.51,12,Telefono,Yape, 3 ,7.23,Revisar,Local 6,Independencia,Centro,Pan integral,  Panes ,0.51,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
-139,2026-02-08,3,55,0.37 aprox,15,Presencial,Tarjeta,3,"2,36",,,Comas,Centro,Pan frances,PaNeS,0.37,Elena Flores,Callao,Regular,2025/04/23
-140, 2026-06-09 ,8,3,S/ 0.37,0,WhatsApp,Tarjeta,5,0.9,,,Comas,Centro,Pan frances,PaNeS,0.37,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
-141,27-03-2026,3,49,"0,51",12,Telefono,EfEcTiVo,5,6.71,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Elena Reyes,Villa El Salvador,Corporativo,2025-10-21
-142,2026-05-27,4,40,29.17,0,Telefono,Yape,5,40.84,Revisar,Local 1,Callao,Centro,Paneton,Temporada,29.17,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
-143,2026-04-20,8 aprox,1,45.67,12,,Transferencia,,46.42,Cliente frecuente,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Maria Gomez,Comas,Corporativo,2025-05-21
-144,2026-05-15,8,49,6.46,12,WhatsApp,  Plin ,2,5.11,Promocion,,Comas,Centro,Jugo natural,Bebidas,6.46,jose torres,Callao,NuEvO,2025-05-01
-145,2026-01-01,5,46,17.5,12,Telefono,Efectivo,3,21.27,  Cliente frecuente ,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Claudia Gomez,Miraflores,Regular,2025/08/25
-146,2026-02-03,8,7,0.51,0,Telefono,Yape,2,8.44,Promocion,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Andre Rojas,Ventanilla,Nuevo,2025-08-09
-147,2026-01-24,1,31,0.37,,WhatsApp,Yape,3,2.84,Promocion,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Jorge Rojas,Surco,regular,2025-02-05
-148,2026-01-13,7,13,17.5,8,WhatsApp,Efectivo,4,26.76,,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Luis Torres,Ate,Corporativo,20/07/2025
-149, 2026-03-05 ,2,8,17.5,10,Web,,1,17.71,Cliente frecuente,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
-150,2026-05-13,5,51, 0.37 ,10,App,Plin,3,0.5,OK,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Raul Campos,COMAS,Nuevo,2025-05-16
-151,2026-05-09,7,47,0.51,12,PrEsEnCiAl,Tarjeta,5, 11.17 ,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Lucia Reyes,Comas,Premium,2025-05-08
-152,2026-06-24,5,58,6.46,0,App,Plin,3,21.5,Promocion,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,Raul Campos,COMAS,Nuevo,2025-05-16
-153,,5,43,6.46,8,WhatsApp,  Tarjeta ,1,3.71,,,Comas,Centro,Jugo natural,Bebidas,6.46,Rocio  Salazar,  Surco ,Regular,2025-07-21
-154,2026-05-17,5,12,45.67,8 aprox,Web,Tarjeta,5,51.81,,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,Luis Rojas,Comas,Regular,2025-07-15
-155,2026-04-16, 4 ,55,6.46,12,WhatsApp,Efectivo,1,19.82,,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Jose Campos,lima,Regular,09-12-2025
-156,2026-01-20,2,6,S/ 4.24,0,App,Plin,1,11.43,,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Jorge Mendoza,Callao,Premium,2025-06-26
-157,2026-06-27, 4 ,43,4.24,0,Web,Tarjeta,1,13.0,OK,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Ana Sayan,Surco,Corporativo,2025-04-09
-158,2026-04-05,7,34,0.51,0,WhatsApp,Plin,2,13.53,OK,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Victor Ramos,Ate,Premium,2025/06/07
-159,2026-04-03,6,37,4.24,0,Web,  Efectivo ,3,6.03,,Local 3,Lima,Norte,Empanada,salados,4.24,Sofia Salazar,Lima,NuEvO,2025-03-18
-160,2026-04-01,4,35,4.73,20,App,yape,1,7.15,OK,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Diana Campos,INDEPENDENCIA,FRECUENTE,2025-10-07
-161,2026-05-16,2,10,S/ 29.17,5,Presencial,PlIn,5,32.17,,Local 4,Surco,Norte,Paneton,Temporada,29.17,Andre Quispe,Ventanilla,Premium,2025-12-04
-162,2026-04-01,3 aprox,56,6.46 aprox,15,WhatsApp,Plin,2,5.4,Revisar,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,Maria Sayan,San Juan de Lurigancho,,2025-07-11
-163,2026-06-14,1,39,4.24,0,Presencial,Yape, 5 ,3.92,Cliente frecuente,Local 1,Callao,Centro,Empanada,salados,4.24,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
-164,2026-01-05,5, 36 ,4.73,12,Presencial,Plin,2,10.17,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Luis Vargas,Comas,Nuevo,2025-11-11
-165,2026-04-18,1,9,45.67,5,WhatsApp,Tarjeta,2,44.6,Cliente frecuente,,Comas,Centro,Torta chocolate,Pasteles,45.67,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
-166,2026-01-23,3,50,3.0,20,Web,Plin,1,8.54,OK,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Victor Ramos,Ate,Premium,2025/06/07
-167,2026-06-27, 5 ,36,17.5,0,WhatsApp,Transferencia,5,19.04,Cliente frecuente,Local 4,Surco,Norte,Queque,PaStElEs,17.5,Diana Sayan,Miraflores,Regular,2025-02-14
-168,2026-04-08,3,27,6.46,0,Telefono,Plin,1,6.99,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Raul Cruz,Callao,Regular,2025-12-11
-169,2026-01-20,5,37,17.5,15,WhatsApp,Transferencia,2,13.49,,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Diana Campos,Ate,Regular,2025-05-27
-170,2026-01-01,5,21 aprox,0.37,0,Presencial,Yape,3,4.09,Cliente frecuente,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,ana vargas,Independencia,Corporativo,2025-04-28
-171,2026-05-23,1,45,4.73 aprox,15,,Plin,5,6.26,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Camila Flores,Miraflores,frecuente,2025-01-03
-172,2026-03-20,7,3,17.5,0,WhatsApp,Efectivo,5, 33.05 ,Promocion,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
-173,2026-05-25,4,47,"3,0",0,Telefono,Efectivo,5, 15.37 ,,Local 1,Callao,Centro,Alfajor,Dulces,3.0,,callao,Nuevo,2025-09-09
-174,2026-03-22,3,7,S/ 0.37,10,Presencial,Yape,4,0.5,OK,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
-175,11-03-2026,1,46,3.0,0,WhatsApp,transferencia,2,14.76,Promocion,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Miguel Huaman,Comas,Corporativo,2025-12-20
-176, 2026-06-06 ,8,38,0.37,5,PRESENCIAL,Tarjeta,1,4.05,,,Comas,Centro,Pan frances,PaNeS,0.37,Jose Gomez,Ate,  Frecuente ,2025-02-09
-177,2026-02-16,,30,17.5 aprox,10,WHATSAPP,Transferencia,3,16.3 aprox,Cliente frecuente,,Comas,Centro,Queque,PaStElEs,17.5,Lucia Reyes,Comas,regular, 2025-11-27 
-178,2026-06-07,7,56,0.37,0,WhatsApp,Yape,5,19.99,OK,Local 6,Independencia,Centro,Pan frances,PaNeS,0.37,Maria Paredes,Lima,  Premium ,2025-06-21
-179,2026-06-27,5,3 aprox,3.0,10,,Yape,5,4.72,revisar,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,Luis Huaman,Independencia,Nuevo,
-180,2026-06-22,5,21,4.24,5,Presencial,Tarjeta,3,11.55,Cliente frecuente,Local 4,Surco,Norte,Empanada,salados,4.24,Camila Ramos,Independencia,Corporativo,2025-10-11
-181,2026-05-12,6,17,45.67,15,WHATSAPP,Efectivo, 1 ,37.45,OK,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Claudia Gomez,Miraflores,Regular,2025/08/25
-182,2026-02-04,4,15,45.67,20,Telefono,Yape,1,41.52,Cliente frecuente,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,Lucia Reyes,Comas,regular, 2025-11-27 
-183,2026-03-12,8,53,45.67,15,PrEsEnCiAl,Transferencia,4,47.32,Cliente frecuente,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,,callao,Nuevo,2025-09-09
-184,2026-03-20,7,56 aprox, 0.37 ,8,Presencial,Yape,4,12.66,Promocion,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Sofia Salazar,Lima,NuEvO,2025-03-18
-185,2026-04-27,8,120.61,3.0,0,WhatsApp,Transferencia,5,25.17,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,DiAnA ToRrEs,Comas,frecuente,2025-02-03
-186,2026-06-11,5,32,6.46,5,WhatsApp,YAPE,4,8.31,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Fiorella Ramos,Surco,Corporativo,2025-01-15
-187,2026-02-27,6,57,6.46,15,Web,,5,12.66,Cliente frecuente,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Diana Campos,INDEPENDENCIA,FRECUENTE,2025-10-07
-188,2026-02-21,6,6,6.46,0,Presencial,Tarjeta,1,13.79,,,Comas,Centro,Jugo natural,Bebidas,6.46,Diana Reyes,Villa El Salvador,,21-01-2025
-189,2026/03/08,6,29,0.37,8,Presencial,Yape,4,0.92,Cliente frecuente,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Lucia Gomez,Comas,Premium,2025-01-13
-190,2026-04-15,2,57,29.17, 0 ,Telefono,Yape,3,44.25,Promocion,Local 3,Lima,Norte,Paneton,Temporada,29.17,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
-191,2026-02-09,7,9,4.73,12,Telefono,Yape,5,8.51,Revisar,  Local 2 ,San Juan de Lurigancho,Este,CaFe pAsAdO,Bebidas,4.73,Diana Vargas,  Miraflores ,Regular,2025-02-03
-192,2026-05-14,8,20,17.5,0,PrEsEnCiAl,Plin,3,25.4,,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Sofia Flores,Chorrillos,Regular,2025-11-21
-193,2026-04-18,8,10,0.37,5,App,Transferencia,4,3.6,,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Carlos Rojas,la molina,Regular,2025-08-05
-194,2026-02-06,3,35,S/ 4.73,20,presencial,Efectivo,3,6.27,Revisar,Local 6,Independencia,Centro,CaFe pAsAdO,Bebidas,4.73,Jose Campos,lima,Regular,09-12-2025
-195,2026-05-28,,28,45.67,12,WhatsApp,Transferencia,1,60.68,OK,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,Luis Torres,Ate,Corporativo,20/07/2025
-196,2026-02-01,8, 51 ,6.46,0,WhatsApp,Efectivo,2,105.94,OK,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Jose Gomez,La Molina,Corporativo,2025-07-05
-197,2026-03-23,2,48, 29.17 ,20,Telefono,Plin,2,,,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Andre Soto,Callao,FrEcUeNtE,2025-12-09
-198,2026-05-16,2,10,S/ 29.17,5,Presencial,PlIn,5,32.17,,Local 4,Surco,Norte,Paneton,Temporada,29.17,Andre Quispe,Ventanilla,Premium,2025-12-04
-199,2026-02-05,2,51 aprox,45.67,5,WhatsApp,Plin,5,S/ 50.35,,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Jose Gomez,La Molina,Corporativo,2025-07-05
-200, 2026-02-06 ,5,3,0.51,10,Presencial,Plin,2,11.5,,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,fiorella reyes,LIMA,Frecuente,2025-03-25
-201,2026-06-27,3,31,4.24,0,Telefono,Efectivo,1,6.81,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Jose Ramos,Callao,  Frecuente ,2025-10-09
-202,2026-03-25,4,57 aprox,17.5,0,App,Plin,5,"21,89",,Local 4,Surco,Norte,Queque,PaStElEs,17.5,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
-203,2026-02-10,1,20,0.51,12,Presencial,  Efectivo ,2,0.5,Promocion,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Claudia Navarro,Comas,Corporativo,2025-06-01
-204,2026-05-13,8,27,4.24,0,Web,Efectivo,5, 8.79 ,,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
-205,2026-06-26,1,28,4.24,20,Telefono,Efectivo,3,0.5,promocion,,Comas,Centro,Empanada,salados,4.24,Sofia Flores,Chorrillos,Regular,2025-11-21
-206,2026-05-22,1,12,6.46,5,App,Plin,1,"7,82",OK,,Comas,Centro,Jugo natural,Bebidas,6.46,Camila Salazar,Miraflores,nuevo,2025-12-22
-207,2026-05-23,1,45,4.73 aprox,15,,Plin,5,6.26,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Camila Flores,Miraflores,frecuente,2025-01-03
-208,2026-01-27,5,51,17.5,10,,Tarjeta,1,16.64,Promocion,,Comas,Centro,Queque,PaStElEs,17.5,Lucia Reyes,Comas,regular, 2025-11-27 
-209,2026-05-18,1,37,6.46,12,Telefono,efectivo,4,6.94,Cliente frecuente,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Luis Huaman,Independencia,Nuevo,
-210,2026-01-27,8 aprox,59,0.37,0,Web,Tarjeta,2,5.84,ClIeNtE FrEcUeNtE,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Jose Campos,lima,Regular,09-12-2025
-211,2026/05/01,1,28,17.5,15,Telefono,Efectivo,2,17.86,,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Rocio Torres,comas,Premium,2025-03-08
-212,2026-02-10,8, 26 ,S/ 17.5,10,TeLeFoNo,YAPE,2,23.39,,Local 4,Surco,Norte,Queque,PaStElEs,17.5,,Lima,Premium,2025/12/17
-213,2026-03-07,2,36,"29,17",0,App,  Yape ,4,36.5,OK,,Comas,Centro,Paneton,Temporada,29.17,fiorella reyes,LIMA,Frecuente,2025-03-25
-214,2026-03-19,4,51,29.17,15,APP,Efectivo,5,31.82,Promocion,Local 3,Lima,Norte,Paneton,Temporada,29.17,Lucia Vargas,San Miguel,Frecuente,2025-01-02
-215,2026-03-24,6,47,4.73,0,WhatsApp,Yape,3,25.28,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Lucia Gomez,Comas,Premium,2025-01-13
-216,2026/04/01,2,58,4.24,8,Web,Transferencia,1,S/ 20.57,,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Miguel Mendoza,Ventanilla,Premium,2025-10-14
-217,2026-01-20,5,55,29.17,0 aprox,Presencial,Plin,5,43.56,Revisar,Local 3,Lima,Norte,Paneton,Temporada,29.17,DIEGO MENDOZA,Callao,Regular,2025-09-13
-218,2026-03-04,5,57,4.24,20,Web,Efectivo,5,3.95,OK,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
-219,2026-01-24,1,47,4.24,10,presencial,Plin,2,"0,5",,Local 4,Surco,Norte,Empanada,salados,4.24,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
-220,2026-05-03,4,,17.5,20,WhatsApp,,5,17.47,Revisar,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Luis Torres,Ate,Corporativo,20/07/2025
-221,2026-04-23,4,5 aprox,4.24,0,Telefono,Yape,2, 13.03 ,,,Comas,Centro,Empanada,salados,4.24,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
-222,2026-06-07,6,26,6.46,10,WhatsApp,Yape,3,"17,86",,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Jose Gomez,Ate,  Frecuente ,2025-02-09
-223,07-03-2026,2,51,45.67,20,Web,PLIN,3,43.32,Promocion,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Maria Paredes,Lima,  Premium ,2025-06-21
-224,2026-05-01,3,4,0.51,0,App,Transferencia,1,0.5,Promocion,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Maria Paredes,Lima,  Premium ,2025-06-21
-225,2026-01-04,5,42,17.5,0,  Web ,,4,10.94,OK,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Victor Ramos,Ate,Premium,2025/06/07
-226,2026-06-05,6,51,"45,67",0,Telefono,Efectivo,1,55.89,OK,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,,AtE,Frecuente,2025-03-02
-227,2026-01-24,5,22 aprox,3.0,15,App,Tarjeta,2,6.31,OK,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
-228,2026-03-07,2,26,29.17,20,WhatsApp,Efectivo,3,"37,6",Cliente frecuente,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Lucia Vargas,San Miguel,Frecuente,2025-01-02
-229,2026-05-03,1,37,0.37,15 aprox,Presencial,Transferencia,5,0.5,OK,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Sofia Ramos,La Molina,Premium,2025-08-03
-230,2026-02-14,1,13, 0.51 ,20,Presencial,Efectivo,4,0.5,,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Sofia Ramos,La Molina,Premium,2025-08-03
-231,2026-05-08,6,54,0.51,10 aprox,App,Yape,2,0.5,ReViSaR,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
-232,2026-06-20,5,,29.17,8,app,Transferencia,1,138.67,OK,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Rocio Ramos,LIMA,Nuevo,2025-11-14
-233,2026-04-03,4,4,6.46,0,Telefono,Transferencia,5,11.55,OK,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
-234,2026-06-23,8,16,4.24,10,Web,efectivo,5 aprox,5.29,,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Maria Gomez,Comas,Corporativo,2025-05-21
-235,2026-02-06,7,15,4.73,12,  App ,Tarjeta,3,13.89,,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Claudia Flores,Chorrillos,Regular,2025-08-13
-236, 2026-01-07 ,4,19,6.46,12,App,Tarjeta,1,14.02,OK,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Andre Rojas,La Molina,,2025-01-13
-237,2026/01/12,4 aprox,38,45.67,0,WhatsApp,Yape,3,53.41 aprox,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Jose Gomez,La Molina,Corporativo,2025-07-05
-238,2026-04-22,6,48,4.24,0,Web,Plin,5,12.45,Cliente  frecuente,Local 4,Surco,Norte,Empanada,salados,4.24,Rocio Torres,comas,Premium,2025-03-08
-239,2026-04-22,2,49,0.51,8,Web,Efectivo,3,4.33,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Camila Salazar,Miraflores,nuevo,2025-12-22
-240,2026-05-10,1,32,4.73,0,Presencial,Yape, 2 ,10.67 aprox,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
-241,2026-02-09,2,12, 4.24 ,0,WhatsApp,Efectivo,5,10.66,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Marco Paredes,Miraflores,Frecuente,2025-09-01
-242,2026-01-13,7,58,29.17,12,Presencial,Yape, 4 , 30.56 ,Promocion,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,fiorella reyes,LIMA,Frecuente,2025-03-25
-243,2026-06-02,8 aprox,24,S/ 0.51,0,  WhatsApp ,Efectivo,4,18.08,,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,Jorge Vargas,CoMaS,Nuevo,2025-10-04
-244,2026-03-28,7,17,0.51,20,Presencial,Yape,5,0.5,,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,Jose Gomez,Ate,  Frecuente ,2025-02-09
-245,2026-03-21,8,18,17.5,5,WhatsApp,Tarjeta,2,19.77,,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
-246,2026-03-05,7,5,0.51 aprox,0,Presencial,Plin,2,2.2,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Andre Rojas,Ventanilla,Nuevo,2025-08-09
-247,2026-06-19,6, 10 ,4.73,8,Web,TARJETA,5,13.14,,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,,AtE,Frecuente,2025-03-02
-248,2026-06-10,2,47,"0,51",12,App,Yape,4,0.5,OK,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
-249,2026-03-02,3,53,3.0,0,WhatsApp,Efectivo,3,S/ 9.36,,,Comas,Centro,Alfajor,Dulces,3.0,Fiorella Ramos,Surco,Corporativo,2025-01-15
-250,2026-04-15,1,18,0.37,0,Telefono,Yape,3,8.37,Promocion,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Ana Cruz,  Surco ,Regular,2025-10-05
-251,2026-03-09,8,15,29.17,0,Presencial,Transferencia,3,40.5,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
-252,2026-02-13,8,10 aprox, 0.37 ,8,App,Transferencia,4, 3.53 ,Cliente frecuente,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
-253,2026-06-13,1 aprox,57,4.73,,Web,Transferencia,2,2.24,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Camila Flores,Miraflores,frecuente,2025-01-03
-254,25-03-2026,7,24,4.24,10,Presencial,Transferencia,3,11.64,Promocion,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Luis Torres,Ate,Corporativo,20/07/2025
-255, 2026-06-28 ,4,17,3.0,8,Presencial,Transferencia,3,3.83,Revisar,,Comas,Centro,Alfajor,Dulces,3.0,Miguel Huaman,Comas,Corporativo,2025-12-20
-256,2026-05-03,7, 48 ,29.17,0,,Transferencia,5,35.79,,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Diana Sayan,Miraflores,Regular,2025-02-14
-257,2026-01-15,8,14,3.0,15,Presencial,Efectivo,2, 3.06 ,,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
-258,2026-03-01,1,52,"0,37",8,WhatsApp,Transferencia,2,9.55,Revisar,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
-259,2026-02-01,5,51,4.24,0,TELEFONO,Tarjeta,2,18.62,Cliente frecuente,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Andre Rojas,Ventanilla,Nuevo,2025-08-09
-260,2026-04-28,8,23,4.24,10,Telefono,Tarjeta,3,11.3 aprox,CLIENTE FRECUENTE,Local 4,Surco,Norte,Empanada,salados,4.24,Maria Paredes,Lima,  Premium ,2025-06-21
-261,2026/02/15,1,4 aprox,6.46,8,WhatsApp,Efectivo, 1 ,2.95,Revisar,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,DIEGO MENDOZA,Callao,Regular,2025-09-13
-262,2026-03-07,2,36,"29,17",0,App,  Yape ,4,36.5,OK,,Comas,Centro,Paneton,Temporada,29.17,fiorella reyes,LIMA,Frecuente,2025-03-25
-263,2026-02-10,4,42,29.17,12,Web,  Efectivo ,2,28.1,OK,Local 3,Lima,Norte,Paneton,Temporada,29.17,Jorge Vargas,CoMaS,Nuevo,2025-10-04
-264,2026-04-20,6,38,17.5,5,Presencial,Tarjeta,3,24.89,Revisar,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Andre Quispe,Ventanilla,Premium,2025-12-04
-265,2026-05-17,3,49,4.73,20,Telefono,plin,5,8.03,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Diana Vargas,  Miraflores ,Regular,2025-02-03
-266,2026-03-20,3,31,17.5,15,  WhatsApp ,Plin,5,,,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Jose Ramos,Callao,  Frecuente ,2025-10-09
-267,2026-01-14,5,26,0.37,0 aprox,App,TaRjEtA, 1 ,11.32,,Local 6,Independencia,Centro,Pan frances,PaNeS,0.37,Claudia Navarro,Comas,Corporativo,2025-06-01
-268,2026-06-05,3,43,29.17,,Web,Tarjeta,5,35.87,Revisar,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Luis Vargas,Comas,Nuevo,2025-11-11
-269,2026-06-17,3,55,3.0,0,App,Transferencia,2,13.77,Cliente frecuente,,Comas,Centro,Alfajor,Dulces,3.0,Diana Reyes,Villa El Salvador,,21-01-2025
-270,2026-03-20,4,10,17.5,0,Telefono,plin,2, 23.47 ,Cliente frecuente,,Comas,Centro,Queque,PaStElEs,17.5,Raul Cruz,Callao,Regular,2025-12-11
-271,2026-04-21,2,18,17.5,10,WhatsApp,plin,5,20.08,REVISAR,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Rocio  Salazar,  Surco ,Regular,2025-07-21
-272,2026-04-16,2,55,4.73,10,Web,Efectivo,2,13.54,Cliente  frecuente,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
-273,2026-01-25,3,21,3.0,5,WhatsApp,Plin,4,4.75,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Lucia Gomez,Comas,Premium,2025-01-13
-274,2026-04-23,6,51,6.46,0,,Yape,4,5.21,Promocion,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,,Lima,Premium,2025/12/17
-275,2026-02-05,4,25,0.37,8,App,Plin,5,5.46,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Maria Sayan,San Juan de Lurigancho,,2025-07-11
-276, 2026-06-04 ,3,58 aprox,4.24 aprox,0,Web,Efectivo,2,4.29,OK,Local 3,Lima,Norte,Empanada,salados,4.24,Rocio Ramos,LIMA,Nuevo,2025-11-14
-277,2026-01-01,3,50,4.73,15,Web,Yape,2,8.94,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,jose torres,Callao,NuEvO,2025-05-01
-278,2026-06-03,8,14,0.51,10,App,Transferencia,2,15.8,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Elena Reyes,Villa El Salvador,Corporativo,2025-10-21
-279,2026-04-21,4,28,S/ 29.17,0,Presencial,Transferencia,2,32.73,Promocion,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Carlos Rojas,la molina,Regular,2025-08-05
-280,2026-03-10,8,33,17.5,20,Web,Transferencia,2,28.47,Cliente frecuente,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Camila Flores,Miraflores,frecuente,2025-01-03
-281,2026-03-04, 5 ,22,0.37,5,WhatsApp,Yape,1,12.02,OK,,Comas,Centro,Pan frances,PaNeS,0.37,DIEGO MENDOZA,Callao,Regular,2025-09-13
-282,2026-05-20, 8 , 14 ,3.0,10,Telefono,Efectivo,4 aprox,13.56,,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Jose Ramos,Callao,  Frecuente ,2025-10-09
-283,2026-01-23,6,53,6.46,5,WhatsApp,Tarjeta,1,18.71,Cliente frecuente,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Diana Vargas,  Miraflores ,Regular,2025-02-03
-284,2026-02-15,8,42,17.5,0,TELEFONO,Transferencia,2,33.72,Revisar,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Camila Soto,Miraflores,Premium,2025-09-04
-285,10/05/2026,2,6,3.0,15,telefono,Plin,1,2.87,  Promocion ,Local 4,Surco,Norte,Alfajor,Dulces,3.0,,Lima,Premium,2025/12/17
-286,2026-01-01,2,52,29.17,0,,Tarjeta,3,28.32,,,San Juan de Lurigancho,Centro,Paneton,Temporada,29.17,DIEGO MENDOZA,Callao,Regular,2025-09-13
-287,08/02/2026,8,40,29.17,12,App,  Efectivo ,5,33.2,OK,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,,Lima,Premium,2025/12/17
-288,2026/04/01,1,16,6.46 aprox,0,Web,Efectivo,4,19.53,Revisar,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Luis Rojas,Comas,Regular,2025-07-15
-289,2026-05-22,7,10, 3.0 ,0,WhatsApp,Plin,5,,Cliente frecuente,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Raul Cruz,Callao,Regular,2025-12-11
-290,2026-03-26,8,44,3.0,20,WhatsApp,Plin,2,5.46,OK,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,ana vargas,Independencia,Corporativo,2025-04-28
-291,2026-03-25,5,41,45.67 aprox,0,App,Plin,5,55.37,Revisar,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,Marco Paredes,Miraflores,Frecuente,2025-09-01
-292, 2026-05-11 ,5,22,17.5,8,Web,yape,4,24.01,ok,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Elena Paredes,Comas,Frecuente,2025-01-26
-293,2026-06-17,5,38,29.17,15,presencial,Tarjeta,3,22.45,Promocion,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Sofia Flores,Chorrillos,Regular,2025-11-21
-294,2026/02/05,2,44,"17,5",15,Telefono,Yape,2,5.71,Revisar,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
-295,2026-05-06,7,6,4.24,0,Web,Efectivo,4,16.89,Cliente frecuente,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Ana Sayan,Surco,Corporativo,2025-04-09
-296,2026-03-15,6,28 aprox,29.17,20,  App ,  Plin ,4,34.43,Promocion,Local 1,Callao,Centro,Paneton,Temporada,29.17,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
-297,22-01-2026,1,1,3.0,10,ApP,Yape,5,3.96,Revisar,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Elena Paredes,Comas,Frecuente,2025-01-26
-298,2026-06-27,5,15,4.24, 5 ,WhatsApp,Efectivo,5, 9.98 ,Promocion,,Comas,Centro,Empanada,salados,4.24,fiorella reyes,LIMA,Frecuente,2025-03-25
-299,2026-04-22,8, 12 ,29.17,0,App,Tarjeta,5,42.3,,Local 1,Callao,Centro,Paneton,Temporada,29.17,DIEGO MENDOZA,Callao,Regular,2025-09-13
-300,2026-03-09,2,60,17.5,5,Presencial,Transferencia,1,13.23,,Local 4,Surco,Norte,Queque,PaStElEs,17.5,Sofia Ramos,La Molina,Premium,2025-08-03
-301,2026-06-20,7,55,17.5,5,Telefono,Efectivo,4 aprox,26.28,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
-302,2026-05-06,6,20,3.0,10,app,Yape,2,8.17,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Jose Gomez,Ate,  Frecuente ,2025-02-09
-303, 2026-02-15 ,7, 31 ,6.46,0,Presencial,Yape,2,20.63,Revisar,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,fiorella reyes,LIMA,Frecuente,2025-03-25
-304,2026-04-22,7,16,6.46,8,App,Tarjeta,,,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Fiorella Ramos,Surco,Corporativo,2025-01-15
-305,2026-03-06,6,48,29.17,15,App,Plin,1,40.24,revisar,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Maria Gomez,Comas,Corporativo,2025-05-21
-306,2026/06/18,8,10,0.37,8,Presencial,Yape,5,12.81,OK,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
-307,,3,38,0.37,15,Web,Transferencia,4,1.48,,Local 3,Lima,Norte,Pan frances,PaNeS,0.37,Claudia Gomez,Miraflores,Regular,2025/08/25
-308,2026-02-19,2,58,17.5,12 aprox,App,Yape,3,20.45,,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Claudia Gomez,Miraflores,Regular,2025/08/25
-309,2026-06-25,5,33,3.0,12,Presencial,Transferencia,4,4.91,OK,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
-310,2026-01-03,2,60,4.73,0,,Yape,2,13.49,OK,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Camila Ramos,Independencia,Corporativo,2025-10-11
-311,2026-05-18,3,14,3.0,0,App,Yape,1,7.44,Cliente frecuente,,Comas,Centro,Alfajor,Dulces,3.0,Diana Reyes,Villa El Salvador,,21-01-2025
-312,2026-06-28,1,14,0.51,12,Web,Efectivo,5,"1,21",,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Jose Campos,lima,Regular,09-12-2025
-313,2026-02-24,3,48,3.0,8,Web,Tarjeta,2,6.19,Cliente frecuente,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
-314,2026/04/05,3,35,17.5,12,App,Tarjeta, 5 , 16.03 ,ClIeNtE FrEcUeNtE,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Elena Paredes,Comas,Frecuente,2025-01-26
-315,2026-02-09,3,39,0.37,5,WhatsApp,Transferencia,1,6.17,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Jorge Mendoza,Callao,Premium,2025-06-26
-316,2026-01-09,6,32,6.46,0,WHATSAPP,Efectivo,2,24.49,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
-317,2026-05-24,5,33,45.67,12,Web,Efectivo,2,45.1,Promocion,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Claudia Gomez,Miraflores,Regular,2025/08/25
-318,2026-03-02,3,15,0.51,5,Presencial,Tarjeta,5,0.5,Cliente frecuente,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Maria Paredes,Lima,  Premium ,2025-06-21
-319,2026-05-03,5,8,45.67,0,Web,Transferencia,1,48.68,,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,Sofia Salazar,Lima,NuEvO,2025-03-18
-320,2026-06-05,8,23,29.17 aprox,8,Presencial,efectivo,2,28.65,OK,,Comas,Centro,Paneton,Temporada,29.17,Lucia Vargas,San Miguel,Frecuente,2025-01-02
-321,2026/02/09,4,40,17.5,8,Web,Transferencia,5,26.51,,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Jose Ramos,Callao,  Frecuente ,2025-10-09
-322,2026-03-05,5,7,6.46 aprox,20,TELEFONO,Efectivo,1,15.86,OK,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
-323,2026-02-01,6,2,0.37,5,Presencial,Transferencia,4,6.75,  Revisar ,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
-324,2026-04-13,4,11,45.67,0,App,Plin,4,49.68,Cliente frecuente,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,Jose Ramos,Callao,  Frecuente ,2025-10-09
-325,2026-01-11,4,24,3.0,0,App,PlIn,1,"5,1",Cliente frecuente,,Comas,Centro,Alfajor,Dulces,3.0,Raul Cruz,Callao,Regular,2025-12-11
-326,2026-04-23,5, 36 ,29.17,20,  Telefono ,Tarjeta,2,32.85,,,Comas,Centro,Paneton,Temporada,29.17,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
-327, 2026-04-17 ,2,47,4.73,15,App,  Yape ,2,8.79,Revisar,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Elena Paredes,Comas,Frecuente,2025-01-26
-328, 2026-04-10 ,8,38,4.24,12,App,  Tarjeta ,2,17.17 aprox,Cliente frecuente,Local 1,Callao,Centro,Empanada,salados,4.24,Diana Vargas,  Miraflores ,Regular,2025-02-03
-329,2026-05-19,2,26,3.0,5,App,Transferencia,2,9.12,Promocion,,Comas,Centro,Alfajor,Dulces,3.0,Maria Gomez,Comas,Corporativo,2025-05-21
-330,2026-04-28,6,42,4.24,0 aprox,Presencial,Tarjeta,2,12.97,OK,Local 6,Independencia,Centro,Empanada,salados,4.24,DIEGO MENDOZA,Callao,Regular,2025-09-13
-331,2026-03-02,1,2,4.24, 15 ,Presencial,Yape,3,1.21,,Local 4,Surco,Norte,Empanada,salados,4.24,DIANA CAMPOS,Comas,Nuevo,2025-01-04
-332,2026-06-01, 8 ,44,6.46 aprox,0,WhatsApp,EfEcTiVo,2,21.13,,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,Diana Reyes,Villa El Salvador,,21-01-2025
-333,2026-03-10,1,37,0.37,8,Web,Yape,4,0.84,Cliente frecuente,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Andre Soto,Callao,FrEcUeNtE,2025-12-09
-334,2026-01-25,8,13,3.0 aprox,12,Web,Tarjeta,4,15.8,Revisar,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Ana Torres,Ventanilla,Premium,2025-06-13
-335,2026-04-26,4,51,29.17,0,Web,Tarjeta,2,32.32,Promocion,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
-336,2026-05-24,3,6,4.73,20,Telefono,Tarjeta,1,0.86,Revisar,  Local 2 ,San Juan de Lurigancho,Este,CaFe pAsAdO,Bebidas,4.73,Victor Ramos,Ate,Premium,2025/06/07
-337,2026-03-02,2 aprox,53,45.67,12,Web,,2,47.57,,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,,Miraflores,corporativo,2025-07-16
-338,2026-03-10,8,42,6.46,5,Web,Yape,3,,Promocion,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Jorge Vargas,CoMaS,Nuevo,2025-10-04
-339,2026-02-03,2, 20 ,4.24,8,WhatsApp,Efectivo,2,13.23,Revisar,Local 3,Lima,Norte,Empanada,salados,4.24,Maria Sayan,San Juan de Lurigancho,,2025-07-11
-340,2026-05-05,8 aprox,13 aprox,4.73,8,WhatsApp,Efectivo,3,6.7,Cliente frecuente,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
-341,2026-03-14,8,26,0.51,0 aprox,App,Tarjeta,3,8.33,,,Comas,Centro,Pan integral,  Panes ,0.51,,Lima,Premium,2025/12/17
-342,2026-04-06,,17,4.73,10,Web,TRANSFERENCIA,2,13.92,Cliente frecuente,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
-343, 2026-02-28 ,4,109.14,45.67,20,Telefono,Yape,5,48.07,,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Rocio  Salazar,  Surco ,Regular,2025-07-21
-344,2026-05-19,7,48 aprox,S/ 45.67,15,ApP,Plin,2,61.19,OK,Local 1,Callao,Centro,Torta chocolate,Pasteles,45.67,Diana Sayan,Miraflores,Regular,2025-02-14
-345,2026/05/13, 8 ,13, 4.73 ,12,Presencial,EFECTIVO,2,16.17,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
-346,2026-05-10,7,47,6.46,10,Presencial,Plin,3,"14,75",,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Raul Cruz,Callao,Regular,2025-12-11
-347,2026-05-05,8,48,3.0,15,Telefono,Yape,3,6.78,OK,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Diana Vargas,  Miraflores ,Regular,2025-02-03
-348,2026-01-27,1,52,6.46,20,Web,Plin,5,S/ 0.5,OK,,Comas,Centro,Jugo natural,Bebidas,6.46,Luis Vargas,Comas,Nuevo,2025-11-11
-349,2026-06-03,3,4,45.67,20,whatsapp,Yape,3,39.33,,,Comas,Centro,Torta chocolate,Pasteles,45.67,Diana Campos,Ate,Regular,2025-05-27
-350,2026-03-06,2, 31 ,29.17,0,Presencial,Plin,2,35.78,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Diego Quispe,San  Miguel,Nuevo,2025-07-08
-351,2026-02-10,8, 26 ,S/ 17.5,10,TeLeFoNo,YAPE,2,23.39,,Local 4,Surco,Norte,Queque,PaStElEs,17.5,,Lima,Premium,2025/12/17
-352,2026-05-18,6,18,45.67,8 aprox,Presencial,Yape,1 aprox,57.57,Cliente frecuente,Local 1,Callao,Centro,Torta chocolate,Pasteles,45.67,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
-353,2026-02-08,5,54,6.46,12,Web,Efectivo,5,16.27,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Elena Reyes,Villa El Salvador,Corporativo,2025-10-21
-354,2026-03-28,6,60,0.51,8,Presencial,Transferencia,1,"17,11",,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Victor Ramos,Ate,Premium,2025/06/07
-355,2026-06-15,4,28,4.24,0,Web,Tarjeta,1,"6,61",PrOmOcIoN,Local 3,Lima,Norte,Empanada,salados,4.24,Diego Quispe,San  Miguel,Nuevo,2025-07-08
-356,2026/02/17,4,52,17.5,10,App,Plin,1,21.01,Revisar,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
-357,2026-05-09,3,19,17.5,10,Presencial,Plin,5,19.01,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
-358,2026-02-12,1,20 aprox,45.67,0,presencial,TRANSFERENCIA,1,42.24,OK,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Fiorella Ramos,Surco,Corporativo,2025-01-15
-359,2026-06-13,4,27,,,WEB,Efectivo,5,6.98,,,Comas,Centro,Pan integral,  Panes ,0.51,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
-360,2026-05-12,7,12,17.5,0 aprox,Presencial,plin,5,22.95,OK,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Jorge Vargas,CoMaS,Nuevo,2025-10-04
-361,2026-05-13,4,9,0.51,8,Presencial,Tarjeta,5,0.5,Cliente frecuente,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,Fiorella Huaman,Lima,Nuevo,2025-05-08
-362,2026-05-06,4,56 aprox,29.17,0,  Web ,Transferencia,4,34.25,Promocion,Local 1,Callao,Centro,Paneton,Temporada,29.17,Jose Campos,lima,Regular,09-12-2025
-363,2026-06-03,4,1,4.73,0,Web,EfEcTiVo,2, 13.93 ,Cliente frecuente,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,jose torres,Callao,NuEvO,2025-05-01
-364,2026-04-17,8,29 aprox,4.73,12,WhatsApp,Plin,3,16.91,,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
-365,2026-05-21, 4 ,23,29.17,20,App,Tarjeta,4,29.35,,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Ana Paredes,LiMa,Corporativo,2025-07-25
-366,2026-01-21,6,53,0.51,20 aprox,Web,Tarjeta,5,S/ 5.44,,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Lucia Reyes,Comas,Premium,2025-05-08
-367,2026-06-12,7,13,4.73,8,Presencial,Tarjeta,,36.39,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Rocio Gomez,Independencia,  Corporativo ,2025-04-02
-368,2026-01-12,,42,17.5,0,Web,Tarjeta,2,29.39,,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
-369,2026/02/16,4,,0.37,5,App,Efectivo,3,6.33,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Carlos Rojas,la molina,Regular,2025-08-05
-370,2026-03-05,4,28,45.67,12,Telefono,Efectivo,3,44.59,Cliente frecuente,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Luis Torres,Ate,Corporativo,20/07/2025
-371,2026-05-25,2,48,4.73,20,Web,Plin,4,0.5,Cliente frecuente,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Victor Ramos,Ate,Premium,2025/06/07
-372,24/06/2026,5,17,S/ 4.24,12,Telefono,Plin,1,S/ 0.5,PrOmOcIoN,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Jorge Vargas,CoMaS,Nuevo,2025-10-04
-373,2026-01-02,2,3,4.73,0,App,Transferencia,2,"11,2",Promocion,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Fiorella Vargas,La Molina,Premium,2025-11-15
-374,2026-05-05,,16,"17,5",5,Web,Yape,5,23.87,,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Camila Soto,Miraflores,Premium,2025-09-04
-375,2026/04/25,1,209.16,3.0,12,WhatsApp,yape,1,16.07,ReViSaR,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Carlos Rojas,la molina,Regular,2025-08-05
-376,2026-04-22,7,42,45.67,8,App,Yape,3,52.99,Promocion,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Rocio  Salazar,  Surco ,Regular,2025-07-21
-377,2026-06-14,4,37,4.24,0,Telefono,Efectivo,3,9.55,Cliente frecuente,Local 6,Independencia,Centro,Empanada,salados,4.24,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
-378,,1,49, 17.5 ,8,,Tarjeta,3,3.41,,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
-379,2026-04-08,6,,6.46,5,Telefono,Transferencia,1,9.86,Revisar,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Camila Soto,Miraflores,Premium,2025-09-04
-380,2026-02-11,2,25,0.51 aprox,12,TeLeFoNo,Tarjeta,2,3.83,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,,callao,Nuevo,2025-09-09
-381,2026-04-09,6,28,,10,Telefono,Efectivo,3,31.52,Revisar,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Raul Campos,COMAS,Nuevo,2025-05-16
-382,11/06/2026,2,12,6.46,20,WhatsApp,Tarjeta,5,4.83,,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,Maria Sayan,San Juan de Lurigancho,,2025-07-11
-383,18/03/2026,1,48,29.17,0,Presencial,Efectivo,1,26.99,,Local 3,Lima,Norte,Paneton,Temporada,29.17,Diana Torres,Surco,Nuevo,2025-03-23
-384,2026-01-22,5,55,6.46,0,Presencial,Efectivo,1,24.59,,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
-385,2026-03-09,5,15,0.37,0,App,Tarjeta,2,9.6,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,Jorge Mendoza,Callao,Premium,2025-06-26
-386,2026/01/16,8,46,0.51,15,,TrAnSfErEnCiA,5,3.46,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,fiorella reyes,LIMA,Frecuente,2025-03-25
-387,2026-06-27,5,15,4.24, 5 ,WhatsApp,Efectivo,5, 9.98 ,Promocion,,Comas,Centro,Empanada,salados,4.24,fiorella reyes,LIMA,Frecuente,2025-03-25
-388,2026-06-24,3, 15 ,0.37,0,Web,Yape,2,13.16,,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
-389,2026-05-18,6,34,29.17,12,Telefono,Plin,3,22.31,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Victor Ramos,Ate,Premium,2025/06/07
-390,21/05/2026,7,30 aprox,6.46,8,WeB,Yape,2,16.65,,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,DiAnA ToRrEs,Comas,frecuente,2025-02-03
-391,2026-02-03,3,2,0.37,12,Presencial,Transferencia,5,2.69,Promocion,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Sofia Flores,Chorrillos,Regular,2025-11-21
-392,2026-06-20,8,57,29.17,10,Presencial,Plin,2,35.61,,Local 6,Independencia,Centro,Paneton,Temporada,29.17,DIANA CAMPOS,Comas,Nuevo,2025-01-04
-393,2026-02-19,1,51,0.51 aprox,0,Web,PlIn,2,13.47,Revisar,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Rocio  Salazar,  Surco ,Regular,2025-07-21
-394,2026-02-18,7,34,6.46,20 aprox,WhatsApp,Yape,3,12.38,Promocion,,Comas,Centro,Jugo natural,Bebidas,6.46,Sofia Ramos,La Molina,Premium,2025-08-03
-395,23-02-2026,7,13,0.51,12,Web,PlIn,3,,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Victor Ramos,Ate,Premium,2025/06/07
-396,2026-02-07,6,4,"45,67",,Presencial,  Yape ,5,47.62,,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Claudia Flores,Chorrillos,Regular,2025-08-13
-397,2026-01-11,5,41,3.0,0,Presencial,Yape,4,19.31,,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Ana Torres,Ventanilla,Premium,2025-06-13
-398,2026-01-27,3 aprox,43,6.46,15,Telefono,Plin,2,7.36,Promocion,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Lucia Vargas,San Miguel,Frecuente,2025-01-02
-399,2026-04-17,5 aprox,30,3.0,8,Telefono,PLIN, 5 ,9.38,OK,,Comas,Centro,Alfajor,Dulces,3.0,Ana Sayan,Surco,Corporativo,2025-04-09
-400,2026-02-19,1,57,17.5,0,WhatsApp,Yape,5,25.75,Ok,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Andre Quispe,Ventanilla,Premium,2025-12-04
-401,2026-03-13,6, 26 ,3.0, 10 ,Web,Efectivo,2,"13,62",OK,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,Maria Gomez,Comas,Corporativo,2025-05-21
-402,2026-06-04,6,27,4.73,0,App,  Yape ,4,15.77,OK,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Diana Campos,Ate,Regular,2025-05-27
-403,2026-03-06,4,3,45.67,0,WhatsApp,Efectivo,4,60.63,Promocion,,Comas,Centro,Torta chocolate,Pasteles,45.67,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
-404,2026-03-26,7,13,29.17,5,App,Tarjeta,4,32.44,OK,,Comas,Centro,Paneton,Temporada,29.17,,AtE,Frecuente,2025-03-02
-405,2026-03-16,2,9,4.24,20,WhatsApp,Transferencia,4,0.5,promocion,Local 4,Surco,Norte,Empanada,salados,4.24,Jose Campos,lima,Regular,09-12-2025
-406,2026-05-25,4,6,6.46,12,App,Transferencia,4,6.81,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,jose torres,Callao,NuEvO,2025-05-01
-407,2026/01/12,1,43,17.5,10 aprox,,Tarjeta,3,18.22,Revisar,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
-408,2026-05-26,7,4,29.17,15,Web,Tarjeta,4,31.74,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Rocio  Salazar,  Surco ,Regular,2025-07-21
-409,2026/03/10,7,37,4.24,12,App,YAPE,2,15.83,,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Luis Rojas,Comas,Regular,2025-07-15
-410,2026-06-10,7,55,3.0,20,WhatsApp,Transferencia,4,16.31,,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,Rocio  Salazar,  Surco ,Regular,2025-07-21
-411,2026-01-06,6,58,17.5,0,Web,Efectivo,2,19.59,Promocion,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Elena Reyes,Villa El Salvador,Corporativo,2025-10-21
-412,2026-04-15,6,30,3.0,10,Telefono,Efectivo,1, 18.94 ,Promocion,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Ana Torres,Ventanilla,Premium,2025-06-13
-413, 2026-06-28 ,4,12,4.73,5,Presencial,Tarjeta,4,12.59,OK,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Rocio Torres,comas,Premium,2025-03-08
-414,2026-04-14,7,20,17.5,15,Telefono,Tarjeta,2,18.76,Cliente frecuente,,Comas,Centro,Queque,PaStElEs,17.5,Miguel Mendoza,Ventanilla,Premium,2025-10-14
-415,2026-06-26, 4 ,11,4.73,10,Presencial,Plin,4,14.24,  Revisar ,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Lucia Vargas,San Miguel,Frecuente,2025-01-02
-416,2026-05-01,4,49,17.5,15,WhatsApp,Efectivo,4,20.76,Revisar,,Comas,Centro,Queque,PaStElEs,17.5,Andre Soto,Callao,FrEcUeNtE,2025-12-09
-417,2026-01-07,6,14,"3,0",15,Telefono,Tarjeta,2,5.36,OK,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Lucia Reyes,Comas,Premium,2025-05-08
-418,2026-01-12,, 11 ,17.5,20,App,Tarjeta,4,20.34,Promocion,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Maria Gomez,Comas,Corporativo,2025-05-21
-419,2026-06-20,8,12,29.17,8,Telefono,Tarjeta,4,35.75 aprox,OK,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,fiorella reyes,LIMA,Frecuente,2025-03-25
-420,2026-01-04,3,35,0.51,10,  Web ,Transferencia,4,11.97,,,Comas,Centro,Pan integral,  Panes ,0.51,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
-421,2026-02-27,7,18,4.73,15,Web,Plin,3,5.14,OK,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Camila Ramos,Independencia,Corporativo,2025-10-11
-422,2026-06-03,7,3,4.24,10,Telefono,PLIN,5,4.54,,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Lucia Reyes,Comas,Premium,2025-05-08
-423,19-02-2026,1,36 aprox,4.73,0 aprox,Presencial,Tarjeta,5,17.26,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,,Lima,Premium,2025/12/17
-424,2026-01-01,8,58,0.37,10,,Efectivo,4,12.33,Revisar,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
-425, 2026-01-15 ,2,46,S/ 0.37,10,App,Efectivo,2,6.34,Promocion,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Jose Ramos,Callao,  Frecuente ,2025-10-09
-426,2026-06-14,3,49,3.0,10,WhatsApp,Transferencia,1,"3,86",,,Comas,Centro,Alfajor,Dulces,3.0,Jorge Vargas,CoMaS,Nuevo,2025-10-04
-427,2026-05-11,7,43,29.17,5,Web,Yape,4,48.54,OK,Local 1,Callao,Centro,Paneton,Temporada,29.17,Camila Soto,Miraflores,Premium,2025-09-04
-428,2026-03-28,3,46,4.73,8,App,Transferencia,3,6.05,Revisar,Local 6,Independencia,Centro,CaFe pAsAdO,Bebidas,4.73,Jorge Mendoza,Callao,Premium,2025-06-26
-429,2026-01-26,8,39,45.67,8,WhatsApp,Plin,3,50.0,Cliente frecuente,,Comas,Centro,Torta chocolate,Pasteles,45.67,Diana Vargas,  Miraflores ,Regular,2025-02-03
-430,2026-05-12,7,44,S/ 29.17,0,Telefono,Efectivo,,31.69,Revisar,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Lucia Vargas,San Miguel,Frecuente,2025-01-02
-431,2026-01-13,3,33,4.24,10,Web,,5,8.13,Cliente frecuente,Local 3,Lima,Norte,Empanada,salados,4.24,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
-432,2026-05-04,1,11,4.73,5,Web,,2,0.59,Revisar,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Raul Campos,COMAS,Nuevo,2025-05-16
-433,2026-03-26,4,33,"4,24",0,App,Tarjeta,1,16.75,,Local 3,Lima,Norte,Empanada,salados,4.24,Andre Rojas,Ventanilla,Nuevo,2025-08-09
-434,2026-04-27,3,31,0.51,0,Telefono,Tarjeta,2,8.76,Cliente  frecuente,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,Sofia Salazar,Lima,NuEvO,2025-03-18
-435,2026-01-11,4,26,3.0,0,APP,Yape,1,6.59,,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Jose Ramos,Callao,  Frecuente ,2025-10-09
-436,2026-02-26,6,22,4.73,20,WhatsApp,Transferencia,4,6.19,OK,Local 6,Independencia,Centro,CaFe pAsAdO,Bebidas,4.73,Diana Torres,Surco,Nuevo,2025-03-23
-437,2026-04-08,6,1,45.67,0,Web,Transferencia,3,51.08,Revisar,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Andre Soto,Callao,FrEcUeNtE,2025-12-09
-438,2026-01-15,7,10,3.0, 20 ,App,Plin,1,15.67,Revisar,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
-439,02-05-2026,8,58,4.73,20,Web,Yape,4,8.95,OK,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,DIANA CAMPOS,Comas,Nuevo,2025-01-04
-440,,5,15,"3,0",0 aprox,WhatsApp,Yape,2,17.34,Cliente frecuente,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Sofia Salazar,Lima,NuEvO,2025-03-18
-441,2026-04-22,4,12,0.51,0,Telefono,,2,3.82,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Lucia Vargas,San Miguel,Frecuente,2025-01-02
-442,2026-05-27,5,22,17.5,0,Web,Tarjeta,3,28.36,,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Raul Cruz,Callao,Regular,2025-12-11
-443,2026-03-26,4,35,4.73,8,APP,Tarjeta,,9.81,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
-444,2026-04-22,2,36,0.37,0,WhatsApp,Transferencia,5,5.88,,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,Diana Vargas,  Miraflores ,Regular,2025-02-03
-445,2026-03-01,4,9,0.51,0 aprox,Presencial,Transferencia,5,7.93,PROMOCION,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Marco Paredes,Miraflores,Frecuente,2025-09-01
-446,2026-02-08,, 26 ,17.5,20,Telefono,YaPe,2,20.39,,,Comas,Centro,Queque,PaStElEs,17.5,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
-447,2026-04-28,1,32,45.67,10,App,Efectivo,5,38.55,,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Miguel Mendoza,Ventanilla,Premium,2025-10-14
-448,2026-04-15,6,6,0.51,0,whatsapp,Tarjeta,2,6.5,OK,,Comas,Centro,Pan integral,  Panes ,0.51,Rocio Gomez,Independencia,  Corporativo ,2025-04-02
-449,2026-02-02,3,31,6.46,8,WEB,Yape,2,9.16,Promocion,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
-450, 2026-01-16 ,3,43,6.46,5,WhAtSaPp,Transferencia,3,2.39,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Lucia Gomez,Comas,Premium,2025-01-13
-451,2026-03-10,5,39,17.5,15,Presencial,Efectivo,1,27.8,OK,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
-452,20-05-2026,6, 55 ,4.24,0,WhatsApp,YAPE,4,9.4,Promocion,,Comas,Centro,Empanada,salados,4.24,,Lima,Premium,2025/12/17
-453,15/06/2026,3,27,29.17,0,Telefono,Transferencia,3,32.72,,,Comas,Centro,Paneton,Temporada,29.17,Jose Campos,lima,Regular,09-12-2025
-454, 2026-05-25 ,3,46,0.51,15,Presencial,Efectivo,1,4.12,Cliente frecuente,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
-455,2026/01/22,7,2,6.46,0,Telefono,Transferencia,4,,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Maria Gomez,Comas,Corporativo,2025-05-21
-456,2026-01-25,3,21,3.0,5,WhatsApp,Plin,4,4.75,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Lucia Gomez,Comas,Premium,2025-01-13
-457, 2026-06-20 ,,60,17.5,0,Web,Transferencia,3,27.37,Promocion,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Ana Cruz,  Surco ,Regular,2025-10-05
-458,2026-02-10,1,19, 29.17 ,0,App,Tarjeta,4,29.93,Cliente frecuente,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
-459,2026-03-22,2,5 aprox,4.73,5,WhatsApp,Transferencia,2,3.78,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Andre Rojas,La Molina,,2025-01-13
-460,2026-01-14,2,40,29.17,0,  WhatsApp ,Yape,4,30.59,OK,,Comas,Centro,Paneton,Temporada,29.17,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
-461,2026/05/04,5,48, 0.37 ,0,Telefono,plin,3,8.99,Revisar,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Luis Torres,Ate,Corporativo,20/07/2025
-462,2026-03-19,3,13,0.51,10,Telefono,Efectivo,2,1.14,,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Pedro Torres,Independencia,Regular,2025-04-07
-463,2026-01-18,4,16,3.0,0,Presencial,Efectivo,4,9.71,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
-464,2026-05-09,7,47,0.51,12,PrEsEnCiAl,Tarjeta,5, 11.17 ,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Lucia Reyes,Comas,Premium,2025-05-08
-465,2026-04-16,8,16,0.51 aprox,5,WhatsApp,plin,4,3.95,Cliente frecuente,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,Jorge Vargas,CoMaS,Nuevo,2025-10-04
-466,2026-04-04,3,51,6.46,8,WhatsApp,TARJETA,4,S/ 10.3,Revisar,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
-467,2026-01-17, 8 ,2,17.5,20,WhatsApp,Plin,4,17.77,,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Marco Reyes,Independencia,Regular,2025-12-15
-468,2026-01-04,1,11,3.0,15,WhatsApp,Plin,1,10.94,Cliente frecuente,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
-469,2026-06-16,8,22,45.67,0,Presencial,Transferencia,1,59.57,,,Comas,Centro,Torta chocolate,Pasteles,45.67,Jorge Rojas,Surco,regular,2025-02-05
-470,2026-05-06,8,9,6.46,10,App,Plin,5,6.35,PROMOCION,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
-471,2026-06-23,3,12,0.51,20,Telefono,Yape, 2 ,9.46,,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Maria Gomez,Comas,Corporativo,2025-05-21
-472,2026-01-16,5,56,0.37,20,,Efectivo,5,0.5,Revisar,Local 6,Independencia,Centro,Pan frances,PaNeS,0.37,Elena Paredes,Comas,Frecuente,2025-01-26
-473,2026-04-08,3,33,0.37,10,whatsapp,Plin,4,0.5,,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Lucia Reyes,Comas,regular, 2025-11-27 
-474, 2026-04-04 ,7,31,4.73 aprox,15,WhatsApp,EfEcTiVo,5,6.79,Promocion,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Andre Rojas,La Molina,,2025-01-13
-475,2026-04-07,1,184.88,3.0,20,WhatsApp,,5,13.12,Revisar,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Camila Soto,Miraflores,Premium,2025-09-04
-476,2026/01/17,5,58,,15,Presencial,Efectivo,2,6.72,OK,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Camila Salazar,Miraflores,nuevo,2025-12-22
-477,2026-06-15,7,56,4.73,8,,Yape,3,18.94,OK,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Marco Paredes,Miraflores,Frecuente,2025-09-01
-478,2026-02-08,8,58,4.24,8,Presencial,Plin,5,21.64,Cliente frecuente,Local 6,Independencia,Centro,Empanada,salados,4.24,jose torres,Callao,NuEvO,2025-05-01
-479,2026-02-19,8,32,"3,0",15,Web,Efectivo,2,8.55,,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Camila Salazar,Miraflores,nuevo,2025-12-22
-480,2026-01-27,1,42,4.73,0,Telefono,Transferencia,2,6.65,OK,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Luis Torres,Ate,Corporativo,20/07/2025
-481,2026-01-12, 3 ,16,17.5,0,  Telefono ,Tarjeta,4,16.36,OK,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
-482,2026-03-20,4,56,0.51,10,,Transferencia,2,1.02,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Andre Soto,Callao,FrEcUeNtE,2025-12-09
-483,2026-05-10,2,51,45.67,12,Telefono,Tarjeta,1,44.11,,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
-484,2026-04-04,1,13,0.51,0,Presencial,Plin,5,8.49,OK,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Ana Paredes,LiMa,Corporativo,2025-07-25
-485, 2026-06-11 ,5,12,0.51,15,  Telefono ,Efectivo,1,0.5,Revisar,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Maria Sayan,San Juan de Lurigancho,,2025-07-11
-486,,6,11,17.5,20,WhatsApp,PLIN,5,"17,99",Promocion,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Diana Campos,Ate,Regular,2025-05-27
-487,2026-03-02,1,13,4.73,0,App,Plin,2,,Revisar,  Local 2 ,San Juan de Lurigancho,Este,CaFe pAsAdO,Bebidas,4.73,Sofia Flores,Chorrillos,Regular,2025-11-21
-488,2026-01-18,2,57,29.17,15,App,Efectivo,5,29.2,,Local 1,Callao,Centro,Paneton,Temporada,29.17,Diana Campos,INDEPENDENCIA,FRECUENTE,2025-10-07
-489,2026-04-07,7,18,,15,WhatsApp,Efectivo,4,"27,29",Revisar,,Comas,Centro,Queque,PaStElEs,17.5,DiAnA ToRrEs,Comas,frecuente,2025-02-03
-490,2026-04-25,4,26,29.17,0,Presencial,Plin,4,27.15,Promocion,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Elena Flores,Callao,Regular,2025/04/23
-491,2026-06-17,5,28,0.51,15,App,Tarjeta,2,2.64,  Revisar ,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,,callao,Nuevo,2025-09-09
-492,2026-03-13,6, 26 ,3.0, 10 ,Web,Efectivo,2,"13,62",OK,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,Maria Gomez,Comas,Corporativo,2025-05-21
-493,2026-06-25,7,43,S/ 0.51,0,WhatsApp,Plin, 1 ,10.14,Revisar,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Jorge Mendoza,Callao,Premium,2025-06-26
-494,2026-05-13,6,28,17.5,20,WhatsApp,Yape,2,18.71,,Local 4,Surco,Norte,Queque,PaStElEs,17.5,Ana Cruz,  Surco ,Regular,2025-10-05
-495,2026-05-06,8,9,6.46,10,App,Plin,5,6.35,PROMOCION,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
-496,2026-03-05,4,51,0.37,0,App,Plin, 4 ,6.26,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,DIANA CAMPOS,Comas,Nuevo,2025-01-04
-497,2026-06-26,5,59,4.73,5,Telefono,Yape,1,14.1,OK,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,,Miraflores,corporativo,2025-07-16
-498,2026-02-23,7,29.67,"0,37",5,Telefono,TRANSFERENCIA,,10.85,,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Sofia Ramos,La Molina,Premium,2025-08-03
-499,2026-03-12,7,3,4.24,0 aprox,WhatsApp,Plin,5 aprox,0.5,,,Comas,Centro,Empanada,salados,4.24,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
-500,2026-05-27,3,40,0.51,0,WhatsApp,,2,9.37,Promocion,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Claudia Flores,Chorrillos,Regular,2025-08-13
+1, 2026-03-05 , 7 ,53,29.17,15,Telefono,Plin,3,1546.01,Promocion,Local 1,Callao,Centro,Paneton,Temporada,29.17,Rocio Torres,comas,Premium,2025-03-08
+2,2026-04-13,4,35,4.73,8,,  Plin ,3,165.55,Promocion,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Sofia Flores,Chorrillos,Regular,2025-11-21
+3,2026-05-24,6,19,45.67,0,,Transferencia,5,867.73,OK,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Sofia Flores,Chorrillos,Regular,2025-11-21
+4,2026-05-19,8,5,6.46, 0 ,WhatsApp,Transferencia,3,32.30,,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
+5,2026-06-15, 3 ,33,29.17,20,Telefono,Yape,3,962.61,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Jose Campos,lima,Regular,09-12-2025
+6,2026-06-17,7,39,6.46,10,WhatsApp,Efectivo,4,251.94,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Jose Ramos,Callao,  Frecuente ,2025-10-09
+7,2026-03-10,2,24,4.73,20,Presencial,Yape,1,113.52,Cliente frecuente,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Fiorella Ramos,Surco,Corporativo,2025-01-15
+8,2026-05-10,4,37,3,8,web,Tarjeta,2,111.00,Cliente frecuente,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Camila Salazar,Miraflores,nuevo,2025-12-22
+9,2026-02-24,6,2,29.17,0,App,efectivo,5,58.34,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Claudia Navarro,Comas,Corporativo,2025-06-01
+10,2026-04-02,7,4,0.51,20,APP,Yape,5,2.04,Cliente frecuente,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Fiorella Huaman,Lima,Nuevo,2025-05-08
+11,,4,18,0.51,5,App,Tarjeta,2,9.18,Cliente frecuente,Local 6,Independencia,Centro,Pan integral,  Panes ,0.51,Luis Rojas,Comas,Regular,2025-07-15
+12,2026/03/01,8,31,6.46,0,WhatsApp,Yape,1,200.26,Cliente frecuente,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Marco Reyes,Independencia,Regular,2025-12-15
+13,2026-02-28,1,12,0.51,20,Web,yape,2,6.12,Promocion,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Jorge Mendoza,Callao,Premium,2025-06-26
+14,07-01-2026,5,18,6.46,0,Telefono,Plin,4,116.28,OK,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Elena Paredes,Comas,Frecuente,2025-01-26
+15,2026-01-28,4,7,0.37,0,WhatsApp,Transferencia,4,2.59,Promocion,Local 3,Lima,Norte,Pan frances,PaNeS,0.37,,AtE,Frecuente,2025-03-02
+16,2026-01-15, 8 ,60,17.5,10,WhatsApp,Tarjeta,3,1050.00,,,Comas,Centro,Queque,PaStElEs,17.5,Camila Ramos,Independencia,Corporativo,2025-10-11
+17,2026-05-10,1,32,4.73,0,Presencial,Yape, 2 ,151.36,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
+18,2026-06-15,3,52,17.5,5,Presencial,,1 aprox,910.00,Promocion,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
+19,2026-02-06,3,35,4.73,20,presencial,Efectivo,3,165.55,Revisar,Local 6,Independencia,Centro,CaFe pAsAdO,Bebidas,4.73,Jose Campos,lima,Regular,09-12-2025
+20,2026-02-12,4,15,0.51,10 aprox,Web,tarjeta,5,7.65,Cliente frecuente,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Raul Campos,COMAS,Nuevo,2025-05-16
+21,2026-04-24,1,9,0.37,0,WhatsApp,Transferencia,5,3.33,Revisar,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Diana Campos,Ate,Regular,2025-05-27
+22,2026-05-13,5,51,0.37,10,App,Plin,3,18.87,OK,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Raul Campos,COMAS,Nuevo,2025-05-16
+23,2026-02-12,,16,4.73,0 aprox,Presencial,Transferencia,5,75.68,Cliente frecuente,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Raul Cruz,Callao,Regular,2025-12-11
+24,2026-02-21,7,45,29.17,0,Presencial,Tarjeta,4,1312.65,,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Lucia Reyes,Comas,regular, 2025-11-27 
+25,,4,8,4.73,20,App,Transferencia, 3 ,37.84,Cliente frecuente,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Jorge Vargas,CoMaS,Nuevo,2025-10-04
+26,2026-06-10,3,33,4.24,15,web,Tarjeta,2,139.92,Cliente frecuente,Local 6,Independencia,Centro,Empanada,salados,4.24,,callao,Nuevo,2025-09-09
+27,2026-01-25, 3 ,51,17.5,20,,Transferencia,2,892.50,OK,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
+28,2026-05-09,6,16,6.46,0,App,tarjeta,3,103.36,,,Comas,Centro,Jugo natural,Bebidas,6.46,,,Frecuente,2025/12/07
+29, 2026-06-18 ,3,15,6.46,8,PRESENCIAL,Transferencia,,96.90,OK,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,,Lima,Premium,2025/12/17
+30,2026-01-03,6,14,29.17,10,App,Tarjeta,3,408.38,Cliente frecuente,Local 1,Callao,Centro,Paneton,Temporada,29.17,Camila Flores,Miraflores,frecuente,2025-01-03
+31,2026-03-25,3,41,4.73,0,app,Transferencia,2,193.93,ok,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Diana Sayan,Miraflores,Regular,2025-02-14
+32,2026-05-24,6,19,45.67,0,,Transferencia,5,867.73,OK,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Sofia Flores,Chorrillos,Regular,2025-11-21
+33,2026-03-22,7,24,0.51,,whatsapp,Transferencia,4,12.24,,,Comas,Centro,Pan integral,  Panes ,0.51,Lucia Vargas,San Miguel,Frecuente,2025-01-02
+34,2026-03-15,8,50,17.5,5,Presencial,Efectivo,4,875.00,OK,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Jorge Rojas,Surco,regular,2025-02-05
+35,,4,8,4.73,20,App,Transferencia, 3 ,37.84,Cliente frecuente,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Jorge Vargas,CoMaS,Nuevo,2025-10-04
+36,2026-05-16,8,3,3,8,Web,Transferencia,2,9.00,Promocion,,Comas,Centro,Alfajor,Dulces,3.0,Diana Vargas,  Miraflores ,Regular,2025-02-03
+37,2026-01-18,5,23,4.73,10,App,Transferencia, 3 ,108.79,Revisar,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Sofia Salazar,Lima,NuEvO,2025-03-18
+38,2026-05-26,1,24,6.46,12,Presencial,Efectivo,4,155.04,Revisar,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Rocio Torres,comas,Premium,2025-03-08
+39,2026-03-03,8,51,45.67,10,Presencial,Transferencia,,2329.17,OK,Local 1,Callao,Centro,Torta chocolate,Pasteles,45.67,Diana Torres,Surco,Nuevo,2025-03-23
+40,2026-06-20,2,24,4.24,0,WhatsApp,Transferencia,3,101.76,Cliente frecuente,Local 3,Lima,Norte,Empanada,salados,4.24,Pedro Torres,Independencia,Regular,2025-04-07
+41,2026-02-02,2,48,45.67,0,Telefono,Efectivo,5,2192.16,  OK ,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
+42,2026-04-19,3,36,0.37,10,Web,EfEcTiVo,3,13.32,CLIENTE FRECUENTE,Local 3,Lima,Norte,Pan frances,PaNeS,0.37,Maria Sayan,San Juan de Lurigancho,,2025-07-11
+43,2026-03-26,4,33,4.24,0,App,Tarjeta,1,139.92,,Local 3,Lima,Norte,Empanada,salados,4.24,Andre Rojas,Ventanilla,Nuevo,2025-08-09
+44,2026-02-05,1,4,29.17,15,Web,Efectivo,1,116.68,,Local 1,Callao,Centro,Paneton,Temporada,29.17,Rocio Ramos,LIMA,Nuevo,2025-11-14
+45, 2026-05-16 ,7,50,0.37,20,Web,PLIN,3,18.50,,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Sofia Flores,Chorrillos,Regular,2025-11-21
+46,,3,30,3,20 aprox,Web,Transferencia,3,90.00,Promocion,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Lucia Gomez,Comas,Premium,2025-01-13
+47,2026-01-09,5,9,45.67,10 aprox,Web,Efectivo,1,411.03,  OK ,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
+48,2026-04-03,1,49,6.46,20,Presencial,Tarjeta,5,316.54,,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Jose Gomez,Ate,  Frecuente ,2025-02-09
+49,2026-05-03,8,33,6.46,10 aprox,Web,transferencia,1,213.18,Revisar,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
+50,2026-02-05,6,6,45.67, 0 ,web,Tarjeta,4,274.02,Cliente  frecuente,Local 1,Callao,Centro,Torta chocolate,Pasteles,45.67,Camila Salazar,Miraflores,nuevo,2025-12-22
+51,2026-05-04,6,52,4.24,10,App,YaPe,3,220.48,revisar,Local 6,Independencia,Centro,Empanada,salados,4.24,Jorge Vargas,CoMaS,Nuevo,2025-10-04
+52,2026-02-15,6,53,29.17,0,Web,Tarjeta,2,1546.01,Revisar,,San Juan de Lurigancho,Centro,Paneton,Temporada,29.17,Lucia Vargas,San Miguel,Frecuente,2025-01-02
+53,2026-05-23,3,50,0.51,0,Web,Yape,5,25.50,OK,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Miguel Mendoza,Ventanilla,Premium,2025-10-14
+54,2026-02-26,3,4,4.24,0,App,,,16.96,OK,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Sofia Reyes,Ventanilla,Frecuente,2025-05-22
+55,2026-05-24, 3 ,58,3,,  Web ,Tarjeta,3,174.00,OK,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Jose Ramos,Callao,  Frecuente ,2025-10-09
+56,2026-02-14,6,45,0.51,0,Telefono,Efectivo,4,22.95,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Pedro Torres,Independencia,Regular,2025-04-07
+57,2026/02/16,4,4,0.37,5,App,Efectivo,3,1.48,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Carlos Rojas,la molina,Regular,2025-08-05
+58,2026-02-22,2,14,3,12 aprox,Web,Yape,4,42.00,,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Camila Soto,Miraflores,Premium,2025-09-04
+59,13-02-2026,2,7,17.5,15,App,Tarjeta,,122.50,Promocion,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Luis Huaman,Independencia,Nuevo,
+60,2026-04-24,3,30,0.37,20 aprox,Telefono,Tarjeta,5,11.10,Revisar,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Andre Rojas,Ventanilla,Nuevo,2025-08-09
+61,2026-05-10,6,4,4.73,8,WhatsApp,Efectivo,4,18.92,,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
+62,,1,12,4.73,0,ApP,Efectivo,4 aprox,56.76,,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Claudia Navarro,Comas,Corporativo,2025-06-01
+63,2026-06-02,5,24,4.24,8,Web,,5,101.76,Revisar,Local 4,Surco,Norte,Empanada,salados,4.24,Miguel Mendoza,Ventanilla,Premium,2025-10-14
+64,2026-01-12,7,18,4.73,10 aprox,Web,Yape,4,85.14,OK,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Andre Rojas,La Molina,,2025-01-13
+65,2026-02-13,5,57,17.5,5,Web,Efectivo,1,997.50,Promocion,,Comas,Centro,Queque,PaStElEs,17.5,Fiorella Ramos,Surco,Corporativo,2025-01-15
+66,2026-06-08,2,13,6.46,8,Presencial,Plin,3,83.98,OK,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
+67,2026-03-05,4,24,17.5,0,Telefono,Transferencia,5,420.00,Revisar,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Andre Rojas,La Molina,,2025-01-13
+68,2026-01-24,6,50,6.46,0,telefono,Tarjeta,4,323.00,Promocion,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Marco Paredes,Miraflores,Frecuente,2025-09-01
+69,2026-02-28,6,36,4.24,8,Web,TARJETA,2,152.64,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Sofia Reyes,Ventanilla,Frecuente,2025-05-22
+70,2026-04-02,2,14,0.37,15,Web,Yape,1,5.18,OK,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Lucia Reyes,Comas,Premium,2025-05-08
+71,2026-04-25,7,21,29.17,12,App,plin,4,612.57,Cliente frecuente,Local 4,Surco,Norte,Paneton,Temporada,29.17,DIANA CAMPOS,Comas,Nuevo,2025-01-04
+72,2026-01-23,1,36,45.67,12,Telefono,Efectivo,1,1644.12,Revisar,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,,callao,Nuevo,2025-09-09
+73,2026-02-11,6,52,3,12,Presencial,Tarjeta,3,156.00,,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Andre Rojas,Ventanilla,Nuevo,2025-08-09
+74,2026-01-20,1,13,0.37,8,PrEsEnCiAl,Efectivo,2,4.81,,,Comas,Centro,Pan frances,PaNeS,0.37,Andre Rojas,Ventanilla,Nuevo,2025-08-09
+75,2026-05-03,3,44,6.46,0,WhatsApp,  Tarjeta ,2 aprox,284.24,OK,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,ana vargas,Independencia,Corporativo,2025-04-28
+76,2026-03-07,7,35,6.46, 10 ,Presencial,Tarjeta,4,226.10,OK,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Lucia Vargas,San Miguel,Frecuente,2025-01-02
+77,2026-05-17,1,17,3,5,  Presencial ,Tarjeta,3,51.00,OK,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Miguel Mendoza,Ventanilla,Premium,2025-10-14
+78,2026-06-09,8 aprox,12,0.37,5,Presencial,Plin,4,4.44,,Local 6,Independencia,Centro,Pan frances,PaNeS,0.37,Claudia Flores,Chorrillos,Regular,2025-08-13
+79,2026-02-20,1,54,0.37,20,Presencial,Tarjeta,2,19.98,Cliente frecuente,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Carlos Rojas,la molina,Regular,2025-08-05
+80,2026-06-28,1,54,4.24,8,TELEFONO,Transferencia,4,228.96,OK,Local 1,Callao,Centro,Empanada,salados,4.24,Fiorella Huaman,Lima,Nuevo,2025-05-08
+81,2026-02-28,4,2,17.5,20,App,Transferencia,1,35.00,,Local 4,Surco,Norte,Queque,PaStElEs,17.5,Sofia Flores,Chorrillos,Regular,2025-11-21
+82,13-02-2026,4,35,45.67,10,ApP,Tarjeta,2,1598.45,OK,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,Elena Reyes,Villa El Salvador,Corporativo,2025-10-21
+83,2026-06-04,1,48,6.46,10,App,Plin,5,310.08,OK,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Raul Campos,COMAS,Nuevo,2025-05-16
+84,2026/01/15,3,18,6.46,20,Web,  Efectivo ,5,116.28,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Jose Ramos,Callao,  Frecuente ,2025-10-09
+85,2026-06-18,7,33,3,10,Telefono,tarjeta,3,99.00,Promocion,,Comas,Centro,Alfajor,Dulces,3.0,Rocio  Salazar,  Surco ,Regular,2025-07-21
+86,2026-04-17,8,153.67,0.51,5,App,Efectivo,3,78.37,,Local 6,Independencia,Centro,Pan integral,  Panes ,0.51,Diana Vargas,  Miraflores ,Regular,2025-02-03
+87,2026-03-19,2,9,6.46,10,web,Plin,2,58.14,Promocion,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Rocio Gomez,Independencia,  Corporativo ,2025-04-02
+88,2026-05-03,6,50,4.73,12,Telefono,Plin,4,236.50,PrOmOcIoN,Local 6,Independencia,Centro,CaFe pAsAdO,Bebidas,4.73,Lucia Gomez,Comas,Premium,2025-01-13
+89,2026-01-04,2,19,3,0,App,Transferencia,1,57.00,Revisar,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Diana Vargas,  Miraflores ,Regular,2025-02-03
+90,2026-01-28,8,29,0.37,0,App,yape,5,10.73,,,Comas,Centro,Pan frances,PaNeS,0.37,,callao,Nuevo,2025-09-09
+91,2026/02/16,4,4,0.37,5,App,Efectivo,3,1.48,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Carlos Rojas,la molina,Regular,2025-08-05
+92,2026-04-05,5,9,17.5,20,App,Plin,5 aprox,157.50,Revisar,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Ana Sayan,Surco,Corporativo,2025-04-09
+93,2026-01-22,5,55,6.46,0,Presencial,Efectivo,1,355.30,,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
+94,2026-03-21,6,27,45.67,5,Telefono,Tarjeta,5,1233.09,,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,Marco Reyes,Independencia,Regular,2025-12-15
+95,2026-01-07,5,9,17.5,12,Presencial,Transferencia,3,157.50,OK,,Comas,Centro,Queque,PaStElEs,17.5,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
+96,2026-05-14,5,56,0.51,12,  Web ,EfEcTiVo,4,28.56,,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Ana Cruz,  Surco ,Regular,2025-10-05
+97,2026-03-23,2,48,29.17,20,Telefono,Plin,2,1400.16,,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Andre Soto,Callao,FrEcUeNtE,2025-12-09
+98,2026-03-05,3,45,4.24,8,telefono,Plin,5,190.80,,Local 6,Independencia,Centro,Empanada,salados,4.24,Lucia Gomez,Comas,Premium,2025-01-13
+99,2026-03-09,1 aprox,19,45.67,12,App,Plin,,867.73,,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,Miguel Mendoza,Ventanilla,Premium,2025-10-14
+100,2026-05-08,1,4,0.51,15,,EFECTIVO,3,2.04,Promocion,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
+101,2026-06-10,1,178.23,4.73,8,Telefono,,5,843.03,OK,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
+102,2026-01-14, 8 ,51,6.46,15,Telefono,Efectivo,4,329.46,Cliente frecuente,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Rocio Ramos,LIMA,Nuevo,2025-11-14
+103,2026-06-06,3,53,0.51,5,WhAtSaPp,Plin, 3 ,27.03,,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Victor Ramos,Ate,Premium,2025/06/07
+104,19-02-2026,2,28,0.51,20,TELEFONO,Transferencia,5,14.28,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Diana Vargas,  Miraflores ,Regular,2025-02-03
+105,2026-01-04,5,52,0.51,10,WHATSAPP,TRANSFERENCIA,4,26.52,OK,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Lucia Reyes,Comas,Premium,2025-05-08
+106,2026-03-18,2,14,4.73,5,App,Efectivo,2,66.22,OK,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Camila Flores,Miraflores,frecuente,2025-01-03
+107,2026-04-27,8,120.61,3,0,WhatsApp,Transferencia,5,361.83,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,DiAnA ToRrEs,Comas,frecuente,2025-02-03
+108,2026-02-11,6,52,3,12,Presencial,Tarjeta,3,156.00,,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Andre Rojas,Ventanilla,Nuevo,2025-08-09
+109,2026-04-07,7,44,0.51,8,App,Tarjeta,4,22.44,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Ana Sayan,Surco,Corporativo,2025-04-09
+110,11/05/2026,7,11,45.67,8,TELEFONO,yape,3,502.37,,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Andre Quispe,Ventanilla,Premium,2025-12-04
+111,2026-06-16,2,2,4.24,8,Telefono,Transferencia,3,8.48,Revisar,,Comas,Centro,Empanada,salados,4.24,Lucia Reyes,Comas,Premium,2025-05-08
+112,2026-02-18,2,40,17.5,8,  Telefono ,Plin,1,700.00,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Maria Sayan,San Juan de Lurigancho,,2025-07-11
+113,07-04-2026,3,49,4.73,0,WhatsApp,Transferencia,5,231.77,Cliente frecuente,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Diana Sayan,Miraflores,Regular,2025-02-14
+114, 2026-01-27 ,3,58,3,0,,YaPe,5,174.00,,,Comas,Centro,Alfajor,Dulces,3.0,Luis Torres,Ate,Corporativo,20/07/2025
+115,2026-02-28,1,30,3,15,Telefono,,2,90.00,,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Jose Gomez,Ate,  Frecuente ,2025-02-09
+116,2026/06/10,,51,29.17,0,WHATSAPP,YAPE,5,1487.67,,,San Juan de Lurigancho,Centro,Paneton,Temporada,29.17,Andre Quispe,Ventanilla,Premium,2025-12-04
+117,2026-03-18,2,20,4.73,0,App,Plin,1,94.60,Cliente frecuente,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Rocio  Salazar,  Surco ,Regular,2025-07-21
+118,2026-03-26,2,2,4.73,0,WhatsApp,Tarjeta, 3 ,9.46,,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Lucia Gomez,Comas,Premium,2025-01-13
+119,2026-04-15,8,39,17.5,0,Telefono,Yape,1,682.50,PrOmOcIoN,,Comas,Centro,Queque,PaStElEs,17.5,Miguel Mendoza,Ventanilla,Premium,2025-10-14
+120,2026-02-07,7,24,0.37,0,Web,Plin,4,8.88,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,,,Frecuente,2025/12/07
+121,2026-01-22,8,18,17.5,15,Web,TARJETA,2,315.00,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Ana Torres,Ventanilla,Premium,2025-06-13
+122,2026-06-04,6,13,0.51,8,PRESENCIAL,Yape,2,6.63,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,,Miraflores,corporativo,2025-07-16
+123,2026-04-04,4,33,4.24,0,App,Transferencia,2,139.92,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Diana Torres,Surco,Nuevo,2025-03-23
+124,2026-04-04,1,25,0.37,10,Web,Efectivo,3,9.25,,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,Maria Sayan,San Juan de Lurigancho,,2025-07-11
+125,2026/06/17,8,38,45.67,20,Telefono,Transferencia,4,1735.46,Cliente frecuente,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Jose Gomez,Ate,  Frecuente ,2025-02-09
+126,2026-06-25,4,41,29.17,0,WhatsApp,Plin,3 aprox,1195.97,Cliente frecuente,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Ana Sayan,Surco,Corporativo,2025-04-09
+127,2026-04-26,3,27,0.51,5,WeB,Transferencia,2,13.77,OK,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Jose Gomez,Ate,  Frecuente ,2025-02-09
+128,2026-01-01,8,44,0.37,10,PRESENCIAL,Efectivo,4,16.28,Promocion,Local 6,Independencia,Centro,Pan frances,PaNeS,0.37,Luis Vargas,Comas,Nuevo,2025-11-11
+129,2026-06-17,4,5,29.17,0,WhatsApp,tarjeta,1,145.85,OK,,Comas,Centro,Paneton,Temporada,29.17,Maria Paredes,Lima,  Premium ,2025-06-21
+130,2026-01-27,6,48,4.73,10,WhatsApp,EFECTIVO,3,227.04,Promocion,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Raul Campos,COMAS,Nuevo,2025-05-16
+131,2026-04-16,3,8,3,0,Telefono,Tarjeta,5,24.00,,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Pedro Torres,Independencia,Regular,2025-04-07
+132,2026-06-23,8,16,4.24,10,Web,efectivo,5 aprox,67.84,,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Maria Gomez,Comas,Corporativo,2025-05-21
+133,2026-03-04,8,31,17.5,20,Telefono,Plin,3,542.50,OK,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
+134,2026-04-15,2,44,45.67,20,whatsapp,Plin,4,2009.48,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Jose Gomez,La Molina,Corporativo,2025-07-05
+135,2026-04-11,7,53,6.46,12,App,Plin,1,342.38,Revisar,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
+136,2026-02-26,5,24,0.37,15 aprox,WhatsApp,EFECTIVO,5,8.88,Promocion,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,Andre Rojas,Ventanilla,Nuevo,2025-08-09
+137,2026-04-15,3,24,6.46,10,Web,TARJETA,4,155.04,Cliente frecuente,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Luis Huaman,Independencia,Nuevo,
+138,2026-03-23,6,16,0.51,12,Telefono,Yape, 3 ,8.16,Revisar,Local 6,Independencia,Centro,Pan integral,  Panes ,0.51,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
+139,2026-02-08,3,55,0.37,15,Presencial,Tarjeta,3,20.35,,,Comas,Centro,Pan frances,PaNeS,0.37,Elena Flores,Callao,Regular,2025/04/23
+140, 2026-06-09 ,8,3,0.37,0,WhatsApp,Tarjeta,5,1.11,,,Comas,Centro,Pan frances,PaNeS,0.37,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
+141,27-03-2026,3,49,0.51,12,Telefono,EfEcTiVo,5,24.99,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Elena Reyes,Villa El Salvador,Corporativo,2025-10-21
+142,2026-05-27,4,40,29.17,0,Telefono,Yape,5,1166.80,Revisar,Local 1,Callao,Centro,Paneton,Temporada,29.17,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
+143,2026-04-20,8 aprox,1,45.67,12,,Transferencia,,45.67,Cliente frecuente,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Maria Gomez,Comas,Corporativo,2025-05-21
+144,2026-05-15,8,49,6.46,12,WhatsApp,  Plin ,2,316.54,Promocion,,Comas,Centro,Jugo natural,Bebidas,6.46,jose torres,Callao,NuEvO,2025-05-01
+145,2026-01-01,5,46,17.5,12,Telefono,Efectivo,3,805.00,  Cliente frecuente ,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Claudia Gomez,Miraflores,Regular,2025/08/25
+146,2026-02-03,8,7,0.51,0,Telefono,Yape,2,3.57,Promocion,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Andre Rojas,Ventanilla,Nuevo,2025-08-09
+147,2026-01-24,1,31,0.37,,WhatsApp,Yape,3,11.47,Promocion,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Jorge Rojas,Surco,regular,2025-02-05
+148,2026-01-13,7,13,17.5,8,WhatsApp,Efectivo,4,227.50,,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Luis Torres,Ate,Corporativo,20/07/2025
+149, 2026-03-05 ,2,8,17.5,10,Web,,1,140.00,Cliente frecuente,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
+150,2026-05-13,5,51,0.37,10,App,Plin,3,18.87,OK,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Raul Campos,COMAS,Nuevo,2025-05-16
+151,2026-05-09,7,47,0.51,12,PrEsEnCiAl,Tarjeta,5,23.97,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Lucia Reyes,Comas,Premium,2025-05-08
+152,2026-06-24,5,58,6.46,0,App,Plin,3,374.68,Promocion,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,Raul Campos,COMAS,Nuevo,2025-05-16
+153,,5,43,6.46,8,WhatsApp,  Tarjeta ,1,277.78,,,Comas,Centro,Jugo natural,Bebidas,6.46,Rocio  Salazar,  Surco ,Regular,2025-07-21
+154,2026-05-17,5,12,45.67,8 aprox,Web,Tarjeta,5,548.04,,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,Luis Rojas,Comas,Regular,2025-07-15
+155,2026-04-16, 4 ,55,6.46,12,WhatsApp,Efectivo,1,355.30,,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Jose Campos,lima,Regular,09-12-2025
+156,2026-01-20,2,6,4.24,0,App,Plin,1,25.44,,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Jorge Mendoza,Callao,Premium,2025-06-26
+157,2026-06-27, 4 ,43,4.24,0,Web,Tarjeta,1,182.32,OK,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Ana Sayan,Surco,Corporativo,2025-04-09
+158,2026-04-05,7,34,0.51,0,WhatsApp,Plin,2,17.34,OK,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Victor Ramos,Ate,Premium,2025/06/07
+159,2026-04-03,6,37,4.24,0,Web,  Efectivo ,3,156.88,,Local 3,Lima,Norte,Empanada,salados,4.24,Sofia Salazar,Lima,NuEvO,2025-03-18
+160,2026-04-01,4,35,4.73,20,App,yape,1,165.55,OK,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Diana Campos,INDEPENDENCIA,FRECUENTE,2025-10-07
+161,2026-05-16,2,10,29.17,5,Presencial,PlIn,5,291.70,,Local 4,Surco,Norte,Paneton,Temporada,29.17,Andre Quispe,Ventanilla,Premium,2025-12-04
+162,2026-04-01,3 aprox,56,6.46,15,WhatsApp,Plin,2,361.76,Revisar,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,Maria Sayan,San Juan de Lurigancho,,2025-07-11
+163,2026-06-14,1,39,4.24,0,Presencial,Yape, 5 ,165.36,Cliente frecuente,Local 1,Callao,Centro,Empanada,salados,4.24,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
+164,2026-01-05,5,36,4.73,12,Presencial,Plin,2,170.28,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Luis Vargas,Comas,Nuevo,2025-11-11
+165,2026-04-18,1,9,45.67,5,WhatsApp,Tarjeta,2,411.03,Cliente frecuente,,Comas,Centro,Torta chocolate,Pasteles,45.67,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
+166,2026-01-23,3,50,3,20,Web,Plin,1,150.00,OK,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Victor Ramos,Ate,Premium,2025/06/07
+167,2026-06-27, 5 ,36,17.5,0,WhatsApp,Transferencia,5,630.00,Cliente frecuente,Local 4,Surco,Norte,Queque,PaStElEs,17.5,Diana Sayan,Miraflores,Regular,2025-02-14
+168,2026-04-08,3,27,6.46,0,Telefono,Plin,1,174.42,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Raul Cruz,Callao,Regular,2025-12-11
+169,2026-01-20,5,37,17.5,15,WhatsApp,Transferencia,2,647.50,,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Diana Campos,Ate,Regular,2025-05-27
+170,2026-01-01,5,21,0.37,0,Presencial,Yape,3,7.77,Cliente frecuente,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,ana vargas,Independencia,Corporativo,2025-04-28
+171,2026-05-23,1,45,4.73,15,,Plin,5,212.85,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Camila Flores,Miraflores,frecuente,2025-01-03
+172,2026-03-20,7,3,17.5,0,WhatsApp,Efectivo,5,52.50,Promocion,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
+173,2026-05-25,4,47,3,0,Telefono,Efectivo,5,141.00,,Local 1,Callao,Centro,Alfajor,Dulces,3.0,,callao,Nuevo,2025-09-09
+174,2026-03-22,3,7,0.37,10,Presencial,Yape,4,2.59,OK,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
+175,11-03-2026,1,46,3,0,WhatsApp,transferencia,2,138.00,Promocion,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Miguel Huaman,Comas,Corporativo,2025-12-20
+176, 2026-06-06 ,8,38,0.37,5,PRESENCIAL,Tarjeta,1,14.06,,,Comas,Centro,Pan frances,PaNeS,0.37,Jose Gomez,Ate,  Frecuente ,2025-02-09
+177,2026-02-16,,30,17.5,10,WHATSAPP,Transferencia,3,525.00,Cliente frecuente,,Comas,Centro,Queque,PaStElEs,17.5,Lucia Reyes,Comas,regular, 2025-11-27 
+178,2026-06-07,7,56,0.37,0,WhatsApp,Yape,5,20.72,OK,Local 6,Independencia,Centro,Pan frances,PaNeS,0.37,Maria Paredes,Lima,  Premium ,2025-06-21
+179,2026-06-27,5,3,3,10,,Yape,5,9.00,revisar,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,Luis Huaman,Independencia,Nuevo,
+180,2026-06-22,5,21,4.24,5,Presencial,Tarjeta,3,89.04,Cliente frecuente,Local 4,Surco,Norte,Empanada,salados,4.24,Camila Ramos,Independencia,Corporativo,2025-10-11
+181,2026-05-12,6,17,45.67,15,WHATSAPP,Efectivo, 1 ,776.39,OK,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Claudia Gomez,Miraflores,Regular,2025/08/25
+182,2026-02-04,4,15,45.67,20,Telefono,Yape,1,685.05,Cliente frecuente,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,Lucia Reyes,Comas,regular, 2025-11-27 
+183,2026-03-12,8,53,45.67,15,PrEsEnCiAl,Transferencia,4,2420.51,Cliente frecuente,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,,callao,Nuevo,2025-09-09
+184,2026-03-20,7,56,0.37,8,Presencial,Yape,4,20.72,Promocion,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Sofia Salazar,Lima,NuEvO,2025-03-18
+185,2026-04-27,8,120.61,3,0,WhatsApp,Transferencia,5,361.83,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,DiAnA ToRrEs,Comas,frecuente,2025-02-03
+186,2026-06-11,5,32,6.46,5,WhatsApp,YAPE,4,206.72,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Fiorella Ramos,Surco,Corporativo,2025-01-15
+187,2026-02-27,6,57,6.46,15,Web,,5,368.22,Cliente frecuente,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Diana Campos,INDEPENDENCIA,FRECUENTE,2025-10-07
+188,2026-02-21,6,6,6.46,0,Presencial,Tarjeta,1,38.76,,,Comas,Centro,Jugo natural,Bebidas,6.46,Diana Reyes,Villa El Salvador,,21-01-2025
+189,2026/03/08,6,29,0.37,8,Presencial,Yape,4,10.73,Cliente frecuente,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Lucia Gomez,Comas,Premium,2025-01-13
+190,2026-04-15,2,57,29.17, 0 ,Telefono,Yape,3,1662.69,Promocion,Local 3,Lima,Norte,Paneton,Temporada,29.17,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
+191,2026-02-09,7,9,4.73,12,Telefono,Yape,5,42.57,Revisar,  Local 2 ,San Juan de Lurigancho,Este,CaFe pAsAdO,Bebidas,4.73,Diana Vargas,  Miraflores ,Regular,2025-02-03
+192,2026-05-14,8,20,17.5,0,PrEsEnCiAl,Plin,3,350.00,,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Sofia Flores,Chorrillos,Regular,2025-11-21
+193,2026-04-18,8,10,0.37,5,App,Transferencia,4,3.70,,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Carlos Rojas,la molina,Regular,2025-08-05
+194,2026-02-06,3,35,4.73,20,presencial,Efectivo,3,165.55,Revisar,Local 6,Independencia,Centro,CaFe pAsAdO,Bebidas,4.73,Jose Campos,lima,Regular,09-12-2025
+195,2026-05-28,,28,45.67,12,WhatsApp,Transferencia,1,1278.76,OK,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,Luis Torres,Ate,Corporativo,20/07/2025
+196,2026-02-01,8,51,6.46,0,WhatsApp,Efectivo,2,329.46,OK,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Jose Gomez,La Molina,Corporativo,2025-07-05
+197,2026-03-23,2,48,29.17,20,Telefono,Plin,2,1400.16,,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Andre Soto,Callao,FrEcUeNtE,2025-12-09
+198,2026-05-16,2,10,29.17,5,Presencial,PlIn,5,291.70,,Local 4,Surco,Norte,Paneton,Temporada,29.17,Andre Quispe,Ventanilla,Premium,2025-12-04
+199,2026-02-05,2,51,45.67,5,WhatsApp,Plin,5,2329.17,,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Jose Gomez,La Molina,Corporativo,2025-07-05
+200, 2026-02-06 ,5,3,0.51,10,Presencial,Plin,2,1.53,,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,fiorella reyes,LIMA,Frecuente,2025-03-25
+201,2026-06-27,3,31,4.24,0,Telefono,Efectivo,1,131.44,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Jose Ramos,Callao,  Frecuente ,2025-10-09
+202,2026-03-25,4,57,17.5,0,App,Plin,5,997.50,,Local 4,Surco,Norte,Queque,PaStElEs,17.5,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
+203,2026-02-10,1,20,0.51,12,Presencial,  Efectivo ,2,10.20,Promocion,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Claudia Navarro,Comas,Corporativo,2025-06-01
+204,2026-05-13,8,27,4.24,0,Web,Efectivo,5,114.48,,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
+205,2026-06-26,1,28,4.24,20,Telefono,Efectivo,3,118.72,promocion,,Comas,Centro,Empanada,salados,4.24,Sofia Flores,Chorrillos,Regular,2025-11-21
+206,2026-05-22,1,12,6.46,5,App,Plin,1,77.52,OK,,Comas,Centro,Jugo natural,Bebidas,6.46,Camila Salazar,Miraflores,nuevo,2025-12-22
+207,2026-05-23,1,45,4.73,15,,Plin,5,212.85,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Camila Flores,Miraflores,frecuente,2025-01-03
+208,2026-01-27,5,51,17.5,10,,Tarjeta,1,892.50,Promocion,,Comas,Centro,Queque,PaStElEs,17.5,Lucia Reyes,Comas,regular, 2025-11-27 
+209,2026-05-18,1,37,6.46,12,Telefono,efectivo,4,239.02,Cliente frecuente,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Luis Huaman,Independencia,Nuevo,
+210,2026-01-27,8 aprox,59,0.37,0,Web,Tarjeta,2,21.83,ClIeNtE FrEcUeNtE,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Jose Campos,lima,Regular,09-12-2025
+211,2026/05/01,1,28,17.5,15,Telefono,Efectivo,2,490.00,,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Rocio Torres,comas,Premium,2025-03-08
+212,2026-02-10,8,26,17.5,10,TeLeFoNo,YAPE,2,455.00,,Local 4,Surco,Norte,Queque,PaStElEs,17.5,,Lima,Premium,2025/12/17
+213,2026-03-07,2,36,29.17,0,App,  Yape ,4,1050.12,OK,,Comas,Centro,Paneton,Temporada,29.17,fiorella reyes,LIMA,Frecuente,2025-03-25
+214,2026-03-19,4,51,29.17,15,APP,Efectivo,5,1487.67,Promocion,Local 3,Lima,Norte,Paneton,Temporada,29.17,Lucia Vargas,San Miguel,Frecuente,2025-01-02
+215,2026-03-24,6,47,4.73,0,WhatsApp,Yape,3,222.31,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Lucia Gomez,Comas,Premium,2025-01-13
+216,2026/04/01,2,58,4.24,8,Web,Transferencia,1,245.92,,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Miguel Mendoza,Ventanilla,Premium,2025-10-14
+217,2026-01-20,5,55,29.17,0 aprox,Presencial,Plin,5,1604.35,Revisar,Local 3,Lima,Norte,Paneton,Temporada,29.17,DIEGO MENDOZA,Callao,Regular,2025-09-13
+218,2026-03-04,5,57,4.24,20,Web,Efectivo,5,241.68,OK,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
+219,2026-01-24,1,47,4.24,10,presencial,Plin,2,199.28,,Local 4,Surco,Norte,Empanada,salados,4.24,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
+220,2026-05-03,4,4,17.5,20,WhatsApp,,5,70.00,Revisar,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Luis Torres,Ate,Corporativo,20/07/2025
+221,2026-04-23,4,5,4.24,0,Telefono,Yape,2,21.20,,,Comas,Centro,Empanada,salados,4.24,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
+222,2026-06-07,6,26,6.46,10,WhatsApp,Yape,3,167.96,,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Jose Gomez,Ate,  Frecuente ,2025-02-09
+223,07-03-2026,2,51,45.67,20,Web,PLIN,3,2329.17,Promocion,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Maria Paredes,Lima,  Premium ,2025-06-21
+224,2026-05-01,3,4,0.51,0,App,Transferencia,1,2.04,Promocion,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Maria Paredes,Lima,  Premium ,2025-06-21
+225,2026-01-04,5,42,17.5,0,  Web ,,4,735.00,OK,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Victor Ramos,Ate,Premium,2025/06/07
+226,2026-06-05,6,51,45.67,0,Telefono,Efectivo,1,2329.17,OK,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,,AtE,Frecuente,2025-03-02
+227,2026-01-24,5,22,3,15,App,Tarjeta,2,66.00,OK,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
+228,2026-03-07,2,26,29.17,20,WhatsApp,Efectivo,3,758.42,Cliente frecuente,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Lucia Vargas,San Miguel,Frecuente,2025-01-02
+229,2026-05-03,1,37,0.37,15 aprox,Presencial,Transferencia,5,13.69,OK,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Sofia Ramos,La Molina,Premium,2025-08-03
+230,2026-02-14,1,13,0.51,20,Presencial,Efectivo,4,6.63,,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Sofia Ramos,La Molina,Premium,2025-08-03
+231,2026-05-08,6,54,0.51,10 aprox,App,Yape,2,27.54,ReViSaR,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
+232,2026-06-20,5,5,29.17,8,app,Transferencia,1,145.85,OK,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Rocio Ramos,LIMA,Nuevo,2025-11-14
+233,2026-04-03,4,4,6.46,0,Telefono,Transferencia,5,25.84,OK,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
+234,2026-06-23,8,16,4.24,10,Web,efectivo,5 aprox,67.84,,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Maria Gomez,Comas,Corporativo,2025-05-21
+235,2026-02-06,7,15,4.73,12,  App ,Tarjeta,3,70.95,,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Claudia Flores,Chorrillos,Regular,2025-08-13
+236, 2026-01-07 ,4,19,6.46,12,App,Tarjeta,1,122.74,OK,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Andre Rojas,La Molina,,2025-01-13
+237,2026/01/12,4 aprox,38,45.67,0,WhatsApp,Yape,3,1735.46,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Jose Gomez,La Molina,Corporativo,2025-07-05
+238,2026-04-22,6,48,4.24,0,Web,Plin,5,203.52,Cliente  frecuente,Local 4,Surco,Norte,Empanada,salados,4.24,Rocio Torres,comas,Premium,2025-03-08
+239,2026-04-22,2,49,0.51,8,Web,Efectivo,3,24.99,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Camila Salazar,Miraflores,nuevo,2025-12-22
+240,2026-05-10,1,32,4.73,0,Presencial,Yape, 2 ,151.36,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
+241,2026-02-09,2,12,4.24,0,WhatsApp,Efectivo,5,50.88,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Marco Paredes,Miraflores,Frecuente,2025-09-01
+242,2026-01-13,7,58,29.17,12,Presencial,Yape, 4 ,1691.86,Promocion,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,fiorella reyes,LIMA,Frecuente,2025-03-25
+243,2026-06-02,8 aprox,24,0.51,0,  WhatsApp ,Efectivo,4,12.24,,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,Jorge Vargas,CoMaS,Nuevo,2025-10-04
+244,2026-03-28,7,17,0.51,20,Presencial,Yape,5,8.67,,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,Jose Gomez,Ate,  Frecuente ,2025-02-09
+245,2026-03-21,8,18,17.5,5,WhatsApp,Tarjeta,2,315.00,,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
+246,2026-03-05,7,5,0.51,0,Presencial,Plin,2,2.55,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Andre Rojas,Ventanilla,Nuevo,2025-08-09
+247,2026-06-19,6,10,4.73,8,Web,TARJETA,5,47.30,,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,,AtE,Frecuente,2025-03-02
+248,2026-06-10,2,47,0.51,12,App,Yape,4,23.97,OK,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
+249,2026-03-02,3,53,3,0,WhatsApp,Efectivo,3,159.00,,,Comas,Centro,Alfajor,Dulces,3.0,Fiorella Ramos,Surco,Corporativo,2025-01-15
+250,2026-04-15,1,18,0.37,0,Telefono,Yape,3,6.66,Promocion,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Ana Cruz,  Surco ,Regular,2025-10-05
+251,2026-03-09,8,15,29.17,0,Presencial,Transferencia,3,437.55,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
+252,2026-02-13,8,10,0.37,8,App,Transferencia,4,3.70,Cliente frecuente,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
+253,2026-06-13,1 aprox,57,4.73,,Web,Transferencia,2,269.61,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Camila Flores,Miraflores,frecuente,2025-01-03
+254,25-03-2026,7,24,4.24,10,Presencial,Transferencia,3,101.76,Promocion,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Luis Torres,Ate,Corporativo,20/07/2025
+255, 2026-06-28 ,4,17,3,8,Presencial,Transferencia,3,51.00,Revisar,,Comas,Centro,Alfajor,Dulces,3.0,Miguel Huaman,Comas,Corporativo,2025-12-20
+256,2026-05-03,7,48,29.17,0,,Transferencia,5,1400.16,,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Diana Sayan,Miraflores,Regular,2025-02-14
+257,2026-01-15,8,14,3,15,Presencial,Efectivo,2,42.00,,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
+258,2026-03-01,1,52,0.37,8,WhatsApp,Transferencia,2,19.24,Revisar,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
+259,2026-02-01,5,51,4.24,0,TELEFONO,Tarjeta,2,216.24,Cliente frecuente,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Andre Rojas,Ventanilla,Nuevo,2025-08-09
+260,2026-04-28,8,23,4.24,10,Telefono,Tarjeta,3,97.52,CLIENTE FRECUENTE,Local 4,Surco,Norte,Empanada,salados,4.24,Maria Paredes,Lima,  Premium ,2025-06-21
+261,2026/02/15,1,4,6.46,8,WhatsApp,Efectivo, 1 ,25.84,Revisar,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,DIEGO MENDOZA,Callao,Regular,2025-09-13
+262,2026-03-07,2,36,29.17,0,App,  Yape ,4,1050.12,OK,,Comas,Centro,Paneton,Temporada,29.17,fiorella reyes,LIMA,Frecuente,2025-03-25
+263,2026-02-10,4,42,29.17,12,Web,  Efectivo ,2,1225.14,OK,Local 3,Lima,Norte,Paneton,Temporada,29.17,Jorge Vargas,CoMaS,Nuevo,2025-10-04
+264,2026-04-20,6,38,17.5,5,Presencial,Tarjeta,3,665.00,Revisar,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Andre Quispe,Ventanilla,Premium,2025-12-04
+265,2026-05-17,3,49,4.73,20,Telefono,plin,5,231.77,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Diana Vargas,  Miraflores ,Regular,2025-02-03
+266,2026-03-20,3,31,17.5,15,  WhatsApp ,Plin,5,542.50,,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Jose Ramos,Callao,  Frecuente ,2025-10-09
+267,2026-01-14,5,26,0.37,0 aprox,App,TaRjEtA, 1 ,9.62,,Local 6,Independencia,Centro,Pan frances,PaNeS,0.37,Claudia Navarro,Comas,Corporativo,2025-06-01
+268,2026-06-05,3,43,29.17,,Web,Tarjeta,5,1254.31,Revisar,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Luis Vargas,Comas,Nuevo,2025-11-11
+269,2026-06-17,3,55,3,0,App,Transferencia,2,165.00,Cliente frecuente,,Comas,Centro,Alfajor,Dulces,3.0,Diana Reyes,Villa El Salvador,,21-01-2025
+270,2026-03-20,4,10,17.5,0,Telefono,plin,2,175.00,Cliente frecuente,,Comas,Centro,Queque,PaStElEs,17.5,Raul Cruz,Callao,Regular,2025-12-11
+271,2026-04-21,2,18,17.5,10,WhatsApp,plin,5,315.00,REVISAR,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Rocio  Salazar,  Surco ,Regular,2025-07-21
+272,2026-04-16,2,55,4.73,10,Web,Efectivo,2,260.15,Cliente  frecuente,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
+273,2026-01-25,3,21,3,5,WhatsApp,Plin,4,63.00,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Lucia Gomez,Comas,Premium,2025-01-13
+274,2026-04-23,6,51,6.46,0,,Yape,4,329.46,Promocion,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,,Lima,Premium,2025/12/17
+275,2026-02-05,4,25,0.37,8,App,Plin,5,9.25,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Maria Sayan,San Juan de Lurigancho,,2025-07-11
+276, 2026-06-04 ,3,58,4.24,0,Web,Efectivo,2,245.92,OK,Local 3,Lima,Norte,Empanada,salados,4.24,Rocio Ramos,LIMA,Nuevo,2025-11-14
+277,2026-01-01,3,50,4.73,15,Web,Yape,2,236.50,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,jose torres,Callao,NuEvO,2025-05-01
+278,2026-06-03,8,14,0.51,10,App,Transferencia,2,7.14,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Elena Reyes,Villa El Salvador,Corporativo,2025-10-21
+279,2026-04-21,4,28,29.17,0,Presencial,Transferencia,2,816.76,Promocion,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Carlos Rojas,la molina,Regular,2025-08-05
+280,2026-03-10,8,33,17.5,20,Web,Transferencia,2,577.50,Cliente frecuente,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Camila Flores,Miraflores,frecuente,2025-01-03
+281,2026-03-04, 5 ,22,0.37,5,WhatsApp,Yape,1,8.14,OK,,Comas,Centro,Pan frances,PaNeS,0.37,DIEGO MENDOZA,Callao,Regular,2025-09-13
+282,2026-05-20, 8 ,14,3,10,Telefono,Efectivo,4 aprox,42.00,,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Jose Ramos,Callao,  Frecuente ,2025-10-09
+283,2026-01-23,6,53,6.46,5,WhatsApp,Tarjeta,1,342.38,Cliente frecuente,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Diana Vargas,  Miraflores ,Regular,2025-02-03
+284,2026-02-15,8,42,17.5,0,TELEFONO,Transferencia,2,735.00,Revisar,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Camila Soto,Miraflores,Premium,2025-09-04
+285,10/05/2026,2,6,3,15,telefono,Plin,1,18.00,  Promocion ,Local 4,Surco,Norte,Alfajor,Dulces,3.0,,Lima,Premium,2025/12/17
+286,2026-01-01,2,52,29.17,0,,Tarjeta,3,1516.84,,,San Juan de Lurigancho,Centro,Paneton,Temporada,29.17,DIEGO MENDOZA,Callao,Regular,2025-09-13
+287,08/02/2026,8,40,29.17,12,App,  Efectivo ,5,1166.80,OK,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,,Lima,Premium,2025/12/17
+288,2026/04/01,1,16,6.46,0,Web,Efectivo,4,103.36,Revisar,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Luis Rojas,Comas,Regular,2025-07-15
+289,2026-05-22,7,10,3,0,WhatsApp,Plin,5,30.00,Cliente frecuente,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Raul Cruz,Callao,Regular,2025-12-11
+290,2026-03-26,8,44,3,20,WhatsApp,Plin,2,132.00,OK,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,ana vargas,Independencia,Corporativo,2025-04-28
+291,2026-03-25,5,41,45.67,0,App,Plin,5,1872.47,Revisar,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,Marco Paredes,Miraflores,Frecuente,2025-09-01
+292, 2026-05-11 ,5,22,17.5,8,Web,yape,4,385.00,ok,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Elena Paredes,Comas,Frecuente,2025-01-26
+293,2026-06-17,5,38,29.17,15,presencial,Tarjeta,3,1108.46,Promocion,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Sofia Flores,Chorrillos,Regular,2025-11-21
+294,2026/02/05,2,44,17.5,15,Telefono,Yape,2,770.00,Revisar,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
+295,2026-05-06,7,6,4.24,0,Web,Efectivo,4,25.44,Cliente frecuente,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Ana Sayan,Surco,Corporativo,2025-04-09
+296,2026-03-15,6,28,29.17,20,  App ,  Plin ,4,816.76,Promocion,Local 1,Callao,Centro,Paneton,Temporada,29.17,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
+297,22-01-2026,1,1,3,10,ApP,Yape,5,3.00,Revisar,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Elena Paredes,Comas,Frecuente,2025-01-26
+298,2026-06-27,5,15,4.24, 5 ,WhatsApp,Efectivo,5,63.60,Promocion,,Comas,Centro,Empanada,salados,4.24,fiorella reyes,LIMA,Frecuente,2025-03-25
+299,2026-04-22,8,12,29.17,0,App,Tarjeta,5,350.04,,Local 1,Callao,Centro,Paneton,Temporada,29.17,DIEGO MENDOZA,Callao,Regular,2025-09-13
+300,2026-03-09,2,60,17.5,5,Presencial,Transferencia,1,1050.00,,Local 4,Surco,Norte,Queque,PaStElEs,17.5,Sofia Ramos,La Molina,Premium,2025-08-03
+301,2026-06-20,7,55,17.5,5,Telefono,Efectivo,4 aprox,962.50,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
+302,2026-05-06,6,20,3,10,app,Yape,2,60.00,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Jose Gomez,Ate,  Frecuente ,2025-02-09
+303, 2026-02-15 ,7,31,6.46,0,Presencial,Yape,2,200.26,Revisar,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,fiorella reyes,LIMA,Frecuente,2025-03-25
+304,2026-04-22,7,16,6.46,8,App,Tarjeta,,103.36,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Fiorella Ramos,Surco,Corporativo,2025-01-15
+305,2026-03-06,6,48,29.17,15,App,Plin,1,1400.16,revisar,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Maria Gomez,Comas,Corporativo,2025-05-21
+306,2026/06/18,8,10,0.37,8,Presencial,Yape,5,3.70,OK,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
+307,,3,38,0.37,15,Web,Transferencia,4,14.06,,Local 3,Lima,Norte,Pan frances,PaNeS,0.37,Claudia Gomez,Miraflores,Regular,2025/08/25
+308,2026-02-19,2,58,17.5,12 aprox,App,Yape,3,1015.00,,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Claudia Gomez,Miraflores,Regular,2025/08/25
+309,2026-06-25,5,33,3,12,Presencial,Transferencia,4,99.00,OK,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
+310,2026-01-03,2,60,4.73,0,,Yape,2,283.80,OK,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Camila Ramos,Independencia,Corporativo,2025-10-11
+311,2026-05-18,3,14,3,0,App,Yape,1,42.00,Cliente frecuente,,Comas,Centro,Alfajor,Dulces,3.0,Diana Reyes,Villa El Salvador,,21-01-2025
+312,2026-06-28,1,14,0.51,12,Web,Efectivo,5,7.14,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Jose Campos,lima,Regular,09-12-2025
+313,2026-02-24,3,48,3,8,Web,Tarjeta,2,144.00,Cliente frecuente,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
+314,2026/04/05,3,35,17.5,12,App,Tarjeta, 5 ,612.50,ClIeNtE FrEcUeNtE,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Elena Paredes,Comas,Frecuente,2025-01-26
+315,2026-02-09,3,39,0.37,5,WhatsApp,Transferencia,1,14.43,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Jorge Mendoza,Callao,Premium,2025-06-26
+316,2026-01-09,6,32,6.46,0,WHATSAPP,Efectivo,2,206.72,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
+317,2026-05-24,5,33,45.67,12,Web,Efectivo,2,1507.11,Promocion,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Claudia Gomez,Miraflores,Regular,2025/08/25
+318,2026-03-02,3,15,0.51,5,Presencial,Tarjeta,5,7.65,Cliente frecuente,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Maria Paredes,Lima,  Premium ,2025-06-21
+319,2026-05-03,5,8,45.67,0,Web,Transferencia,1,365.36,,Local 3,Lima,Norte,Torta chocolate,Pasteles,45.67,Sofia Salazar,Lima,NuEvO,2025-03-18
+320,2026-06-05,8,23,29.17,8,Presencial,efectivo,2,670.91,OK,,Comas,Centro,Paneton,Temporada,29.17,Lucia Vargas,San Miguel,Frecuente,2025-01-02
+321,2026/02/09,4,40,17.5,8,Web,Transferencia,5,700.00,,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Jose Ramos,Callao,  Frecuente ,2025-10-09
+322,2026-03-05,5,7,6.46,20,TELEFONO,Efectivo,1,45.22,OK,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
+323,2026-02-01,6,2,0.37,5,Presencial,Transferencia,4,0.74,  Revisar ,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
+324,2026-04-13,4,11,45.67,0,App,Plin,4,502.37,Cliente frecuente,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,Jose Ramos,Callao,  Frecuente ,2025-10-09
+325,2026-01-11,4,24,3,0,App,PlIn,1,72.00,Cliente frecuente,,Comas,Centro,Alfajor,Dulces,3.0,Raul Cruz,Callao,Regular,2025-12-11
+326,2026-04-23,5,36,29.17,20,  Telefono ,Tarjeta,2,1050.12,,,Comas,Centro,Paneton,Temporada,29.17,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
+327, 2026-04-17 ,2,47,4.73,15,App,  Yape ,2,222.31,Revisar,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Elena Paredes,Comas,Frecuente,2025-01-26
+328, 2026-04-10 ,8,38,4.24,12,App,  Tarjeta ,2,161.12,Cliente frecuente,Local 1,Callao,Centro,Empanada,salados,4.24,Diana Vargas,  Miraflores ,Regular,2025-02-03
+329,2026-05-19,2,26,3,5,App,Transferencia,2,78.00,Promocion,,Comas,Centro,Alfajor,Dulces,3.0,Maria Gomez,Comas,Corporativo,2025-05-21
+330,2026-04-28,6,42,4.24,0 aprox,Presencial,Tarjeta,2,178.08,OK,Local 6,Independencia,Centro,Empanada,salados,4.24,DIEGO MENDOZA,Callao,Regular,2025-09-13
+331,2026-03-02,1,2,4.24, 15 ,Presencial,Yape,3,8.48,,Local 4,Surco,Norte,Empanada,salados,4.24,DIANA CAMPOS,Comas,Nuevo,2025-01-04
+332,2026-06-01, 8 ,44,6.46,0,WhatsApp,EfEcTiVo,2,284.24,,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,Diana Reyes,Villa El Salvador,,21-01-2025
+333,2026-03-10,1,37,0.37,8,Web,Yape,4,13.69,Cliente frecuente,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Andre Soto,Callao,FrEcUeNtE,2025-12-09
+334,2026-01-25,8,13,3,12,Web,Tarjeta,4,39.00,Revisar,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Ana Torres,Ventanilla,Premium,2025-06-13
+335,2026-04-26,4,51,29.17,0,Web,Tarjeta,2,1487.67,Promocion,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
+336,2026-05-24,3,6,4.73,20,Telefono,Tarjeta,1,28.38,Revisar,  Local 2 ,San Juan de Lurigancho,Este,CaFe pAsAdO,Bebidas,4.73,Victor Ramos,Ate,Premium,2025/06/07
+337,2026-03-02,2 aprox,53,45.67,12,Web,,2,2420.51,,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,,Miraflores,corporativo,2025-07-16
+338,2026-03-10,8,42,6.46,5,Web,Yape,3,271.32,Promocion,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Jorge Vargas,CoMaS,Nuevo,2025-10-04
+339,2026-02-03,2,20,4.24,8,WhatsApp,Efectivo,2,84.80,Revisar,Local 3,Lima,Norte,Empanada,salados,4.24,Maria Sayan,San Juan de Lurigancho,,2025-07-11
+340,2026-05-05,8 aprox,13,4.73,8,WhatsApp,Efectivo,3,61.49,Cliente frecuente,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
+341,2026-03-14,8,26,0.51,0 aprox,App,Tarjeta,3,13.26,,,Comas,Centro,Pan integral,  Panes ,0.51,,Lima,Premium,2025/12/17
+342,2026-04-06,,17,4.73,10,Web,TRANSFERENCIA,2,80.41,Cliente frecuente,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
+343, 2026-02-28 ,4,109.14,45.67,20,Telefono,Yape,5,4984.42,,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Rocio  Salazar,  Surco ,Regular,2025-07-21
+344,2026-05-19,7,48,45.67,15,ApP,Plin,2,2192.16,OK,Local 1,Callao,Centro,Torta chocolate,Pasteles,45.67,Diana Sayan,Miraflores,Regular,2025-02-14
+345,2026/05/13, 8 ,13,4.73,12,Presencial,EFECTIVO,2,61.49,Promocion,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
+346,2026-05-10,7,47,6.46,10,Presencial,Plin,3,303.62,,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Raul Cruz,Callao,Regular,2025-12-11
+347,2026-05-05,8,48,3,15,Telefono,Yape,3,144.00,OK,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Diana Vargas,  Miraflores ,Regular,2025-02-03
+348,2026-01-27,1,52,6.46,20,Web,Plin,5,335.92,OK,,Comas,Centro,Jugo natural,Bebidas,6.46,Luis Vargas,Comas,Nuevo,2025-11-11
+349,2026-06-03,3,4,45.67,20,whatsapp,Yape,3,182.68,,,Comas,Centro,Torta chocolate,Pasteles,45.67,Diana Campos,Ate,Regular,2025-05-27
+350,2026-03-06,2,31,29.17,0,Presencial,Plin,2,904.27,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Diego Quispe,San  Miguel,Nuevo,2025-07-08
+351,2026-02-10,8,26,17.5,10,TeLeFoNo,YAPE,2,455.00,,Local 4,Surco,Norte,Queque,PaStElEs,17.5,,Lima,Premium,2025/12/17
+352,2026-05-18,6,18,45.67,8 aprox,Presencial,Yape,1 aprox,822.06,Cliente frecuente,Local 1,Callao,Centro,Torta chocolate,Pasteles,45.67,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
+353,2026-02-08,5,54,6.46,12,Web,Efectivo,5,348.84,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Elena Reyes,Villa El Salvador,Corporativo,2025-10-21
+354,2026-03-28,6,60,0.51,8,Presencial,Transferencia,1,30.60,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Victor Ramos,Ate,Premium,2025/06/07
+355,2026-06-15,4,28,4.24,0,Web,Tarjeta,1,118.72,PrOmOcIoN,Local 3,Lima,Norte,Empanada,salados,4.24,Diego Quispe,San  Miguel,Nuevo,2025-07-08
+356,2026/02/17,4,52,17.5,10,App,Plin,1,910.00,Revisar,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
+357,2026-05-09,3,19,17.5,10,Presencial,Plin,5,332.50,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
+358,2026-02-12,1,20,45.67,0,presencial,TRANSFERENCIA,1,913.40,OK,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Fiorella Ramos,Surco,Corporativo,2025-01-15
+359,2026-06-13,4,27,0.51,,WEB,Efectivo,5,13.77,,,Comas,Centro,Pan integral,  Panes ,0.51,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
+360,2026-05-12,7,12,17.5,0 aprox,Presencial,plin,5,210.00,OK,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Jorge Vargas,CoMaS,Nuevo,2025-10-04
+361,2026-05-13,4,9,0.51,8,Presencial,Tarjeta,5,4.59,Cliente frecuente,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,Fiorella Huaman,Lima,Nuevo,2025-05-08
+362,2026-05-06,4,56,29.17,0,  Web ,Transferencia,4,1633.52,Promocion,Local 1,Callao,Centro,Paneton,Temporada,29.17,Jose Campos,lima,Regular,09-12-2025
+363,2026-06-03,4,1,4.73,0,Web,EfEcTiVo,2,4.73,Cliente frecuente,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,jose torres,Callao,NuEvO,2025-05-01
+364,2026-04-17,8,29,4.73,12,WhatsApp,Plin,3,137.17,,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
+365,2026-05-21, 4 ,23,29.17,20,App,Tarjeta,4,670.91,,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Ana Paredes,LiMa,Corporativo,2025-07-25
+366,2026-01-21,6,53,0.51,20 aprox,Web,Tarjeta,5,27.03,,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Lucia Reyes,Comas,Premium,2025-05-08
+367,2026-06-12,7,13,4.73,8,Presencial,Tarjeta,,61.49,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Rocio Gomez,Independencia,  Corporativo ,2025-04-02
+368,2026-01-12,,42,17.5,0,Web,Tarjeta,2,735.00,,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
+369,2026/02/16,4,4,0.37,5,App,Efectivo,3,1.48,Promocion,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Carlos Rojas,la molina,Regular,2025-08-05
+370,2026-03-05,4,28,45.67,12,Telefono,Efectivo,3,1278.76,Cliente frecuente,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Luis Torres,Ate,Corporativo,20/07/2025
+371,2026-05-25,2,48,4.73,20,Web,Plin,4,227.04,Cliente frecuente,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Victor Ramos,Ate,Premium,2025/06/07
+372,24/06/2026,5,17,4.24,12,Telefono,Plin,1,72.08,PrOmOcIoN,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Jorge Vargas,CoMaS,Nuevo,2025-10-04
+373,2026-01-02,2,3,4.73,0,App,Transferencia,2,14.19,Promocion,,Comas,Centro,CaFe pAsAdO,Bebidas,4.73,Fiorella Vargas,La Molina,Premium,2025-11-15
+374,2026-05-05,,16,17.5,5,Web,Yape,5,280.00,,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Camila Soto,Miraflores,Premium,2025-09-04
+375,2026/04/25,1,209.16,3,12,WhatsApp,yape,1,627.48,ReViSaR,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Carlos Rojas,la molina,Regular,2025-08-05
+376,2026-04-22,7,42,45.67,8,App,Yape,3,1918.14,Promocion,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Rocio  Salazar,  Surco ,Regular,2025-07-21
+377,2026-06-14,4,37,4.24,0,Telefono,Efectivo,3,156.88,Cliente frecuente,Local 6,Independencia,Centro,Empanada,salados,4.24,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
+378,,1,49,17.5,8,,Tarjeta,3,857.50,,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
+379,2026-04-08,6,6,6.46,5,Telefono,Transferencia,1,38.76,Revisar,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Camila Soto,Miraflores,Premium,2025-09-04
+380,2026-02-11,2,25,0.51,12,TeLeFoNo,Tarjeta,2,12.75,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,,callao,Nuevo,2025-09-09
+381,2026-04-09,6,28,3,10,Telefono,Efectivo,3,84.00,Revisar,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Raul Campos,COMAS,Nuevo,2025-05-16
+382,11/06/2026,2,12,6.46,20,WhatsApp,Tarjeta,5,77.52,,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,Maria Sayan,San Juan de Lurigancho,,2025-07-11
+383,18/03/2026,1,48,29.17,0,Presencial,Efectivo,1,1400.16,,Local 3,Lima,Norte,Paneton,Temporada,29.17,Diana Torres,Surco,Nuevo,2025-03-23
+384,2026-01-22,5,55,6.46,0,Presencial,Efectivo,1,355.30,,Local 4,Surco,Norte,Jugo natural,Bebidas,6.46,Jorge Mendoza,Ate,ReGuLaR,2025-12-14
+385,2026-03-09,5,15,0.37,0,App,Tarjeta,2,5.55,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,Jorge Mendoza,Callao,Premium,2025-06-26
+386,2026/01/16,8,46,0.51,15,,TrAnSfErEnCiA,5,23.46,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,fiorella reyes,LIMA,Frecuente,2025-03-25
+387,2026-06-27,5,15,4.24, 5 ,WhatsApp,Efectivo,5,63.60,Promocion,,Comas,Centro,Empanada,salados,4.24,fiorella reyes,LIMA,Frecuente,2025-03-25
+388,2026-06-24,3,15,0.37,0,Web,Yape,2,5.55,,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Lucia Navarro,San Juan de Lurigancho,Premium,2025-09-28
+389,2026-05-18,6,34,29.17,12,Telefono,Plin,3,991.78,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Victor Ramos,Ate,Premium,2025/06/07
+390,21/05/2026,7,30,6.46,8,WeB,Yape,2,193.80,,Local 3,Lima,Norte,Jugo natural,Bebidas,6.46,DiAnA ToRrEs,Comas,frecuente,2025-02-03
+391,2026-02-03,3,2,0.37,12,Presencial,Transferencia,5,0.74,Promocion,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Sofia Flores,Chorrillos,Regular,2025-11-21
+392,2026-06-20,8,57,29.17,10,Presencial,Plin,2,1662.69,,Local 6,Independencia,Centro,Paneton,Temporada,29.17,DIANA CAMPOS,Comas,Nuevo,2025-01-04
+393,2026-02-19,1,51,0.51,0,Web,PlIn,2,26.01,Revisar,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Rocio  Salazar,  Surco ,Regular,2025-07-21
+394,2026-02-18,7,34,6.46,20 aprox,WhatsApp,Yape,3,219.64,Promocion,,Comas,Centro,Jugo natural,Bebidas,6.46,Sofia Ramos,La Molina,Premium,2025-08-03
+395,23-02-2026,7,13,0.51,12,Web,PlIn,3,6.63,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Victor Ramos,Ate,Premium,2025/06/07
+396,2026-02-07,6,4,45.67,,Presencial,  Yape ,5,182.68,,Local 4,Surco,Norte,Torta chocolate,Pasteles,45.67,Claudia Flores,Chorrillos,Regular,2025-08-13
+397,2026-01-11,5,41,3,0,Presencial,Yape,4,123.00,,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Ana Torres,Ventanilla,Premium,2025-06-13
+398,2026-01-27,3 aprox,43,6.46,15,Telefono,Plin,2,277.78,Promocion,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Lucia Vargas,San Miguel,Frecuente,2025-01-02
+399,2026-04-17,5 aprox,30,3,8,Telefono,PLIN, 5 ,90.00,OK,,Comas,Centro,Alfajor,Dulces,3.0,Ana Sayan,Surco,Corporativo,2025-04-09
+400,2026-02-19,1,57,17.5,0,WhatsApp,Yape,5,997.50,Ok,Local 3,Lima,Norte,Queque,PaStElEs,17.5,Andre Quispe,Ventanilla,Premium,2025-12-04
+401,2026-03-13,6,26,3, 10 ,Web,Efectivo,2,78.00,OK,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,Maria Gomez,Comas,Corporativo,2025-05-21
+402,2026-06-04,6,27,4.73,0,App,  Yape ,4,127.71,OK,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Diana Campos,Ate,Regular,2025-05-27
+403,2026-03-06,4,3,45.67,0,WhatsApp,Efectivo,4,137.01,Promocion,,Comas,Centro,Torta chocolate,Pasteles,45.67,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
+404,2026-03-26,7,13,29.17,5,App,Tarjeta,4,379.21,OK,,Comas,Centro,Paneton,Temporada,29.17,,AtE,Frecuente,2025-03-02
+405,2026-03-16,2,9,4.24,20,WhatsApp,Transferencia,4,38.16,promocion,Local 4,Surco,Norte,Empanada,salados,4.24,Jose Campos,lima,Regular,09-12-2025
+406,2026-05-25,4,6,6.46,12,App,Transferencia,4,38.76,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,jose torres,Callao,NuEvO,2025-05-01
+407,2026/01/12,1,43,17.5,10 aprox,,Tarjeta,3,752.50,Revisar,Local 1,Callao,Centro,Queque,PaStElEs,17.5,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
+408,2026-05-26,7,4,29.17,15,Web,Tarjeta,4,116.68,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Rocio  Salazar,  Surco ,Regular,2025-07-21
+409,2026/03/10,7,37,4.24,12,App,YAPE,2,156.88,,,San Juan de Lurigancho,Centro,Empanada,salados,4.24,Luis Rojas,Comas,Regular,2025-07-15
+410,2026-06-10,7,55,3,20,WhatsApp,Transferencia,4,165.00,,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,Rocio  Salazar,  Surco ,Regular,2025-07-21
+411,2026-01-06,6,58,17.5,0,Web,Efectivo,2,1015.00,Promocion,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Elena Reyes,Villa El Salvador,Corporativo,2025-10-21
+412,2026-04-15,6,30,3,10,Telefono,Efectivo,1,90.00,Promocion,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Ana Torres,Ventanilla,Premium,2025-06-13
+413, 2026-06-28 ,4,12,4.73,5,Presencial,Tarjeta,4,56.76,OK,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Rocio Torres,comas,Premium,2025-03-08
+414,2026-04-14,7,20,17.5,15,Telefono,Tarjeta,2,350.00,Cliente frecuente,,Comas,Centro,Queque,PaStElEs,17.5,Miguel Mendoza,Ventanilla,Premium,2025-10-14
+415,2026-06-26, 4 ,11,4.73,10,Presencial,Plin,4,52.03,  Revisar ,Local 3,Lima,Norte,CaFe pAsAdO,Bebidas,4.73,Lucia Vargas,San Miguel,Frecuente,2025-01-02
+416,2026-05-01,4,49,17.5,15,WhatsApp,Efectivo,4,857.50,Revisar,,Comas,Centro,Queque,PaStElEs,17.5,Andre Soto,Callao,FrEcUeNtE,2025-12-09
+417,2026-01-07,6,14,3,15,Telefono,Tarjeta,2,42.00,OK,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Lucia Reyes,Comas,Premium,2025-05-08
+418,2026-01-12,,11,17.5,20,App,Tarjeta,4,192.50,Promocion,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Maria Gomez,Comas,Corporativo,2025-05-21
+419,2026-06-20,8,12,29.17,8,Telefono,Tarjeta,4,350.04,OK,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,fiorella reyes,LIMA,Frecuente,2025-03-25
+420,2026-01-04,3,35,0.51,10,  Web ,Transferencia,4,17.85,,,Comas,Centro,Pan integral,  Panes ,0.51,Maria Paredes,Comas,CoRpOrAtIvO,2025-10-24
+421,2026-02-27,7,18,4.73,15,Web,Plin,3,85.14,OK,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,Camila Ramos,Independencia,Corporativo,2025-10-11
+422,2026-06-03,7,3,4.24,10,Telefono,PLIN,5,12.72,,  Local 2 ,San Juan de Lurigancho,Este,Empanada,salados,4.24,Lucia Reyes,Comas,Premium,2025-05-08
+423,19-02-2026,1,36,4.73,0 aprox,Presencial,Tarjeta,5,170.28,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,,Lima,Premium,2025/12/17
+424,2026-01-01,8,58,0.37,10,,Efectivo,4,21.46,Revisar,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Lucia Huaman,San Juan de Lurigancho,,2025-05-05
+425, 2026-01-15 ,2,46,0.37,10,App,Efectivo,2,17.02,Promocion,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Jose Ramos,Callao,  Frecuente ,2025-10-09
+426,2026-06-14,3,49,3,10,WhatsApp,Transferencia,1,147.00,,,Comas,Centro,Alfajor,Dulces,3.0,Jorge Vargas,CoMaS,Nuevo,2025-10-04
+427,2026-05-11,7,43,29.17,5,Web,Yape,4,1254.31,OK,Local 1,Callao,Centro,Paneton,Temporada,29.17,Camila Soto,Miraflores,Premium,2025-09-04
+428,2026-03-28,3,46,4.73,8,App,Transferencia,3,217.58,Revisar,Local 6,Independencia,Centro,CaFe pAsAdO,Bebidas,4.73,Jorge Mendoza,Callao,Premium,2025-06-26
+429,2026-01-26,8,39,45.67,8,WhatsApp,Plin,3,1781.13,Cliente frecuente,,Comas,Centro,Torta chocolate,Pasteles,45.67,Diana Vargas,  Miraflores ,Regular,2025-02-03
+430,2026-05-12,7,44,29.17,0,Telefono,Efectivo,,1283.48,Revisar,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Lucia Vargas,San Miguel,Frecuente,2025-01-02
+431,2026-01-13,3,33,4.24,10,Web,,5,139.92,Cliente frecuente,Local 3,Lima,Norte,Empanada,salados,4.24,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
+432,2026-05-04,1,11,4.73,5,Web,,2,52.03,Revisar,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Raul Campos,COMAS,Nuevo,2025-05-16
+433,2026-03-26,4,33,4.24,0,App,Tarjeta,1,139.92,,Local 3,Lima,Norte,Empanada,salados,4.24,Andre Rojas,Ventanilla,Nuevo,2025-08-09
+434,2026-04-27,3,31,0.51,0,Telefono,Tarjeta,2,15.81,Cliente  frecuente,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,Sofia Salazar,Lima,NuEvO,2025-03-18
+435,2026-01-11,4,26,3,0,APP,Yape,1,78.00,,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Jose Ramos,Callao,  Frecuente ,2025-10-09
+436,2026-02-26,6,22,4.73,20,WhatsApp,Transferencia,4,104.06,OK,Local 6,Independencia,Centro,CaFe pAsAdO,Bebidas,4.73,Diana Torres,Surco,Nuevo,2025-03-23
+437,2026-04-08,6,1,45.67,0,Web,Transferencia,3,45.67,Revisar,,San Juan de Lurigancho,Centro,Torta chocolate,Pasteles,45.67,Andre Soto,Callao,FrEcUeNtE,2025-12-09
+438,2026-01-15,7,10,3, 20 ,App,Plin,1,30.00,Revisar,Local 1,Callao,Centro,Alfajor,Dulces,3.0,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
+439,02-05-2026,8,58,4.73,20,Web,Yape,4,274.34,OK,Local 4,Surco,Norte,CaFe pAsAdO,Bebidas,4.73,DIANA CAMPOS,Comas,Nuevo,2025-01-04
+440,,5,15,3,0 aprox,WhatsApp,Yape,2,45.00,Cliente frecuente,,San Juan de Lurigancho,Centro,Alfajor,Dulces,3.0,Sofia Salazar,Lima,NuEvO,2025-03-18
+441,2026-04-22,4,12,0.51,0,Telefono,,2,6.12,Revisar,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Lucia Vargas,San Miguel,Frecuente,2025-01-02
+442,2026-05-27,5,22,17.5,0,Web,Tarjeta,3,385.00,,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Raul Cruz,Callao,Regular,2025-12-11
+443,2026-03-26,4,35,4.73,8,APP,Tarjeta,,165.55,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Claudia Castillo,Ventanilla,Corporativo,2025-02-22
+444,2026-04-22,2,36,0.37,0,WhatsApp,Transferencia,5,13.32,,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,Diana Vargas,  Miraflores ,Regular,2025-02-03
+445,2026-03-01,4,9,0.51,0 aprox,Presencial,Transferencia,5,4.59,PROMOCION,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Marco Paredes,Miraflores,Frecuente,2025-09-01
+446,2026-02-08,,26,17.5,20,Telefono,YaPe,2,455.00,,,Comas,Centro,Queque,PaStElEs,17.5,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
+447,2026-04-28,1,32,45.67,10,App,Efectivo,5,1461.44,,  Local 2 ,San Juan de Lurigancho,Este,Torta chocolate,Pasteles,45.67,Miguel Mendoza,Ventanilla,Premium,2025-10-14
+448,2026-04-15,6,6,0.51,0,whatsapp,Tarjeta,2,3.06,OK,,Comas,Centro,Pan integral,  Panes ,0.51,Rocio Gomez,Independencia,  Corporativo ,2025-04-02
+449,2026-02-02,3,31,6.46,8,WEB,Yape,2,200.26,Promocion,Local 1,Callao,Centro,Jugo natural,Bebidas,6.46,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
+450, 2026-01-16 ,3,43,6.46,5,WhAtSaPp,Transferencia,3,277.78,Cliente frecuente,  Local 2 ,San Juan de Lurigancho,Este,Jugo natural,Bebidas,6.46,Lucia Gomez,Comas,Premium,2025-01-13
+451,2026-03-10,5,39,17.5,15,Presencial,Efectivo,1,682.50,OK,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
+452,20-05-2026,6,55,4.24,0,WhatsApp,YAPE,4,233.20,Promocion,,Comas,Centro,Empanada,salados,4.24,,Lima,Premium,2025/12/17
+453,15/06/2026,3,27,29.17,0,Telefono,Transferencia,3,787.59,,,Comas,Centro,Paneton,Temporada,29.17,Jose Campos,lima,Regular,09-12-2025
+454, 2026-05-25 ,3,46,0.51,15,Presencial,Efectivo,1,23.46,Cliente frecuente,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
+455,2026/01/22,7,2,6.46,0,Telefono,Transferencia,4,12.92,,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Maria Gomez,Comas,Corporativo,2025-05-21
+456,2026-01-25,3,21,3,5,WhatsApp,Plin,4,63.00,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,Lucia Gomez,Comas,Premium,2025-01-13
+457, 2026-06-20 ,,60,17.5,0,Web,Transferencia,3,1050.00,Promocion,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Ana Cruz,  Surco ,Regular,2025-10-05
+458,2026-02-10,1,19,29.17,0,App,Tarjeta,4,554.23,Cliente frecuente,Local 6,Independencia,Centro,Paneton,Temporada,29.17,Fiorella Vargas,San Juan de Lurigancho,Corporativo,2025-05-25
+459,2026-03-22,2,5,4.73,5,WhatsApp,Transferencia,2,23.65,,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Andre Rojas,La Molina,,2025-01-13
+460,2026-01-14,2,40,29.17,0,  WhatsApp ,Yape,4,1166.80,OK,,Comas,Centro,Paneton,Temporada,29.17,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
+461,2026/05/04,5,48,0.37,0,Telefono,plin,3,17.76,Revisar,Local 1,Callao,Centro,Pan frances,PaNeS,0.37,Luis Torres,Ate,Corporativo,20/07/2025
+462,2026-03-19,3,13,0.51,10,Telefono,Efectivo,2,6.63,,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Pedro Torres,Independencia,Regular,2025-04-07
+463,2026-01-18,4,16,3,0,Presencial,Efectivo,4,48.00,Cliente frecuente,Local 4,Surco,Norte,Alfajor,Dulces,3.0,  Claudia Cruz ,villa el salvador,Frecuente,2025-09-10
+464,2026-05-09,7,47,0.51,12,PrEsEnCiAl,Tarjeta,5,23.97,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Lucia Reyes,Comas,Premium,2025-05-08
+465,2026-04-16,8,16,0.51,5,WhatsApp,plin,4,8.16,Cliente frecuente,Local 3,Lima,Norte,Pan integral,  Panes ,0.51,Jorge Vargas,CoMaS,Nuevo,2025-10-04
+466,2026-04-04,3,51,6.46,8,WhatsApp,TARJETA,4,329.46,Revisar,Local 6,Independencia,Centro,Jugo natural,Bebidas,6.46,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
+467,2026-01-17, 8 ,2,17.5,20,WhatsApp,Plin,4,35.00,,Local 6,Independencia,Centro,Queque,PaStElEs,17.5,Marco Reyes,Independencia,Regular,2025-12-15
+468,2026-01-04,1,11,3,15,WhatsApp,Plin,1,33.00,Cliente frecuente,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Sofia Gomez,CHORRILLOS,Corporativo,2025-04-28
+469,2026-06-16,8,22,45.67,0,Presencial,Transferencia,1,1004.74,,,Comas,Centro,Torta chocolate,Pasteles,45.67,Jorge Rojas,Surco,regular,2025-02-05
+470,2026-05-06,8,9,6.46,10,App,Plin,5,58.14,PROMOCION,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
+471,2026-06-23,3,12,0.51,20,Telefono,Yape, 2 ,6.12,,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Maria Gomez,Comas,Corporativo,2025-05-21
+472,2026-01-16,5,56,0.37,20,,Efectivo,5,20.72,Revisar,Local 6,Independencia,Centro,Pan frances,PaNeS,0.37,Elena Paredes,Comas,Frecuente,2025-01-26
+473,2026-04-08,3,33,0.37,10,whatsapp,Plin,4,12.21,,Local 4,Surco,Norte,Pan frances,PaNeS,0.37,Lucia Reyes,Comas,regular, 2025-11-27 
+474, 2026-04-04 ,7,31,4.73,15,WhatsApp,EfEcTiVo,5,146.63,Promocion,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Andre Rojas,La Molina,,2025-01-13
+475,2026-04-07,1,184.88,3,20,WhatsApp,,5,554.64,Revisar,Local 3,Lima,Norte,Alfajor,Dulces,3.0,Camila Soto,Miraflores,Premium,2025-09-04
+476,2026/01/17,5,58,3,15,Presencial,Efectivo,2,174.00,OK,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Camila Salazar,Miraflores,nuevo,2025-12-22
+477,2026-06-15,7,56,4.73,8,,Yape,3,264.88,OK,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,Marco Paredes,Miraflores,Frecuente,2025-09-01
+478,2026-02-08,8,58,4.24,8,Presencial,Plin,5,245.92,Cliente frecuente,Local 6,Independencia,Centro,Empanada,salados,4.24,jose torres,Callao,NuEvO,2025-05-01
+479,2026-02-19,8,32,3,15,Web,Efectivo,2,96.00,,Local 6,Independencia,Centro,Alfajor,Dulces,3.0,Camila Salazar,Miraflores,nuevo,2025-12-22
+480,2026-01-27,1,42,4.73,0,Telefono,Transferencia,2,198.66,OK,,San Juan de Lurigancho,Centro,CaFe pAsAdO,Bebidas,4.73,Luis Torres,Ate,Corporativo,20/07/2025
+481,2026-01-12, 3 ,16,17.5,0,  Telefono ,Tarjeta,4,280.00,OK,,San Juan de Lurigancho,Centro,Queque,PaStElEs,17.5,Rocio Paredes,  Los Olivos ,Frecuente,2025-05-28
+482,2026-03-20,4,56,0.51,10,,Transferencia,2,28.56,,  Local 2 ,San Juan de Lurigancho,Este,Pan integral,  Panes ,0.51,Andre Soto,Callao,FrEcUeNtE,2025-12-09
+483,2026-05-10,2,51,45.67,12,Telefono,Tarjeta,1,2329.17,,Local 6,Independencia,Centro,Torta chocolate,Pasteles,45.67,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
+484,2026-04-04,1,13,0.51,0,Presencial,Plin,5,6.63,OK,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,Ana Paredes,LiMa,Corporativo,2025-07-25
+485, 2026-06-11 ,5,12,0.51,15,  Telefono ,Efectivo,1,6.12,Revisar,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Maria Sayan,San Juan de Lurigancho,,2025-07-11
+486,,6,11,17.5,20,WhatsApp,PLIN,5,192.50,Promocion,  Local 2 ,San Juan de Lurigancho,Este,Queque,PaStElEs,17.5,Diana Campos,Ate,Regular,2025-05-27
+487,2026-03-02,1,13,4.73,0,App,Plin,2,61.49,Revisar,  Local 2 ,San Juan de Lurigancho,Este,CaFe pAsAdO,Bebidas,4.73,Sofia Flores,Chorrillos,Regular,2025-11-21
+488,2026-01-18,2,57,29.17,15,App,Efectivo,5,1662.69,,Local 1,Callao,Centro,Paneton,Temporada,29.17,Diana Campos,INDEPENDENCIA,FRECUENTE,2025-10-07
+489,2026-04-07,7,18,17.5,15,WhatsApp,Efectivo,4,315.00,Revisar,,Comas,Centro,Queque,PaStElEs,17.5,DiAnA ToRrEs,Comas,frecuente,2025-02-03
+490,2026-04-25,4,26,29.17,0,Presencial,Plin,4,758.42,Promocion,  Local 2 ,San Juan de Lurigancho,Este,Paneton,Temporada,29.17,Elena Flores,Callao,Regular,2025/04/23
+491,2026-06-17,5,28,0.51,15,App,Tarjeta,2,14.28,  Revisar ,,San Juan de Lurigancho,Centro,Pan integral,  Panes ,0.51,,callao,Nuevo,2025-09-09
+492,2026-03-13,6,26,3, 10 ,Web,Efectivo,2,78.00,OK,  Local 2 ,San Juan de Lurigancho,Este,Alfajor,Dulces,3.0,Maria Gomez,Comas,Corporativo,2025-05-21
+493,2026-06-25,7,43,0.51,0,WhatsApp,Plin, 1 ,21.93,Revisar,Local 4,Surco,Norte,Pan integral,  Panes ,0.51,Jorge Mendoza,Callao,Premium,2025-06-26
+494,2026-05-13,6,28,17.5,20,WhatsApp,Yape,2,490.00,,Local 4,Surco,Norte,Queque,PaStElEs,17.5,Ana Cruz,  Surco ,Regular,2025-10-05
+495,2026-05-06,8,9,6.46,10,App,Plin,5,58.14,PROMOCION,,San Juan de Lurigancho,Centro,Jugo natural,Bebidas,6.46,Miguel Soto,Villa El Salvador,Frecuente,2025-06-26
+496,2026-03-05,4,51,0.37,0,App,Plin, 4 ,18.87,Revisar,  Local 2 ,San Juan de Lurigancho,Este,Pan frances,PaNeS,0.37,DIANA CAMPOS,Comas,Nuevo,2025-01-04
+497,2026-06-26,5,59,4.73,5,Telefono,Yape,1,279.07,OK,Local 1,Callao,Centro,CaFe pAsAdO,Bebidas,4.73,,Miraflores,corporativo,2025-07-16
+498,2026-02-23,7,29.67,0.37,5,Telefono,TRANSFERENCIA,,10.98,,,San Juan de Lurigancho,Centro,Pan frances,PaNeS,0.37,Sofia Ramos,La Molina,Premium,2025-08-03
+499,2026-03-12,7,3,4.24,0 aprox,WhatsApp,Plin,5 aprox,12.72,,,Comas,Centro,Empanada,salados,4.24,VaLeRiA ToRrEs,Chorrillos,Premium,2025-02-19
+500,2026-05-27,3,40,0.51,0,WhatsApp,,2,20.40,Promocion,Local 1,Callao,Centro,Pan integral,  Panes ,0.51,Claudia Flores,Chorrillos,Regular,2025-08-13

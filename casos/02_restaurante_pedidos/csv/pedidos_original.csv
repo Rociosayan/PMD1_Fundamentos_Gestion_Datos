@@ -1,501 +1,501 @@
 id_pedido,fecha_operacion,cantidad_platos,tiempo_preparacion_min,precio_plato,descuento_pct,canal,metodo_pago,calificacion,total_pedido,observacion,locales_nombre,locales_distrito,locales_zona,platos_nombre,platos_categoria,platos_precio_plato,clientes_nombre,clientes_distrito,clientes_segmento,clientes_fecha_registro
-1,01/04/2026,1,"25,64",17.69,0,Web,Plin,4,46.64,Promocion,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Rocio Gomez,La Molina,Corporativo,2025-05-04
-2,,5 aprox,18.93,19.95,0,WhatsApp,Yape,2,52.56,,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
-3,2026-02-20,7,41.33,27.46,5,Presencial,Tarjeta,2,76.34,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Pedro Flores,Callao,Nuevo,2025-08-25
-4,2026-06-28,5,51.48,22.95,12,Presencial,Plin,2,69.34,Cliente frecuente,Local 7,La mOlInA,,Chaufa,fusion,22.95,  Carlos Huaman ,Miraflores,Regular,2025-08-19
-5,2026-03-16,5,9.39,"31,16",20,WhatsApp,Transferencia,4,64.07,Revisar,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Raul Soto,COMAS,,2025-10-10
-6,2026-04-17,1,50.76, 22.95 ,12,Presencial,Plin,,31.0,Cliente frecuente,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Diego Soto,Miraflores,Frecuente,2025/06/05
-7,2026-02-27,7,29.83 aprox,,12,WhatsApp,Transferencia,2,71.17,,Local 2,La Molina,Norte,sopa criolla,Sopas,19.95,,Independencia,Nuevo,2025-03-09
-8,2026-04-24,1,45.28,22.3,0,Web,Tarjeta,4,37.63,PrOmOcIoN,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
-9,2026-03-14,8,12.72,22.3,,WhatsApp,Transferencia,4,45.48,,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Raul Soto,COMAS,,2025-10-10
-10,2026-06-04,1,42.88,19.95,0,Telefono,Tarjeta,4,45.3,  Revisar ,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Jose Flores,SuRcO,Corporativo,04/03/2025
-11,2026-03-02,7,38.62,19.95,10,App,Tarjeta,3,48.68,ok,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Pedro Flores,Callao,Nuevo,2025-08-25
-12,2026-04-28,5,11.33,14.9,20,Web,Plin,5,40.45 aprox,OK,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Flores,SuRcO,Corporativo,04/03/2025
-13,2026-01-27,3,46.4, 22.95 ,0,Presencial,Yape,4,34.87,  Revisar ,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
-14,2026-03-17,7,44.03,33.97,20,App,Transferencia,5,65.6,Promocion,Local 3,Surco,Norte,Ceviche,Marino,33.97,Victor Campos,San Juan de Lurigancho,,2025-03-10
-15,2026-03-11,6,29.92,31.16,10,  Presencial ,Plin,3,78.53,Promocion,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Raul Gomez,Miraflores,Regular,2025-07-08
-16,2026-03-08,2 aprox,13.95,23.38,20,Presencial,Plin,4, 23.51 ,Revisar,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
-17,2026-01-17,6,17.74,22.95,15,Web,Transferencia,3,44.26,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Camila Gomez,San Juan de Lurigancho,  Corporativo ,2025-09-19
-18,2026-05-07,2,46.61,22.3,15,  WhatsApp ,PLIN,1,27.94,Cliente frecuente,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
-19,2026-06-19,6,20.82,14.9,0,Web,Efectivo,2,48.1,OK,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Miguel Flores,Ventanilla,Frecuente,2025/05/13
-20, 2026-03-18 ,4,,31.16,5 aprox,App,,1,47.59,,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Raul Gomez,Miraflores,Regular,2025-07-08
-21,2026-04-21,5,27.45,23.38,10,Presencial,Yape,2,47.29,,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Sofia Paredes,ate,Frecuente,2025-03-27
-22, 2026-04-19 ,4,42.67,17.69,0,Presencial,Tarjeta,5,28.16,Cliente frecuente,Local 7,La mOlInA,,Ensalada especial,,17.69,Claudia Castillo,Ate,Regular,2025-05-20
-23,2026-06-26,7,18.48,33.97,10,App,Yape,3,77.51,Cliente frecuente,Local 7,La mOlInA,,Ceviche,Marino,33.97,Ana Cruz,LiMa,Corporativo,2025-03-14
-24,2026-04-02,2,,"31,16",12,Presencial,,3,31.51,Revisar,Local 7,La mOlInA,,Pollo a la brasa,Parrilla,31.16,Victor Mendoza,Independencia,Corporativo,28/11/2025
-25,2026-04-18,8,47.82,19.95,0,App,Plin,3,62.45,,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,  Carlos Huaman ,Miraflores,Regular,2025-08-19
-26,05/05/2026,7,31.33,14.9,20,presencial,yape,1,45.04,Cliente frecuente,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Sofia Paredes,ate,Frecuente,2025-03-27
-27,2026-06-15,7,53.87,22.3,,WhatsApp,Yape,1,60.03,,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Claudia Paredes,Villa El Salvador,Corporativo,
-28,2026-06-04,2,39.91,27.46,0,App,Tarjeta,5,51.78,,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,victor flores,Miraflores,Regular,2025-02-04
-29,2026-03-15,3,22.13,33.97, 8 ,WhatsApp,PlIn,5,73.2,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
-30, 2026-01-08 ,1,35.12,22.95,0,Web,Yape,4,40.7,,Local 7,La mOlInA,,Chaufa,fusion,22.95,MaRiA VaRgAs,Los Olivos,Premium,2025-04-28
-31,2026/01/21,8,34.41,22.95,0 aprox,Presencial,Plin,2,81.25,CLIENTE FRECUENTE,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Ana Paredes,Independencia,Corporativo,2025-09-18
-32,2026-01-16,8,31.52,14.9,10,WhatsApp,Tarjeta,5,244.38,,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Jose Flores,SuRcO,Corporativo,04/03/2025
-33,2026-06-10,6,25.07,27.46,12,Web,yape,1,59.48,OK,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Carlos Campos,Villa El Salvador,Regular,2025-08-27
-34,2026-05-17,5,12.96,22.3,0 aprox,Presencial,Plin,5,48.81,Promocion,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Camila Ramos,La Molina,Premium,2025-03-14
-35,2026-02-07,1, 12.25 ,22.3,15,  App ,Plin,5,39.85,ClIeNtE FrEcUeNtE,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,,Comas,Premium,2025-06-09
-36,2026/01/23,5,51.59,"22,3",0,Telefono,Transferencia, 5 ,55.47,OK,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Camila  Huaman,Lima,  Frecuente ,2025-06-15
-37,2026-05-15,7, 32.62 ,23.38,12,App,Plin,3,66.03,Promocion,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Victor Castillo,chorrillos,regular,2025-09-25
-38,2026-02-26,2,37.76,27.46,0,WeB,Yape,1,40.85,,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Valeria Mendoza,Villa El Salvador,Nuevo,03/11/2025
-39,2026-05-25,5,50.16,14.9,0,whatsapp,YaPe,3,41.2,,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,ana huaman,La  Molina,Frecuente,2025-02-02
-40,2026-03-16,5,9.39,"31,16",20,WhatsApp,Transferencia,4,64.07,Revisar,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Raul Soto,COMAS,,2025-10-10
-41,2026-04-23,5,47.24,22.3,0,app,Transferencia,3,38.51 aprox,Promocion,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Victor Castillo,chorrillos,regular,2025-09-25
-42,2026-03-21,6,51.77,33.97,10,Telefono,,2,62.67,OK,Local 4,Villa El Salvador,Este,Ceviche,Marino,33.97,,La Molina,Premium,2025-03-14
-43,2026-01-17,4,17.96,27.46,8,Web,Plin,2,35.83,,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Diana Mendoza,Ate,Regular,2025-01-23
-44,2026-06-26,7,54.03,"33,97",0,Web,Tarjeta,4,248.51,,Local 7,La mOlInA,,Ceviche,Marino,33.97,Victor Cruz,Miraflores,Frecuente,
-45,2026-06-08,6,28.65,23.38,5,WhatsApp,Yape,5,42.4,,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
-46,2026-06-10,6,25.07,27.46,12,Web,yape,1,59.48,OK,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Carlos Campos,Villa El Salvador,Regular,2025-08-27
-47,2026-06-26,7,18.48,33.97,10,App,Yape,3,77.51,Cliente frecuente,Local 7,La mOlInA,,Ceviche,Marino,33.97,Ana Cruz,LiMa,Corporativo,2025-03-14
-48,2026-04-13,8,50.69,31.16,20,Presencial,YAPE,1,S/ 68.38,Revisar,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Ana Campos,Ventanilla,Corporativo,2025-06-15
-49,,3,43.25,22.3,0,App,Plin,2,53.95,Revisar,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,,Lima,premium,2025-08-01
-50,2026-02-11, 8 ,31.42,33.97,0,Presencial,Plin,2,72.93,Revisar,Local 2,La Molina,Norte,Ceviche,Marino,33.97,Jose Paredes,  Comas ,Corporativo,2025-08-07
-51,2026-04-09,6,25.19,S/ 22.95,5,  App ,Transferencia,2,135.72,,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Diego Sayan,Chorrillos,,22-10-2025
-52,2026-06-21,1,26.35,22.3,0 aprox,Web,plin,1,27.92,,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Ana Cruz,LiMa,Corporativo,2025-03-14
-53,2026-02-16,4,32.49,31.16,0,Presencial,Plin,3 aprox,61.56,,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Sofia Navarro,Lima,Corporativo,2025-10-12
-54,2026-06-19,8,53.15,33.97,8,TELEFONO,Plin,5,65.69,,Local 3,Surco,Norte,Ceviche,Marino,33.97,Maria Soto,los olivos,Regular,2025-05-27
-55,2026-04-28,5,11.33,14.9,20,Web,Plin,5,40.45 aprox,OK,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Flores,SuRcO,Corporativo,04/03/2025
-56,2026-05-17,5,12.96,22.3,0 aprox,Presencial,Plin,5,48.81,Promocion,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Camila Ramos,La Molina,Premium,2025-03-14
-57,2026-03-12,4,,19.95, 5 ,Telefono,Efectivo,5,54.64,Cliente frecuente,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,,Independencia,Nuevo,2025-03-09
-58,2026-01-09,6,48.81,22.95 aprox,0,Web,Efectivo,1,53.58,Revisar,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Claudia Castillo,Ate,Regular,2025-05-20
-59,2026-03-18,7,29.85,33.97,10,Presencial,Yape,1,65.75,OK,Local 7,La mOlInA,,Ceviche,Marino,33.97,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
-60,2026-06-13,2,47.26,27.46,10,App,TARJETA,2,46.13,OK,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
-61,2026-01-10,5,41.3,14.9,0,Web,Tarjeta,2,44.21,Ok,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Fiorella Torres,Miraflores,Regular,09-07-2025
-62,2026-03-14,7,"12,48",31.16,12,Telefono,Plin,5,58.91,Promocion,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Valeria Mendoza,Villa El Salvador,Nuevo,03/11/2025
-63,2026-05-14,4,44.93,27.46,10,Telefono,,5,36.93,Cliente frecuente,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Carlos Salazar,VILLA EL SALVADOR,Corporativo,2025-01-22
-64,2026-05-02, 7 ,,22.3,5,Presencial,,1 aprox,68.01,Promocion,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Raul Cruz,Surco,FrEcUeNtE,2025-01-22
-65,2026-06-03,3,42.56,27.46,20,WhatsApp,Tarjeta,3,47.42,Cliente  frecuente,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,,Independencia,Nuevo,2025-03-09
-66,2026-05-26,1, 9.81 ,22.3,20,WhatsApp,Efectivo,5,8.71,,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Maria Salazar,Surco,Corporativo,2025-12-13
-67,2026-03-13,7,21.69,22.3,12,Telefono,Transferencia,3,61.37,OK,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Miguel Flores,Ventanilla,Frecuente,2025/05/13
-68,,3,47.66,22.3,0,App,Tarjeta,5,43.98,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Ana Campos,Ventanilla,Corporativo,2025-06-15
-69,2026-04-22,4,42.62,17.69,10,  Web ,Plin,1,48.57,Revisar,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Raul Gomez,Miraflores,Regular,2025-07-08
-70,2026-05-20,5,39.19, 31.16 , 12 ,Presencial,Transferencia,3,54.97,Promocion,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,ana huaman,La  Molina,Frecuente,2025-02-02
+1,01/04/2026,1,"25,64",17.69,0,Web,Plin,4,17.69,Promocion,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Rocio Gomez,La Molina,Corporativo,2025-05-04
+2,,5,18.93,19.95,0,WhatsApp,Yape,2,99.75,,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
+3,2026-02-20,7,41.33,27.46,5,Presencial,Tarjeta,2,192.22,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Pedro Flores,Callao,Nuevo,2025-08-25
+4,2026-06-28,5,51.48,22.95,12,Presencial,Plin,2,114.75,Cliente frecuente,Local 7,La mOlInA,,Chaufa,fusion,22.95,  Carlos Huaman ,Miraflores,Regular,2025-08-19
+5,2026-03-16,5,9.39,31.16,20,WhatsApp,Transferencia,4,155.80,Revisar,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Raul Soto,COMAS,,2025-10-10
+6,2026-04-17,1,50.76,22.95,12,Presencial,Plin,,22.95,Cliente frecuente,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Diego Soto,Miraflores,Frecuente,2025/06/05
+7,2026-02-27,7,29.83 aprox,19.95,12,WhatsApp,Transferencia,2,139.65,,Local 2,La Molina,Norte,sopa criolla,Sopas,19.95,,Independencia,Nuevo,2025-03-09
+8,2026-04-24,1,45.28,22.3,0,Web,Tarjeta,4,22.30,PrOmOcIoN,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
+9,2026-03-14,8,12.72,22.3,,WhatsApp,Transferencia,4,178.40,,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Raul Soto,COMAS,,2025-10-10
+10,2026-06-04,1,42.88,19.95,0,Telefono,Tarjeta,4,19.95,  Revisar ,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Jose Flores,SuRcO,Corporativo,04/03/2025
+11,2026-03-02,7,38.62,19.95,10,App,Tarjeta,3,139.65,ok,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Pedro Flores,Callao,Nuevo,2025-08-25
+12,2026-04-28,5,11.33,14.9,20,Web,Plin,5,74.50,OK,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Flores,SuRcO,Corporativo,04/03/2025
+13,2026-01-27,3,46.4,22.95,0,Presencial,Yape,4,68.85,  Revisar ,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
+14,2026-03-17,7,44.03,33.97,20,App,Transferencia,5,237.79,Promocion,Local 3,Surco,Norte,Ceviche,Marino,33.97,Victor Campos,San Juan de Lurigancho,,2025-03-10
+15,2026-03-11,6,29.92,31.16,10,  Presencial ,Plin,3,186.96,Promocion,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Raul Gomez,Miraflores,Regular,2025-07-08
+16,2026-03-08,2,13.95,23.38,20,Presencial,Plin,4,46.76,Revisar,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
+17,2026-01-17,6,17.74,22.95,15,Web,Transferencia,3,137.70,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Camila Gomez,San Juan de Lurigancho,  Corporativo ,2025-09-19
+18,2026-05-07,2,46.61,22.3,15,  WhatsApp ,PLIN,1,44.60,Cliente frecuente,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
+19,2026-06-19,6,20.82,14.9,0,Web,Efectivo,2,89.40,OK,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Miguel Flores,Ventanilla,Frecuente,2025/05/13
+20, 2026-03-18 ,4,,31.16,5 aprox,App,,1,124.64,,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Raul Gomez,Miraflores,Regular,2025-07-08
+21,2026-04-21,5,27.45,23.38,10,Presencial,Yape,2,116.90,,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Sofia Paredes,ate,Frecuente,2025-03-27
+22, 2026-04-19 ,4,42.67,17.69,0,Presencial,Tarjeta,5,70.76,Cliente frecuente,Local 7,La mOlInA,,Ensalada especial,,17.69,Claudia Castillo,Ate,Regular,2025-05-20
+23,2026-06-26,7,18.48,33.97,10,App,Yape,3,237.79,Cliente frecuente,Local 7,La mOlInA,,Ceviche,Marino,33.97,Ana Cruz,LiMa,Corporativo,2025-03-14
+24,2026-04-02,2,,31.16,12,Presencial,,3,62.32,Revisar,Local 7,La mOlInA,,Pollo a la brasa,Parrilla,31.16,Victor Mendoza,Independencia,Corporativo,28/11/2025
+25,2026-04-18,8,47.82,19.95,0,App,Plin,3,159.60,,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,  Carlos Huaman ,Miraflores,Regular,2025-08-19
+26,05/05/2026,7,31.33,14.9,20,presencial,yape,1,104.30,Cliente frecuente,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Sofia Paredes,ate,Frecuente,2025-03-27
+27,2026-06-15,7,53.87,22.3,,WhatsApp,Yape,1,156.10,,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Claudia Paredes,Villa El Salvador,Corporativo,
+28,2026-06-04,2,39.91,27.46,0,App,Tarjeta,5,54.92,,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,victor flores,Miraflores,Regular,2025-02-04
+29,2026-03-15,3,22.13,33.97, 8 ,WhatsApp,PlIn,5,101.91,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
+30, 2026-01-08 ,1,35.12,22.95,0,Web,Yape,4,22.95,,Local 7,La mOlInA,,Chaufa,fusion,22.95,MaRiA VaRgAs,Los Olivos,Premium,2025-04-28
+31,2026/01/21,8,34.41,22.95,0 aprox,Presencial,Plin,2,183.60,CLIENTE FRECUENTE,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Ana Paredes,Independencia,Corporativo,2025-09-18
+32,2026-01-16,8,31.52,14.9,10,WhatsApp,Tarjeta,5,119.20,,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Jose Flores,SuRcO,Corporativo,04/03/2025
+33,2026-06-10,6,25.07,27.46,12,Web,yape,1,164.76,OK,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Carlos Campos,Villa El Salvador,Regular,2025-08-27
+34,2026-05-17,5,12.96,22.3,0 aprox,Presencial,Plin,5,111.50,Promocion,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Camila Ramos,La Molina,Premium,2025-03-14
+35,2026-02-07,1, 12.25 ,22.3,15,  App ,Plin,5,22.30,ClIeNtE FrEcUeNtE,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,,Comas,Premium,2025-06-09
+36,2026/01/23,5,51.59,22.3,0,Telefono,Transferencia, 5 ,111.50,OK,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Camila  Huaman,Lima,  Frecuente ,2025-06-15
+37,2026-05-15,7, 32.62 ,23.38,12,App,Plin,3,163.66,Promocion,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Victor Castillo,chorrillos,regular,2025-09-25
+38,2026-02-26,2,37.76,27.46,0,WeB,Yape,1,54.92,,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Valeria Mendoza,Villa El Salvador,Nuevo,03/11/2025
+39,2026-05-25,5,50.16,14.9,0,whatsapp,YaPe,3,74.50,,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,ana huaman,La  Molina,Frecuente,2025-02-02
+40,2026-03-16,5,9.39,31.16,20,WhatsApp,Transferencia,4,155.80,Revisar,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Raul Soto,COMAS,,2025-10-10
+41,2026-04-23,5,47.24,22.3,0,app,Transferencia,3,111.50,Promocion,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Victor Castillo,chorrillos,regular,2025-09-25
+42,2026-03-21,6,51.77,33.97,10,Telefono,,2,203.82,OK,Local 4,Villa El Salvador,Este,Ceviche,Marino,33.97,,La Molina,Premium,2025-03-14
+43,2026-01-17,4,17.96,27.46,8,Web,Plin,2,109.84,,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Diana Mendoza,Ate,Regular,2025-01-23
+44,2026-06-26,7,54.03,33.97,0,Web,Tarjeta,4,237.79,,Local 7,La mOlInA,,Ceviche,Marino,33.97,Victor Cruz,Miraflores,Frecuente,
+45,2026-06-08,6,28.65,23.38,5,WhatsApp,Yape,5,140.28,,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
+46,2026-06-10,6,25.07,27.46,12,Web,yape,1,164.76,OK,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Carlos Campos,Villa El Salvador,Regular,2025-08-27
+47,2026-06-26,7,18.48,33.97,10,App,Yape,3,237.79,Cliente frecuente,Local 7,La mOlInA,,Ceviche,Marino,33.97,Ana Cruz,LiMa,Corporativo,2025-03-14
+48,2026-04-13,8,50.69,31.16,20,Presencial,YAPE,1,249.28,Revisar,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Ana Campos,Ventanilla,Corporativo,2025-06-15
+49,,3,43.25,22.3,0,App,Plin,2,66.90,Revisar,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,,Lima,premium,2025-08-01
+50,2026-02-11,8,31.42,33.97,0,Presencial,Plin,2,271.76,Revisar,Local 2,La Molina,Norte,Ceviche,Marino,33.97,Jose Paredes,  Comas ,Corporativo,2025-08-07
+51,2026-04-09,6,25.19,22.95,5,  App ,Transferencia,2,137.70,,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Diego Sayan,Chorrillos,,22-10-2025
+52,2026-06-21,1,26.35,22.3,0 aprox,Web,plin,1,22.30,,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Ana Cruz,LiMa,Corporativo,2025-03-14
+53,2026-02-16,4,32.49,31.16,0,Presencial,Plin,3 aprox,124.64,,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Sofia Navarro,Lima,Corporativo,2025-10-12
+54,2026-06-19,8,53.15,33.97,8,TELEFONO,Plin,5,271.76,,Local 3,Surco,Norte,Ceviche,Marino,33.97,Maria Soto,los olivos,Regular,2025-05-27
+55,2026-04-28,5,11.33,14.9,20,Web,Plin,5,74.50,OK,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Flores,SuRcO,Corporativo,04/03/2025
+56,2026-05-17,5,12.96,22.3,0 aprox,Presencial,Plin,5,111.50,Promocion,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Camila Ramos,La Molina,Premium,2025-03-14
+57,2026-03-12,4,,19.95, 5 ,Telefono,Efectivo,5,79.80,Cliente frecuente,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,,Independencia,Nuevo,2025-03-09
+58,2026-01-09,6,48.81,22.95,0,Web,Efectivo,1,137.70,Revisar,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Claudia Castillo,Ate,Regular,2025-05-20
+59,2026-03-18,7,29.85,33.97,10,Presencial,Yape,1,237.79,OK,Local 7,La mOlInA,,Ceviche,Marino,33.97,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
+60,2026-06-13,2,47.26,27.46,10,App,TARJETA,2,54.92,OK,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
+61,2026-01-10,5,41.3,14.9,0,Web,Tarjeta,2,74.50,Ok,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Fiorella Torres,Miraflores,Regular,09-07-2025
+62,2026-03-14,7,"12,48",31.16,12,Telefono,Plin,5,218.12,Promocion,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Valeria Mendoza,Villa El Salvador,Nuevo,03/11/2025
+63,2026-05-14,4,44.93,27.46,10,Telefono,,5,109.84,Cliente frecuente,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Carlos Salazar,VILLA EL SALVADOR,Corporativo,2025-01-22
+64,2026-05-02,7,,22.3,5,Presencial,,1 aprox,156.10,Promocion,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Raul Cruz,Surco,FrEcUeNtE,2025-01-22
+65,2026-06-03,3,42.56,27.46,20,WhatsApp,Tarjeta,3,82.38,Cliente  frecuente,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,,Independencia,Nuevo,2025-03-09
+66,2026-05-26,1, 9.81 ,22.3,20,WhatsApp,Efectivo,5,22.30,,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Maria Salazar,Surco,Corporativo,2025-12-13
+67,2026-03-13,7,21.69,22.3,12,Telefono,Transferencia,3,156.10,OK,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Miguel Flores,Ventanilla,Frecuente,2025/05/13
+68,,3,47.66,22.3,0,App,Tarjeta,5,66.90,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Ana Campos,Ventanilla,Corporativo,2025-06-15
+69,2026-04-22,4,42.62,17.69,10,  Web ,Plin,1,70.76,Revisar,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Raul Gomez,Miraflores,Regular,2025-07-08
+70,2026-05-20,5,39.19,31.16, 12 ,Presencial,Transferencia,3,155.80,Promocion,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,ana huaman,La  Molina,Frecuente,2025-02-02
 71,2026-03-05,,"29,34",22.3,0,Presencial,Transferencia,3,58.21,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Diego Paredes,Lima,Frecuente,20-12-2025
-72,2026-02-20,5,8.65 aprox,19.95,0,web,Yape,1,42.81,Revisar,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Diego Sayan,Chorrillos,,22-10-2025
-73,2026-01-05,2,8.33,22.95,0,Telefono,Yape,2,39.54,  Cliente frecuente ,Local 3,Surco,Norte,Chaufa,fusion,22.95,,La Molina,Premium,2025-03-14
-74,2026-05-16,3 aprox,22.69,31.16,0,Telefono,Transferencia,3,45.21,,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Elena Huaman,Independencia,Regular,08-03-2025
-75,2026-05-08,7,"8,06",,,App,Transferencia,5,S/ 62.05,Promocion,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Sofia Sayan,Callao,Premium,2025-05-19
-76,2026-01-27,2,53.48,19.95,10,WhatsApp,Transferencia,5,"39,37",Revisar,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Lucia Ramos,Lima,regular,2025-05-01
-77,2026-01-13,7,24.04,22.95,0,web,Yape,1,68.94,Cliente frecuente,Local 7,La mOlInA,,Chaufa,fusion,22.95,Valeria Reyes,Miraflores,Frecuente,2025-09-10
-78,2026-03-06,2,33.83,22.3,20,Web,Tarjeta,4,43.93,Promocion,Local 3,Surco,Norte,Tallarines verdes,Pastas,22.3,Raul Torres,Surco,Frecuente,2025-04-22
-79,2026-05-04,3,12.51,31.16,0,,Transferencia,1,57.95,,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Rocio Quispe,Independencia,,2025-06-22
-80,2026/06/11,3,15.52 aprox,22.3,12,Web,Plin,1,51.15,Revisar,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Victor Castillo,chorrillos,regular,2025-09-25
-81,2026-06-17,5,40.15,23.38 aprox,5,ApP,Efectivo,4,44.09,Promocion,LOCAL 5,Villa El Salvador,centro,Aji de gallina,Criollo,23.38,Sofia Paredes,ate,Frecuente,2025-03-27
-82,2026-02-13,2,,31.16,8,  Web ,Plin,4,47.95,OK,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Sofia Navarro,Lima,Corporativo,2025-10-12
-83,2026-05-11,3,49.79,17.69,5,App,Transferencia,1,46.32,OK,Local 7,La mOlInA,,Ensalada especial,,17.69,Carlos Campos,Villa El Salvador,Regular,2025-08-27
-84,2026-01-11,3,14.78,23.38,12,PRESENCIAL,Efectivo,2,37.6,OK,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Sofia Paredes,ate,Frecuente,2025-03-27
-85,2026-05-05,7,42.41,"22,3",12,WhatsApp,Tarjeta,3,61.67,OK,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Sofia Sayan,Callao,Premium,2025-05-19
-86,2026-04-27,7,41.72, 27.46 ,0,WhatsApp,Transferencia,2,66.82,OK,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,,Lima,premium,2025-08-01
-87,2026-02-26,6,46.86,31.16 aprox,0,App,,4,69.79,OK,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Victor Mendoza,Independencia,Corporativo,28/11/2025
-88,25-01-2026,7,14.72,31.16,10,  Telefono ,Efectivo,,58.67,   ,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Ana Paredes,Independencia,Corporativo,2025-09-18
-89,2026-05-19,8,30.11,23.38,20,Web,Efectivo,5,61.28,OK,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Camila Gomez,San Juan de Lurigancho,  Corporativo ,2025-09-19
-90,2026-04-25,3 aprox,37.19,14.9,10,App,EFECTIVO,2,23.17,OK,Local 3,Surco,Norte,menu ejecutivo,Menu,14.9,Victor Mendoza,Independencia,Corporativo,28/11/2025
-91,2026-01-13,2,17.54,23.38,12,WhatsApp,Transferencia,5,23.76,Cliente frecuente,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,Victor Campos,San Juan de Lurigancho,,2025-03-10
-92,04-06-2026,7,8.02,23.38,5,Presencial,Yape,3,38.42,,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Sofia Sayan,Callao,Premium,2025-05-19
-93,2026-06-19,2,38.46,19.95,0 aprox,WeB,Tarjeta,1,28.28 aprox,Revisar,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Valeria Mendoza,Villa El Salvador,Nuevo,03/11/2025
-94,2026-04-03,4,12.21,,8,Telefono,Yape,4,"39,65",Promocion,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Raul Gomez,Miraflores,Regular,2025-07-08
-95,2026-03-22,7,34.61,19.95,8,App,Plin,5,67.75,Cliente frecuente,Local 4,Villa El Salvador,Este,sopa criolla,Sopas,19.95,Ana Paredes,Independencia,Corporativo,2025-09-18
-96,2026-03-14,8,20.2,22.95,5,telefono,Yape,2,57.9,OK,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Diego Sayan,Chorrillos,,22-10-2025
-97,2026-04-22,4,46.0,22.3,20,whatsapp,Efectivo,2,47.9 aprox,,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Jorge Reyes,San Juan de Lurigancho,NUEVO,2025-05-01
-98,2026-05-03,5,14.83,22.95,0,Telefono,Transferencia,2,57.68,,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Victor Campos,San Juan de Lurigancho,,2025-03-10
-99,2026-06-02,3,13.7,33.97,15,web,Efectivo,4,50.18,Revisar,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Rocio Gomez,La Molina,Premium,2025-08-04
-100,2026-05-05,7,44.5,22.3,0,Presencial,Yape,3,78.26,Revisar,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Claudia Huaman,Ate,Frecuente,2025-03-12
-101,2026-06-08,4,8.18,22.95,0,Telefono,  Plin ,3,49.74,Promocion,Local 7,La mOlInA,,Chaufa,fusion,22.95,Elena Huaman,Independencia,Regular,08-03-2025
-102,2026-04-12,5,28.88,22.95,0,Presencial,Transferencia,5,49.8,Revisar,Local 2,La Molina,Norte,Chaufa,fusion,22.95,MaRiA VaRgAs,Los Olivos,Premium,2025-04-28
-103,2026-05-07,7,40.39,22.95,8,WeB,Tarjeta,4,54.11,Cliente frecuente,Local 3,Surco,Norte,Chaufa,fusion,22.95,Rocio Gomez,La Molina,Premium,2025-08-04
-104,2026-06-28,7,25.13,33.97,5,WhatsApp,Tarjeta,2,70.66,,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Diego Cruz,La Molina,Frecuente,2025-12-16
-105,2026-03-25,5,"31,53",17.69,0,WhatsApp,Tarjeta,4,47.28,OK,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Miguel Flores,Ventanilla,Frecuente,2025/05/13
-106,2026-01-27,3,46.4, 22.95 ,0,Presencial,Yape,4,34.87,  Revisar ,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
-107,2026-05-12,5,25.33,22.3,8,,  Plin ,3,49.93,,Local 3,Surco,Norte,Tallarines verdes,Pastas,22.3,Victor Campos,San Juan de Lurigancho,,2025-03-10
-108,2026-02-19,8,17.6,22.95,0,Presencial,Efectivo, 2 ,72.55,  Cliente frecuente ,Local 7,La mOlInA,,Chaufa,fusion,22.95,Raul Cruz,Surco,FrEcUeNtE,2025-01-22
-109,2026-03-12,1,16.15, 31.16 ,0,,Tarjeta,4,47.04,OK,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Camila Huaman,Comas,Premium,2025-02-22
-110,2026-01-18,8,34.48,23.38,12,Presencial,Yape,4,84.04,OK,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Maria Soto,los olivos,Regular,2025-05-27
-111,2026-02-06,2,26.86,33.97,5,presencial,Efectivo,3,"51,06",Promocion,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Rocio Gomez,La Molina,Premium,2025-08-04
-112, 2026-03-12 ,5,54.11,27.46,20,App,Efectivo,4,53.26,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Luis Sayan,Independencia,Nuevo,2025-12-21
-113,2026-05-09,6,34.8,33.97,15,Telefono,Plin,1,61.28,Cliente frecuente,Local 7,La mOlInA,,Ceviche,Marino,33.97,Claudia Paredes,Villa El Salvador,Corporativo,
-114,2026-04-21,2,33.33,"19,95",0 aprox,Presencial,Efectivo,2,38.3,Promocion,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Maria Vargas,callao,NUEVO,2025-03-19
-115,2026-02-22,3,41.35,31.16,15,Web,Plin,5,37.32,Promocion,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Jorge Reyes,San Juan de Lurigancho,NUEVO,2025-05-01
-116,2026-01-10,5,48.99,19.95,0,WhatsApp,yape,3,67.99,Cliente frecuente,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
-117,2026-06-28,7,25.13,33.97,5,WhatsApp,Tarjeta,2,70.66,,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Diego Cruz,La Molina,Frecuente,2025-12-16
-118,2026-02-05,4,50.74,23.38,20,WhatsApp,Tarjeta,1,43.29,Promocion,LOCAL 5,Villa El Salvador,centro,Aji de gallina,Criollo,23.38,Maria Salazar,Surco,Corporativo,2025-12-13
-119,2026-05-05,7,44.5,22.3,0,Presencial,Yape,3,78.26,Revisar,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Claudia Huaman,Ate,Frecuente,2025-03-12
-120,2026-03-13, 6 ,54.8, 33.97 ,5,App,Tarjeta,3,71.7,,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
-121,2026-03-20,8,50.4,19.95,8,WhatsApp,Efectivo,1,"69,33",Promocion,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Jose Quispe,Independencia,Corporativo,2025-12-24
-122,16/01/2026,3,43.06,33.97,10,Presencial,,5,54.32,PrOmOcIoN,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Jose Quispe,Independencia,Corporativo,2025-12-24
-123,2026/04/03,1,8.14,17.69,10,web,Efectivo,1,21.58,Promocion,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Diego Soto,Miraflores,Frecuente,2025/06/05
-124,2026-03-14,2,51.67,S/ 14.9,0,Telefono,Tarjeta,2,39.57,OK,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Camila Gomez,San Juan de Lurigancho,  Corporativo ,2025-09-19
-125,2026-01-03,1,10.91,27.46,10,telefono,Transferencia,4,32.85,Cliente frecuente,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Raul Salazar,LIMA,Corporativo,2025-12-14
-126,2026-06-23,3,35.22,27.46,10,,Efectivo,5,50.02,,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Claudia Paredes,Villa El Salvador,Corporativo,
-127,2026-03-18,4,,14.9,20 aprox,Presencial,Transferencia,4,38.99,,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
-128,2026-01-12,7,37.93,19.95,0,App,Yape,3, 50.99 ,Revisar,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
-129,2026-06-18,5,33.56,22.95,8,Presencial,Efectivo,4,44.97,OK,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Sofia Sayan,Callao,Premium,2025-05-19
-130,2026-02-28,4,34.27 aprox, 17.69 , 12 ,Presencial,Tarjeta,,49.45,,Local 2,La Molina,Norte,Ensalada especial,,17.69,Carlos Paredes,LIMA,,2025-02-11
-131,13-05-2026,1,45.66,22.95,10,Web,Transferencia,5,38.47,Promocion,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Ana Cruz,LiMa,Corporativo,2025-03-14
-132,2026-01-19,1,43.12,23.38,0,Web,Efectivo,5,37.36,,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,,Independencia,Nuevo,2025-03-09
-133,,4,18.67,33.97,,WhatsApp,Transferencia,3,38.7,,Local 7,La mOlInA,,Ceviche,Marino,33.97,Carlos Campos,Villa El Salvador,Regular,2025-08-27
-134,19-05-2026,2,28.19,31.16,20,Web,Transferencia,1,29.95,Revisar,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
-135,2026-04-04,3,97.22,22.3,0,Telefono,  Plin ,4,S/ 44.6,,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Luis Sayan,Independencia,Nuevo,2025-12-21
-136,2026-05-21,5,40.74,14.9,0,App,Plin,3 aprox,49.33,,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Camila Huaman,Comas,Premium,2025-02-22
-137,25-05-2026,5,49.2,23.38,15,Web,Yape,4,68.89,Cliente frecuente,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Maria Salazar,Surco,Corporativo,2025-12-13
-138,2026-02-28,2,,"14,9",5,App,Yape,1,34.42,Revisar,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
-139,2026-04-19,4,53.89,22.95,5,Web,Efectivo,5,50.44,Revisar,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Raul Gomez,Miraflores,Regular,2025-07-08
-140,2026-05-25,4,27.39,33.97,10,App,Efectivo,3,52.12,Promocion,Local 3,Surco,Norte,Ceviche,Marino,33.97,Elena Paredes,La Molina,Frecuente,2025-02-08
-141,2026-05-22,7,35.29,22.3,15,App,Yape,4,,Cliente frecuente,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Carlos Paredes,LIMA,,2025-02-11
-142,2026-04-16,5,13.62,"23,38",15,App,Tarjeta,5,67.03,Revisar,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Camila Huaman,Comas,Premium,2025-02-22
-143,2026-05-21,6 aprox,,27.46,12,Presencial,Plin,1,67.36,,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
-144,2026-06-22,4,21.78,27.46,5,Presencial,Tarjeta,1,,Revisar,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Jose Flores,SuRcO,Corporativo,04/03/2025
-145,2026-02-10,4,39.61,"31,16",8,,Transferencia,5,47.83,,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Carlos Campos,Villa El Salvador,Regular,2025-08-27
-146,2026-05-02,4,46.99,22.3,0,App,Efectivo,2,51.21,Cliente frecuente,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,victor flores,Miraflores,Regular,2025-02-04
-147,2026-06-20,3,43.29,S/ 19.95,8,Web,Yape,1,31.38,Cliente frecuente,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Valeria Mendoza,Villa El Salvador,Nuevo,03/11/2025
-148, 2026-04-09 ,6,35.76,27.46,10,WhatsApp,TRANSFERENCIA,3,53.8,Revisar,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Victor Huaman,Comas,Corporativo,2025-10-16
-149,2026-01-15,8,40.23,27.46,12,PRESENCIAL,Plin,2,67.18,,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Elena Ramos,Surco,Nuevo,2025-12-01
-150,2026-03-25,5,52.08,22.3,15,App,Transferencia,2, 62.59 ,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Pedro Flores,INDEPENDENCIA,Frecuente,2025-12-02
-151,2026-06-22,4,48.1,"19,95",0,Telefono,Transferencia,4,43.16,,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Jose Paredes,  Comas ,Corporativo,2025-08-07
-152,2026-05-28,2, 24.14 ,22.95,8,WhatsApp,Transferencia,3, 22.34 ,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Jorge Cruz,Ventanilla,Premium,2025-09-03
-153, 2026-04-09 ,5,36.74,,8,PRESENCIAL,Tarjeta,3,149.8,Cliente frecuente,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Lucia Ramos,Lima,regular,2025-05-01
-154,2026-01-04,7,34.99,14.9,10,,Efectivo,1,,Revisar,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,jorge torres,LiMa,Premium,2025-02-15
-155,2026-04-25,7,36.73,27.46,0,PrEsEnCiAl,Tarjeta,1,67.48,ok,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Victor Huaman,Comas,Corporativo,2025-10-16
-156,2026-02-11,6,"37,05",19.95,0,Web,Efectivo,2,63.45,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Diana Vargas,LoS OlIvOs,Premium,2025-01-19
-157,2026-05-23,5,36.57,14.9,0,Telefono,Efectivo,4,42.93,Cliente frecuente,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
-158,2026-05-24,4,49.85,31.16,10,App,Efectivo,5,68.43,OK,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Rocio Gomez,La Molina,Premium,2025-08-04
-159,2026-02-05,5,38.89 aprox,S/ 27.46,12,WhatsApp,Efectivo,4 aprox,50.7,Promocion,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Victor Castillo,chorrillos,regular,2025-09-25
-160,2026-06-24,8 aprox,10.81,,12,Presencial,Plin,3,58.83,Revisar,Local 3,Surco,Norte,sopa criolla,Sopas,19.95,Raul Gomez,Miraflores,Regular,2025-07-08
-161,2026-04-15,1,13.64,22.3, 8 ,Telefono,Transferencia,1,26.29,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Claudia Paredes,Villa El Salvador,Corporativo,
-162,2026-05-25,8,54.09,S/ 22.95,12,app,Transferencia,4,59.99,OK,Local 3,Surco,Norte,Chaufa,fusion,22.95,Jorge Reyes,San Juan de Lurigancho,NUEVO,2025-05-01
-163,,7,22.39,22.95,15,TeLeFoNo,Transferencia,3,53.04,Promocion,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Camila  Huaman,Lima,  Frecuente ,2025-06-15
-164,2026-04-20,3,21.2 aprox,33.97,12,Presencial,Yape,,41.71,OK,Local 7,La mOlInA,,Ceviche,Marino,33.97,Maria Salazar,Surco,Corporativo,2025-12-13
-165,2026-01-07,7, 37.46 ,22.3,8 aprox,App,Efectivo,5,47.02,OK,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Lucia Ramos,Lima,regular,2025-05-01
-166,2026-01-06,5,18.24,14.9,8,WhatsApp,PlIn,1,45.22,,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Raul Torres,Surco,Frecuente,2025-04-22
-167,2026-02-02,7,15.32,19.95,10,Web,YAPE,1,55.71,OK,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Elena Ramos,Villa El Salvador,nuevo,2025-05-25
-168,2026-04-28,5,11.33,14.9,20,Web,Plin,5,40.45 aprox,OK,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Flores,SuRcO,Corporativo,04/03/2025
-169,2026-03-18,7,29.85,33.97,10,Presencial,Yape,1,65.75,OK,Local 7,La mOlInA,,Ceviche,Marino,33.97,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
-170,2026-01-01,5,25.78,22.95,0,Presencial,TRANSFERENCIA,3,55.53,Revisar,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Jose Flores,SuRcO,Corporativo,04/03/2025
-171, 2026-02-08 ,1,30.61,S/ 33.97,0,Presencial,Plin,4,102.29,Cliente frecuente,Local 3,Surco,Norte,Ceviche,Marino,33.97,Pedro Flores,INDEPENDENCIA,Frecuente,2025-12-02
-172,2026-05-17, 1 ,42.0,33.97,0,Presencial,Plin,2,45.21 aprox,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Maria Vargas,callao,NUEVO,2025-03-19
-173,2026-05-06,3,19.06,19.95,0,Telefono,Yape,3,44.93,Revisar,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Jose Quispe,Independencia,Corporativo,2025-12-24
-174,2026-01-07,1,20.96,23.38,15,Web,Tarjeta,3,20.62,  Cliente frecuente ,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Elena Cruz,comas,CORPORATIVO,2025-02-17
-175,2026-04-17,5,33.95,19.95,0,App,Efectivo,5,51.08,cliente frecuente,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,,Independencia,Nuevo,2025-03-09
-176,2026-06-04,8,50.63,22.95,10,WhatsApp,Tarjeta,2,52.62,Promocion,Local 7,La mOlInA,,Chaufa,fusion,22.95,,chorrillos,Frecuente,2025-05-02
-177,2026-01-26,8,49.23,17.69,10,TeLeFoNo,Yape,,56.0,OK,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Victor Cruz,Miraflores,Frecuente,
-178,2026-03-20,5,53.61,27.46,15,App,Plin,4,49.23,OK,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Raul Gomez,Miraflores,Regular,2025-07-08
+72,2026-02-20,5,8.65 aprox,19.95,0,web,Yape,1,99.75,Revisar,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Diego Sayan,Chorrillos,,22-10-2025
+73,2026-01-05,2,8.33,22.95,0,Telefono,Yape,2,45.90,  Cliente frecuente ,Local 3,Surco,Norte,Chaufa,fusion,22.95,,La Molina,Premium,2025-03-14
+74,2026-05-16,3,22.69,31.16,0,Telefono,Transferencia,3,93.48,,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Elena Huaman,Independencia,Regular,08-03-2025
+75,2026-05-08,7,"8,06",23.38,,App,Transferencia,5,163.66,Promocion,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Sofia Sayan,Callao,Premium,2025-05-19
+76,2026-01-27,2,53.48,19.95,10,WhatsApp,Transferencia,5,39.90,Revisar,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Lucia Ramos,Lima,regular,2025-05-01
+77,2026-01-13,7,24.04,22.95,0,web,Yape,1,160.65,Cliente frecuente,Local 7,La mOlInA,,Chaufa,fusion,22.95,Valeria Reyes,Miraflores,Frecuente,2025-09-10
+78,2026-03-06,2,33.83,22.3,20,Web,Tarjeta,4,44.60,Promocion,Local 3,Surco,Norte,Tallarines verdes,Pastas,22.3,Raul Torres,Surco,Frecuente,2025-04-22
+79,2026-05-04,3,12.51,31.16,0,,Transferencia,1,93.48,,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Rocio Quispe,Independencia,,2025-06-22
+80,2026/06/11,3,15.52 aprox,22.3,12,Web,Plin,1,66.90,Revisar,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Victor Castillo,chorrillos,regular,2025-09-25
+81,2026-06-17,5,40.15,23.38,5,ApP,Efectivo,4,116.90,Promocion,LOCAL 5,Villa El Salvador,centro,Aji de gallina,Criollo,23.38,Sofia Paredes,ate,Frecuente,2025-03-27
+82,2026-02-13,2,,31.16,8,  Web ,Plin,4,62.32,OK,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Sofia Navarro,Lima,Corporativo,2025-10-12
+83,2026-05-11,3,49.79,17.69,5,App,Transferencia,1,53.07,OK,Local 7,La mOlInA,,Ensalada especial,,17.69,Carlos Campos,Villa El Salvador,Regular,2025-08-27
+84,2026-01-11,3,14.78,23.38,12,PRESENCIAL,Efectivo,2,70.14,OK,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Sofia Paredes,ate,Frecuente,2025-03-27
+85,2026-05-05,7,42.41,22.3,12,WhatsApp,Tarjeta,3,156.10,OK,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Sofia Sayan,Callao,Premium,2025-05-19
+86,2026-04-27,7,41.72,27.46,0,WhatsApp,Transferencia,2,192.22,OK,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,,Lima,premium,2025-08-01
+87,2026-02-26,6,46.86,31.16,0,App,,4,186.96,OK,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Victor Mendoza,Independencia,Corporativo,28/11/2025
+88,25-01-2026,7,14.72,31.16,10,  Telefono ,Efectivo,,218.12,   ,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Ana Paredes,Independencia,Corporativo,2025-09-18
+89,2026-05-19,8,30.11,23.38,20,Web,Efectivo,5,187.04,OK,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Camila Gomez,San Juan de Lurigancho,  Corporativo ,2025-09-19
+90,2026-04-25,3,37.19,14.9,10,App,EFECTIVO,2,44.70,OK,Local 3,Surco,Norte,menu ejecutivo,Menu,14.9,Victor Mendoza,Independencia,Corporativo,28/11/2025
+91,2026-01-13,2,17.54,23.38,12,WhatsApp,Transferencia,5,46.76,Cliente frecuente,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,Victor Campos,San Juan de Lurigancho,,2025-03-10
+92,04-06-2026,7,8.02,23.38,5,Presencial,Yape,3,163.66,,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Sofia Sayan,Callao,Premium,2025-05-19
+93,2026-06-19,2,38.46,19.95,0 aprox,WeB,Tarjeta,1,39.90,Revisar,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Valeria Mendoza,Villa El Salvador,Nuevo,03/11/2025
+94,2026-04-03,4,12.21,22.95,8,Telefono,Yape,4,91.80,Promocion,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Raul Gomez,Miraflores,Regular,2025-07-08
+95,2026-03-22,7,34.61,19.95,8,App,Plin,5,139.65,Cliente frecuente,Local 4,Villa El Salvador,Este,sopa criolla,Sopas,19.95,Ana Paredes,Independencia,Corporativo,2025-09-18
+96,2026-03-14,8,20.2,22.95,5,telefono,Yape,2,183.60,OK,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Diego Sayan,Chorrillos,,22-10-2025
+97,2026-04-22,4,46.0,22.3,20,whatsapp,Efectivo,2,89.20,,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Jorge Reyes,San Juan de Lurigancho,NUEVO,2025-05-01
+98,2026-05-03,5,14.83,22.95,0,Telefono,Transferencia,2,114.75,,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Victor Campos,San Juan de Lurigancho,,2025-03-10
+99,2026-06-02,3,13.7,33.97,15,web,Efectivo,4,101.91,Revisar,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Rocio Gomez,La Molina,Premium,2025-08-04
+100,2026-05-05,7,44.5,22.3,0,Presencial,Yape,3,156.10,Revisar,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Claudia Huaman,Ate,Frecuente,2025-03-12
+101,2026-06-08,4,8.18,22.95,0,Telefono,  Plin ,3,91.80,Promocion,Local 7,La mOlInA,,Chaufa,fusion,22.95,Elena Huaman,Independencia,Regular,08-03-2025
+102,2026-04-12,5,28.88,22.95,0,Presencial,Transferencia,5,114.75,Revisar,Local 2,La Molina,Norte,Chaufa,fusion,22.95,MaRiA VaRgAs,Los Olivos,Premium,2025-04-28
+103,2026-05-07,7,40.39,22.95,8,WeB,Tarjeta,4,160.65,Cliente frecuente,Local 3,Surco,Norte,Chaufa,fusion,22.95,Rocio Gomez,La Molina,Premium,2025-08-04
+104,2026-06-28,7,25.13,33.97,5,WhatsApp,Tarjeta,2,237.79,,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Diego Cruz,La Molina,Frecuente,2025-12-16
+105,2026-03-25,5,"31,53",17.69,0,WhatsApp,Tarjeta,4,88.45,OK,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Miguel Flores,Ventanilla,Frecuente,2025/05/13
+106,2026-01-27,3,46.4,22.95,0,Presencial,Yape,4,68.85,  Revisar ,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
+107,2026-05-12,5,25.33,22.3,8,,  Plin ,3,111.50,,Local 3,Surco,Norte,Tallarines verdes,Pastas,22.3,Victor Campos,San Juan de Lurigancho,,2025-03-10
+108,2026-02-19,8,17.6,22.95,0,Presencial,Efectivo, 2 ,183.60,  Cliente frecuente ,Local 7,La mOlInA,,Chaufa,fusion,22.95,Raul Cruz,Surco,FrEcUeNtE,2025-01-22
+109,2026-03-12,1,16.15,31.16,0,,Tarjeta,4,31.16,OK,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Camila Huaman,Comas,Premium,2025-02-22
+110,2026-01-18,8,34.48,23.38,12,Presencial,Yape,4,187.04,OK,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Maria Soto,los olivos,Regular,2025-05-27
+111,2026-02-06,2,26.86,33.97,5,presencial,Efectivo,3,67.94,Promocion,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Rocio Gomez,La Molina,Premium,2025-08-04
+112, 2026-03-12 ,5,54.11,27.46,20,App,Efectivo,4,137.30,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Luis Sayan,Independencia,Nuevo,2025-12-21
+113,2026-05-09,6,34.8,33.97,15,Telefono,Plin,1,203.82,Cliente frecuente,Local 7,La mOlInA,,Ceviche,Marino,33.97,Claudia Paredes,Villa El Salvador,Corporativo,
+114,2026-04-21,2,33.33,19.95,0 aprox,Presencial,Efectivo,2,39.90,Promocion,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Maria Vargas,callao,NUEVO,2025-03-19
+115,2026-02-22,3,41.35,31.16,15,Web,Plin,5,93.48,Promocion,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Jorge Reyes,San Juan de Lurigancho,NUEVO,2025-05-01
+116,2026-01-10,5,48.99,19.95,0,WhatsApp,yape,3,99.75,Cliente frecuente,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
+117,2026-06-28,7,25.13,33.97,5,WhatsApp,Tarjeta,2,237.79,,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Diego Cruz,La Molina,Frecuente,2025-12-16
+118,2026-02-05,4,50.74,23.38,20,WhatsApp,Tarjeta,1,93.52,Promocion,LOCAL 5,Villa El Salvador,centro,Aji de gallina,Criollo,23.38,Maria Salazar,Surco,Corporativo,2025-12-13
+119,2026-05-05,7,44.5,22.3,0,Presencial,Yape,3,156.10,Revisar,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Claudia Huaman,Ate,Frecuente,2025-03-12
+120,2026-03-13,6,54.8,33.97,5,App,Tarjeta,3,203.82,,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
+121,2026-03-20,8,50.4,19.95,8,WhatsApp,Efectivo,1,159.60,Promocion,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Jose Quispe,Independencia,Corporativo,2025-12-24
+122,16/01/2026,3,43.06,33.97,10,Presencial,,5,101.91,PrOmOcIoN,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Jose Quispe,Independencia,Corporativo,2025-12-24
+123,2026/04/03,1,8.14,17.69,10,web,Efectivo,1,17.69,Promocion,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Diego Soto,Miraflores,Frecuente,2025/06/05
+124,2026-03-14,2,51.67,14.9,0,Telefono,Tarjeta,2,29.80,OK,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Camila Gomez,San Juan de Lurigancho,  Corporativo ,2025-09-19
+125,2026-01-03,1,10.91,27.46,10,telefono,Transferencia,4,27.46,Cliente frecuente,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Raul Salazar,LIMA,Corporativo,2025-12-14
+126,2026-06-23,3,35.22,27.46,10,,Efectivo,5,82.38,,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Claudia Paredes,Villa El Salvador,Corporativo,
+127,2026-03-18,4,,14.9,20 aprox,Presencial,Transferencia,4,59.60,,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
+128,2026-01-12,7,37.93,19.95,0,App,Yape,3,139.65,Revisar,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
+129,2026-06-18,5,33.56,22.95,8,Presencial,Efectivo,4,114.75,OK,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Sofia Sayan,Callao,Premium,2025-05-19
+130,2026-02-28,4,34.27 aprox,17.69, 12 ,Presencial,Tarjeta,,70.76,,Local 2,La Molina,Norte,Ensalada especial,,17.69,Carlos Paredes,LIMA,,2025-02-11
+131,13-05-2026,1,45.66,22.95,10,Web,Transferencia,5,22.95,Promocion,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Ana Cruz,LiMa,Corporativo,2025-03-14
+132,2026-01-19,1,43.12,23.38,0,Web,Efectivo,5,23.38,,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,,Independencia,Nuevo,2025-03-09
+133,,4,18.67,33.97,,WhatsApp,Transferencia,3,135.88,,Local 7,La mOlInA,,Ceviche,Marino,33.97,Carlos Campos,Villa El Salvador,Regular,2025-08-27
+134,19-05-2026,2,28.19,31.16,20,Web,Transferencia,1,62.32,Revisar,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
+135,2026-04-04,3,97.22,22.3,0,Telefono,  Plin ,4,66.90,,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Luis Sayan,Independencia,Nuevo,2025-12-21
+136,2026-05-21,5,40.74,14.9,0,App,Plin,3 aprox,74.50,,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Camila Huaman,Comas,Premium,2025-02-22
+137,25-05-2026,5,49.2,23.38,15,Web,Yape,4,116.90,Cliente frecuente,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Maria Salazar,Surco,Corporativo,2025-12-13
+138,2026-02-28,2,,14.9,5,App,Yape,1,29.80,Revisar,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
+139,2026-04-19,4,53.89,22.95,5,Web,Efectivo,5,91.80,Revisar,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Raul Gomez,Miraflores,Regular,2025-07-08
+140,2026-05-25,4,27.39,33.97,10,App,Efectivo,3,135.88,Promocion,Local 3,Surco,Norte,Ceviche,Marino,33.97,Elena Paredes,La Molina,Frecuente,2025-02-08
+141,2026-05-22,7,35.29,22.3,15,App,Yape,4,156.10,Cliente frecuente,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Carlos Paredes,LIMA,,2025-02-11
+142,2026-04-16,5,13.62,23.38,15,App,Tarjeta,5,116.90,Revisar,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Camila Huaman,Comas,Premium,2025-02-22
+143,2026-05-21,6,,27.46,12,Presencial,Plin,1,164.76,,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
+144,2026-06-22,4,21.78,27.46,5,Presencial,Tarjeta,1,109.84,Revisar,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Jose Flores,SuRcO,Corporativo,04/03/2025
+145,2026-02-10,4,39.61,31.16,8,,Transferencia,5,124.64,,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Carlos Campos,Villa El Salvador,Regular,2025-08-27
+146,2026-05-02,4,46.99,22.3,0,App,Efectivo,2,89.20,Cliente frecuente,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,victor flores,Miraflores,Regular,2025-02-04
+147,2026-06-20,3,43.29,19.95,8,Web,Yape,1,59.85,Cliente frecuente,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Valeria Mendoza,Villa El Salvador,Nuevo,03/11/2025
+148, 2026-04-09 ,6,35.76,27.46,10,WhatsApp,TRANSFERENCIA,3,164.76,Revisar,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Victor Huaman,Comas,Corporativo,2025-10-16
+149,2026-01-15,8,40.23,27.46,12,PRESENCIAL,Plin,2,219.68,,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Elena Ramos,Surco,Nuevo,2025-12-01
+150,2026-03-25,5,52.08,22.3,15,App,Transferencia,2,111.50,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Pedro Flores,INDEPENDENCIA,Frecuente,2025-12-02
+151,2026-06-22,4,48.1,19.95,0,Telefono,Transferencia,4,79.80,,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Jose Paredes,  Comas ,Corporativo,2025-08-07
+152,2026-05-28,2, 24.14 ,22.95,8,WhatsApp,Transferencia,3,45.90,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Jorge Cruz,Ventanilla,Premium,2025-09-03
+153, 2026-04-09 ,5,36.74,19.95,8,PRESENCIAL,Tarjeta,3,99.75,Cliente frecuente,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Lucia Ramos,Lima,regular,2025-05-01
+154,2026-01-04,7,34.99,14.9,10,,Efectivo,1,104.30,Revisar,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,jorge torres,LiMa,Premium,2025-02-15
+155,2026-04-25,7,36.73,27.46,0,PrEsEnCiAl,Tarjeta,1,192.22,ok,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Victor Huaman,Comas,Corporativo,2025-10-16
+156,2026-02-11,6,"37,05",19.95,0,Web,Efectivo,2,119.70,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Diana Vargas,LoS OlIvOs,Premium,2025-01-19
+157,2026-05-23,5,36.57,14.9,0,Telefono,Efectivo,4,74.50,Cliente frecuente,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
+158,2026-05-24,4,49.85,31.16,10,App,Efectivo,5,124.64,OK,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Rocio Gomez,La Molina,Premium,2025-08-04
+159,2026-02-05,5,38.89 aprox,27.46,12,WhatsApp,Efectivo,4 aprox,137.30,Promocion,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Victor Castillo,chorrillos,regular,2025-09-25
+160,2026-06-24,8,10.81,19.95,12,Presencial,Plin,3,159.60,Revisar,Local 3,Surco,Norte,sopa criolla,Sopas,19.95,Raul Gomez,Miraflores,Regular,2025-07-08
+161,2026-04-15,1,13.64,22.3, 8 ,Telefono,Transferencia,1,22.30,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Claudia Paredes,Villa El Salvador,Corporativo,
+162,2026-05-25,8,54.09,22.95,12,app,Transferencia,4,183.60,OK,Local 3,Surco,Norte,Chaufa,fusion,22.95,Jorge Reyes,San Juan de Lurigancho,NUEVO,2025-05-01
+163,,7,22.39,22.95,15,TeLeFoNo,Transferencia,3,160.65,Promocion,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Camila  Huaman,Lima,  Frecuente ,2025-06-15
+164,2026-04-20,3,21.2 aprox,33.97,12,Presencial,Yape,,101.91,OK,Local 7,La mOlInA,,Ceviche,Marino,33.97,Maria Salazar,Surco,Corporativo,2025-12-13
+165,2026-01-07,7, 37.46 ,22.3,8 aprox,App,Efectivo,5,156.10,OK,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Lucia Ramos,Lima,regular,2025-05-01
+166,2026-01-06,5,18.24,14.9,8,WhatsApp,PlIn,1,74.50,,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Raul Torres,Surco,Frecuente,2025-04-22
+167,2026-02-02,7,15.32,19.95,10,Web,YAPE,1,139.65,OK,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Elena Ramos,Villa El Salvador,nuevo,2025-05-25
+168,2026-04-28,5,11.33,14.9,20,Web,Plin,5,74.50,OK,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Flores,SuRcO,Corporativo,04/03/2025
+169,2026-03-18,7,29.85,33.97,10,Presencial,Yape,1,237.79,OK,Local 7,La mOlInA,,Ceviche,Marino,33.97,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
+170,2026-01-01,5,25.78,22.95,0,Presencial,TRANSFERENCIA,3,114.75,Revisar,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Jose Flores,SuRcO,Corporativo,04/03/2025
+171, 2026-02-08 ,1,30.61,33.97,0,Presencial,Plin,4,33.97,Cliente frecuente,Local 3,Surco,Norte,Ceviche,Marino,33.97,Pedro Flores,INDEPENDENCIA,Frecuente,2025-12-02
+172,2026-05-17,1,42.0,33.97,0,Presencial,Plin,2,33.97,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Maria Vargas,callao,NUEVO,2025-03-19
+173,2026-05-06,3,19.06,19.95,0,Telefono,Yape,3,59.85,Revisar,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Jose Quispe,Independencia,Corporativo,2025-12-24
+174,2026-01-07,1,20.96,23.38,15,Web,Tarjeta,3,23.38,  Cliente frecuente ,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Elena Cruz,comas,CORPORATIVO,2025-02-17
+175,2026-04-17,5,33.95,19.95,0,App,Efectivo,5,99.75,cliente frecuente,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,,Independencia,Nuevo,2025-03-09
+176,2026-06-04,8,50.63,22.95,10,WhatsApp,Tarjeta,2,183.60,Promocion,Local 7,La mOlInA,,Chaufa,fusion,22.95,,chorrillos,Frecuente,2025-05-02
+177,2026-01-26,8,49.23,17.69,10,TeLeFoNo,Yape,,141.52,OK,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Victor Cruz,Miraflores,Frecuente,
+178,2026-03-20,5,53.61,27.46,15,App,Plin,4,137.30,OK,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Raul Gomez,Miraflores,Regular,2025-07-08
 179,06-03-2026,,15.07,22.3,8,Telefono,PlIn,3,50.97,Promocion,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Camila Ramos,La Molina,Premium,2025-03-14
-180,2026-02-06,5,11.57,27.46,0,PRESENCIAL,Yape,5,55.23,Cliente frecuente,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
-181,2026-06-24,6,43.4,22.3,5,WhatsApp,Yape,4 aprox,51.36,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Sofia Paredes,ate,Frecuente,2025-03-27
-182,2026-03-27,7,42.2,,0,Telefono,Yape,1,52.03,OK,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Victor Campos,San Juan de Lurigancho,,2025-03-10
-183,16/03/2026,6,132.29,17.69,0,App,Transferencia,5,74.99,,Local 1,Ventanilla,Centro,Ensalada especial,,17.69,Camila  Huaman,Lima,  Frecuente ,2025-06-15
-184,2026-03-28,1,14.31,33.97,0,Web,EfEcTiVo,,45.37,OK,Local 6,Villa El Salvador,Oeste,Ceviche,Marino,33.97,Rocio Gomez,La Molina,Premium,2025-08-04
-185,2026-02-26,8,14.05,"31,16",0,WhatsApp,Transferencia,5,61.22,Revisar,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Carlos Salazar,VILLA EL SALVADOR,Corporativo,2025-01-22
-186,2026-04-16,8,17.73,27.46,12,App,YAPE,3,74.14,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Camila Ramos,La Molina,Premium,2025-03-14
-187,2026-03-22,5,14.45,22.3,15,WhatsApp,Tarjeta,3,53.94,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Jose Quispe,Independencia,Corporativo,2025-12-24
-188,2026-05-26,3,40.08,27.46,8,App,  Plin ,1,45.7,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Andre Salazar,  Villa El Salvador ,Frecuente,2025-04-08
-189,2026-02-26,5,42.4, 17.69 ,5,App,Plin,3,54.03,OK,Local 1,Ventanilla,Centro,Ensalada especial,,17.69,Raul Torres,Surco,Frecuente,2025-04-22
-190,2026-05-05,2,20.94,19.95,0 aprox,Telefono,Tarjeta,5,33.61 aprox,Revisar,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,,Comas,Premium,2025-06-09
-191,2026-05-13,5,48.33,22.3,0,App,Transferencia,5,67.28,Revisar,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Camila Ramos,La Molina,Premium,2025-03-14
-192,27/03/2026,4 aprox,40.68,17.69,12,Web,Plin,1, 33.81 ,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Ensalada especial,,17.69,Diego Sayan,Chorrillos,,22-10-2025
-193,2026-04-22,6, 75.47 ,19.95,0,Web,Yape,2,68.56,Promocion,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Camila Gomez,San Juan de Lurigancho,  Corporativo ,2025-09-19
-194,09/03/2026,2,44.52, 19.95 ,0,Telefono,,3,32.22,Revisar,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
-195,,1,8.76 aprox,23.38,20,WhatsApp,Yape,4,23.8,Promocion,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,,Independencia,Nuevo,2025-03-09
-196,2026-01-16,2,18.93,14.9,10,App,Yape,1,22.99,,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Luis Sayan,Independencia,Nuevo,2025-12-21
-197,2026-04-23,2,26.91,14.9,5,Telefono,Plin,4,34.95,Cliente frecuente,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Raul Salazar,LIMA,Corporativo,2025-12-14
-198,2026-04-16,8,53.92,"14,9", 20 ,Web,Plin,5,54.67,Promocion,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Victor Huaman,Comas,Corporativo,2025-10-16
-199,2026-04-07,5,21.99,22.95, 0 ,Web,Transferencia,4,48.48,,Local 7,La mOlInA,,Chaufa,fusion,22.95,ana huaman,La  Molina,Frecuente,2025-02-02
-200,2026-01-24,5,19.63,14.9,20,Web,Tarjeta,5,25.22,OK,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Sofia Campos,Miraflores,Premium,2025-09-27
-201,2026-05-09,1,,22.95,8,App,Tarjeta,1,32.19,Revisar,Local 7,La mOlInA,,Chaufa,fusion,22.95,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
-202,2026-04-19,1, 20.47 ,14.9,15,Telefono,Yape,1,32.2,  Revisar ,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,Diana Mendoza,Ate,Regular,2025-01-23
-203,2026-05-17, 1 ,42.0,33.97,0,Presencial,Plin,2,45.21 aprox,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Maria Vargas,callao,NUEVO,2025-03-19
-204,23-05-2026,2,13.06,27.46,0,Telefono,Plin,3,40.54,,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Camila  Huaman,Lima,  Frecuente ,2025-06-15
-205,2026-04-05,4,54.81,23.38 aprox,12,  Web ,Tarjeta,5,51.45,OK,Local 6,Villa El Salvador,Oeste,Aji de gallina,Criollo,23.38,Victor Sayan,  San Miguel ,REGULAR,2025-12-12
-206,2026-02-22,3,41.35,31.16,15,Web,Plin,5,37.32,Promocion,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Jorge Reyes,San Juan de Lurigancho,NUEVO,2025-05-01
-207,2026-01-09,6,,27.46 aprox,20,App,PlIn,3,37.92,Promocion,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Victor Campos,San Juan de Lurigancho,,2025-03-10
-208,,1,50.71 aprox,14.9,0,App,Transferencia,4,33.28,Promocion,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Andre Salazar,  Villa El Salvador ,Frecuente,2025-04-08
-209,2026-02-03,5,17.83 aprox,"17,69",0,Web,Tarjeta,4,42.84,,Local 2,La Molina,Norte,Ensalada especial,,17.69,Carlos Salazar,VILLA EL SALVADOR,Corporativo,2025-01-22
-210,2026-04-26,5,15.1,S/ 22.3,20,Web,Yape,5,48.12,Cliente frecuente,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Valeria Reyes,Miraflores,Frecuente,2025-09-10
-211,,3,13.82,22.3,20,Web,  Tarjeta ,5,33.84,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Victor Campos,San Juan de Lurigancho,,2025-03-10
-212,2026-03-04,1,53.9,19.95,15,  WhatsApp ,Tarjeta,5,36.41,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,,La Molina,Premium,2025-03-14
-213,2026-02-25,8,"11,03",33.97,10,App,Plin,5,88.7,Revisar,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Jose Flores,SuRcO,Corporativo,04/03/2025
-214,2026-06-08,4,8.18,22.95,0,Telefono,  Plin ,3,49.74,Promocion,Local 7,La mOlInA,,Chaufa,fusion,22.95,Elena Huaman,Independencia,Regular,08-03-2025
-215,2026-06-12,2,26.9,23.38,20,Telefono,Transferencia,5,33.8,OK,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Jorge Cruz,Ventanilla,Premium,2025-09-03
-216,2026-04-11,7,45.89,23.38 aprox,,Telefono,Plin,4,72.38,,Local 6,Villa El Salvador,Oeste,Aji de gallina,Criollo,23.38,Pedro Flores,Callao,Nuevo,2025-08-25
-217,2026-03-12,8,51.79,31.16,0,App,Tarjeta,4,68.44,Promocion,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Camila Ramos,La Molina,Premium,2025-03-14
-218,2026/03/19,3,41.74,22.3,8,WhatsApp,Efectivo,2,45.83,Promocion,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Victor Mendoza,Independencia,Corporativo,28/11/2025
-219,2026-04-21,8,35.71,31.16,0,Presencial,Efectivo,,67.48,Revisar,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,victor flores,Miraflores,Regular,2025-02-04
-220,2026-02-06,8,13.3,23.38,0,App,Tarjeta,4,61.74,Revisar,LOCAL 5,Villa El Salvador,centro,Aji de gallina,Criollo,23.38,Andre Campos,san juan de lurigancho,Premium,2025-11-05
-221,2026-03-23,4,19.61,27.46, 8 ,Telefono,Tarjeta,4,48.29,,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Lucia Ramos,Lima,regular,2025-05-01
-222,2026-03-03,7,30.63,17.69,5,App,Yape,5,51.46,OK,Local 2,La Molina,Norte,Ensalada especial,,17.69,Raul Gomez,Miraflores,Regular,2025-07-08
-223,2026-04-09,6,35.79,22.3,0,Telefono,Transferencia,3,46.09,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Claudia Salazar,Independencia,Corporativo,2025-08-28
-224,2026-02-11,5 aprox, 48.38 ,23.38,20,Presencial,,3,46.53,,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,Ana Paredes,Independencia,Corporativo,2025-09-18
-225,2026-03-21,2,53.99,22.3,10,Telefono,tarjeta,2,38.28,Revisar,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Valeria Reyes,Miraflores,Frecuente,2025-09-10
-226,2026-01-03,5,40.74,19.95,8,Web,Efectivo,4, 33.12 ,OK,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Jose Paredes,  Comas ,Corporativo,2025-08-07
-227,2026-06-17,5,47.13,23.38,0,WhatsApp,Transferencia,4,54.29,OK,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
+180,2026-02-06,5,11.57,27.46,0,PRESENCIAL,Yape,5,137.30,Cliente frecuente,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
+181,2026-06-24,6,43.4,22.3,5,WhatsApp,Yape,4 aprox,133.80,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Sofia Paredes,ate,Frecuente,2025-03-27
+182,2026-03-27,7,42.2,17.69,0,Telefono,Yape,1,123.83,OK,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Victor Campos,San Juan de Lurigancho,,2025-03-10
+183,16/03/2026,6,132.29,17.69,0,App,Transferencia,5,106.14,,Local 1,Ventanilla,Centro,Ensalada especial,,17.69,Camila  Huaman,Lima,  Frecuente ,2025-06-15
+184,2026-03-28,1,14.31,33.97,0,Web,EfEcTiVo,,33.97,OK,Local 6,Villa El Salvador,Oeste,Ceviche,Marino,33.97,Rocio Gomez,La Molina,Premium,2025-08-04
+185,2026-02-26,8,14.05,31.16,0,WhatsApp,Transferencia,5,249.28,Revisar,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Carlos Salazar,VILLA EL SALVADOR,Corporativo,2025-01-22
+186,2026-04-16,8,17.73,27.46,12,App,YAPE,3,219.68,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Camila Ramos,La Molina,Premium,2025-03-14
+187,2026-03-22,5,14.45,22.3,15,WhatsApp,Tarjeta,3,111.50,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Jose Quispe,Independencia,Corporativo,2025-12-24
+188,2026-05-26,3,40.08,27.46,8,App,  Plin ,1,82.38,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Andre Salazar,  Villa El Salvador ,Frecuente,2025-04-08
+189,2026-02-26,5,42.4,17.69,5,App,Plin,3,88.45,OK,Local 1,Ventanilla,Centro,Ensalada especial,,17.69,Raul Torres,Surco,Frecuente,2025-04-22
+190,2026-05-05,2,20.94,19.95,0 aprox,Telefono,Tarjeta,5,39.90,Revisar,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,,Comas,Premium,2025-06-09
+191,2026-05-13,5,48.33,22.3,0,App,Transferencia,5,111.50,Revisar,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Camila Ramos,La Molina,Premium,2025-03-14
+192,27/03/2026,4,40.68,17.69,12,Web,Plin,1,70.76,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Ensalada especial,,17.69,Diego Sayan,Chorrillos,,22-10-2025
+193,2026-04-22,6, 75.47 ,19.95,0,Web,Yape,2,119.70,Promocion,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Camila Gomez,San Juan de Lurigancho,  Corporativo ,2025-09-19
+194,09/03/2026,2,44.52,19.95,0,Telefono,,3,39.90,Revisar,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
+195,,1,8.76 aprox,23.38,20,WhatsApp,Yape,4,23.38,Promocion,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,,Independencia,Nuevo,2025-03-09
+196,2026-01-16,2,18.93,14.9,10,App,Yape,1,29.80,,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Luis Sayan,Independencia,Nuevo,2025-12-21
+197,2026-04-23,2,26.91,14.9,5,Telefono,Plin,4,29.80,Cliente frecuente,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Raul Salazar,LIMA,Corporativo,2025-12-14
+198,2026-04-16,8,53.92,14.9, 20 ,Web,Plin,5,119.20,Promocion,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Victor Huaman,Comas,Corporativo,2025-10-16
+199,2026-04-07,5,21.99,22.95, 0 ,Web,Transferencia,4,114.75,,Local 7,La mOlInA,,Chaufa,fusion,22.95,ana huaman,La  Molina,Frecuente,2025-02-02
+200,2026-01-24,5,19.63,14.9,20,Web,Tarjeta,5,74.50,OK,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Sofia Campos,Miraflores,Premium,2025-09-27
+201,2026-05-09,1,,22.95,8,App,Tarjeta,1,22.95,Revisar,Local 7,La mOlInA,,Chaufa,fusion,22.95,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
+202,2026-04-19,1, 20.47 ,14.9,15,Telefono,Yape,1,14.90,  Revisar ,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,Diana Mendoza,Ate,Regular,2025-01-23
+203,2026-05-17,1,42.0,33.97,0,Presencial,Plin,2,33.97,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Maria Vargas,callao,NUEVO,2025-03-19
+204,23-05-2026,2,13.06,27.46,0,Telefono,Plin,3,54.92,,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Camila  Huaman,Lima,  Frecuente ,2025-06-15
+205,2026-04-05,4,54.81,23.38,12,  Web ,Tarjeta,5,93.52,OK,Local 6,Villa El Salvador,Oeste,Aji de gallina,Criollo,23.38,Victor Sayan,  San Miguel ,REGULAR,2025-12-12
+206,2026-02-22,3,41.35,31.16,15,Web,Plin,5,93.48,Promocion,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Jorge Reyes,San Juan de Lurigancho,NUEVO,2025-05-01
+207,2026-01-09,6,,27.46,20,App,PlIn,3,164.76,Promocion,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Victor Campos,San Juan de Lurigancho,,2025-03-10
+208,,1,50.71 aprox,14.9,0,App,Transferencia,4,14.90,Promocion,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Andre Salazar,  Villa El Salvador ,Frecuente,2025-04-08
+209,2026-02-03,5,17.83 aprox,17.69,0,Web,Tarjeta,4,88.45,,Local 2,La Molina,Norte,Ensalada especial,,17.69,Carlos Salazar,VILLA EL SALVADOR,Corporativo,2025-01-22
+210,2026-04-26,5,15.1,22.3,20,Web,Yape,5,111.50,Cliente frecuente,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Valeria Reyes,Miraflores,Frecuente,2025-09-10
+211,,3,13.82,22.3,20,Web,  Tarjeta ,5,66.90,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Victor Campos,San Juan de Lurigancho,,2025-03-10
+212,2026-03-04,1,53.9,19.95,15,  WhatsApp ,Tarjeta,5,19.95,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,,La Molina,Premium,2025-03-14
+213,2026-02-25,8,"11,03",33.97,10,App,Plin,5,271.76,Revisar,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Jose Flores,SuRcO,Corporativo,04/03/2025
+214,2026-06-08,4,8.18,22.95,0,Telefono,  Plin ,3,91.80,Promocion,Local 7,La mOlInA,,Chaufa,fusion,22.95,Elena Huaman,Independencia,Regular,08-03-2025
+215,2026-06-12,2,26.9,23.38,20,Telefono,Transferencia,5,46.76,OK,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Jorge Cruz,Ventanilla,Premium,2025-09-03
+216,2026-04-11,7,45.89,23.38,,Telefono,Plin,4,163.66,,Local 6,Villa El Salvador,Oeste,Aji de gallina,Criollo,23.38,Pedro Flores,Callao,Nuevo,2025-08-25
+217,2026-03-12,8,51.79,31.16,0,App,Tarjeta,4,249.28,Promocion,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Camila Ramos,La Molina,Premium,2025-03-14
+218,2026/03/19,3,41.74,22.3,8,WhatsApp,Efectivo,2,66.90,Promocion,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Victor Mendoza,Independencia,Corporativo,28/11/2025
+219,2026-04-21,8,35.71,31.16,0,Presencial,Efectivo,,249.28,Revisar,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,victor flores,Miraflores,Regular,2025-02-04
+220,2026-02-06,8,13.3,23.38,0,App,Tarjeta,4,187.04,Revisar,LOCAL 5,Villa El Salvador,centro,Aji de gallina,Criollo,23.38,Andre Campos,san juan de lurigancho,Premium,2025-11-05
+221,2026-03-23,4,19.61,27.46, 8 ,Telefono,Tarjeta,4,109.84,,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Lucia Ramos,Lima,regular,2025-05-01
+222,2026-03-03,7,30.63,17.69,5,App,Yape,5,123.83,OK,Local 2,La Molina,Norte,Ensalada especial,,17.69,Raul Gomez,Miraflores,Regular,2025-07-08
+223,2026-04-09,6,35.79,22.3,0,Telefono,Transferencia,3,133.80,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Claudia Salazar,Independencia,Corporativo,2025-08-28
+224,2026-02-11,5, 48.38 ,23.38,20,Presencial,,3,116.90,,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,Ana Paredes,Independencia,Corporativo,2025-09-18
+225,2026-03-21,2,53.99,22.3,10,Telefono,tarjeta,2,44.60,Revisar,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Valeria Reyes,Miraflores,Frecuente,2025-09-10
+226,2026-01-03,5,40.74,19.95,8,Web,Efectivo,4,99.75,OK,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Jose Paredes,  Comas ,Corporativo,2025-08-07
+227,2026-06-17,5,47.13,23.38,0,WhatsApp,Transferencia,4,116.90,OK,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
 228,2026-06-16,,33.35,17.69,0,,YAPE,2,52.5,OK,Local 1,Ventanilla,Centro,Ensalada especial,,17.69,Pedro Flores,Callao,Nuevo,2025-08-25
-229,2026-01-03,1,47.05,"31,16",0,Web,TrAnSfErEnCiA,2,34.11,PROMOCION,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Diego Sayan,Chorrillos,,22-10-2025
-230,2026-06-28,5,10.84, 22.95 ,0,App,Plin,3,53.51,  Revisar ,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Ana Campos,Ventanilla,Corporativo,2025-06-15
-231,2026-01-13,7, 10.78 ,"27,46",0,App,Transferencia,5,250.51,ReViSaR,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Jose Quispe,Independencia,Corporativo,2025-12-24
-232,2026-06-25,1,13.84,19.95,20,Telefono,Yape,3,2.03,OK,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Miguel Flores,Ventanilla,Frecuente,2025/05/13
-233,2026-06-04,7,52.21,19.95,8,Telefono,Efectivo,4,61.26,OK,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
-234,2026-02-24,1,31.45,31.16,0,  Telefono ,Plin,4,S/ 43.07,Cliente frecuente,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Lucia Ramos,Lima,regular,2025-05-01
-235,2026-06-28,6,43.37, 23.38 ,20,Presencial,Yape,2,S/ 44.84,Revisar,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
-236,2026/02/02,8,9.47,22.95,0,Telefono,EFECTIVO,1,,Promocion,Local 3,Surco,Norte,Chaufa,fusion,22.95,Rocio Gomez,La Molina,Premium,2025-08-04
-237,2026-02-11,3, 24.12 ,22.95 aprox,0,Web,Yape,5,33.15,Revisar,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Valeria Soto,Callao,Premium,2025-04-24
-238,2026/02/19,1,16.31,23.38, 10 ,Presencial,Transferencia,1,46.13,,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Andre Salazar,  Villa El Salvador ,Frecuente,2025-04-08
-239, 2026-02-19 , 7 ,8.87,31.16,15,WhatsApp,  Efectivo ,1,46.1,OK,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Jose Quispe,Independencia,Corporativo,2025-12-24
-240,2026-04-13,4,"43,35",14.9,0,Web,Plin,2,46.93,  Promocion ,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Claudia Huaman,Ate,Frecuente,2025-03-12
-241,2026-04-09,1,84.72,14.9,20,WhatsApp,Plin,5,37.56,,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Elena Cruz,comas,CORPORATIVO,2025-02-17
-242,2026-04-19,8,9.65,31.16 aprox,0,whatsapp,Efectivo,1,60.61,Promocion,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
-243,2026-02-13,3,"17,26",14.9,10,Web,Tarjeta,5,34.77,,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Fiorella Torres,Miraflores,Regular,09-07-2025
-244,2026-03-24,7,18.15,S/ 22.95,0,Telefono,Efectivo,3,64.59,Promocion,Local 3,Surco,Norte,Chaufa,fusion,22.95,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
-245,2026-02-16,8,21.49,22.3,0,Web,Plin,3,56.76,ClIeNtE FrEcUeNtE,Local 3,Surco,Norte,Tallarines verdes,Pastas,22.3,Valeria Soto,Callao,Premium,2025-04-24
-246,2026-01-23,4,39.15,19.95,8,Telefono,Transferencia,4,48.17,OK,Local 4,Villa El Salvador,Este,sopa criolla,Sopas,19.95,Sofia Sayan,Callao,Premium,2025-05-19
-247,2026-03-18,4,,14.9,20 aprox,Presencial,Transferencia,4,38.99,,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
-248,2026-03-12,4,53.63,22.3,0,Presencial,Efectivo, 1 ,49.27,OK,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,victor flores,Miraflores,Regular,2025-02-04
-249,2026-06-15,3,43.13 aprox,14.9,0,App,TARJETA,3,33.65,OK,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,,Independencia,Nuevo,2025-03-09
-250,,6,43.36,23.38,0,Telefono,Tarjeta,3,54.06,Revisar,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Lucia Ramos,Lima,regular,2025-05-01
-251,2026-02-18,6,44.52,S/ 19.95,0,Telefono,Tarjeta,2,46.55,,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Jorge Rojas,Comas,Nuevo,2025-03-23
-252,09/04/2026,5,"36,57",27.46,0 aprox,Telefono,EfEcTiVo,4,"51,09",,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,jorge torres,LiMa,Premium,2025-02-15
-253,16/03/2026,2,23.33,17.69,0,Telefono,Efectivo,1,S/ 22.54,Promocion,Local 7,La mOlInA,,Ensalada especial,,17.69,Pedro Flores,INDEPENDENCIA,Frecuente,2025-12-02
-254,2026-03-07,8,24.98,22.3,15,Telefono,Efectivo,5,47.07,OK,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Diego Sayan,Chorrillos,,22-10-2025
-255,2026-01-24,5,47.01,23.38,20,WhatsApp,Plin,2,51.08,,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Lucia Ramos,Lima,regular,2025-05-01
-256,2026-03-17, 5 ,42.93,33.97,15,Telefono,Yape,,64.77,Revisar,Local 3,Surco,Norte,Ceviche,Marino,33.97,ana huaman,La  Molina,Frecuente,2025-02-02
-257,2026-05-22,7,36.91,33.97,0,app,,1,69.3,REVISAR,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Pedro Flores,INDEPENDENCIA,Frecuente,2025-12-02
-258, 2026-06-21 ,3,21.18,22.3,0,WhatsApp,Efectivo,3,40.48,Promocion,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Victor Sayan,  San Miguel ,REGULAR,2025-12-12
-259,2026-01-23,2,18.63,23.38,0,WhatsApp,Transferencia,2,53.56,Promocion,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Claudia Castillo,Ate,Regular,2025-05-20
-260,2026-03-07,1,45.34,22.95,12,WhAtSaPp,Yape,3,42.9,Promocion,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Maria Salazar,Surco,Corporativo,2025-12-13
-261,2026-05-28,6,8.18,17.69,5,App,Yape,2, 51.54 ,,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Carlos Campos,Villa El Salvador,Regular,2025-08-27
-262,2026-03-23,6,14.92,14.9,0,App,,4,54.81,Revisar,LOCAL 5,Villa El Salvador,centro,menu ejecutivo,Menu,14.9,Maria Soto,los olivos,Regular,2025-05-27
-263,2026-05-09,7,34.97,17.69,12,Web,transferencia,5,72.45,Promocion,Local 3,Surco,Norte,Ensalada especial,,17.69,Fiorella Torres,Miraflores,Regular,09-07-2025
-264,2026-04-13,2,22.95,33.97,10,Presencial,Tarjeta,4,42.25,,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Camila Huaman,Comas,Premium,2025-02-22
-265,2026-01-13,3,23.63,31.16,12,WhatsApp,TARJETA,4,63.19,  Cliente frecuente ,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Victor Cruz,Miraflores,Frecuente,
-266,2026-06-12,4,,14.9 aprox,5,Presencial,Yape,5,30.79,Promocion,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Diego Soto,Miraflores,Frecuente,2025/06/05
-267,2026-03-11,6,32.1,27.46,0,,Plin,2,174.97,Revisar,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Victor Mendoza,Independencia,Corporativo,28/11/2025
-268,2026-05-21,1,"51,18",33.97,12,WhatsApp,Tarjeta, 2 ,37.58,  Cliente frecuente ,Local 3,Surco,Norte,Ceviche,Marino,33.97,Valeria Rojas,Los Olivos,Corporativo,2025-11-11
-269,2026-04-03,3, 17.99 ,19.95,,WhatsApp,Yape,3,44.19,Promocion,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Victor Mendoza,ATE,Corporativo,2025-06-09
-270,2026-06-08,7,48.62,23.38,8,app,Yape,5,61.17,,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,jorge torres,LiMa,Premium,2025-02-15
-271,2026-04-02,2,43.4,23.38,,Presencial,TaRjEtA,3 aprox,38.01,OK,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,,Comas,Premium,2025-06-09
-272,2026-04-03,7,29.02 aprox,17.69,0,Web,,2, 59.86 ,,Local 3,Surco,Norte,Ensalada especial,,17.69,Raul Salazar,LIMA,Corporativo,2025-12-14
-273,2026-01-01,5,54.06,14.9,0,Presencial,Plin,3,50.25,Revisar,LOCAL 5,Villa El Salvador,centro,menu ejecutivo,Menu,14.9,,Villa El Salvador,PrEmIuM, 2025-09-27 
-274,2026-03-13,4,32.13,22.3,5,App,Transferencia,5 aprox,41.77,Revisar,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,ana huaman,La  Molina,Frecuente,2025-02-02
-275,2026-03-03,4 aprox,49.73,S/ 22.95, 8 ,WhatsApp,Yape,3,38.99,OK,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Rocio Gomez,La Molina,Premium,2025-08-04
-276,2026-05-27,3,11.12 aprox,S/ 31.16, 0 ,ApP,Yape,5,58.18,,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Elena Huaman,Independencia,Regular,08-03-2025
-277,2026-02-01,8,14.81,14.9,12,WhatsApp,Efectivo,3,39.91,Cliente frecuente,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Elena Paredes,La Molina,Frecuente,2025-02-08
-278,2026-03-19,5,48.16,31.16,0,Telefono,TRANSFERENCIA,1,59.16,OK,Local 4,Villa El Salvador,Este,Pollo a la brasa,Parrilla,31.16,,chorrillos,Frecuente,2025-05-02
-279,2026-06-03,4,23.42,27.46,0,App,Efectivo,1,41.64,,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Pedro Flores,Callao,Nuevo,2025-08-25
-280,2026-02-28,2,,"14,9",5,App,Yape,1,34.42,Revisar,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
+229,2026-01-03,1,47.05,31.16,0,Web,TrAnSfErEnCiA,2,31.16,PROMOCION,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Diego Sayan,Chorrillos,,22-10-2025
+230,2026-06-28,5,10.84,22.95,0,App,Plin,3,114.75,  Revisar ,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Ana Campos,Ventanilla,Corporativo,2025-06-15
+231,2026-01-13,7, 10.78 ,27.46,0,App,Transferencia,5,192.22,ReViSaR,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Jose Quispe,Independencia,Corporativo,2025-12-24
+232,2026-06-25,1,13.84,19.95,20,Telefono,Yape,3,19.95,OK,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Miguel Flores,Ventanilla,Frecuente,2025/05/13
+233,2026-06-04,7,52.21,19.95,8,Telefono,Efectivo,4,139.65,OK,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
+234,2026-02-24,1,31.45,31.16,0,  Telefono ,Plin,4,31.16,Cliente frecuente,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Lucia Ramos,Lima,regular,2025-05-01
+235,2026-06-28,6,43.37,23.38,20,Presencial,Yape,2,140.28,Revisar,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
+236,2026/02/02,8,9.47,22.95,0,Telefono,EFECTIVO,1,183.60,Promocion,Local 3,Surco,Norte,Chaufa,fusion,22.95,Rocio Gomez,La Molina,Premium,2025-08-04
+237,2026-02-11,3, 24.12 ,22.95,0,Web,Yape,5,68.85,Revisar,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Valeria Soto,Callao,Premium,2025-04-24
+238,2026/02/19,1,16.31,23.38, 10 ,Presencial,Transferencia,1,23.38,,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Andre Salazar,  Villa El Salvador ,Frecuente,2025-04-08
+239, 2026-02-19 ,7,8.87,31.16,15,WhatsApp,  Efectivo ,1,218.12,OK,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Jose Quispe,Independencia,Corporativo,2025-12-24
+240,2026-04-13,4,"43,35",14.9,0,Web,Plin,2,59.60,  Promocion ,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Claudia Huaman,Ate,Frecuente,2025-03-12
+241,2026-04-09,1,84.72,14.9,20,WhatsApp,Plin,5,14.90,,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Elena Cruz,comas,CORPORATIVO,2025-02-17
+242,2026-04-19,8,9.65,31.16,0,whatsapp,Efectivo,1,249.28,Promocion,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
+243,2026-02-13,3,"17,26",14.9,10,Web,Tarjeta,5,44.70,,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Fiorella Torres,Miraflores,Regular,09-07-2025
+244,2026-03-24,7,18.15,22.95,0,Telefono,Efectivo,3,160.65,Promocion,Local 3,Surco,Norte,Chaufa,fusion,22.95,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
+245,2026-02-16,8,21.49,22.3,0,Web,Plin,3,178.40,ClIeNtE FrEcUeNtE,Local 3,Surco,Norte,Tallarines verdes,Pastas,22.3,Valeria Soto,Callao,Premium,2025-04-24
+246,2026-01-23,4,39.15,19.95,8,Telefono,Transferencia,4,79.80,OK,Local 4,Villa El Salvador,Este,sopa criolla,Sopas,19.95,Sofia Sayan,Callao,Premium,2025-05-19
+247,2026-03-18,4,,14.9,20 aprox,Presencial,Transferencia,4,59.60,,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
+248,2026-03-12,4,53.63,22.3,0,Presencial,Efectivo, 1 ,89.20,OK,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,victor flores,Miraflores,Regular,2025-02-04
+249,2026-06-15,3,43.13 aprox,14.9,0,App,TARJETA,3,44.70,OK,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,,Independencia,Nuevo,2025-03-09
+250,,6,43.36,23.38,0,Telefono,Tarjeta,3,140.28,Revisar,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Lucia Ramos,Lima,regular,2025-05-01
+251,2026-02-18,6,44.52,19.95,0,Telefono,Tarjeta,2,119.70,,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,Jorge Rojas,Comas,Nuevo,2025-03-23
+252,09/04/2026,5,"36,57",27.46,0 aprox,Telefono,EfEcTiVo,4,137.30,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,jorge torres,LiMa,Premium,2025-02-15
+253,16/03/2026,2,23.33,17.69,0,Telefono,Efectivo,1,35.38,Promocion,Local 7,La mOlInA,,Ensalada especial,,17.69,Pedro Flores,INDEPENDENCIA,Frecuente,2025-12-02
+254,2026-03-07,8,24.98,22.3,15,Telefono,Efectivo,5,178.40,OK,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Diego Sayan,Chorrillos,,22-10-2025
+255,2026-01-24,5,47.01,23.38,20,WhatsApp,Plin,2,116.90,,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Lucia Ramos,Lima,regular,2025-05-01
+256,2026-03-17,5,42.93,33.97,15,Telefono,Yape,,169.85,Revisar,Local 3,Surco,Norte,Ceviche,Marino,33.97,ana huaman,La  Molina,Frecuente,2025-02-02
+257,2026-05-22,7,36.91,33.97,0,app,,1,237.79,REVISAR,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Pedro Flores,INDEPENDENCIA,Frecuente,2025-12-02
+258, 2026-06-21 ,3,21.18,22.3,0,WhatsApp,Efectivo,3,66.90,Promocion,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Victor Sayan,  San Miguel ,REGULAR,2025-12-12
+259,2026-01-23,2,18.63,23.38,0,WhatsApp,Transferencia,2,46.76,Promocion,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Claudia Castillo,Ate,Regular,2025-05-20
+260,2026-03-07,1,45.34,22.95,12,WhAtSaPp,Yape,3,22.95,Promocion,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Maria Salazar,Surco,Corporativo,2025-12-13
+261,2026-05-28,6,8.18,17.69,5,App,Yape,2,106.14,,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Carlos Campos,Villa El Salvador,Regular,2025-08-27
+262,2026-03-23,6,14.92,14.9,0,App,,4,89.40,Revisar,LOCAL 5,Villa El Salvador,centro,menu ejecutivo,Menu,14.9,Maria Soto,los olivos,Regular,2025-05-27
+263,2026-05-09,7,34.97,17.69,12,Web,transferencia,5,123.83,Promocion,Local 3,Surco,Norte,Ensalada especial,,17.69,Fiorella Torres,Miraflores,Regular,09-07-2025
+264,2026-04-13,2,22.95,33.97,10,Presencial,Tarjeta,4,67.94,,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Camila Huaman,Comas,Premium,2025-02-22
+265,2026-01-13,3,23.63,31.16,12,WhatsApp,TARJETA,4,93.48,  Cliente frecuente ,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Victor Cruz,Miraflores,Frecuente,
+266,2026-06-12,4,,14.9,5,Presencial,Yape,5,59.60,Promocion,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Diego Soto,Miraflores,Frecuente,2025/06/05
+267,2026-03-11,6,32.1,27.46,0,,Plin,2,164.76,Revisar,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Victor Mendoza,Independencia,Corporativo,28/11/2025
+268,2026-05-21,1,"51,18",33.97,12,WhatsApp,Tarjeta, 2 ,33.97,  Cliente frecuente ,Local 3,Surco,Norte,Ceviche,Marino,33.97,Valeria Rojas,Los Olivos,Corporativo,2025-11-11
+269,2026-04-03,3, 17.99 ,19.95,,WhatsApp,Yape,3,59.85,Promocion,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Victor Mendoza,ATE,Corporativo,2025-06-09
+270,2026-06-08,7,48.62,23.38,8,app,Yape,5,163.66,,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,jorge torres,LiMa,Premium,2025-02-15
+271,2026-04-02,2,43.4,23.38,,Presencial,TaRjEtA,3 aprox,46.76,OK,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,,Comas,Premium,2025-06-09
+272,2026-04-03,7,29.02 aprox,17.69,0,Web,,2,123.83,,Local 3,Surco,Norte,Ensalada especial,,17.69,Raul Salazar,LIMA,Corporativo,2025-12-14
+273,2026-01-01,5,54.06,14.9,0,Presencial,Plin,3,74.50,Revisar,LOCAL 5,Villa El Salvador,centro,menu ejecutivo,Menu,14.9,,Villa El Salvador,PrEmIuM, 2025-09-27 
+274,2026-03-13,4,32.13,22.3,5,App,Transferencia,5 aprox,89.20,Revisar,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,ana huaman,La  Molina,Frecuente,2025-02-02
+275,2026-03-03,4,49.73,22.95, 8 ,WhatsApp,Yape,3,91.80,OK,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Rocio Gomez,La Molina,Premium,2025-08-04
+276,2026-05-27,3,11.12 aprox,31.16, 0 ,ApP,Yape,5,93.48,,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Elena Huaman,Independencia,Regular,08-03-2025
+277,2026-02-01,8,14.81,14.9,12,WhatsApp,Efectivo,3,119.20,Cliente frecuente,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Elena Paredes,La Molina,Frecuente,2025-02-08
+278,2026-03-19,5,48.16,31.16,0,Telefono,TRANSFERENCIA,1,155.80,OK,Local 4,Villa El Salvador,Este,Pollo a la brasa,Parrilla,31.16,,chorrillos,Frecuente,2025-05-02
+279,2026-06-03,4,23.42,27.46,0,App,Efectivo,1,109.84,,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Pedro Flores,Callao,Nuevo,2025-08-25
+280,2026-02-28,2,,14.9,5,App,Yape,1,29.80,Revisar,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
 281,23-02-2026,,33.6,33.97,5,Presencial,YaPe,2,47.37,OK,Local 6,Villa El Salvador,Oeste,Ceviche,Marino,33.97,Maria Vargas,callao,NUEVO,2025-03-19
-282,2026-01-13,3, 51.85 ,23.38,12 aprox,Web,Plin,5,44.07,,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Andre Huaman,Ventanilla,Nuevo,
-283,2026-03-15,7,10.97,31.16,10,Web,Efectivo,2,66.83,,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Fiorella Torres,Miraflores,Regular,09-07-2025
-284,2026-06-22,2,53.6,,20,PRESENCIAL,Yape,5,30.47,OK,Local 7,La mOlInA,,Chaufa,fusion,22.95,Valeria Reyes,Miraflores,Frecuente,2025-09-10
-285,2026-01-26,5,21.74,19.95,0,Web,Plin,3,44.18,  Promocion ,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Sofia Navarro,Lima,Corporativo,2025-10-12
-286,2026-04-19,4,42.6,22.3,0,Telefono,Transferencia,1,56.38,Revisar,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Camila  Huaman,Lima,  Frecuente ,2025-06-15
-287,2026-02-10,6,16.56,19.95,0,Telefono,Tarjeta,4,44.85,Promocion,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,,Lima,premium,2025-08-01
-288,2026-05-19,6,25.96,14.9,0,Telefono,Tarjeta,3,"37,87",Revisar,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
-289,2026-05-24,5,"53,62",22.95,20 aprox,WhatsApp,Efectivo,1,54.37,Revisar,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,jorge torres,LiMa,Premium,2025-02-15
-290,2026-05-15,2,10.22,31.16,0,Telefono,Plin,5,52.14,Cliente frecuente,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,,Lima,premium,2025-08-01
-291,2026-04-10,4, 21.54 ,22.95,20,WhatsApp,Transferencia,2,47.68,,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Camila Ramos,La Molina,Premium,2025-03-14
-292,2026/05/22,3,41.28,27.46,12,Presencial,Plin,5,49.04,,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Camila Ramos,La Molina,Premium,2025-03-14
-293,2026-02-13,8,52.56,23.38,15,TeLeFoNo,Yape,4,49.2,Revisar,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,jorge torres,LiMa,Premium,2025-02-15
-294,2026-04-24,7, 34.51 ,27.46,0,Web,Transferencia,,72.7,Promocion,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,victor flores,Miraflores,Regular,2025-02-04
+282,2026-01-13,3, 51.85 ,23.38,12 aprox,Web,Plin,5,70.14,,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Andre Huaman,Ventanilla,Nuevo,
+283,2026-03-15,7,10.97,31.16,10,Web,Efectivo,2,218.12,,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Fiorella Torres,Miraflores,Regular,09-07-2025
+284,2026-06-22,2,53.6,22.95,20,PRESENCIAL,Yape,5,45.90,OK,Local 7,La mOlInA,,Chaufa,fusion,22.95,Valeria Reyes,Miraflores,Frecuente,2025-09-10
+285,2026-01-26,5,21.74,19.95,0,Web,Plin,3,99.75,  Promocion ,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Sofia Navarro,Lima,Corporativo,2025-10-12
+286,2026-04-19,4,42.6,22.3,0,Telefono,Transferencia,1,89.20,Revisar,LOCAL 5,Villa El Salvador,centro,Tallarines verdes,Pastas,22.3,Camila  Huaman,Lima,  Frecuente ,2025-06-15
+287,2026-02-10,6,16.56,19.95,0,Telefono,Tarjeta,4,119.70,Promocion,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,,Lima,premium,2025-08-01
+288,2026-05-19,6,25.96,14.9,0,Telefono,Tarjeta,3,89.40,Revisar,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
+289,2026-05-24,5,"53,62",22.95,20 aprox,WhatsApp,Efectivo,1,114.75,Revisar,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,jorge torres,LiMa,Premium,2025-02-15
+290,2026-05-15,2,10.22,31.16,0,Telefono,Plin,5,62.32,Cliente frecuente,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,,Lima,premium,2025-08-01
+291,2026-04-10,4, 21.54 ,22.95,20,WhatsApp,Transferencia,2,91.80,,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Camila Ramos,La Molina,Premium,2025-03-14
+292,2026/05/22,3,41.28,27.46,12,Presencial,Plin,5,82.38,,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Camila Ramos,La Molina,Premium,2025-03-14
+293,2026-02-13,8,52.56,23.38,15,TeLeFoNo,Yape,4,187.04,Revisar,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,jorge torres,LiMa,Premium,2025-02-15
+294,2026-04-24,7, 34.51 ,27.46,0,Web,Transferencia,,192.22,Promocion,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,victor flores,Miraflores,Regular,2025-02-04
 295,2026-01-09,,39.44,27.46,15,WHATSAPP,Yape,2,50.14,REVISAR,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Sofia Sayan,Callao,Premium,2025-05-19
-296,2026-05-19,2,30.99,23.38,,WhatsApp,YaPe,1,43.62,OK,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Diego Cruz,La Molina,Frecuente,2025-12-16
-297,2026-05-09,5,34.17,27.46,10,App,Plin,2,53.1 aprox,OK,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
-298,2026-03-02,3,27.68,22.95,12,WhatsApp,Efectivo,2,44.83,,Local 3,Surco,Norte,Chaufa,fusion,22.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
-299,2026-06-03,4,49.93,22.95,20,Presencial,  Yape ,2,45.7,OK,Local 3,Surco,Norte,Chaufa,fusion,22.95,Rocio Gomez,La Molina,Premium,2025-08-04
-300,2026-05-18,8,41.17,22.95, 8 ,WhatsApp,Efectivo,4,68.25,Promocion,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,,Villa El Salvador,PrEmIuM, 2025-09-27 
-301,2026-02-28,7,13.62,27.46,15,Presencial,Transferencia,2,69.04,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Jose Quispe,Independencia,Corporativo,2025-12-24
-302,02/02/2026,6,17.56,,10,Telefono,  Tarjeta , 4 ,42.99,Promocion,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Ana Campos,Ventanilla,Corporativo,2025-06-15
-303,2026-03-04,7,20.61,"22,95",0,App,Plin,3,71.18,,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Pedro Flores,Callao,Nuevo,2025-08-25
-304,2026-06-24,6,43.4,22.3,5,WhatsApp,Yape,4 aprox,51.36,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Sofia Paredes,ate,Frecuente,2025-03-27
-305,2026-01-18,2,25.31,23.38,10,Telefono,Yape,3,42.53,OK,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Raul Salazar,LIMA,Corporativo,2025-12-14
-306,2026-01-06,5 aprox, 10.41 ,14.9,0,Web,Yape,5,,OK,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Victor Castillo,chorrillos,regular,2025-09-25
-307,2026/02/17,5,11.55,22.3,12,WhatsApp,Plin,3,53.72,OK,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Victor Mendoza,Independencia,Corporativo,28/11/2025
-308,2026-04-10,6,42.67,27.46,0,Web,Tarjeta,1,51.46,Promocion,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Luis Sayan,Independencia,Nuevo,2025-12-21
-309,2026-01-21,1,36.16,27.46,0,Telefono,Yape,4,42.93,Revisar,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Carlos Campos,Villa El Salvador,Regular,2025-08-27
+296,2026-05-19,2,30.99,23.38,,WhatsApp,YaPe,1,46.76,OK,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Diego Cruz,La Molina,Frecuente,2025-12-16
+297,2026-05-09,5,34.17,27.46,10,App,Plin,2,137.30,OK,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
+298,2026-03-02,3,27.68,22.95,12,WhatsApp,Efectivo,2,68.85,,Local 3,Surco,Norte,Chaufa,fusion,22.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
+299,2026-06-03,4,49.93,22.95,20,Presencial,  Yape ,2,91.80,OK,Local 3,Surco,Norte,Chaufa,fusion,22.95,Rocio Gomez,La Molina,Premium,2025-08-04
+300,2026-05-18,8,41.17,22.95, 8 ,WhatsApp,Efectivo,4,183.60,Promocion,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,,Villa El Salvador,PrEmIuM, 2025-09-27 
+301,2026-02-28,7,13.62,27.46,15,Presencial,Transferencia,2,192.22,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Jose Quispe,Independencia,Corporativo,2025-12-24
+302,02/02/2026,6,17.56,14.9,10,Telefono,  Tarjeta , 4 ,89.40,Promocion,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Ana Campos,Ventanilla,Corporativo,2025-06-15
+303,2026-03-04,7,20.61,22.95,0,App,Plin,3,160.65,,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Pedro Flores,Callao,Nuevo,2025-08-25
+304,2026-06-24,6,43.4,22.3,5,WhatsApp,Yape,4 aprox,133.80,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Sofia Paredes,ate,Frecuente,2025-03-27
+305,2026-01-18,2,25.31,23.38,10,Telefono,Yape,3,46.76,OK,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Raul Salazar,LIMA,Corporativo,2025-12-14
+306,2026-01-06,5, 10.41 ,14.9,0,Web,Yape,5,74.50,OK,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Victor Castillo,chorrillos,regular,2025-09-25
+307,2026/02/17,5,11.55,22.3,12,WhatsApp,Plin,3,111.50,OK,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Victor Mendoza,Independencia,Corporativo,28/11/2025
+308,2026-04-10,6,42.67,27.46,0,Web,Tarjeta,1,164.76,Promocion,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Luis Sayan,Independencia,Nuevo,2025-12-21
+309,2026-01-21,1,36.16,27.46,0,Telefono,Yape,4,27.46,Revisar,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Carlos Campos,Villa El Salvador,Regular,2025-08-27
 310,2026-01-14,,18.43,14.9,0 aprox,Presencial,transferencia,4,47.7,Revisar,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Valeria Soto,Callao,Premium,2025-04-24
-311,2026-04-20,3,17.26,19.95 aprox,8,WhatsApp,Efectivo,1,41.6,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
-312,2026-01-22,2,48.04,31.16,0,WHATSAPP,Transferencia,1,32.34,,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,jorge torres,LiMa,Premium,2025-02-15
-313,2026-03-21,4,28.1,27.46 aprox,12,,,1,S/ 44.56,Revisar,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
-314,2026-03-24,2,11.95,17.69,10,Web,PLIN,4,27.04,,Local 1,Ventanilla,Centro,Ensalada especial,,17.69,Elena Paredes,La Molina,Frecuente,2025-02-08
-315,2026-05-02,2,48.92,14.9,10,App,Transferencia,3,46.48,,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Diego Soto,Miraflores,Frecuente,2025/06/05
-316,2026-05-24,8,46.3,22.95,15 aprox,App,Yape,3,62.18,OK,Local 3,Surco,Norte,Chaufa,fusion,22.95,Diego Soto,Miraflores,Frecuente,2025/06/05
-317,2026-03-28,5,13.18,22.95,0,Telefono,plin,4,60.77,OK,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Maria Vargas,callao,NUEVO,2025-03-19
-318,2026-05-24,5,27.12,19.95,0,Presencial,Transferencia,5,44.87,,Local 2,La Molina,Norte,sopa criolla,Sopas,19.95,,Lima,premium,2025-08-01
-319,2026-06-06,6,43.35 aprox,27.46,0,  WhatsApp ,Yape,1,55.14,,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Victor Campos,San Juan de Lurigancho,,2025-03-10
-320,2026-05-02,3,26.97,,8,Telefono,PLIN,2,32.99,ClIeNtE FrEcUeNtE,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
-321,2026-02-01,5,9.54,14.9,0,APP,Transferencia,3,46.32,Promocion,Local 3,Surco,Norte,menu ejecutivo,Menu,14.9,Victor Huaman,Comas,Corporativo,2025-10-16
-322,2026-01-23,2,52.83,33.97,0,Web,Yape,4,48.41,OK,Local 3,Surco,Norte,Ceviche,Marino,33.97,  Carlos Huaman ,Miraflores,Regular,2025-08-19
-323,2026-01-20,8,29.33,22.95,0,web,Tarjeta,4,67.05,,Local 3,Surco,Norte,Chaufa,fusion,22.95,Claudia Paredes,Villa El Salvador,Corporativo,
-324,05-01-2026,3,9.85,17.69,5,Web,Tarjeta,4,40.73,Promocion,Local 3,Surco,Norte,Ensalada especial,,17.69,Lucia Ramos,Lima,regular,2025-05-01
-325,2026-04-27,8,31.97,23.38, 10 ,Web,Efectivo,1,65.7,Revisar,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Ana Campos,Ventanilla,Corporativo,2025-06-15
-326,05/05/2026,7,31.33,14.9,20,presencial,yape,1,45.04,Cliente frecuente,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Sofia Paredes,ate,Frecuente,2025-03-27
-327, 2026-02-03 ,7,,19.95,8,Presencial,Plin,2,48.08,Revisar,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Diego Paredes,Lima,Frecuente,20-12-2025
-328, 2026-06-06 ,5,36.6,22.95,12,Presencial,TRANSFERENCIA,4,,Promocion,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Victor Huaman,Comas,Corporativo,2025-10-16
-329,2026-05-18,1,26.88,S/ 23.38,5,App,  Yape ,1,36.49,,Local 6,Villa El Salvador,Oeste,Aji de gallina,Criollo,23.38,Sofia Sayan,Callao,Premium,2025-05-19
+311,2026-04-20,3,17.26,19.95,8,WhatsApp,Efectivo,1,59.85,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
+312,2026-01-22,2,48.04,31.16,0,WHATSAPP,Transferencia,1,62.32,,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,jorge torres,LiMa,Premium,2025-02-15
+313,2026-03-21,4,28.1,27.46,12,,,1,109.84,Revisar,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
+314,2026-03-24,2,11.95,17.69,10,Web,PLIN,4,35.38,,Local 1,Ventanilla,Centro,Ensalada especial,,17.69,Elena Paredes,La Molina,Frecuente,2025-02-08
+315,2026-05-02,2,48.92,14.9,10,App,Transferencia,3,29.80,,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Diego Soto,Miraflores,Frecuente,2025/06/05
+316,2026-05-24,8,46.3,22.95,15 aprox,App,Yape,3,183.60,OK,Local 3,Surco,Norte,Chaufa,fusion,22.95,Diego Soto,Miraflores,Frecuente,2025/06/05
+317,2026-03-28,5,13.18,22.95,0,Telefono,plin,4,114.75,OK,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Maria Vargas,callao,NUEVO,2025-03-19
+318,2026-05-24,5,27.12,19.95,0,Presencial,Transferencia,5,99.75,,Local 2,La Molina,Norte,sopa criolla,Sopas,19.95,,Lima,premium,2025-08-01
+319,2026-06-06,6,43.35 aprox,27.46,0,  WhatsApp ,Yape,1,164.76,,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Victor Campos,San Juan de Lurigancho,,2025-03-10
+320,2026-05-02,3,26.97,22.3,8,Telefono,PLIN,2,66.90,ClIeNtE FrEcUeNtE,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
+321,2026-02-01,5,9.54,14.9,0,APP,Transferencia,3,74.50,Promocion,Local 3,Surco,Norte,menu ejecutivo,Menu,14.9,Victor Huaman,Comas,Corporativo,2025-10-16
+322,2026-01-23,2,52.83,33.97,0,Web,Yape,4,67.94,OK,Local 3,Surco,Norte,Ceviche,Marino,33.97,  Carlos Huaman ,Miraflores,Regular,2025-08-19
+323,2026-01-20,8,29.33,22.95,0,web,Tarjeta,4,183.60,,Local 3,Surco,Norte,Chaufa,fusion,22.95,Claudia Paredes,Villa El Salvador,Corporativo,
+324,05-01-2026,3,9.85,17.69,5,Web,Tarjeta,4,53.07,Promocion,Local 3,Surco,Norte,Ensalada especial,,17.69,Lucia Ramos,Lima,regular,2025-05-01
+325,2026-04-27,8,31.97,23.38, 10 ,Web,Efectivo,1,187.04,Revisar,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Ana Campos,Ventanilla,Corporativo,2025-06-15
+326,05/05/2026,7,31.33,14.9,20,presencial,yape,1,104.30,Cliente frecuente,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Sofia Paredes,ate,Frecuente,2025-03-27
+327, 2026-02-03 ,7,,19.95,8,Presencial,Plin,2,139.65,Revisar,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Diego Paredes,Lima,Frecuente,20-12-2025
+328, 2026-06-06 ,5,36.6,22.95,12,Presencial,TRANSFERENCIA,4,114.75,Promocion,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Victor Huaman,Comas,Corporativo,2025-10-16
+329,2026-05-18,1,26.88,23.38,5,App,  Yape ,1,23.38,,Local 6,Villa El Salvador,Oeste,Aji de gallina,Criollo,23.38,Sofia Sayan,Callao,Premium,2025-05-19
 330,2026-05-22,,53.47,27.46,20,Web,Transferencia,1,48.2,,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Valeria Soto,Callao,Premium,2025-04-24
-331,2026-04-19,5,35.03,23.38,0,Web,Tarjeta,4,46.48,Promocion,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
-332,2026-06-11,7,23.83,33.97,12,Telefono,Transferencia,1,68.14,,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Sofia Sayan,Callao,Premium,2025-05-19
-333,2026-02-27,3,28.12,23.38,0,Presencial,YaPe,4,38.02,,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Jose Flores,SuRcO,Corporativo,04/03/2025
-334,2026-03-16,4,44.31,31.16,8,Web,Plin,1,"55,48",Revisar,Local 7,La mOlInA,,Pollo a la brasa,Parrilla,31.16,Elena Ramos,Villa El Salvador,nuevo,2025-05-25
-335,10-06-2026,2,40.1,31.16,0,  App ,Yape,1,50.39,Cliente frecuente,Local 4,Villa El Salvador,Este,Pollo a la brasa,Parrilla,31.16,Victor Campos,San Juan de Lurigancho,,2025-03-10
-336,2026-02-07,1,9.91,19.95, 12 ,whatsapp,Yape,5,41.59,CLIENTE FRECUENTE,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
-337,2026-03-17,3,21.22,14.9,15,App,Efectivo,4,21.43,Revisar,Local 3,Surco,Norte,menu ejecutivo,Menu,14.9,Elena Cruz,comas,CORPORATIVO,2025-02-17
-338,2026-01-10,5,41.3,14.9,0,Web,Tarjeta,2,44.21,Ok,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Fiorella Torres,Miraflores,Regular,09-07-2025
-339,2026-03-12,6,23.61,22.95,10 aprox,Telefono,, 4 ,49.65,Revisar,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Camila Gomez,San Juan de Lurigancho,  Corporativo ,2025-09-19
-340,2026-02-26,4,13.72,22.95 aprox,5,PRESENCIAL,Yape,1,39.08,,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Raul Soto,COMAS,,2025-10-10
-341,2026-05-07,5,40.6,31.16,20,Presencial,Plin,5,53.8,Promocion,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,jorge torres,LiMa,Premium,2025-02-15
-342, 2026-02-21 ,8,51.48,31.16,0,WhatsApp,Transferencia,2 aprox,75.03,Revisar,Local 7,La mOlInA,,Pollo a la brasa,Parrilla,31.16,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
-343,2026-01-12,4,50.46,14.9,5,,,5,33.71,OK,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,,chorrillos,Frecuente,2025-05-02
-344,2026-06-06,5,13.04,22.3,12,Web,YAPE,1,47.28,  OK ,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,,La Molina,Premium,2025-03-14
+331,2026-04-19,5,35.03,23.38,0,Web,Tarjeta,4,116.90,Promocion,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Ana Quispe,Ventanilla,FRECUENTE,2025-04-03
+332,2026-06-11,7,23.83,33.97,12,Telefono,Transferencia,1,237.79,,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Sofia Sayan,Callao,Premium,2025-05-19
+333,2026-02-27,3,28.12,23.38,0,Presencial,YaPe,4,70.14,,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Jose Flores,SuRcO,Corporativo,04/03/2025
+334,2026-03-16,4,44.31,31.16,8,Web,Plin,1,124.64,Revisar,Local 7,La mOlInA,,Pollo a la brasa,Parrilla,31.16,Elena Ramos,Villa El Salvador,nuevo,2025-05-25
+335,10-06-2026,2,40.1,31.16,0,  App ,Yape,1,62.32,Cliente frecuente,Local 4,Villa El Salvador,Este,Pollo a la brasa,Parrilla,31.16,Victor Campos,San Juan de Lurigancho,,2025-03-10
+336,2026-02-07,1,9.91,19.95, 12 ,whatsapp,Yape,5,19.95,CLIENTE FRECUENTE,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
+337,2026-03-17,3,21.22,14.9,15,App,Efectivo,4,44.70,Revisar,Local 3,Surco,Norte,menu ejecutivo,Menu,14.9,Elena Cruz,comas,CORPORATIVO,2025-02-17
+338,2026-01-10,5,41.3,14.9,0,Web,Tarjeta,2,74.50,Ok,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Fiorella Torres,Miraflores,Regular,09-07-2025
+339,2026-03-12,6,23.61,22.95,10 aprox,Telefono,, 4 ,137.70,Revisar,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Camila Gomez,San Juan de Lurigancho,  Corporativo ,2025-09-19
+340,2026-02-26,4,13.72,22.95,5,PRESENCIAL,Yape,1,91.80,,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Raul Soto,COMAS,,2025-10-10
+341,2026-05-07,5,40.6,31.16,20,Presencial,Plin,5,155.80,Promocion,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,jorge torres,LiMa,Premium,2025-02-15
+342, 2026-02-21 ,8,51.48,31.16,0,WhatsApp,Transferencia,2 aprox,249.28,Revisar,Local 7,La mOlInA,,Pollo a la brasa,Parrilla,31.16,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
+343,2026-01-12,4,50.46,14.9,5,,,5,59.60,OK,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,,chorrillos,Frecuente,2025-05-02
+344,2026-06-06,5,13.04,22.3,12,Web,YAPE,1,111.50,  OK ,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,,La Molina,Premium,2025-03-14
 345,2026-01-09,,39.44,27.46,15,WHATSAPP,Yape,2,50.14,REVISAR,Local 4,Villa El Salvador,Este,Lomo saltado,  Criollo ,27.46,Sofia Sayan,Callao,Premium,2025-05-19
-346,2026-01-18,1,25.93,S/ 19.95,15 aprox,Telefono,Transferencia,3,44.9,,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Jorge Cruz,Ventanilla,Premium,2025-09-03
-347,2026/04/14,2,8.53,27.46,10,Telefono,  Efectivo ,1,53.79,Ok,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Raul Cruz,Surco,FrEcUeNtE,2025-01-22
-348,2026-05-07,7,24.08,22.95, 20 ,,Plin,2,48.4,,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Ana Cruz,LiMa,Corporativo,2025-03-14
-349,2026-03-25,6,42.6,22.95,12,Presencial,Tarjeta,1,52.21,Cliente frecuente,Local 7,La mOlInA,,Chaufa,fusion,22.95,Rocio Quispe,Independencia,,2025-06-22
-350,2026-06-15,1,,31.16,,  App ,YAPE,2,33.23,ok,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Victor Campos,San Juan de Lurigancho,,2025-03-10
-351,2026-04-21,5,13.05,14.9,8,WhatsApp,Plin,3,37.62,,LOCAL 5,Villa El Salvador,centro,menu ejecutivo,Menu,14.9,Elena Ramos,Surco,Nuevo,2025-12-01
-352,2026-03-28, 2 ,19.24,33.97,8 aprox,App,Plin,3,42.65,Revisar,Local 7,La mOlInA,,Ceviche,Marino,33.97,Raul Torres,Los Olivos,Corporativo,2025-06-24
-353,2026-01-20,8,"18,74",19.95,0,Telefono,Tarjeta,1,59.54,OK,Local 3,Surco,Norte,sopa criolla,Sopas,19.95,Maria Salazar,Surco,Corporativo,2025-12-13
-354,17/01/2026,7,13.0 aprox,19.95,15,Web,Transferencia,5,42.8,Cliente frecuente,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Valeria Reyes,Miraflores,Frecuente,2025-09-10
-355, 2026-04-12 ,4, 14.21 ,27.46,8,Web,Yape,4,40.17,PROMOCION,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Rocio Gomez,La Molina,Premium,2025-08-04
-356,2026/04/04,7,12.81,14.9,15,Web,,5,49.93,,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,Diana Mendoza,Ate,Regular,2025-01-23
-357,2026-01-06,8,23.53,27.46,0,Telefono,Efectivo, 2 ,68.5,,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Raul Salazar,LIMA,Corporativo,2025-12-14
-358,2026-05-06,2,8.37,22.3,5 aprox,App,Plin,2,38.45,Revisar,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Victor Mendoza,Independencia,Corporativo,28/11/2025
-359,2026-01-08,3,23.58,19.95,15,Web,Yape,2,45.39,OK,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Valeria Mendoza,Villa El Salvador,Nuevo,03/11/2025
-360,2026-02-19,7,37.37,22.95,5,Web,Tarjeta,4,52.6,Revisar,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Elena Paredes,La Molina,Frecuente,2025-02-08
-361,2026-06-27,8,17.07,14.9,0,,Tarjeta,3,50.55,OK,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Elena Cruz,comas,CORPORATIVO,2025-02-17
-362,2026-05-18,3,51.58,27.46,0,WhatsApp,Transferencia,1,40.66,OK,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Valeria Rojas,Los Olivos,Corporativo,2025-11-11
-363,2026-03-02,2,48.4,S/ 19.95,20,Web,Plin,2,18.74 aprox,OK,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Ana Campos,Ventanilla,Corporativo,2025-06-15
-364,2026-04-19,1, 20.47 ,14.9,15,Telefono,Yape,1,32.2,  Revisar ,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,Diana Mendoza,Ate,Regular,2025-01-23
-365,2026-03-05,4,53.63,22.95,8,WEB,Yape,5,49.97,Cliente frecuente,Local 7,La mOlInA,,Chaufa,fusion,22.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
-366,2026-03-04,3,29.52,33.97,0,WhatsApp,Tarjeta,5,62.05,PrOmOcIoN,Local 2,La Molina,Norte,Ceviche,Marino,33.97,Valeria Rojas,Los Olivos,Corporativo,2025-11-11
-367,2026-02-05,8,23.74,17.69,20,Telefono,Tarjeta,2,46.16,Revisar,Local 3,Surco,Norte,Ensalada especial,,17.69,Raul Cruz,Surco,FrEcUeNtE,2025-01-22
-368,2026-01-02,1,39.46, 17.69 ,15 aprox,Telefono,Efectivo,1,33.66,ReViSaR,Local 6,Villa El Salvador,Oeste,Ensalada especial,,17.69,Sofia Paredes,ate,Frecuente,2025-03-27
-369,2026-01-28,2,30.6,31.16,10,WhatsApp,Tarjeta,2,53.76,Promocion,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Jose Paredes,  Comas ,Corporativo,2025-08-07
-370,2026-05-19,1,21.71,19.95,15,Web,Yape,5,19.1,Revisar,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
-371,2026-03-23,4,37.38 aprox,27.46,15,Presencial,TARJETA,2,45.1,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Carlos Campos,Villa El Salvador,Regular,2025-08-27
-372,,3, 27.25 ,14.9,20,TeLeFoNo,Tarjeta,4,22.64,Cliente frecuente,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Quispe,Independencia,Corporativo,2025-12-24
-373,2026-05-14,7,43.52,14.9,10,WhatsApp,TARJETA,4,44.1,Promocion,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Ana Campos,Ventanilla,Corporativo,2025-06-15
-374,2026-05-28,2,,33.97,20,Web,,2,37.37,,Local 7,La mOlInA,,Ceviche,Marino,33.97,Jorge Rojas,Comas,Nuevo,2025-03-23
-375,2026-06-12,5,49.55,27.46,0,Telefono,Efectivo,3,58.21,Revisar,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
-376,,1 aprox,21.18,31.16,12,WhatsApp,Yape,3,22.98,Cliente frecuente,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,AnA SoTo,COMAS,Corporativo,2025-12-12
-377,2026-06-04,1,40.91,27.46,5,App,Tarjeta,5,38.69,Promocion,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Raul Salazar,LIMA,Corporativo,2025-12-14
-378,2026-05-10,7,54.66,19.95,15,Web,Yape,,52.76,Revisar,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Victor Castillo,chorrillos,regular,2025-09-25
-379,2026/04/14, 1 ,31.47,,12,App,Tarjeta,1,28.5,OK,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,  Carlos Huaman ,Miraflores,Regular,2025-08-19
-380,2026-03-15,4, 35.12 ,19.95,20,Web,Yape,5,28.47,OK,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Camila Ramos,La Molina,Premium,2025-03-14
-381,,3, 27.25 ,14.9,20,TeLeFoNo,Tarjeta,4,22.64,Cliente frecuente,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Quispe,Independencia,Corporativo,2025-12-24
-382,2026-02-03,4,42.14,33.97,12,Web,Tarjeta,4, 52.92 ,Cliente frecuente,Local 2,La Molina,Norte,Ceviche,Marino,33.97,,Lima,premium,2025-08-01
-383,2026-06-15,5,38.79,27.46,0,Telefono,Plin,2,61.89,OK,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
-384,2026-03-18,2,41.21,27.46,0,WhatsApp,,4, 43.81 ,,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Claudia Salazar,Independencia,Corporativo,2025-08-28
-385,2026-02-06,7,27.82,33.97 aprox,0,Telefono,Plin,3,61.81,Promocion,Local 4,Villa El Salvador,Este,Ceviche,Marino,33.97,Miguel Flores,Ventanilla,Frecuente,2025/05/13
-386,2026-05-16,3,18.01, 22.3 ,5,Web,Plin,2,47.22,Revisar,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Diego Cruz,La Molina,Frecuente,2025-12-16
-387,2026-01-13,7 aprox,41.69, 31.16 ,15,WhatsApp,Transferencia,4,56.07,OK,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Elena Ramos,Villa El Salvador,nuevo,2025-05-25
-388,2026-02-21,6,50.77,23.38,8,WhatsApp,TaRjEtA,4,53.29,Promocion,Local 6,Villa El Salvador,Oeste,Aji de gallina,Criollo,23.38,Ana Cruz,LiMa,Corporativo,2025-03-14
-389,2026-02-21,8,32.32,23.38,0,PrEsEnCiAl,Plin,5,79.03,OK,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
-390,09-01-2026,1,,23.38,15,Presencial,Tarjeta,4,29.12,OK,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,MaRiA VaRgAs,Los Olivos,Premium,2025-04-28
-391,2026-01-23,2,28.5,22.3,5 aprox,Telefono,Efectivo,3,27.58,,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Maria Salazar,Surco,Corporativo,2025-12-13
-392,2026-02-08,8,"15,75",23.38,0,App,Transferencia,4,60.76,CLIENTE FRECUENTE,LOCAL 5,Villa El Salvador,centro,Aji de gallina,Criollo,23.38,Ana Paredes,Independencia,Corporativo,2025-09-18
-393,2026-05-23,6, 50.24 ,19.95,12,  Telefono ,Tarjeta,4,"60,71",Revisar,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Ana Cruz,LiMa,Corporativo,2025-03-14
-394,13-02-2026,1,21.52,22.95,20,Telefono,Transferencia,1,,,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Sofia Sayan,Callao,Premium,2025-05-19
-395,2026/04/26,6,16.79,33.97,0,PRESENCIAL,Plin,1,64.13,OK,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Luis Sayan,Independencia,Nuevo,2025-12-21
+346,2026-01-18,1,25.93,19.95,15 aprox,Telefono,Transferencia,3,19.95,,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Jorge Cruz,Ventanilla,Premium,2025-09-03
+347,2026/04/14,2,8.53,27.46,10,Telefono,  Efectivo ,1,54.92,Ok,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Raul Cruz,Surco,FrEcUeNtE,2025-01-22
+348,2026-05-07,7,24.08,22.95, 20 ,,Plin,2,160.65,,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Ana Cruz,LiMa,Corporativo,2025-03-14
+349,2026-03-25,6,42.6,22.95,12,Presencial,Tarjeta,1,137.70,Cliente frecuente,Local 7,La mOlInA,,Chaufa,fusion,22.95,Rocio Quispe,Independencia,,2025-06-22
+350,2026-06-15,1,,31.16,,  App ,YAPE,2,31.16,ok,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Victor Campos,San Juan de Lurigancho,,2025-03-10
+351,2026-04-21,5,13.05,14.9,8,WhatsApp,Plin,3,74.50,,LOCAL 5,Villa El Salvador,centro,menu ejecutivo,Menu,14.9,Elena Ramos,Surco,Nuevo,2025-12-01
+352,2026-03-28,2,19.24,33.97,8 aprox,App,Plin,3,67.94,Revisar,Local 7,La mOlInA,,Ceviche,Marino,33.97,Raul Torres,Los Olivos,Corporativo,2025-06-24
+353,2026-01-20,8,"18,74",19.95,0,Telefono,Tarjeta,1,159.60,OK,Local 3,Surco,Norte,sopa criolla,Sopas,19.95,Maria Salazar,Surco,Corporativo,2025-12-13
+354,17/01/2026,7,13.0 aprox,19.95,15,Web,Transferencia,5,139.65,Cliente frecuente,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Valeria Reyes,Miraflores,Frecuente,2025-09-10
+355, 2026-04-12 ,4, 14.21 ,27.46,8,Web,Yape,4,109.84,PROMOCION,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Rocio Gomez,La Molina,Premium,2025-08-04
+356,2026/04/04,7,12.81,14.9,15,Web,,5,104.30,,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,Diana Mendoza,Ate,Regular,2025-01-23
+357,2026-01-06,8,23.53,27.46,0,Telefono,Efectivo, 2 ,219.68,,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Raul Salazar,LIMA,Corporativo,2025-12-14
+358,2026-05-06,2,8.37,22.3,5 aprox,App,Plin,2,44.60,Revisar,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Victor Mendoza,Independencia,Corporativo,28/11/2025
+359,2026-01-08,3,23.58,19.95,15,Web,Yape,2,59.85,OK,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Valeria Mendoza,Villa El Salvador,Nuevo,03/11/2025
+360,2026-02-19,7,37.37,22.95,5,Web,Tarjeta,4,160.65,Revisar,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Elena Paredes,La Molina,Frecuente,2025-02-08
+361,2026-06-27,8,17.07,14.9,0,,Tarjeta,3,119.20,OK,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Elena Cruz,comas,CORPORATIVO,2025-02-17
+362,2026-05-18,3,51.58,27.46,0,WhatsApp,Transferencia,1,82.38,OK,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Valeria Rojas,Los Olivos,Corporativo,2025-11-11
+363,2026-03-02,2,48.4,19.95,20,Web,Plin,2,39.90,OK,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Ana Campos,Ventanilla,Corporativo,2025-06-15
+364,2026-04-19,1, 20.47 ,14.9,15,Telefono,Yape,1,14.90,  Revisar ,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,Diana Mendoza,Ate,Regular,2025-01-23
+365,2026-03-05,4,53.63,22.95,8,WEB,Yape,5,91.80,Cliente frecuente,Local 7,La mOlInA,,Chaufa,fusion,22.95,Raul Torres,Los Olivos,Corporativo,2025-06-24
+366,2026-03-04,3,29.52,33.97,0,WhatsApp,Tarjeta,5,101.91,PrOmOcIoN,Local 2,La Molina,Norte,Ceviche,Marino,33.97,Valeria Rojas,Los Olivos,Corporativo,2025-11-11
+367,2026-02-05,8,23.74,17.69,20,Telefono,Tarjeta,2,141.52,Revisar,Local 3,Surco,Norte,Ensalada especial,,17.69,Raul Cruz,Surco,FrEcUeNtE,2025-01-22
+368,2026-01-02,1,39.46,17.69,15 aprox,Telefono,Efectivo,1,17.69,ReViSaR,Local 6,Villa El Salvador,Oeste,Ensalada especial,,17.69,Sofia Paredes,ate,Frecuente,2025-03-27
+369,2026-01-28,2,30.6,31.16,10,WhatsApp,Tarjeta,2,62.32,Promocion,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Jose Paredes,  Comas ,Corporativo,2025-08-07
+370,2026-05-19,1,21.71,19.95,15,Web,Yape,5,19.95,Revisar,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
+371,2026-03-23,4,37.38 aprox,27.46,15,Presencial,TARJETA,2,109.84,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Carlos Campos,Villa El Salvador,Regular,2025-08-27
+372,,3, 27.25 ,14.9,20,TeLeFoNo,Tarjeta,4,44.70,Cliente frecuente,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Quispe,Independencia,Corporativo,2025-12-24
+373,2026-05-14,7,43.52,14.9,10,WhatsApp,TARJETA,4,104.30,Promocion,Local 7,La mOlInA,,menu ejecutivo,Menu,14.9,Ana Campos,Ventanilla,Corporativo,2025-06-15
+374,2026-05-28,2,,33.97,20,Web,,2,67.94,,Local 7,La mOlInA,,Ceviche,Marino,33.97,Jorge Rojas,Comas,Nuevo,2025-03-23
+375,2026-06-12,5,49.55,27.46,0,Telefono,Efectivo,3,137.30,Revisar,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
+376,,1,21.18,31.16,12,WhatsApp,Yape,3,31.16,Cliente frecuente,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,AnA SoTo,COMAS,Corporativo,2025-12-12
+377,2026-06-04,1,40.91,27.46,5,App,Tarjeta,5,27.46,Promocion,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Raul Salazar,LIMA,Corporativo,2025-12-14
+378,2026-05-10,7,54.66,19.95,15,Web,Yape,,139.65,Revisar,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Victor Castillo,chorrillos,regular,2025-09-25
+379,2026/04/14,1,31.47,22.3,12,App,Tarjeta,1,22.30,OK,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,  Carlos Huaman ,Miraflores,Regular,2025-08-19
+380,2026-03-15,4, 35.12 ,19.95,20,Web,Yape,5,79.80,OK,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Camila Ramos,La Molina,Premium,2025-03-14
+381,,3, 27.25 ,14.9,20,TeLeFoNo,Tarjeta,4,44.70,Cliente frecuente,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Quispe,Independencia,Corporativo,2025-12-24
+382,2026-02-03,4,42.14,33.97,12,Web,Tarjeta,4,135.88,Cliente frecuente,Local 2,La Molina,Norte,Ceviche,Marino,33.97,,Lima,premium,2025-08-01
+383,2026-06-15,5,38.79,27.46,0,Telefono,Plin,2,137.30,OK,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,Jorge Quispe,Los Olivos,Nuevo,2025-10-25
+384,2026-03-18,2,41.21,27.46,0,WhatsApp,,4,54.92,,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Claudia Salazar,Independencia,Corporativo,2025-08-28
+385,2026-02-06,7,27.82,33.97,0,Telefono,Plin,3,237.79,Promocion,Local 4,Villa El Salvador,Este,Ceviche,Marino,33.97,Miguel Flores,Ventanilla,Frecuente,2025/05/13
+386,2026-05-16,3,18.01,22.3,5,Web,Plin,2,66.90,Revisar,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Diego Cruz,La Molina,Frecuente,2025-12-16
+387,2026-01-13,7,41.69,31.16,15,WhatsApp,Transferencia,4,218.12,OK,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Elena Ramos,Villa El Salvador,nuevo,2025-05-25
+388,2026-02-21,6,50.77,23.38,8,WhatsApp,TaRjEtA,4,140.28,Promocion,Local 6,Villa El Salvador,Oeste,Aji de gallina,Criollo,23.38,Ana Cruz,LiMa,Corporativo,2025-03-14
+389,2026-02-21,8,32.32,23.38,0,PrEsEnCiAl,Plin,5,187.04,OK,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
+390,09-01-2026,1,,23.38,15,Presencial,Tarjeta,4,23.38,OK,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,MaRiA VaRgAs,Los Olivos,Premium,2025-04-28
+391,2026-01-23,2,28.5,22.3,5 aprox,Telefono,Efectivo,3,44.60,,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Maria Salazar,Surco,Corporativo,2025-12-13
+392,2026-02-08,8,"15,75",23.38,0,App,Transferencia,4,187.04,CLIENTE FRECUENTE,LOCAL 5,Villa El Salvador,centro,Aji de gallina,Criollo,23.38,Ana Paredes,Independencia,Corporativo,2025-09-18
+393,2026-05-23,6, 50.24 ,19.95,12,  Telefono ,Tarjeta,4,119.70,Revisar,Local 6,Villa El Salvador,Oeste,sopa criolla,Sopas,19.95,Ana Cruz,LiMa,Corporativo,2025-03-14
+394,13-02-2026,1,21.52,22.95,20,Telefono,Transferencia,1,22.95,,Local 1,Ventanilla,Centro,Chaufa,fusion,22.95,Sofia Sayan,Callao,Premium,2025-05-19
+395,2026/04/26,6,16.79,33.97,0,PRESENCIAL,Plin,1,203.82,OK,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Luis Sayan,Independencia,Nuevo,2025-12-21
 396,2026-05-22,,53.47,27.46,20,Web,Transferencia,1,48.2,,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Valeria Soto,Callao,Premium,2025-04-24
-397,2026-06-21,1,52.58,22.3,10,App,TrAnSfErEnCiA,4,27.36,Cliente frecuente,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,AnA SoTo,COMAS,Corporativo,2025-12-12
-398,2026-02-21,2,26.01,27.46,0,App,EFECTIVO,1,38.76 aprox,  Promocion ,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Maria Salazar,Surco,Corporativo,2025-12-13
-399,,3,33.37,27.46,0,Web,Transferencia,2,47.77 aprox,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Jorge Rojas,Comas,Nuevo,2025-03-23
-400, 2026-01-16 ,7,45.62,14.9,0,WeB,Tarjeta,3,55.02,Revisar,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
+397,2026-06-21,1,52.58,22.3,10,App,TrAnSfErEnCiA,4,22.30,Cliente frecuente,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,AnA SoTo,COMAS,Corporativo,2025-12-12
+398,2026-02-21,2,26.01,27.46,0,App,EFECTIVO,1,54.92,  Promocion ,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Maria Salazar,Surco,Corporativo,2025-12-13
+399,,3,33.37,27.46,0,Web,Transferencia,2,82.38,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Jorge Rojas,Comas,Nuevo,2025-03-23
+400, 2026-01-16 ,7,45.62,14.9,0,WeB,Tarjeta,3,104.30,Revisar,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,Diana Navarro,Miraflores,  Frecuente ,2025-01-14
 401,2026-03-20,,47.18,31.16,12,App,Tarjeta,4,67.55,Revisar,Local 7,La mOlInA,,Pollo a la brasa,Parrilla,31.16,Maria Soto,los olivos,Regular,2025-05-27
-402,2026-06-15,5,39.15,33.97,0,Telefono,Yape,4,59.46,OK,Local 2,La Molina,Norte,Ceviche,Marino,33.97,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
-403,2026-06-15,5,46.63,23.38,5,App,Efectivo,4,57.43,Revisar,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Diego Sayan,Chorrillos,,22-10-2025
-404,2026-06-24,1,12.64,23.38,0,,Efectivo,2,26.98,,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,,Villa El Salvador,PrEmIuM, 2025-09-27 
-405,2026-02-16, 6 ,36.45,33.97,0,App,Tarjeta,5,67.7,Revisar,Local 4,Villa El Salvador,Este,Ceviche,Marino,33.97,Sofia Sayan,Callao,Premium,2025-05-19
-406,2026-01-19,6,29.61,23.38,10,Web,Yape,3,39.03,,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,Ana Paredes,Independencia,Corporativo,2025-09-18
-407,2026-05-09,2,52.26,27.46,15,App,Tarjeta,4,39.53,,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Rocio Gomez,La Molina,Premium,2025-08-04
-408,2026-06-17,2,31.85,14.9,5,Presencial,Efectivo,4,34.66,Cliente frecuente,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,,Villa El Salvador,PrEmIuM, 2025-09-27 
-409,2026-05-19,4,23.97,27.46,0,Presencial,YAPE,4,60.15,,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,AnA SoTo,COMAS,Corporativo,2025-12-12
-410, 2026-02-22 ,3,50.29,22.3, 8 ,WhAtSaPp,plin,4,51.02,Cliente frecuente,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Victor Campos,San Juan de Lurigancho,,2025-03-10
-411,2026-03-14,8,"33,27",33.97,12,  Telefono ,Plin,5,72.58,,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,,La Molina,Premium,2025-03-14
-412,2026/03/08,6,42.33,"14,9",0,Web,Efectivo,4,49.01,OK,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Diego Sayan,Chorrillos,,22-10-2025
-413,2026-03-23,7,45.95,22.95,5,PRESENCIAL,Efectivo,5,58.23,Promocion,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,,chorrillos,Frecuente,2025-05-02
+402,2026-06-15,5,39.15,33.97,0,Telefono,Yape,4,169.85,OK,Local 2,La Molina,Norte,Ceviche,Marino,33.97,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
+403,2026-06-15,5,46.63,23.38,5,App,Efectivo,4,116.90,Revisar,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Diego Sayan,Chorrillos,,22-10-2025
+404,2026-06-24,1,12.64,23.38,0,,Efectivo,2,23.38,,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,,Villa El Salvador,PrEmIuM, 2025-09-27 
+405,2026-02-16,6,36.45,33.97,0,App,Tarjeta,5,203.82,Revisar,Local 4,Villa El Salvador,Este,Ceviche,Marino,33.97,Sofia Sayan,Callao,Premium,2025-05-19
+406,2026-01-19,6,29.61,23.38,10,Web,Yape,3,140.28,,Local 3,Surco,Norte,Aji de gallina,Criollo,23.38,Ana Paredes,Independencia,Corporativo,2025-09-18
+407,2026-05-09,2,52.26,27.46,15,App,Tarjeta,4,54.92,,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Rocio Gomez,La Molina,Premium,2025-08-04
+408,2026-06-17,2,31.85,14.9,5,Presencial,Efectivo,4,29.80,Cliente frecuente,Local 2,La Molina,Norte,menu ejecutivo,Menu,14.9,,Villa El Salvador,PrEmIuM, 2025-09-27 
+409,2026-05-19,4,23.97,27.46,0,Presencial,YAPE,4,109.84,,Local 3,Surco,Norte,Lomo saltado,  Criollo ,27.46,AnA SoTo,COMAS,Corporativo,2025-12-12
+410, 2026-02-22 ,3,50.29,22.3, 8 ,WhAtSaPp,plin,4,66.90,Cliente frecuente,Local 7,La mOlInA,,Tallarines verdes,Pastas,22.3,Victor Campos,San Juan de Lurigancho,,2025-03-10
+411,2026-03-14,8,"33,27",33.97,12,  Telefono ,Plin,5,271.76,,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,,La Molina,Premium,2025-03-14
+412,2026/03/08,6,42.33,14.9,0,Web,Efectivo,4,89.40,OK,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Diego Sayan,Chorrillos,,22-10-2025
+413,2026-03-23,7,45.95,22.95,5,PRESENCIAL,Efectivo,5,160.65,Promocion,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,,chorrillos,Frecuente,2025-05-02
 414,2026-03-17,,39.56,27.46,15,Presencial,yape,5,74.72,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Victor Campos,San Juan de Lurigancho,,2025-03-10
-415,2026-06-15,1,24.73,22.3,20,Web,Yape,5,"23,59",Promocion,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,,Comas,Premium,2025-06-09
-416,2026-05-09,7,18.11,22.3,0,PRESENCIAL,Plin,1,"32,39",Revisar,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Ana Paredes,Independencia,Corporativo,2025-09-18
+415,2026-06-15,1,24.73,22.3,20,Web,Yape,5,22.30,Promocion,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,,Comas,Premium,2025-06-09
+416,2026-05-09,7,18.11,22.3,0,PRESENCIAL,Plin,1,156.10,Revisar,Local 6,Villa El Salvador,Oeste,Tallarines verdes,Pastas,22.3,Ana Paredes,Independencia,Corporativo,2025-09-18
 417,2026-03-07,,12.28,22.3,0,App,Transferencia,5,57.5,,Local 3,Surco,Norte,Tallarines verdes,Pastas,22.3,,Lima,premium,2025-08-01
 418,2026-03-23,,31.26,33.97,0,Web,Yape,4,58.88,Revisar,Local 4,Villa El Salvador,Este,Ceviche,Marino,33.97,Valeria Rojas,Los Olivos,Corporativo,2025-11-11
-419,2026-06-16,7,9.73,17.69,15,WhatsApp,Efectivo,3,,Promocion,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
-420,2026-06-06,6,37.5,31.16,8 aprox,WHATSAPP,Yape,5,67.79,,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Camila  Huaman,Lima,  Frecuente ,2025-06-15
-421,2026-01-15,4,18.38,19.95,10,Presencial,Yape,5,57.06,OK,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Victor Castillo,chorrillos,regular,2025-09-25
-422,2026-02-14,5 aprox,19.24,22.95,5,WhatsApp,Yape,4,55.67,Revisar,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Rocio Quispe,Independencia,,2025-06-22
-423,2026/02/17,8,,31.16,15,WhatsApp,Transferencia,5,66.4,OK,Local 7,La mOlInA,,Pollo a la brasa,Parrilla,31.16,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
-424,2026-02-07,4,19.2,27.46,12,Telefono,Tarjeta,5,60.09,,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Jose Paredes,  Comas ,Corporativo,2025-08-07
-425,2026-06-05,5,28.39,22.95,15,Telefono,Plin,2,49.57,,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Sofia Campos,Miraflores,Premium,2025-09-27
-426,2026-06-25,2,37.2,22.95 aprox,0,Web,YaPe,2,48.68,,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Andre Campos,san juan de lurigancho,Premium,2025-11-05
-427,2026-04-07,8,35.2,14.9,0,Web,Plin,2,44.01,OK,LOCAL 5,Villa El Salvador,centro,menu ejecutivo,Menu,14.9,Raul Soto,COMAS,,2025-10-10
-428,2026-04-15,1,30.95,31.16,12,Web,Efectivo,2,51.04,,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Pedro Flores,Callao,Nuevo,2025-08-25
-429,2026-01-08,3,19.63,22.95,10,Web,Tarjeta,4,,OK,Local 3,Surco,Norte,Chaufa,fusion,22.95,Raul Soto,COMAS,,2025-10-10
-430,2026-04-24,7,44.31,23.38,10,Web,Tarjeta,3,64.18,Cliente frecuente,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Maria Soto,los olivos,Regular,2025-05-27
-431,,3, 27.25 ,14.9,20,TeLeFoNo,Tarjeta,4,22.64,Cliente frecuente,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Quispe,Independencia,Corporativo,2025-12-24
-432,2026-01-17,5,14.8,14.9,15,Telefono,EfEcTiVo,5,34.41,,Local 3,Surco,Norte,menu ejecutivo,Menu,14.9,Rocio Quispe,Independencia,,2025-06-22
-433,2026-03-07,5,,31.16,0,Web,TaRjEtA,3,70.55,  OK ,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Raul Gomez,Miraflores,Regular,2025-07-08
-434,2026-04-19,7, 43.46 ,17.69,0,Presencial,  Tarjeta ,5,40.25,Revisar,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Elena Ramos,Villa El Salvador,nuevo,2025-05-25
-435,2026-03-10,6,22.53,S/ 19.95,0,Telefono,EfEcTiVo,,56.46,  Cliente frecuente ,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Lucia Ramos,Lima,regular,2025-05-01
-436,2026-06-11,4,10.44,33.97 aprox,10,Telefono,  Yape ,2,65.66,Revisar,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Claudia Castillo,Ate,Regular,2025-05-20
-437,2026-02-17,6,14.05 aprox,33.97,20,Web,Tarjeta,4,68.01,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Victor Mendoza,ATE,Corporativo,2025-06-09
-438,,4,20.69,17.69,0,WhAtSaPp,Efectivo,1,40.25,,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Raul Salazar,LIMA,Corporativo,2025-12-14
-439,2026-04-10,5,51.0,22.95,0,  Presencial ,Tarjeta,4,38.93,,Local 7,La mOlInA,,Chaufa,fusion,22.95,Raul Cruz,Surco,FrEcUeNtE,2025-01-22
-440,2026-02-14,8,20.82,17.69,,WhatsApp,Plin,3,44.01,Promocion,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Raul Salazar,LIMA,Corporativo,2025-12-14
-441,2026-02-14,4,19.48,23.38,5,WHATSAPP,,4,27.88,,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Claudia Paredes,Villa El Salvador,Corporativo,
-442,2026-06-03,5,23.43,17.69,12,Presencial,Tarjeta,1,42.68,,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Ana Cruz,LiMa,Corporativo,2025-03-14
-443,2026-06-20,8,14.36,33.97,0,Telefono,Tarjeta,5,67.71,Promocion,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,jorge torres,LiMa,Premium,2025-02-15
-444,2026-02-05,3,53.72,17.69,5 aprox,Web,Tarjeta,4,37.76,Revisar,Local 3,Surco,Norte,Ensalada especial,,17.69,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
-445,2026-01-22,3,11.11,33.97,,Web,Yape,2,51.39,,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,MaRiA VaRgAs,Los Olivos,Premium,2025-04-28
-446,2026-02-22,6,11.45,31.16,0,App,Transferencia,4,51.93,Promocion,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Victor Cruz,Miraflores,Frecuente,
-447,2026-01-04,7,12.35,17.69, 10 ,App,Transferencia,2,52.35,  OK ,Local 2,La Molina,Norte,Ensalada especial,,17.69,Elena Cruz,comas,CORPORATIVO,2025-02-17
-448,2026-01-08,8,8.92,19.95,15,Web,Yape,5,66.67,,Local 2,La Molina,Norte,sopa criolla,Sopas,19.95,Raul Torres,Surco,Frecuente,2025-04-22
-449,2026-05-13, 1 ,39.17,17.69,0,Presencial,Efectivo,1,28.4,,Local 7,La mOlInA,,Ensalada especial,,17.69,jorge torres,LiMa,Premium,2025-02-15
-450,2026-04-15,4,18.43,31.16,12,Telefono,,5,40.59,,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Luis Sayan,Independencia,Nuevo,2025-12-21
-451,2026-03-05,2,17.6,19.95,5,Presencial,Efectivo,2,31.69,,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,,La Molina,Premium,2025-03-14
+419,2026-06-16,7,9.73,17.69,15,WhatsApp,Efectivo,3,123.83,Promocion,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
+420,2026-06-06,6,37.5,31.16,8 aprox,WHATSAPP,Yape,5,186.96,,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Camila  Huaman,Lima,  Frecuente ,2025-06-15
+421,2026-01-15,4,18.38,19.95,10,Presencial,Yape,5,79.80,OK,LOCAL 5,Villa El Salvador,centro,sopa criolla,Sopas,19.95,Victor Castillo,chorrillos,regular,2025-09-25
+422,2026-02-14,5,19.24,22.95,5,WhatsApp,Yape,4,114.75,Revisar,Local 4,Villa El Salvador,Este,Chaufa,fusion,22.95,Rocio Quispe,Independencia,,2025-06-22
+423,2026/02/17,8,,31.16,15,WhatsApp,Transferencia,5,249.28,OK,Local 7,La mOlInA,,Pollo a la brasa,Parrilla,31.16,Claudia Rojas,San Juan de Lurigancho,  Premium ,2025-05-25
+424,2026-02-07,4,19.2,27.46,12,Telefono,Tarjeta,5,109.84,,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Jose Paredes,  Comas ,Corporativo,2025-08-07
+425,2026-06-05,5,28.39,22.95,15,Telefono,Plin,2,114.75,,Local 2,La Molina,Norte,Chaufa,fusion,22.95,Sofia Campos,Miraflores,Premium,2025-09-27
+426,2026-06-25,2,37.2,22.95,0,Web,YaPe,2,45.90,,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Andre Campos,san juan de lurigancho,Premium,2025-11-05
+427,2026-04-07,8,35.2,14.9,0,Web,Plin,2,119.20,OK,LOCAL 5,Villa El Salvador,centro,menu ejecutivo,Menu,14.9,Raul Soto,COMAS,,2025-10-10
+428,2026-04-15,1,30.95,31.16,12,Web,Efectivo,2,31.16,,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Pedro Flores,Callao,Nuevo,2025-08-25
+429,2026-01-08,3,19.63,22.95,10,Web,Tarjeta,4,68.85,OK,Local 3,Surco,Norte,Chaufa,fusion,22.95,Raul Soto,COMAS,,2025-10-10
+430,2026-04-24,7,44.31,23.38,10,Web,Tarjeta,3,163.66,Cliente frecuente,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Maria Soto,los olivos,Regular,2025-05-27
+431,,3, 27.25 ,14.9,20,TeLeFoNo,Tarjeta,4,44.70,Cliente frecuente,Local 6,Villa El Salvador,Oeste,menu ejecutivo,Menu,14.9,Jose Quispe,Independencia,Corporativo,2025-12-24
+432,2026-01-17,5,14.8,14.9,15,Telefono,EfEcTiVo,5,74.50,,Local 3,Surco,Norte,menu ejecutivo,Menu,14.9,Rocio Quispe,Independencia,,2025-06-22
+433,2026-03-07,5,,31.16,0,Web,TaRjEtA,3,155.80,  OK ,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Raul Gomez,Miraflores,Regular,2025-07-08
+434,2026-04-19,7, 43.46 ,17.69,0,Presencial,  Tarjeta ,5,123.83,Revisar,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Elena Ramos,Villa El Salvador,nuevo,2025-05-25
+435,2026-03-10,6,22.53,19.95,0,Telefono,EfEcTiVo,,119.70,  Cliente frecuente ,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Lucia Ramos,Lima,regular,2025-05-01
+436,2026-06-11,4,10.44,33.97,10,Telefono,  Yape ,2,135.88,Revisar,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Claudia Castillo,Ate,Regular,2025-05-20
+437,2026-02-17,6,14.05 aprox,33.97,20,Web,Tarjeta,4,203.82,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Victor Mendoza,ATE,Corporativo,2025-06-09
+438,,4,20.69,17.69,0,WhAtSaPp,Efectivo,1,70.76,,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Raul Salazar,LIMA,Corporativo,2025-12-14
+439,2026-04-10,5,51.0,22.95,0,  Presencial ,Tarjeta,4,114.75,,Local 7,La mOlInA,,Chaufa,fusion,22.95,Raul Cruz,Surco,FrEcUeNtE,2025-01-22
+440,2026-02-14,8,20.82,17.69,,WhatsApp,Plin,3,141.52,Promocion,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Raul Salazar,LIMA,Corporativo,2025-12-14
+441,2026-02-14,4,19.48,23.38,5,WHATSAPP,,4,93.52,,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Claudia Paredes,Villa El Salvador,Corporativo,
+442,2026-06-03,5,23.43,17.69,12,Presencial,Tarjeta,1,88.45,,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Ana Cruz,LiMa,Corporativo,2025-03-14
+443,2026-06-20,8,14.36,33.97,0,Telefono,Tarjeta,5,271.76,Promocion,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,jorge torres,LiMa,Premium,2025-02-15
+444,2026-02-05,3,53.72,17.69,5 aprox,Web,Tarjeta,4,53.07,Revisar,Local 3,Surco,Norte,Ensalada especial,,17.69,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
+445,2026-01-22,3,11.11,33.97,,Web,Yape,2,101.91,,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,MaRiA VaRgAs,Los Olivos,Premium,2025-04-28
+446,2026-02-22,6,11.45,31.16,0,App,Transferencia,4,186.96,Promocion,Local 2,La Molina,Norte,Pollo a la brasa,Parrilla,31.16,Victor Cruz,Miraflores,Frecuente,
+447,2026-01-04,7,12.35,17.69, 10 ,App,Transferencia,2,123.83,  OK ,Local 2,La Molina,Norte,Ensalada especial,,17.69,Elena Cruz,comas,CORPORATIVO,2025-02-17
+448,2026-01-08,8,8.92,19.95,15,Web,Yape,5,159.60,,Local 2,La Molina,Norte,sopa criolla,Sopas,19.95,Raul Torres,Surco,Frecuente,2025-04-22
+449,2026-05-13,1,39.17,17.69,0,Presencial,Efectivo,1,17.69,,Local 7,La mOlInA,,Ensalada especial,,17.69,jorge torres,LiMa,Premium,2025-02-15
+450,2026-04-15,4,18.43,31.16,12,Telefono,,5,124.64,,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Luis Sayan,Independencia,Nuevo,2025-12-21
+451,2026-03-05,2,17.6,19.95,5,Presencial,Efectivo,2,39.90,,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,,La Molina,Premium,2025-03-14
 452,2026-01-03,,52.26,14.9,8,Telefono,Tarjeta,5,20.75,Revisar,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
-453,2026-06-26,3,50.6,23.38,0,WhatsApp,PlIn,4,52.51,Promocion,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Pedro Flores,Callao,Nuevo,2025-08-25
-454,2026-04-09,7,39.49,17.69,12,,Transferencia,4,52.53,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,victor flores,Miraflores,Regular,2025-02-04
-455,2026-03-17,1,41.7,31.16, 8 ,App,Plin,1,41.32,OK,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
-456,2026-04-16,2,15.6, 22.3 ,0,,,5,37.28,,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Victor Mendoza,Independencia,Corporativo,28/11/2025
-457,2026-04-14,3,40.2,22.3,12,whatsapp,PLIN,1,50.89,Revisar,Local 3,Surco,Norte,Tallarines verdes,Pastas,22.3,Camila Ramos,La Molina,Premium,2025-03-14
-458,2026-06-22,3,28.96,33.97,0,  Web ,Transferencia,3,44.82,OK,Local 6,Villa El Salvador,Oeste,Ceviche,Marino,33.97,Sofia Sayan,Callao,Premium,2025-05-19
-459,2026-06-28,7,25.13,33.97,5,WhatsApp,Tarjeta,2,70.66,,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Diego Cruz,La Molina,Frecuente,2025-12-16
-460,2026-02-28,4,35.14,33.97, 20 ,  Telefono ,  Yape ,5,53.99,,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Valeria Soto,Callao,Premium,2025-04-24
-461,2026-03-12,3,32.31,31.16,0,Web,Efectivo,1,58.58,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
-462,2026/05/28,8,45.62,31.16,0,Presencial,Transferencia,4,86.33,,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,,chorrillos,Frecuente,2025-05-02
-463,2026-06-01,8,34.43,27.46, 8 ,Telefono,Plin,2,60.36,,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Carlos Campos,Villa El Salvador,Regular,2025-08-27
-464,11/05/2026,3,34.9,27.46,8,WhatsApp,Plin,2,41.4,OK,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Diego Sayan,Chorrillos,,22-10-2025
-465,2026-04-28,6,18.6,33.97, 8 ,  WhatsApp ,Efectivo,2,72.05,Cliente frecuente,Local 3,Surco,Norte,Ceviche,Marino,33.97,Diego Soto,Miraflores,Frecuente,2025/06/05
-466,2026-03-10,6,26.93,14.9,0,  Web ,Efectivo,3,41.77,Cliente frecuente,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Raul Salazar,LIMA,Corporativo,2025-12-14
+453,2026-06-26,3,50.6,23.38,0,WhatsApp,PlIn,4,70.14,Promocion,Local 1,Ventanilla,Centro,Aji de gallina,Criollo,23.38,Pedro Flores,Callao,Nuevo,2025-08-25
+454,2026-04-09,7,39.49,17.69,12,,Transferencia,4,123.83,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,victor flores,Miraflores,Regular,2025-02-04
+455,2026-03-17,1,41.7,31.16, 8 ,App,Plin,1,31.16,OK,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
+456,2026-04-16,2,15.6,22.3,0,,,5,44.60,,Local 4,Villa El Salvador,Este,Tallarines verdes,Pastas,22.3,Victor Mendoza,Independencia,Corporativo,28/11/2025
+457,2026-04-14,3,40.2,22.3,12,whatsapp,PLIN,1,66.90,Revisar,Local 3,Surco,Norte,Tallarines verdes,Pastas,22.3,Camila Ramos,La Molina,Premium,2025-03-14
+458,2026-06-22,3,28.96,33.97,0,  Web ,Transferencia,3,101.91,OK,Local 6,Villa El Salvador,Oeste,Ceviche,Marino,33.97,Sofia Sayan,Callao,Premium,2025-05-19
+459,2026-06-28,7,25.13,33.97,5,WhatsApp,Tarjeta,2,237.79,,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Diego Cruz,La Molina,Frecuente,2025-12-16
+460,2026-02-28,4,35.14,33.97, 20 ,  Telefono ,  Yape ,5,135.88,,Local 1,Ventanilla,Centro,Ceviche,Marino,33.97,Valeria Soto,Callao,Premium,2025-04-24
+461,2026-03-12,3,32.31,31.16,0,Web,Efectivo,1,93.48,Cliente frecuente,Local 6,Villa El Salvador,Oeste,Pollo a la brasa,Parrilla,31.16,Elena Torres,San Juan de Lurigancho,Regular,2025-07-07
+462,2026/05/28,8,45.62,31.16,0,Presencial,Transferencia,4,249.28,,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,,chorrillos,Frecuente,2025-05-02
+463,2026-06-01,8,34.43,27.46, 8 ,Telefono,Plin,2,219.68,,Local 7,La mOlInA,,Lomo saltado,  Criollo ,27.46,Carlos Campos,Villa El Salvador,Regular,2025-08-27
+464,11/05/2026,3,34.9,27.46,8,WhatsApp,Plin,2,82.38,OK,Local 2,La Molina,Norte,Lomo saltado,  Criollo ,27.46,Diego Sayan,Chorrillos,,22-10-2025
+465,2026-04-28,6,18.6,33.97, 8 ,  WhatsApp ,Efectivo,2,203.82,Cliente frecuente,Local 3,Surco,Norte,Ceviche,Marino,33.97,Diego Soto,Miraflores,Frecuente,2025/06/05
+466,2026-03-10,6,26.93,14.9,0,  Web ,Efectivo,3,89.40,Cliente frecuente,Local 1,Ventanilla,Centro,menu ejecutivo,Menu,14.9,Raul Salazar,LIMA,Corporativo,2025-12-14
 467,2026-03-16,,36.69, 23.38 ,15,Presencial,Tarjeta,4,37.67,Promocion,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Andre Huaman,Ventanilla,Nuevo,
-468,2026-05-04,7,43.0,27.46,12,Web,Tarjeta,2,63.87 aprox,promocion,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Raul Torres,Surco,Frecuente,2025-04-22
-469,2026-06-15,5,46.63,23.38,5,App,Efectivo,4,57.43,Revisar,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Diego Sayan,Chorrillos,,22-10-2025
-470,2026-05-14,5,47.09,17.69,15,App,Plin,3 aprox,44.56,Revisar,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Raul Soto,COMAS,,2025-10-10
-471,2026-04-24,1,27.02,33.97,5,App,Plin,3,27.91,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,,chorrillos,Frecuente,2025-05-02
-472,2026-03-20,5,39.56,19.95, 0 ,App,Efectivo,2,62.88,Promocion,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Maria Vargas,callao,NUEVO,2025-03-19
-473,2026-02-15,3,47.59,23.38 aprox,5,ApP,tarjeta,4,44.75,Promocion,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,,Comas,Premium,2025-06-09
-474,2026-04-04,6,40.67,22.3,5,Presencial,TrAnSfErEnCiA,,,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Diego Soto,Miraflores,Frecuente,2025/06/05
-475, 2026-06-13 ,6,"11,2",23.38,8 aprox,Web,Tarjeta,1,39.63,Revisar,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Ana Cruz,LiMa,Corporativo,2025-03-14
-476,2026-01-05,1,14.38,17.69,12,Web,YAPE,4,31.36,Revisar,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Raul Gomez,Miraflores,Regular,2025-07-08
-477,2026-01-17,8,48.76,"22,95",8,  Web ,transferencia,5,61.32,Revisar,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
-478,2026-02-24,4,46.11,19.95,12,Telefono,Efectivo,4,37.63,,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,  Carlos Huaman ,Miraflores,Regular,2025-08-19
-479,2026-02-16,7,47.7,31.16,5,Web,Plin,2,68.68,Cliente  frecuente,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Valeria Reyes,Miraflores,Frecuente,2025-09-10
-480,2026-01-03,6 aprox,36.96,,0,Web,Plin,5,43.29,Promocion,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Luis Sayan,Independencia,Nuevo,2025-12-21
-481,2026-04-10,8,39.31,,0,App,Tarjeta,3,55.5,,Local 4,Villa El Salvador,Este,sopa criolla,Sopas,19.95,Valeria Reyes,Miraflores,Frecuente,2025-09-10
-482,2026-04-23,6,36.41,,8,App,yape,4,57.67,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Jorge Cruz,Ventanilla,Premium,2025-09-03
-483,2026-04-18,4,49.65,33.97,20,,Transferencia,3,61.63,Cliente frecuente,Local 7,La mOlInA,,Ceviche,Marino,33.97,Ana Campos,Ventanilla,Corporativo,2025-06-15
-484,2026-03-10,6,25.0,33.97,10,App,Transferencia,2,50.74,OK,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Jorge Cruz,Ventanilla,Premium,2025-09-03
-485,2026-04-01,4,"25,87",22.95,20,app,Transferencia,5,58.62,Revisar,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Claudia Castillo,Ate,Regular,2025-05-20
-486,08/05/2026,8,20.71,33.97,0,Presencial,plin,1,66.65,OK,Local 6,Villa El Salvador,Oeste,Ceviche,Marino,33.97,Carlos Paredes,LIMA,,2025-02-11
-487,2026-04-09,2,15.05,23.38,12,Telefono,Transferencia,4,29.72,Revisar,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,  Carlos Huaman ,Miraflores,Regular,2025-08-19
-488,2026-03-26,7, 46.48 ,33.97,10,  Telefono ,Efectivo,3,74.59,Promocion,Local 6,Villa El Salvador,Oeste,Ceviche,Marino,33.97,Victor Castillo,chorrillos,regular,2025-09-25
-489,2026-06-07,1,12.17,"22,3",0,Telefono,Efectivo,5,32.43,Promocion,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Jorge Cruz,Ventanilla,Premium,2025-09-03
-490,, 6 ,47.55,17.69,12,WhatsApp,Efectivo,4,48.04,OK,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Lucia Ramos,Lima,regular,2025-05-01
-491,2026-02-27,8,51.28,23.38,10,WhatsApp,Tarjeta,4,69.94,OK,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Pedro Flores,INDEPENDENCIA,Frecuente,2025-12-02
-492,2026-01-25,4,36.72,31.16,8,App,Yape,2,51.5,Promocion,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Elena Ramos,Villa El Salvador,nuevo,2025-05-25
-493,2026-05-14,5,38.09,33.97,0,  Presencial ,Efectivo,4,65.6,,Local 6,Villa El Salvador,Oeste,Ceviche,Marino,33.97,,Villa El Salvador,PrEmIuM, 2025-09-27 
-494,2026-01-28,1,34.45,33.97,0,Presencial,Yape,3,45.24,Revisar,Local 4,Villa El Salvador,Este,Ceviche,Marino,33.97,Victor Castillo,chorrillos,regular,2025-09-25
-495,2026-04-17,8,39.86,14.9,,WhatsApp,EFECTIVO,1,43.38,Revisar,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,Sofia Navarro,Lima,Corporativo,2025-10-12
-496,2026-04-04,4,14.96,27.46,0,WhatsApp,Yape,4,46.55,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Rocio Gomez,La Molina,Premium,2025-08-04
-497,2026-01-27,5, 29.25 ,27.46 aprox,5,WhatsApp,Yape,2,60.46,,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Lucia Ramos,Lima,regular,2025-05-01
-498,2026-05-18,6,49.78,19.95,20,Web,Transferencia,4,39.83,OK,Local 3,Surco,Norte,sopa criolla,Sopas,19.95,,Comas,Premium,2025-06-09
-499,2026-06-05,3,27.28,22.3,0,Web,Transferencia,5,42.22,,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Maria Salazar,Surco,Corporativo,2025-12-13
-500,2026-01-14,8,27.04,31.16,8,WhatsApp,Tarjeta,2,73.12,,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,,chorrillos,Frecuente,2025-05-02
+468,2026-05-04,7,43.0,27.46,12,Web,Tarjeta,2,192.22,promocion,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Raul Torres,Surco,Frecuente,2025-04-22
+469,2026-06-15,5,46.63,23.38,5,App,Efectivo,4,116.90,Revisar,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,Diego Sayan,Chorrillos,,22-10-2025
+470,2026-05-14,5,47.09,17.69,15,App,Plin,3 aprox,88.45,Revisar,LOCAL 5,Villa El Salvador,centro,Ensalada especial,,17.69,Raul Soto,COMAS,,2025-10-10
+471,2026-04-24,1,27.02,33.97,5,App,Plin,3,33.97,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,,chorrillos,Frecuente,2025-05-02
+472,2026-03-20,5,39.56,19.95, 0 ,App,Efectivo,2,99.75,Promocion,Local 1,Ventanilla,Centro,sopa criolla,Sopas,19.95,Maria Vargas,callao,NUEVO,2025-03-19
+473,2026-02-15,3,47.59,23.38,5,ApP,tarjeta,4,70.14,Promocion,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,,Comas,Premium,2025-06-09
+474,2026-04-04,6,40.67,22.3,5,Presencial,TrAnSfErEnCiA,,133.80,,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Diego Soto,Miraflores,Frecuente,2025/06/05
+475, 2026-06-13 ,6,"11,2",23.38,8 aprox,Web,Tarjeta,1,140.28,Revisar,Local 4,Villa El Salvador,Este,Aji de gallina,Criollo,23.38,Ana Cruz,LiMa,Corporativo,2025-03-14
+476,2026-01-05,1,14.38,17.69,12,Web,YAPE,4,17.69,Revisar,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Raul Gomez,Miraflores,Regular,2025-07-08
+477,2026-01-17,8,48.76,22.95,8,  Web ,transferencia,5,183.60,Revisar,Local 6,Villa El Salvador,Oeste,Chaufa,fusion,22.95,Sofia Flores,  San Juan de Lurigancho ,Corporativo,2025-09-20
+478,2026-02-24,4,46.11,19.95,12,Telefono,Efectivo,4,79.80,,Local 7,La mOlInA,,sopa criolla,Sopas,19.95,  Carlos Huaman ,Miraflores,Regular,2025-08-19
+479,2026-02-16,7,47.7,31.16,5,Web,Plin,2,218.12,Cliente  frecuente,LOCAL 5,Villa El Salvador,centro,Pollo a la brasa,Parrilla,31.16,Valeria Reyes,Miraflores,Frecuente,2025-09-10
+480,2026-01-03,6,36.96,31.16,0,Web,Plin,5,186.96,Promocion,Local 3,Surco,Norte,Pollo a la brasa,Parrilla,31.16,Luis Sayan,Independencia,Nuevo,2025-12-21
+481,2026-04-10,8,39.31,19.95,0,App,Tarjeta,3,159.60,,Local 4,Villa El Salvador,Este,sopa criolla,Sopas,19.95,Valeria Reyes,Miraflores,Frecuente,2025-09-10
+482,2026-04-23,6,36.41,27.46,8,App,yape,4,164.76,Cliente frecuente,LOCAL 5,Villa El Salvador,centro,Lomo saltado,  Criollo ,27.46,Jorge Cruz,Ventanilla,Premium,2025-09-03
+483,2026-04-18,4,49.65,33.97,20,,Transferencia,3,135.88,Cliente frecuente,Local 7,La mOlInA,,Ceviche,Marino,33.97,Ana Campos,Ventanilla,Corporativo,2025-06-15
+484,2026-03-10,6,25.0,33.97,10,App,Transferencia,2,203.82,OK,LOCAL 5,Villa El Salvador,centro,Ceviche,Marino,33.97,Jorge Cruz,Ventanilla,Premium,2025-09-03
+485,2026-04-01,4,"25,87",22.95,20,app,Transferencia,5,91.80,Revisar,LOCAL 5,Villa El Salvador,centro,Chaufa,fusion,22.95,Claudia Castillo,Ate,Regular,2025-05-20
+486,08/05/2026,8,20.71,33.97,0,Presencial,plin,1,271.76,OK,Local 6,Villa El Salvador,Oeste,Ceviche,Marino,33.97,Carlos Paredes,LIMA,,2025-02-11
+487,2026-04-09,2,15.05,23.38,12,Telefono,Transferencia,4,46.76,Revisar,Local 7,La mOlInA,,Aji de gallina,Criollo,23.38,  Carlos Huaman ,Miraflores,Regular,2025-08-19
+488,2026-03-26,7, 46.48 ,33.97,10,  Telefono ,Efectivo,3,237.79,Promocion,Local 6,Villa El Salvador,Oeste,Ceviche,Marino,33.97,Victor Castillo,chorrillos,regular,2025-09-25
+489,2026-06-07,1,12.17,22.3,0,Telefono,Efectivo,5,22.30,Promocion,Local 1,Ventanilla,Centro,Tallarines verdes,Pastas,22.3,Jorge Cruz,Ventanilla,Premium,2025-09-03
+490,,6,47.55,17.69,12,WhatsApp,Efectivo,4,106.14,OK,Local 4,Villa El Salvador,Este,Ensalada especial,,17.69,Lucia Ramos,Lima,regular,2025-05-01
+491,2026-02-27,8,51.28,23.38,10,WhatsApp,Tarjeta,4,187.04,OK,Local 2,La Molina,Norte,Aji de gallina,Criollo,23.38,Pedro Flores,INDEPENDENCIA,Frecuente,2025-12-02
+492,2026-01-25,4,36.72,31.16,8,App,Yape,2,124.64,Promocion,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,Elena Ramos,Villa El Salvador,nuevo,2025-05-25
+493,2026-05-14,5,38.09,33.97,0,  Presencial ,Efectivo,4,169.85,,Local 6,Villa El Salvador,Oeste,Ceviche,Marino,33.97,,Villa El Salvador,PrEmIuM, 2025-09-27 
+494,2026-01-28,1,34.45,33.97,0,Presencial,Yape,3,33.97,Revisar,Local 4,Villa El Salvador,Este,Ceviche,Marino,33.97,Victor Castillo,chorrillos,regular,2025-09-25
+495,2026-04-17,8,39.86,14.9,,WhatsApp,EFECTIVO,1,119.20,Revisar,Local 4,Villa El Salvador,Este,menu ejecutivo,Menu,14.9,Sofia Navarro,Lima,Corporativo,2025-10-12
+496,2026-04-04,4,14.96,27.46,0,WhatsApp,Yape,4,109.84,,Local 1,Ventanilla,Centro,Lomo saltado,  Criollo ,27.46,Rocio Gomez,La Molina,Premium,2025-08-04
+497,2026-01-27,5, 29.25 ,27.46,5,WhatsApp,Yape,2,137.30,,Local 6,Villa El Salvador,Oeste,Lomo saltado,  Criollo ,27.46,Lucia Ramos,Lima,regular,2025-05-01
+498,2026-05-18,6,49.78,19.95,20,Web,Transferencia,4,119.70,OK,Local 3,Surco,Norte,sopa criolla,Sopas,19.95,,Comas,Premium,2025-06-09
+499,2026-06-05,3,27.28,22.3,0,Web,Transferencia,5,66.90,,Local 2,La Molina,Norte,Tallarines verdes,Pastas,22.3,Maria Salazar,Surco,Corporativo,2025-12-13
+500,2026-01-14,8,27.04,31.16,8,WhatsApp,Tarjeta,2,249.28,,Local 1,Ventanilla,Centro,Pollo a la brasa,Parrilla,31.16,,chorrillos,Frecuente,2025-05-02

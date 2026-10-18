@@ -1,5 +1,8 @@
 # PMD1 - Bases desnormalizadas para Fundamentos de Gestion de Datos
 
+> **PMD1 2026-II.** Los casos vigentes están en `PMD1_15_Casos_Sinteticos/` (15 archivos Excel con las tablas Operaciones, Clientes, Catalogo y Sedes) y sus consignas en `PMD1_Casos_Word_2026II/`. La guía docente es `PMD1_15_Casos_Sinteticos/GUIA_DOCENTE_15_CASOS.md`. Las 18 bases SQLite de `casos/` descritas abajo son material de apoyo del diseño anterior.
+
+
 Este paquete contiene casos cotidianos para el PMD1. En general, cada caso incluye una base SQLite con una tabla grande desnormalizada, un CSV equivalente, un `schema.sql` minimo y una guia breve.
 
 Excepcion: los casos 17 de panaderia y 18 de minimarket se mantienen con `ventas_original` y tablas normalizadas porque ya fueron usados en clase/laboratorio con esa estructura.

@@ -1,7 +1,5 @@
 # Guia PMD1
 
-> **Actualización 2026-II (18-oct-2026).** El PMD1 vigente usa los quince casos de `PMD1_15_Casos_Sinteticos/` (Excel con cuatro tablas separadas), los Word de `PMD1_Casos_Word_2026II/` y la rúbrica `Rubrica_PMD1_2026II_10_Casos.docx`. Exige integración SQL, limpieza, regresión lineal simple y K-Means, informe técnico sin código y sustentación individual. Lo que sigue de esta guía corresponde a las 18 bases SQLite de `casos/` (material de apoyo anterior).
-
 
 ## Enfoque recomendado
 

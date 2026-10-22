@@ -1,8 +1,8 @@
-# App Streamlit · PMD1 Caso 16 Lavandería LavaYa
+# LavaYa · Panel de Análisis de Pedidos (Streamlit)
 
 Versión web del notebook `notebook_ejemplo/PMD1_FGD_Grupo00_Lavanderia_EJEMPLO.ipynb`.
-Pestañas: Contexto · Datos y SQL (SQLite en memoria) · Exploración · Limpieza (antes/después y registro) ·
-Regresión (costo vs peso) · Estimador de costo · K-Means (según rúbrica, opcional).
+Módulos (pantalla de inicio con tarjetas): Resumen ejecutivo · Base de datos · Análisis exploratorio · Calidad de datos ·
+Modelo de tarifa · Simulador de costo · Segmentación de pedidos (K-Means).
 
 Datos: `PMD1_15_Casos_Sinteticos/16_Lavanderia_PMD1.xlsx` (ruta relativa del repo); si no existe, se descarga de la URL raw de GitHub.
 

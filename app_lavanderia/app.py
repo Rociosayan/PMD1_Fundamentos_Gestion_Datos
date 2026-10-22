@@ -1,7 +1,5 @@
 # ============================================================
-# PMD1 · Caso 16 Lavandería LavaYa — App Streamlit (modelo docente)
-# Fundamentos de Gestión de Datos · TECSUP 2026-II · Pilar Rocío Sayán Mejía
-# Refleja el notebook PMD1_FGD_Grupo00_Lavanderia_EJEMPLO.ipynb
+# LavaYa · Panel de Análisis de Pedidos (Streamlit)
 # ============================================================
 import io, sqlite3
 from pathlib import Path
@@ -17,7 +15,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 
-st.set_page_config(page_title="PMD1 · Lavandería LavaYa", page_icon="🧺", layout="wide")
+st.set_page_config(page_title="LavaYa · Panel de Análisis de Pedidos", page_icon="🧺", layout="wide")
 SEMILLA = 42
 X, Y = "peso_ropa_kg", "costo_servicio_soles"
 NUM = ["peso_ropa_kg", "prendas_delicadas", "ocupacion_local_pct", "costo_servicio_soles"]
@@ -104,38 +102,69 @@ def regresion(limpio):
 R = regresion(limpio)
 
 # ---------- Interfaz ----------
-st.sidebar.title("🧺 PMD1 · LavaYa")
-st.sidebar.markdown("**Fundamentos de Gestión de Datos**  \nTECSUP 2026-II  \nDocente: Pilar Rocío Sayán Mejía")
-st.sidebar.info(f"Datos cargados desde: {origen}")
-st.sidebar.caption("Modelo de ejemplo docente. Datos sintéticos: no son observaciones reales.")
+st.sidebar.title("🧺 LavaYa")
+st.sidebar.caption("Panel de Análisis de Pedidos")
+st.title("LavaYa · Panel de Análisis de Pedidos")
 
-st.title("Caso 16 · Lavandería LavaYa — Pedidos de lavado")
-tabs = st.tabs(["0. Contexto", "1. Datos y SQL", "2. Exploración", "3. Limpieza",
-                "4. Regresión", "5. Estimador", "6. K-Means (según rúbrica, opcional)"])
+SECCIONES = [
+    ("Resumen ejecutivo", "📌", "Indicadores clave del negocio"),
+    ("Base de datos", "🗄️", "Tablas, relaciones y consultas"),
+    ("Análisis exploratorio", "📊", "Distribuciones y comparativos por local"),
+    ("Calidad de datos", "🧹", "Correcciones aplicadas y su impacto"),
+    ("Modelo de tarifa", "📈", "Costo según el peso del pedido"),
+    ("Simulador de costo", "🧮", "Estima el costo de un pedido"),
+    ("Segmentación de pedidos", "🧩", "Tipos de pedido y acciones"),
+]
+if "seccion" not in st.session_state:
+    st.session_state.seccion = "Inicio"
+def ir(nombre):
+    st.session_state.seccion = nombre
 
-with tabs[0]:
+st.sidebar.markdown("### Navegación")
+st.sidebar.button("🏠 Inicio", on_click=ir, args=("Inicio",), width="stretch")
+for nombre, icono, _ in SECCIONES:
+    st.sidebar.button(f"{icono} {nombre}", on_click=ir, args=(nombre,), width="stretch",
+                      type="primary" if st.session_state.seccion == nombre else "secondary")
+sec = st.session_state.seccion
+
+if sec == "Inicio":
+    st.markdown("#### Selecciona un módulo del panel")
+    filas = [SECCIONES[i:i + 4] for i in range(0, len(SECCIONES), 4)]
+    for fila in filas:
+        cols = st.columns(4)
+        for col, (nombre, icono, desc) in zip(cols, fila):
+            with col.container(border=True):
+                st.markdown(f"<div style='font-size:42px;text-align:center'>{icono}</div>"
+                            f"<h4 style='text-align:center;margin:0'>{nombre}</h4>"
+                            f"<p style='text-align:center;color:gray;font-size:0.9em'>{desc}</p>",
+                            unsafe_allow_html=True)
+                st.button("Abrir", key=f"abrir_{nombre}", on_click=ir, args=(nombre,), width="stretch")
+else:
+    icono = dict((n, i) for n, i, _ in SECCIONES)[sec]
+    c1, c2 = st.columns([5, 1])
+    c1.header(f"{icono} {sec}")
+    c2.button("⬅️ Volver al inicio", on_click=ir, args=("Inicio",), width="stretch")
+
+if sec == "Resumen ejecutivo":
     st.markdown("""
-LavaYa es una cadena de **5 lavanderías**. En cada pedido registra cliente, servicio, local, peso de la ropa,
-prendas delicadas, ocupación de máquinas y costo cobrado. Los clientes reclaman que el mismo pedido cuesta distinto
-según el local y la gerencia quiere una **tarifa de referencia por kilo**.
-
-- **Pregunta guía:** ¿cuántos soles aumenta el costo por cada kilo adicional y qué tipos de pedido conviene gestionar de forma diferenciada?
-- **Unidad de análisis:** cada fila de `operaciones` es un pedido de lavado.
-- **Y:** `costo_servicio_soles` (S/) · **X:** `peso_ropa_kg` (kg)
-
-| Semana | Tema | Pestaña |
-|---|---|---|
-| 2–4 | SQL, JOIN, modelo relacional | 1 |
-| 5 | Pandas y EDA | 2 |
-| 6 | Limpieza | 3 |
-| 7 | Regresión lineal simple | 4 y 5 |
-| Rúbrica 2026-II | K-Means | 6 |
+LavaYa opera **5 locales** de lavandería. Este panel consolida los pedidos registrados en 2025 para
+**definir una tarifa de referencia por kilo**, comparar locales y orientar la atención según el tipo de pedido.
 """)
-    c = st.columns(4)
-    for col, t in zip(c, ["operaciones", "clientes", "catalogo", "sedes"]):
-        col.metric(t, pd.read_sql_query(f"SELECT COUNT(*) n FROM {t}", conn).n[0])
+    k = st.columns(4)
+    k[0].metric("Pedidos válidos", f"{len(limpio):,}")
+    k[1].metric("Ingreso total", f"S/ {limpio[Y].sum():,.0f}")
+    k[2].metric("Ticket promedio", f"S/ {limpio[Y].mean():.2f}")
+    k[3].metric("Peso promedio", f"{limpio[X].mean():.1f} kg")
+    k = st.columns(4)
+    k[0].metric("Tarifa estimada por kg", f"S/ {R['b1']:.2f}")
+    k[1].metric("Clientes atendidos", limpio["id_cliente"].nunique())
+    k[2].metric("Locales", limpio["nombre_sede"].nunique())
+    k[3].metric("Registros descartados", len(antes) - len(limpio))
+    v = limpio.groupby("nombre_sede")[Y].agg(["count", "sum", "mean"]).round(2)
+    v.columns = ["Pedidos", "Ingreso (S/)", "Ticket promedio (S/)"]
+    st.subheader("Desempeño por local"); st.dataframe(v.sort_values("Ingreso (S/)", ascending=False), width="stretch")
 
-with tabs[1]:
+if sec == "Base de datos":
     st.subheader("Modelo relacional")
     st.code("clientes (PK id_cliente)  ─1:N─┐\ncatalogo (PK id_catalogo) ─1:N─┼─> operaciones (PK id_operacion; FK id_cliente, id_catalogo, id_sede)\nsedes    (PK id_sede)     ─1:N─┘", language="text")
     consultas = {
@@ -154,15 +183,15 @@ FROM vw_analitica GROUP BY ciudad
 HAVING AVG(costo_servicio_soles) > (SELECT AVG(costo_servicio_soles) FROM operaciones) ORDER BY costo_prom DESC""",
     }
     elegida = st.selectbox("Consulta", list(consultas))
-    sql = st.text_area("SQL (puedes editarla y ejecutarla)", consultas[elegida], height=140)
+    sql = st.text_area("Consulta SQL (editable)", consultas[elegida], height=140)
     try:
         st.dataframe(pd.read_sql_query(sql, conn), width="stretch")
     except Exception as e:
         st.error(f"Error en la consulta: {e}")
-    st.caption("La base es SQLite en memoria; tablas: operaciones, clientes, catalogo, sedes y la vista vw_analitica.")
+    st.caption("Tablas: operaciones, clientes, catalogo, sedes y vista consolidada vw_analitica.")
 
-with tabs[2]:
-    st.subheader("Exploración de la tabla analítica (antes de limpiar)")
+if sec == "Análisis exploratorio":
+    st.subheader("Vista general de los registros originales")
     st.write(f"Dimensiones: {antes.shape[0]} filas × {antes.shape[1]} columnas")
     st.dataframe(antes.head(10), width="stretch")
     st.dataframe(antes[NUM].describe().round(2), width="stretch")
@@ -172,10 +201,10 @@ with tabs[2]:
     p = antes.groupby("nombre_sede")[Y].mean().sort_values(); ax[2].barh(p.index, p.values, color="#2E8B57")
     ax[2].set_title("Costo promedio por local (S/)"); plt.tight_layout(); st.pyplot(fig)
     st.info(f"Correlación peso–costo antes de limpiar: **{antes[X].corr(antes[Y]):.3f}**. "
-            "Dos pesos imposibles (180 y 250 kg) aplastan la nube de puntos.")
+            "Los registros originales contienen pesos imposibles (180 y 250 kg) que distorsionan la relación; ver Calidad de datos.")
 
-with tabs[3]:
-    st.subheader("Registro de decisiones de limpieza")
+if sec == "Calidad de datos":
+    st.subheader("Correcciones aplicadas")
     st.dataframe(bitacora, width="stretch")
     comp = pd.DataFrame({
         "indicador": ["Filas", "Nulos totales", "Duplicados exactos", "Costo promedio (S/)", "Peso promedio (kg)", "Correlación X-Y"],
@@ -187,8 +216,8 @@ with tabs[3]:
     st.success(f"Se conserva el {len(limpio)/len(antes):.1%} de los pedidos. Eliminar 3 valores imposibles "
                "cambia por completo la correlación peso–costo.")
 
-with tabs[4]:
-    st.subheader("Regresión lineal simple: costo ~ peso")
+if sec == "Modelo de tarifa":
+    st.subheader("Tarifa estimada: costo del servicio según el peso")
     st.latex(rf"\text{{costo}} = {R['b0']:.2f} + {R['b1']:.2f}\times\text{{peso\_kg}}")
     m = st.columns(5)
     m[0].metric("R² prueba", f"{R['r2']:.3f}"); m[1].metric("MSE", f"{R['mse']:.2f}")
@@ -205,21 +234,20 @@ with tabs[4]:
 - **Pendiente:** cada kilo adicional se asocia con **S/ {R['b1']:.2f}** más de costo.
 - **R² = {R['r2']:.3f}:** el peso explica cerca del {R['r2']:.0%} de la variación del costo.
 - **RMSE = S/ {R['rmse']:.2f}:** sirve como tarifa de referencia, no para cotizar cada pedido.
-- R² de entrenamiento = {R['r2_tr']:.3f}. Asociación ≠ causalidad; validado solo entre 1 y 25 kg; datos sintéticos.
+- Es una asociación, no una relación causal; válido para pedidos de 1 a 25 kg.
 """)
 
-with tabs[5]:
-    st.subheader("Estimador de costo")
+if sec == "Simulador de costo":
+    st.subheader("Simula el costo de un pedido")
     kg = st.number_input("Peso de la ropa (kg)", min_value=0.5, max_value=40.0, value=8.0, step=0.5)
     est = R["b0"] + R["b1"] * kg
-    st.metric("Costo estimado", f"S/ {est:.2f}", help="Estimación de la regresión lineal simple")
+    st.metric("Costo estimado", f"S/ {est:.2f}", help="Estimación del modelo de tarifa")
     st.caption(f"Error típico ± S/ {R['rmse']:.2f}. Fuera de 1–25 kg la estimación no está validada.")
     if kg > 25:
         st.warning("Este peso está fuera del rango observado en los datos.")
 
-with tabs[6]:
-    st.subheader("Segmentación K-Means (según rúbrica PMD1 2026-II · opcional)")
-    st.caption("En el sílabo, K-Means corresponde a la semana 8. Se incluye porque la rúbrica oficial lo evalúa.")
+if sec == "Segmentación de pedidos":
+    st.subheader("Tipos de pedido (K-Means)")
     Z = StandardScaler().fit_transform(limpio[NUM])
     pr = pd.DataFrame([{"k": k, "inercia": KMeans(k, n_init=10, random_state=SEMILLA).fit(Z).inertia_,
                         "silueta": silhouette_score(Z, KMeans(k, n_init=10, random_state=SEMILLA).fit_predict(Z))}
@@ -238,3 +266,5 @@ with tabs[6]:
     ax.set_xlabel("Peso (kg)"); ax.set_ylabel("Costo (S/)"); ax.legend(); st.pyplot(fig)
     st.info("Con k = 3: pedido estándar en hora tranquila, pedido estándar en hora punta y pedido grande con "
             "prendas delicadas. La silueta (~0,24) indica grupos superpuestos: son orientativos.")
+
+st.markdown("<hr style='margin-top:40px'><p style='text-align:center;color:#999;font-size:0.75em'>Datos sintéticos con fines de demostración.</p>", unsafe_allow_html=True)

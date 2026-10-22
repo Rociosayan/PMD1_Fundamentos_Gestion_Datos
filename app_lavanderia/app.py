@@ -145,126 +145,217 @@ else:
     c1.header(f"{icono} {sec}")
     c2.button("⬅️ Volver al inicio", on_click=ir, args=("Inicio",), width="stretch")
 
+def sql_box(titulo, icono, sql, nota=None):
+    # Desplegable con la consulta SQL y su resultado
+    with st.expander(titulo, icon=icono, expanded=False):
+        st.code(sql.strip(), language="sql")
+        st.dataframe(pd.read_sql_query(sql, conn), width="stretch", hide_index=True)
+        if nota:
+            st.caption(nota)
+
+def grafico():
+    return plt.subplots(figsize=(8, 4))
+
 if sec == "Resumen ejecutivo":
-    st.markdown("""
-LavaYa opera **5 locales** de lavandería. Este panel consolida los pedidos registrados en 2025 para
-**definir una tarifa de referencia por kilo**, comparar locales y orientar la atención según el tipo de pedido.
-""")
+    st.markdown("LavaYa opera **5 locales** de lavandería. Este panel consolida los pedidos de 2025 para "
+                "**definir una tarifa de referencia por kilo**, comparar locales y orientar la atención según el tipo de pedido.")
     k = st.columns(4)
     k[0].metric("Pedidos válidos", f"{len(limpio):,}")
     k[1].metric("Ingreso total", f"S/ {limpio[Y].sum():,.0f}")
     k[2].metric("Ticket promedio", f"S/ {limpio[Y].mean():.2f}")
-    k[3].metric("Peso promedio", f"{limpio[X].mean():.1f} kg")
-    k = st.columns(4)
-    k[0].metric("Tarifa estimada por kg", f"S/ {R['b1']:.2f}")
-    k[1].metric("Clientes atendidos", limpio["id_cliente"].nunique())
-    k[2].metric("Locales", limpio["nombre_sede"].nunique())
-    k[3].metric("Registros descartados", len(antes) - len(limpio))
-    v = limpio.groupby("nombre_sede")[Y].agg(["count", "sum", "mean"]).round(2)
-    v.columns = ["Pedidos", "Ingreso (S/)", "Ticket promedio (S/)"]
-    st.subheader("Desempeño por local"); st.dataframe(v.sort_values("Ingreso (S/)", ascending=False), width="stretch")
+    k[3].metric("Tarifa estimada por kg", f"S/ {R['b1']:.2f}")
+    with st.expander("Más indicadores", icon="📌"):
+        k = st.columns(4)
+        k[0].metric("Peso promedio", f"{limpio[X].mean():.1f} kg")
+        k[1].metric("Clientes atendidos", limpio["id_cliente"].nunique())
+        k[2].metric("Locales", limpio["nombre_sede"].nunique())
+        k[3].metric("Registros descartados", len(antes) - len(limpio))
+    with st.expander("Desempeño por local", icon="🏪"):
+        v = limpio.groupby("nombre_sede")[Y].agg(["count", "sum", "mean"]).round(2)
+        v.columns = ["Pedidos", "Ingreso (S/)", "Ticket promedio (S/)"]
+        st.dataframe(v.sort_values("Ingreso (S/)", ascending=False), width="stretch")
+    with st.expander("Hallazgos principales", icon="💡"):
+        st.markdown(f"""
+- Cada kilo adicional se asocia con **S/ {R['b1']:.2f}** más de costo: base para una tarifa común.
+- Los servicios de nivel *especial* cuestan aproximadamente el doble que los básicos.
+- Casi 4 de cada 10 pedidos son pequeños y llegan en horas de alta ocupación (ver Segmentación).
+""")
 
 if sec == "Base de datos":
-    st.subheader("Modelo relacional")
-    st.code("clientes (PK id_cliente)  ─1:N─┐\ncatalogo (PK id_catalogo) ─1:N─┼─> operaciones (PK id_operacion; FK id_cliente, id_catalogo, id_sede)\nsedes    (PK id_sede)     ─1:N─┘", language="text")
-    consultas = {
-        "Verificar PK (duplicados)": "SELECT COUNT(*) AS filas, COUNT(DISTINCT id_operacion) AS pk_distintas FROM operaciones",
-        "Claves huérfanas en catálogo (LEFT JOIN)": """SELECT o.id_operacion, o.id_catalogo FROM operaciones o
-LEFT JOIN catalogo k ON o.id_catalogo = k.id_catalogo WHERE k.id_catalogo IS NULL""",
-        "Top 5 pedidos más caros (WHERE + ORDER BY)": """SELECT id_operacion, id_sede, fecha, peso_ropa_kg, costo_servicio_soles
-FROM operaciones WHERE peso_ropa_kg IS NOT NULL ORDER BY costo_servicio_soles DESC LIMIT 5""",
-        "Promedios por local (JOIN + GROUP BY + HAVING)": """SELECT nombre_sede, zona, COUNT(*) AS pedidos,
- ROUND(AVG(peso_ropa_kg),2) AS peso_prom, ROUND(AVG(costo_servicio_soles),2) AS costo_prom
-FROM vw_analitica GROUP BY nombre_sede, zona HAVING COUNT(*) > 50 ORDER BY costo_prom DESC""",
-        "Costo por nivel de servicio": """SELECT COALESCE(nivel,'SIN CATALOGO') AS nivel, COUNT(*) AS pedidos,
- ROUND(AVG(costo_servicio_soles),2) AS costo_prom FROM vw_analitica GROUP BY nivel ORDER BY costo_prom DESC""",
-        "Ciudades sobre el promedio (subconsulta)": """SELECT ciudad, COUNT(*) AS pedidos, ROUND(AVG(costo_servicio_soles),2) AS costo_prom
-FROM vw_analitica GROUP BY ciudad
-HAVING AVG(costo_servicio_soles) > (SELECT AVG(costo_servicio_soles) FROM operaciones) ORDER BY costo_prom DESC""",
-    }
-    elegida = st.selectbox("Consulta", list(consultas))
-    sql = st.text_area("Consulta SQL (editable)", consultas[elegida], height=140)
-    try:
-        st.dataframe(pd.read_sql_query(sql, conn), width="stretch")
-    except Exception as e:
-        st.error(f"Error en la consulta: {e}")
-    st.caption("Tablas: operaciones, clientes, catalogo, sedes y vista consolidada vw_analitica.")
+    with st.expander("Ver tablas", icon="📋"):
+        t = st.selectbox("Tabla", ["operaciones", "clientes", "catalogo", "sedes"])
+        n = pd.read_sql_query(f"SELECT COUNT(*) n FROM {t}", conn).n[0]
+        st.caption(f"{n} registros")
+        st.dataframe(pd.read_sql_query(f"SELECT * FROM {t}", conn), width="stretch", hide_index=True)
+    with st.expander("Unir tablas", icon="🔗"):
+        st.code("clientes (PK id_cliente)  ─1:N─┐\ncatalogo (PK id_catalogo) ─1:N─┼─> operaciones (PK id_operacion; FK id_cliente, id_catalogo, id_sede)\nsedes    (PK id_sede)     ─1:N─┘", language="text")
+        q = """SELECT o.id_operacion, o.fecha, c.nombre_cliente, c.ciudad, k.nombre_item, k.nivel,
+       s.nombre_sede, s.zona, o.peso_ropa_kg, o.costo_servicio_soles
+FROM operaciones o
+LEFT JOIN clientes c ON o.id_cliente  = c.id_cliente
+LEFT JOIN catalogo k ON o.id_catalogo = k.id_catalogo
+LEFT JOIN sedes    s ON o.id_sede     = s.id_sede"""
+        st.code(q, language="sql")
+        st.dataframe(pd.read_sql_query(q, conn), width="stretch", hide_index=True)
+        h = pd.read_sql_query("""SELECT COUNT(*) n FROM operaciones o LEFT JOIN catalogo k
+                                 ON o.id_catalogo = k.id_catalogo WHERE k.id_catalogo IS NULL""", conn).n[0]
+        st.caption(f"LEFT JOIN conserva todos los pedidos; {h} pedidos tienen un servicio que no existe en el catálogo.")
+    sql_box("Top 5 clientes por gasto", "🏆", """
+SELECT c.id_cliente, TRIM(c.nombre_cliente) AS cliente, c.ciudad,
+       COUNT(*) AS pedidos, ROUND(SUM(o.costo_servicio_soles), 2) AS gasto_total_soles
+FROM operaciones o JOIN clientes c ON o.id_cliente = c.id_cliente
+WHERE o.costo_servicio_soles > 0
+GROUP BY c.id_cliente ORDER BY gasto_total_soles DESC LIMIT 5""")
+    sql_box("Top 5 servicios más pedidos", "🧺", """
+SELECT k.nombre_item AS servicio, k.nivel, COUNT(*) AS pedidos,
+       ROUND(AVG(o.costo_servicio_soles), 2) AS costo_promedio
+FROM operaciones o JOIN catalogo k ON o.id_catalogo = k.id_catalogo
+GROUP BY k.id_catalogo ORDER BY pedidos DESC LIMIT 5""")
+    sql_box("Ingresos por sede", "🏪", """
+SELECT s.nombre_sede, s.zona, COUNT(*) AS pedidos,
+       ROUND(SUM(o.costo_servicio_soles), 2) AS ingreso_soles,
+       ROUND(AVG(o.costo_servicio_soles), 2) AS ticket_promedio
+FROM operaciones o JOIN sedes s ON o.id_sede = s.id_sede
+WHERE o.costo_servicio_soles > 0
+GROUP BY s.id_sede HAVING COUNT(*) > 50 ORDER BY ingreso_soles DESC""")
+    sql_box("Costo promedio por nivel de servicio", "🏷️", """
+SELECT COALESCE(k.nivel, 'sin catálogo') AS nivel, COUNT(*) AS pedidos,
+       ROUND(AVG(o.costo_servicio_soles), 2) AS costo_promedio
+FROM operaciones o LEFT JOIN catalogo k ON o.id_catalogo = k.id_catalogo
+GROUP BY k.nivel ORDER BY costo_promedio DESC""")
+    sql_box("Pedidos por mes", "📅", """
+SELECT CASE WHEN fecha LIKE '____-__-__' THEN SUBSTR(fecha, 1, 7)
+            ELSE SUBSTR(fecha, -4) || '-' || printf('%02d', CAST(SUBSTR(fecha, INSTR(fecha, '/') + 1,
+                 INSTR(SUBSTR(fecha, INSTR(fecha, '/') + 1), '/') - 1) AS INTEGER)) END AS mes,
+       COUNT(*) AS pedidos, ROUND(SUM(costo_servicio_soles), 2) AS ingreso_soles
+FROM operaciones GROUP BY mes ORDER BY mes""", "Las fechas en formato D/M/AAAA se convierten a AAAA-MM dentro de la consulta.")
+    with st.expander("Consulta SQL libre", icon="⌨️"):
+        sql = st.text_area("Consulta SQL", "SELECT * FROM vw_analitica LIMIT 10", height=120)
+        try:
+            st.dataframe(pd.read_sql_query(sql, conn), width="stretch", hide_index=True)
+        except Exception as e:
+            st.error(f"Error en la consulta: {e}")
+        st.caption("Tablas: operaciones, clientes, catalogo, sedes y vista vw_analitica.")
 
 if sec == "Análisis exploratorio":
-    st.subheader("Vista general de los registros originales")
-    st.write(f"Dimensiones: {antes.shape[0]} filas × {antes.shape[1]} columnas")
-    st.dataframe(antes.head(10), width="stretch")
-    st.dataframe(antes[NUM].describe().round(2), width="stretch")
-    fig, ax = plt.subplots(1, 3, figsize=(16, 4.5))
-    ax[0].hist(antes[Y].dropna(), bins=30, color="#164B70", edgecolor="white"); ax[0].set_title("Distribución del costo (S/)")
-    ax[1].scatter(antes[X], antes[Y], alpha=.5, color="#E07B39"); ax[1].set_title("Peso (kg) vs costo (S/)")
-    p = antes.groupby("nombre_sede")[Y].mean().sort_values(); ax[2].barh(p.index, p.values, color="#2E8B57")
-    ax[2].set_title("Costo promedio por local (S/)"); plt.tight_layout(); st.pyplot(fig)
-    st.info(f"Correlación peso–costo antes de limpiar: **{antes[X].corr(antes[Y]):.3f}**. "
-            "Los registros originales contienen pesos imposibles (180 y 250 kg) que distorsionan la relación; ver Calidad de datos.")
+    with st.expander("Vista general de los registros", icon="🔎"):
+        st.write(f"{antes.shape[0]} registros × {antes.shape[1]} columnas")
+        st.dataframe(antes.head(10), width="stretch", hide_index=True)
+    with st.expander("Estadísticas descriptivas", icon="📐"):
+        st.dataframe(antes[NUM].describe().round(2), width="stretch")
+    with st.expander("Distribución del costo", icon="📊"):
+        fig, ax = grafico(); ax.hist(antes[Y].dropna(), bins=30, color="#164B70", edgecolor="white")
+        ax.set_xlabel("Costo del servicio (S/)"); ax.set_ylabel("Pedidos"); st.pyplot(fig)
+        st.caption("La mayoría de pedidos cuesta entre S/ 29 y S/ 64; hay un valor negativo (error de registro).")
+    with st.expander("Peso vs costo", icon="⚖️"):
+        fig, ax = grafico(); ax.scatter(antes[X], antes[Y], alpha=.5, color="#E07B39")
+        ax.set_xlabel("Peso (kg)"); ax.set_ylabel("Costo (S/)"); st.pyplot(fig)
+        st.caption(f"Correlación en registros originales: {antes[X].corr(antes[Y]):.3f}. Dos pesos imposibles (180 y 250 kg) distorsionan la relación.")
+    with st.expander("Costo promedio por local", icon="🏪"):
+        p = antes.groupby("nombre_sede")[Y].mean().sort_values()
+        fig, ax = grafico(); ax.barh(p.index, p.values, color="#2E8B57"); ax.set_xlabel("Costo promedio (S/)"); st.pyplot(fig)
+    with st.expander("Pedidos por zona y nivel", icon="🗺️"):
+        c1, c2 = st.columns(2)
+        c1.dataframe(antes["zona"].value_counts(dropna=False), width="stretch")
+        c2.dataframe(antes["nivel"].value_counts(dropna=False), width="stretch")
 
 if sec == "Calidad de datos":
-    st.subheader("Correcciones aplicadas")
-    st.dataframe(bitacora, width="stretch")
-    comp = pd.DataFrame({
-        "indicador": ["Filas", "Nulos totales", "Duplicados exactos", "Costo promedio (S/)", "Peso promedio (kg)", "Correlación X-Y"],
-        "antes": [len(antes), int(antes.isna().sum().sum()), int(antes.duplicated().sum()),
-                  round(antes[Y].mean(), 2), round(antes[X].mean(), 2), round(antes[X].corr(antes[Y]), 3)],
-        "después": [len(limpio), int(limpio.isna().sum().sum()), int(limpio.duplicated().sum()),
-                    round(limpio[Y].mean(), 2), round(limpio[X].mean(), 2), round(limpio[X].corr(limpio[Y]), 3)]})
-    st.subheader("Antes vs después"); st.dataframe(comp.astype(str), width="stretch")
-    st.success(f"Se conserva el {len(limpio)/len(antes):.1%} de los pedidos. Eliminar 3 valores imposibles "
-               "cambia por completo la correlación peso–costo.")
+    m = st.columns(3)
+    m[0].metric("Registros originales", len(antes)); m[1].metric("Registros válidos", len(limpio))
+    m[2].metric("Conservados", f"{len(limpio)/len(antes):.1%}")
+    txt = antes["fecha"].astype(str).str.strip()
+    cli = pd.read_sql_query("SELECT nombre_cliente FROM clientes", conn).nombre_cliente
+    fuera = antes[(antes[X] < 0.5) | (antes[X] > 40) | (antes[Y] <= 0)]
+    problemas = [
+        ("Pedidos duplicados", "♻️", int(antes.duplicated().sum()), "Se eliminaron: era el mismo pedido registrado dos veces.", antes[antes.duplicated(keep=False)]),
+        ("Fechas con formato distinto", "📅", int((~txt.str.match(r"^\d{4}-\d{2}-\d{2}$")).sum()), "Se unificaron a AAAA-MM-DD.", antes[~txt.str.match(r"^\d{4}-\d{2}-\d{2}$")][["id_operacion", "fecha"]]),
+        ("Espacios extra en nombres de cliente", "✂️", int((cli != cli.str.strip()).sum()), "Se recortaron los espacios.", None),
+        ("Servicios inexistentes en el catálogo", "🔗", int(antes["nivel"].isna().sum()), "Se conservan como 'sin catálogo'; el pedido es válido.", antes[antes["nivel"].isna()][["id_operacion", "id_catalogo", X, Y]]),
+        ("Valores imposibles", "🚫", len(fuera), "Se eliminaron: peso mayor a 40 kg o costo menor o igual a cero.", fuera[["id_operacion", X, Y]]),
+        ("Datos faltantes", "❓", int(antes[NUM].isna().sum().sum()), "Sin peso o sin costo: se descartan. Prendas y ocupación: se completan con la mediana.", antes[NUM].isna().sum().to_frame("vacíos")),
+    ]
+    for titulo, icono, n, accion, detalle in problemas:
+        with st.expander(f"{titulo} ({n})", icon=icono):
+            st.markdown(f"**Corrección:** {accion}")
+            if detalle is not None and len(detalle):
+                st.dataframe(detalle, width="stretch")
+    with st.expander("Registro de correcciones", icon="📝"):
+        st.dataframe(bitacora, width="stretch", hide_index=True)
+    with st.expander("Antes vs después", icon="🔄"):
+        comp = pd.DataFrame({
+            "Indicador": ["Registros", "Datos faltantes", "Duplicados", "Costo promedio (S/)", "Peso promedio (kg)", "Correlación peso-costo"],
+            "Antes": [len(antes), int(antes.isna().sum().sum()), int(antes.duplicated().sum()),
+                      round(antes[Y].mean(), 2), round(antes[X].mean(), 2), round(antes[X].corr(antes[Y]), 3)],
+            "Después": [len(limpio), int(limpio.isna().sum().sum()), int(limpio.duplicated().sum()),
+                        round(limpio[Y].mean(), 2), round(limpio[X].mean(), 2), round(limpio[X].corr(limpio[Y]), 3)]})
+        st.dataframe(comp.astype(str), width="stretch", hide_index=True)
 
 if sec == "Modelo de tarifa":
-    st.subheader("Tarifa estimada: costo del servicio según el peso")
-    st.latex(rf"\text{{costo}} = {R['b0']:.2f} + {R['b1']:.2f}\times\text{{peso\_kg}}")
-    m = st.columns(5)
-    m[0].metric("R² prueba", f"{R['r2']:.3f}"); m[1].metric("MSE", f"{R['mse']:.2f}")
-    m[2].metric("RMSE (S/)", f"{R['rmse']:.2f}"); m[3].metric("MAE (S/)", f"{R['mae']:.2f}")
-    m[4].metric("Train / test", f"{R['n_tr']} / {R['n_te']}")
-    fig, ax = plt.subplots(1, 2, figsize=(13, 4.5))
-    xs = np.linspace(limpio[X].min(), limpio[X].max(), 50)
-    ax[0].scatter(R["xte"], R["yte"], alpha=.6, label="Prueba (real)"); ax[0].plot(xs, R["b0"] + R["b1"] * xs, "r", label="Recta")
-    ax[0].set_xlabel("Peso (kg)"); ax[0].set_ylabel("Costo (S/)"); ax[0].legend(); ax[0].set_title("Recta de regresión")
-    ax[1].scatter(R["yte"], R["pred"], alpha=.6, color="#E07B39"); lim = [R["yte"].min(), R["yte"].max()]
-    ax[1].plot(lim, lim, "k--"); ax[1].set_xlabel("Real"); ax[1].set_ylabel("Predicho"); ax[1].set_title("Real vs predicho")
-    plt.tight_layout(); st.pyplot(fig)
-    st.markdown(f"""
-- **Pendiente:** cada kilo adicional se asocia con **S/ {R['b1']:.2f}** más de costo.
-- **R² = {R['r2']:.3f}:** el peso explica cerca del {R['r2']:.0%} de la variación del costo.
-- **RMSE = S/ {R['rmse']:.2f}:** sirve como tarifa de referencia, no para cotizar cada pedido.
+    st.latex(rf"\text{{costo}} = {R['b0']:.2f} + {R['b1']:.2f}\times\text{{peso (kg)}}")
+    with st.expander("Indicadores del modelo", icon="🎯"):
+        m = st.columns(4)
+        m[0].metric("R²", f"{R['r2']:.3f}"); m[1].metric("MSE", f"{R['mse']:.2f}")
+        m[2].metric("RMSE (S/)", f"{R['rmse']:.2f}"); m[3].metric("MAE (S/)", f"{R['mae']:.2f}")
+        st.caption(f"Entrenamiento: {R['n_tr']} pedidos · Evaluación: {R['n_te']} pedidos.")
+    with st.expander("Recta de tarifa", icon="📈"):
+        xs = np.linspace(limpio[X].min(), limpio[X].max(), 50)
+        fig, ax = grafico(); ax.scatter(R["xte"], R["yte"], alpha=.6, label="Pedidos reales")
+        ax.plot(xs, R["b0"] + R["b1"] * xs, "r", label="Tarifa estimada"); ax.legend()
+        ax.set_xlabel("Peso (kg)"); ax.set_ylabel("Costo (S/)"); st.pyplot(fig)
+    with st.expander("Real vs estimado", icon="🎯"):
+        fig, ax = grafico(); ax.scatter(R["yte"], R["pred"], alpha=.6, color="#E07B39")
+        lim = [R["yte"].min(), R["yte"].max()]; ax.plot(lim, lim, "k--")
+        ax.set_xlabel("Costo real (S/)"); ax.set_ylabel("Costo estimado (S/)"); st.pyplot(fig)
+    with st.expander("Interpretación", icon="💡"):
+        st.markdown(f"""
+- Cada kilo adicional se asocia con **S/ {R['b1']:.2f}** más de costo.
+- El peso explica cerca del **{R['r2']:.0%}** de la variación del costo.
+- Error típico de **± S/ {R['rmse']:.2f}**: útil como tarifa de referencia, no para cotizar cada pedido.
 - Es una asociación, no una relación causal; válido para pedidos de 1 a 25 kg.
 """)
 
 if sec == "Simulador de costo":
-    st.subheader("Simula el costo de un pedido")
     kg = st.number_input("Peso de la ropa (kg)", min_value=0.5, max_value=40.0, value=8.0, step=0.5)
     est = R["b0"] + R["b1"] * kg
     st.metric("Costo estimado", f"S/ {est:.2f}", help="Estimación del modelo de tarifa")
-    st.caption(f"Error típico ± S/ {R['rmse']:.2f}. Fuera de 1–25 kg la estimación no está validada.")
+    st.caption(f"Margen típico ± S/ {R['rmse']:.2f}.")
     if kg > 25:
-        st.warning("Este peso está fuera del rango observado en los datos.")
+        st.warning("Este peso está fuera del rango habitual de pedidos (1 a 25 kg).")
+    with st.expander("Tabla de tarifas de referencia", icon="🧾"):
+        tab = pd.DataFrame({"Peso (kg)": [2, 4, 6, 8, 10, 15, 20]})
+        tab["Costo estimado (S/)"] = (R["b0"] + R["b1"] * tab["Peso (kg)"]).round(2)
+        st.dataframe(tab, width="stretch", hide_index=True)
 
 if sec == "Segmentación de pedidos":
-    st.subheader("Tipos de pedido (K-Means)")
     Z = StandardScaler().fit_transform(limpio[NUM])
-    pr = pd.DataFrame([{"k": k, "inercia": KMeans(k, n_init=10, random_state=SEMILLA).fit(Z).inertia_,
-                        "silueta": silhouette_score(Z, KMeans(k, n_init=10, random_state=SEMILLA).fit_predict(Z))}
-                       for k in range(2, 8)]).round(3)
-    fig, ax = plt.subplots(1, 2, figsize=(12, 3.6))
-    ax[0].plot(pr.k, pr.inercia, "o-"); ax[0].set_title("Método del codo")
-    ax[1].plot(pr.k, pr.silueta, "o-", color="green"); ax[1].set_title("Silueta"); st.pyplot(fig)
+    with st.expander("Número de grupos", icon="🔢"):
+        pr = []
+        for kk in range(2, 8):
+            km = KMeans(kk, n_init=10, random_state=SEMILLA).fit(Z)
+            pr.append({"k": kk, "inercia": km.inertia_, "silueta": silhouette_score(Z, km.labels_)})
+        pr = pd.DataFrame(pr).round(3)
+        fig, ax = plt.subplots(1, 2, figsize=(11, 3.5))
+        ax[0].plot(pr.k, pr.inercia, "o-"); ax[0].set_title("Método del codo")
+        ax[1].plot(pr.k, pr.silueta, "o-", color="green"); ax[1].set_title("Silueta"); st.pyplot(fig)
     k = st.slider("Número de grupos (k)", 2, 7, 3)
     seg = limpio[NUM].copy(); seg["segmento"] = KMeans(k, n_init=10, random_state=SEMILLA).fit_predict(Z)
-    perfil = seg.groupby("segmento")[NUM].mean().round(2)
-    perfil["pedidos"] = seg.segmento.value_counts().sort_index(); perfil["%"] = (perfil.pedidos / len(seg) * 100).round(1)
-    st.dataframe(perfil, width="stretch")
-    fig, ax = plt.subplots(figsize=(7, 4.2))
-    for s, g in seg.groupby("segmento"):
-        ax.scatter(g[X], g[Y], alpha=.6, label=f"Segmento {s}")
-    ax.set_xlabel("Peso (kg)"); ax.set_ylabel("Costo (S/)"); ax.legend(); st.pyplot(fig)
-    st.info("Con k = 3: pedido estándar en hora tranquila, pedido estándar en hora punta y pedido grande con "
-            "prendas delicadas. La silueta (~0,24) indica grupos superpuestos: son orientativos.")
+    with st.expander("Perfil de cada grupo", icon="🧩"):
+        perfil = seg.groupby("segmento")[NUM].mean().round(2)
+        perfil["pedidos"] = seg.segmento.value_counts().sort_index(); perfil["%"] = (perfil.pedidos / len(seg) * 100).round(1)
+        st.dataframe(perfil, width="stretch")
+    with st.expander("Mapa de grupos", icon="🗺️"):
+        fig, ax = grafico()
+        for s_, g in seg.groupby("segmento"):
+            ax.scatter(g[X], g[Y], alpha=.6, label=f"Grupo {s_}")
+        ax.set_xlabel("Peso (kg)"); ax.set_ylabel("Costo (S/)"); ax.legend(); st.pyplot(fig)
+    with st.expander("Acciones sugeridas", icon="✅"):
+        st.markdown("""
+Con 3 grupos:
+- **Pedido estándar en hora tranquila:** promociones para atraer más pedidos en estos horarios.
+- **Pedido estándar en hora punta:** descuento por dejar el pedido en horas de baja ocupación.
+- **Pedido grande con prendas delicadas:** atención prioritaria y personal especializado.
+
+Los grupos se superponen (silueta ≈ 0,24): son una orientación, no categorías exactas.
+""")
 
 st.markdown("<hr style='margin-top:40px'><p style='text-align:center;color:#999;font-size:0.75em'>Datos sintéticos con fines de demostración.</p>", unsafe_allow_html=True)

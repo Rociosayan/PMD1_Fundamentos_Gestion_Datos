@@ -1,10 +1,30 @@
 # Genera 16_Lavanderia_PMD1.xlsx con el mismo formato de los 15 casos sinteticos
+import os
 import numpy as np, pandas as pd, openpyxl
 from openpyxl.styles import Font, PatternFill
 rng=np.random.default_rng(20261022)
+# Nombres ficticios de clientes (combinaciones deterministas: no consumen la semilla)
+_nom=["Ana","Luis","María","Jorge","Rosa","Carlos","Lucía","Miguel","Carmen","José","Patricia","Diego",
+      "Milagros","Renzo","Gabriela","Hugo","Fiorella","César","Paola","Iván","Sofía","Martín"]
+_ape=["Quispe","Flores","Huamán","Rojas","Mendoza","Vargas","Castillo","Torres","Chávez","Ramírez",
+      "Gutiérrez","Salazar","Paredes","Ccori","Espinoza","Delgado","Aguilar","Cárdenas","Valdivia","Sayán"]
+NOMBRES_CLIENTES=[]
+for j in range(1000):
+    cand=f"{_nom[j%22]} {_ape[(j*3)%20]} {_ape[(j*7+5)%20]}"
+    if cand not in NOMBRES_CLIENTES and _ape[(j*3)%20]!=_ape[(j*7+5)%20]:
+        NOMBRES_CLIENTES.append(cand)
+    if len(NOMBRES_CLIENTES)==110: break
+assert len(set(NOMBRES_CLIENTES))==110
+# Nombres reales de servicios: un nombre distinto por item, segun su tipo
+SERVICIOS={"lavado por kilo":["Lavado por kilo estándar","Lavado por kilo express","Lavado por kilo ropa de cama","Lavado por kilo ropa deportiva"],
+ "lavado al seco":["Lavado al seco de terno","Lavado al seco de vestido","Lavado al seco de abrigo","Lavado al seco de casaca de cuero"],
+ "planchado":["Planchado de camisas","Planchado de pantalones","Planchado de manteles","Planchado de cortinas"],
+ "edredones":["Edredón individual","Edredón 2 plazas","Edredón king"],
+ "zapatillas":["Limpieza de zapatillas de lona","Limpieza de zapatillas de cuero","Limpieza de zapatillas deportivas"]}
+SEDES=["LavaYa Cercado de Lima","LavaYa Los Olivos","LavaYa Surco","LavaYa La Molina","LavaYa Trujillo Centro"]
 ciudades=["Lima","Arequipa","Trujillo","Piura","Cusco","Huancayo"]
 cli=pd.DataFrame({"id_cliente":[f"C16{i:03d}" for i in range(1,111)],
- "nombre_cliente":[f"Cliente {i}" for i in range(1,111)],
+ "nombre_cliente":NOMBRES_CLIENTES,
  "ciudad":rng.choice(ciudades,110,p=[.45,.15,.12,.1,.1,.08]),
  "antiguedad_meses":rng.integers(1,37,110)})
 for i in rng.choice(110,6,replace=False): cli.loc[i,"nombre_cliente"]="  "+cli.loc[i,"nombre_cliente"]+" "
@@ -12,9 +32,9 @@ tipos=[("lavado por kilo","basico",4.5),("lavado al seco","especial",9.0),("plan
 cat=[]
 for i in range(1,19):
     t,n,p=tipos[(i-1)%5]
-    cat.append((f"P16{i:03d}",f"{t} {i}",n,round(p*rng.uniform(.85,1.2),2)))
+    cat.append((f"P16{i:03d}",SERVICIOS[t][(i-1)//5],n,round(p*rng.uniform(.85,1.2),2)))
 cat=pd.DataFrame(cat,columns=["id_catalogo","nombre_item","nivel","precio_referencia_soles"])
-sed=pd.DataFrame({"id_sede":[f"S16{i}" for i in range(1,6)],"nombre_sede":[f"Lavanderia sede {i}" for i in range(1,6)],"zona":["Centro","Norte","Sur","Este","Norte"]})
+sed=pd.DataFrame({"id_sede":[f"S16{i}" for i in range(1,6)],"nombre_sede":SEDES,"zona":["Centro","Norte","Sur","Este","Norte"]})
 N=470; rows=[]
 for k in range(N):
     c=rng.integers(0,18); t=cat.iloc[c]
@@ -56,4 +76,4 @@ for name,df in [("Operaciones",op),("Clientes",cli),("Catalogo",cat),("Sedes",se
     for r in df.itertuples(index=False): w.append([None if (isinstance(v,float) and np.isnan(v)) else (v.item() if hasattr(v,"item") else v) for v in r])
     for c in w[1]: c.font=hdr; c.fill=fill
     for col in "ABCDEFGHI": w.column_dimensions[col].width=21
-wb.save("16_Lavanderia_PMD1.xlsx"); print(op.shape, op.isna().sum().to_dict())
+wb.save(os.path.join(os.path.dirname(os.path.abspath(__file__)),"16_Lavanderia_PMD1.xlsx")); print(op.shape, op.isna().sum().to_dict())

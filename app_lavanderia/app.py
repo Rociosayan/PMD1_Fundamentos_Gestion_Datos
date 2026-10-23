@@ -58,8 +58,10 @@ def limpiar(antes):
     limpio["fecha"] = pd.to_datetime(txt, format="%Y-%m-%d", errors="coerce").fillna(
         pd.to_datetime(txt, format="%d/%m/%Y", errors="coerce"))
     reg(f"Unificar fechas (sin convertir: {limpio['fecha'].isna().sum()})", "Formatos AAAA-MM-DD y D/M/AAAA")
-    for c in ["ciudad", "nivel", "nombre_sede", "zona", "nombre_item"]:
+    for c in ["ciudad", "nivel", "zona"]:
         limpio[c] = limpio[c].astype("string").str.strip().str.lower()
+    for c in ["nombre_sede", "nombre_item"]:
+        limpio[c] = limpio[c].astype("string").str.strip()
     reg("Quitar espacios y unificar minúsculas", "Evita categorías duplicadas")
     limpio[["nivel", "nombre_item"]] = limpio[["nivel", "nombre_item"]].fillna("sin catalogo")
     limpio["precio_referencia_soles"] = limpio["precio_referencia_soles"].fillna(limpio["precio_referencia_soles"].median())

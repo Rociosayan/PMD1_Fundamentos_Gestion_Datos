@@ -59,9 +59,3 @@ df
 Las bases de estudiantes no traen el modelo normalizado resuelto, excepto los casos 17 de panaderia y 18 de minimarket que se conservan como material ya trabajado en clase/laboratorio. En los demas casos, el trabajo consiste en partir de la tabla original, reconocer repeticion de datos y construir las tablas normalizadas.
 
 El `schema.sql` de cada caso muestra solamente la estructura de la tabla original. Las claves primarias, claves foraneas y tablas finales deben ser propuestas por el estudiante.
-
-## Modelos de mineria adicionales
-
-Tambien se incluye una carpeta de modelos aplicados:
-
-- `modelos_mineria/02_operaciones_paradas_maquina`: notebook y datos sinteticos para prediccion de paradas no programadas de maquina en operacion minera.

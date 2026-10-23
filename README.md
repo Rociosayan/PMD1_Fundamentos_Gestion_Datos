@@ -33,7 +33,6 @@ La idea didactica es que el estudiante:
 | 12 | Gimnasio Socios | `gimnasio_socios.db` | `asistencias_pagos_original` | `pago_mensual` | `asistencias_mes` |
 | 13 | Panaderia Ventas | `panaderia_ventas.db` | `ventas_original` | `ingreso_venta` | `cantidad_unidades` |
 | 14 | Taller Mecanico Ordenes | `taller_mecanico_ordenes.db` | `ordenes_original` | `costo_reparacion` | `horas_trabajo` |
-| 15 | Industria Paradas Procesos | `industria_paradas_procesos.db` | `paradas_original` | `costo_parada_soles` | `duracion_parada_min` |
 | 16 | Abarrotes Ventas Inventario | `abarrotes_ventas_inventario.db` | `ventas_original` | `monto_venta_soles` | `cantidad_unidades` |
 | 17 | Panaderia Normalizacion | `panaderia_normalizacion.db` | `ventas_original` + tablas normalizadas | `total_venta` | `cantidad` |
 | 18 | Minimarket Normalizacion | `minimarket_normalizacion.db` | `ventas_original` + tablas normalizadas | `total_venta` | `cantidad` |

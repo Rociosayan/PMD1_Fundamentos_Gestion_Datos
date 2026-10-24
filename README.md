@@ -1,61 +1,28 @@
-# PMD1 - Bases desnormalizadas para Fundamentos de Gestion de Datos
+# PMD1 · Fundamentos de Gestión de Datos
+**TECSUP · 2026-II**
 
+Repositorio de casos del Proyecto PMD1. Cada caso tiene su carpeta en `casos_PMD1/` con el libro de Excel y un cuaderno de inicio en Google Colab que carga los datos directamente desde este repositorio.
 
-Este paquete contiene casos cotidianos para el PMD1. En general, cada caso incluye una base SQLite con una tabla grande desnormalizada, un CSV equivalente, un `schema.sql` minimo y una guia breve.
+## Casos
+| N.º | Caso | Datos | Cuaderno de inicio |
+|---|---|---|---|
+| 01 | Delivery | [Excel](casos_PMD1/01_Delivery/01_Delivery_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/01_Delivery/PMD1_Caso_01_Delivery_Inicio.ipynb) |
+| 02 | Restaurante | [Excel](casos_PMD1/02_Restaurante/02_Restaurante_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/02_Restaurante/PMD1_Caso_02_Restaurante_Inicio.ipynb) |
+| 03 | Farmacia | [Excel](casos_PMD1/03_Farmacia/03_Farmacia_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/03_Farmacia/PMD1_Caso_03_Farmacia_Inicio.ipynb) |
+| 04 | Hotel | [Excel](casos_PMD1/04_Hotel/04_Hotel_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/04_Hotel/PMD1_Caso_04_Hotel_Inicio.ipynb) |
+| 05 | Agro | [Excel](casos_PMD1/05_Agro/05_Agro_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/05_Agro/PMD1_Caso_05_Agro_Inicio.ipynb) |
+| 06 | Energía | [Excel](casos_PMD1/06_Energia/06_Energia_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/06_Energia/PMD1_Caso_06_Energia_Inicio.ipynb) |
+| 07 | Taller | [Excel](casos_PMD1/07_Taller/07_Taller_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/07_Taller/PMD1_Caso_07_Taller_Inicio.ipynb) |
+| 08 | Ferretería | [Excel](casos_PMD1/08_Ferreteria/08_Ferreteria_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/08_Ferreteria/PMD1_Caso_08_Ferreteria_Inicio.ipynb) |
+| 09 | Clínica | [Excel](casos_PMD1/09_Clinica/09_Clinica_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/09_Clinica/PMD1_Caso_09_Clinica_Inicio.ipynb) |
+| 10 | Logística | [Excel](casos_PMD1/10_Logistica/10_Logistica_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/10_Logistica/PMD1_Caso_10_Logistica_Inicio.ipynb) |
+| 11 | Retail | [Excel](casos_PMD1/11_Retail/11_Retail_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/11_Retail/PMD1_Caso_11_Retail_Inicio.ipynb) |
+| 12 | Veterinaria | [Excel](casos_PMD1/12_Veterinaria/12_Veterinaria_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/12_Veterinaria/PMD1_Caso_12_Veterinaria_Inicio.ipynb) |
+| 13 | Industria | [Excel](casos_PMD1/13_Industria/13_Industria_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/13_Industria/PMD1_Caso_13_Industria_Inicio.ipynb) |
+| 14 | Educación | [Excel](casos_PMD1/14_Educacion/14_Educacion_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/14_Educacion/PMD1_Caso_14_Educacion_Inicio.ipynb) |
+| 15 | Soporte TI | [Excel](casos_PMD1/15_Soporte_TI/15_Soporte_TI_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/15_Soporte_TI/PMD1_Caso_15_Soporte_TI_Inicio.ipynb) |
+| 16 | Lavandería | [Excel](casos_PMD1/16_Lavanderia/16_Lavanderia_PMD1.xlsx) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/PMD1_Fundamentos_Gestion_Datos/blob/main/casos_PMD1/16_Lavanderia/PMD1_Caso_16_Lavanderia_Inicio.ipynb) |
 
-Excepcion: los casos 17 de panaderia y 18 de minimarket se mantienen con `ventas_original` y tablas normalizadas porque ya fueron usados en clase/laboratorio con esa estructura.
-
-La idea didactica es que el estudiante:
-
-1. Descargue la base desde GitHub.
-2. Se conecte a SQLite desde Colab.
-3. Observe una tabla con informacion repetida.
-4. Identifique entidades, dependencias y posibles claves.
-5. Normalice creando sus propias tablas con PK y FK.
-6. Use `JOIN` para reconstruir la informacion despues de normalizar.
-7. Limpie datos con Pandas y, si corresponde, entrene una regresion lineal simple.
-
-## Casos disponibles
-
-| N | Caso | Base SQLite | Tabla original | Variable objetivo | Predictora sugerida |
-|---|---|---|---|---|---|
-| 01 | Retailmax Ventas | `retailmax_ventas.db` | `ventas_original` | `monto_total` | `cantidad_productos` |
-| 02 | Restaurante Pedidos | `restaurante_pedidos.db` | `pedidos_original` | `total_pedido` | `tiempo_preparacion_min` |
-| 03 | Farmacia Ventas | `farmacia_ventas.db` | `ventas_original` | `monto_boleta` | `cantidad_medicamentos` |
-| 04 | Ferreteria Ventas | `ferreteria_ventas.db` | `ventas_original` | `monto_compra` | `cantidad_articulos` |
-| 05 | Clinica Atenciones | `clinica_atenciones.db` | `atenciones_original` | `costo_atencion` | `duracion_consulta_min` |
-| 06 | Veterinaria Atenciones | `veterinaria_atenciones.db` | `atenciones_original` | `costo_servicio` | `peso_mascota_kg` |
-| 07 | Hotel Reservas | `hotel_reservas.db` | `reservas_original` | `monto_reserva` | `noches_estadia` |
-| 08 | Food Delivery Entregas | `food_delivery_entregas.db` | `entregas_original` | `tiempo_entrega_min` | `distancia_km` |
-| 09 | Logiexpress Envios | `logiexpress_envios.db` | `envios_original` | `costo_envio` | `peso_paquete_kg` |
-| 10 | Agrodata Cultivos | `agrodata_cultivos.db` | `produccion_original` | `rendimiento_kg` | `hectareas` |
-| 11 | Energyhome Consumo | `energyhome_consumo.db` | `consumos_original` | `consumo_kwh` | `numero_habitantes` |
-| 12 | Gimnasio Socios | `gimnasio_socios.db` | `asistencias_pagos_original` | `pago_mensual` | `asistencias_mes` |
-| 13 | Panaderia Ventas | `panaderia_ventas.db` | `ventas_original` | `ingreso_venta` | `cantidad_unidades` |
-| 14 | Taller Mecanico Ordenes | `taller_mecanico_ordenes.db` | `ordenes_original` | `costo_reparacion` | `horas_trabajo` |
-| 16 | Abarrotes Ventas Inventario | `abarrotes_ventas_inventario.db` | `ventas_original` | `monto_venta_soles` | `cantidad_unidades` |
-| 17 | Panaderia Normalizacion | `panaderia_normalizacion.db` | `ventas_original` + tablas normalizadas | `total_venta` | `cantidad` |
-| 18 | Minimarket Normalizacion | `minimarket_normalizacion.db` | `ventas_original` + tablas normalizadas | `total_venta` | `cantidad` |
-
-## Ejemplo para descargar desde GitHub en Colab
-
-```python
-import requests
-import sqlite3
-import pandas as pd
-
-url = "https://raw.githubusercontent.com/USUARIO/REPO/main/casos/01_retailmax_ventas/retailmax_ventas.db"
-r = requests.get(url)
-open("retailmax_ventas.db", "wb").write(r.content)
-
-conn = sqlite3.connect("retailmax_ventas.db")
-
-df = pd.read_sql_query("SELECT * FROM ventas_original LIMIT 5", conn)
-df
-```
-
-## Nota sobre normalizacion
-
-Las bases de estudiantes no traen el modelo normalizado resuelto, excepto los casos 17 de panaderia y 18 de minimarket que se conservan como material ya trabajado en clase/laboratorio. En los demas casos, el trabajo consiste en partir de la tabla original, reconocer repeticion de datos y construir las tablas normalizadas.
-
-El `schema.sql` de cada caso muestra solamente la estructura de la tabla original. Las claves primarias, claves foraneas y tablas finales deben ser propuestas por el estudiante.
+## Aplicación de referencia
+Panel de análisis del caso Lavandería (código en `app_lavanderia/`):
+https://pmd1fundamentosgestiondatos-rhysyuamhfqfvdylcoqnpy.streamlit.app/

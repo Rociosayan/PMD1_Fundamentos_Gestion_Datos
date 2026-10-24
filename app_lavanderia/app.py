@@ -19,9 +19,9 @@ st.set_page_config(page_title="LavaYa · Panel de Análisis de Pedidos", page_ic
 SEMILLA = 42
 X, Y = "peso_ropa_kg", "costo_servicio_soles"
 NUM = ["peso_ropa_kg", "prendas_delicadas", "ocupacion_local_pct", "costo_servicio_soles"]
-RUTA = Path(__file__).resolve().parent.parent / "PMD1_15_Casos_Sinteticos" / "16_Lavanderia_PMD1.xlsx"
+RUTA = Path(__file__).resolve().parent.parent / "casos_PMD1" / "16_Lavanderia" / "16_Lavanderia_PMD1.xlsx"
 URL = ("https://raw.githubusercontent.com/Rociosayan/PMD1_Fundamentos_Gestion_Datos/main/"
-       "PMD1_15_Casos_Sinteticos/16_Lavanderia_PMD1.xlsx")
+       "casos_PMD1/16_Lavanderia/16_Lavanderia_PMD1.xlsx")
 
 # ---------- 1. Carga: ruta del repo y, si falta, la URL raw de GitHub ----------
 @st.cache_data

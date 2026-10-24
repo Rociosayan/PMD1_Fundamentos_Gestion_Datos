@@ -1,10 +1,10 @@
 # LavaYa · Panel de Análisis de Pedidos (Streamlit)
 
-Versión web del notebook `notebook_ejemplo/PMD1_FGD_Grupo00_Lavanderia_EJEMPLO.ipynb`.
+Panel web del caso 16 Lavandería.
 Módulos (pantalla de inicio con tarjetas): Resumen ejecutivo · Base de datos · Análisis exploratorio · Calidad de datos ·
 Modelo de tarifa · Simulador de costo · Segmentación de pedidos (K-Means).
 
-Datos: `PMD1_15_Casos_Sinteticos/16_Lavanderia_PMD1.xlsx` (ruta relativa del repo); si no existe, se descarga de la URL raw de GitHub.
+Datos: `casos_PMD1/16_Lavanderia/16_Lavanderia_PMD1.xlsx` (ruta relativa del repo); si no existe, se descarga de la URL raw de GitHub.
 
 ## Ejecutar en local
 ```
